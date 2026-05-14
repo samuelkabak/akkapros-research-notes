@@ -1,0 +1,45 @@
+Based on the sources, the consistency of the data is found in the **proportional scaling (ratios)** between segments rather than their absolute millisecond durations, which vary by experimental context (e.g., isolation vs. connected speech).
+
+The following tables provide the specific ratios extracted from the research to allow for consistent application across different studies.
+
+### **1. Consonant Geminate-to-Singleton Ratios**
+Across languages, geminates are consistently found to be significantly longer than their singleton counterparts, typically following a **1.5x to 3x** scaling factor.
+
+| Consonant Class | Ratio (Geminate : Singleton) | Source |
+| :--- | :--- | :--- |
+| **General Obstruents (Stops)** | **1.5 : 1** to **3.0 : 1** | Billington |
+| **General Glides (Cross-linguistic)** | **1.4 : 1** to **2.6 : 1** | Billington |
+| **Lopit Glides (Total Mean)** | **1.77 : 1** | Billington |
+| **Lopit Labiovelar Glide (/w/)** | **1.71 : 1** | Billington |
+| **Lopit Palatal Glide (/j/)** | **1.82 : 1** | Billington |
+| **Estonian Stop (Q3 : Q2 baseline)** | **~1.46 : 1** (221ms / 151ms) | Hayes |
+| **Estonian Fricative (Q2 : Q1 baseline)** | **~1.34 : 1** (131ms / 98ms) | Hayes |
+
+### **2. Vowel Duration Ratios (Conditioned by Context)**
+Vowel durations are primarily scaled based on the **voicing** of the following consonant or the **moraic weight** of the syllable.
+
+| Vowel Type / Context | Ratio | Source |
+| :--- | :--- | :--- |
+| **Bimoraic ($\mu\mu$) : Monomoraic ($\mu$)** | **1.9 : 1** to **2.2 : 1** | Broselow et al. |
+| **Mora-Sharing ($\mu$+shared) : Monomoraic ($\mu$)** | **1.4 : 1** to **1.6 : 1** | Broselow et al. |
+| **Pre-Voiced : Pre-Voiceless (English)** | **1.4 : 1** | Tauberer |
+| **Pre-Voiceless : Pre-Voiced (General)** | **0.67 : 1** (2/3 ratio) | Naeser |
+| **Pre-Voiced Fricative : Pre-Voiced Stop** | **1.4 : 1** (291ms / 205ms) | Naeser |
+| **Vowel after Voiced : Vowel after Voiceless** | **1.1 : 1** (10/9 ratio) | Naeser |
+
+### **3. Consonant Position and Manner Ratios**
+These ratios explain the "divergence" between studies by showing how position and manner inherently shift durations.
+
+| Comparison | Ratio / Difference | Source |
+| :--- | :--- | :--- |
+| **Voiceless Fricative : Voiceless Stop** | **+29 ms** (Inherent Manner Effect) | Morley |
+| **Voiced Fricative : Voiced Stop** | **+15 ms** (Inherent Manner Effect) | Morley |
+| **Voiced Stop Coda : Voiced Stop Onset** | **1.62 : 1** (88.4ms / 54.5ms) | Broselow et al. |
+| **Word-Final Coda : Word-Initial Onset** | **~1.06 : 1** (81ms / 76ms) | Gibson |
+| **Liquid in Cluster : Liquid in Onset** | **0.74 : 1** (66ms / 89ms) | Gibson |
+
+### **How to use this data consistently**
+To resolve the conflict between the **131 ms** (Estonian fricative) and **163 ms** (Lopit glide):
+1.  **Identify the Baseline:** If your target "normal" singleton fricative is **100 ms**, apply the **1.34x to 1.66x** ratio to reach a geminate value of **134–166 ms**.
+2.  **Adjust for Context:** The 163 ms glide was recorded in **isolation**. Segments in isolation are inherently longer. If applying to connected speech, reduce the baseline before applying the **1.77x** ratio.
+3.  **Use the 2/3 Rule for Vowels:** Regardless of the absolute duration of a vowel before a voiced consonant, the vowel before its voiceless counterpart should consistently be approximately **67%** of that duration.

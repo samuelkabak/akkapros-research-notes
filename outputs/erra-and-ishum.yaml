@@ -1,0 +1,130 @@
+common:
+  run:
+    prefix: "erra_construct"
+    outdir: "demo/akkapros/lexlinks/results"
+    quiet: false
+    no_console: false
+    log: null
+    log_append: false
+
+atfparse:
+  process:
+    remove_hyphens: false
+    preserve_case: false
+    preserve_h: false
+  run:
+    strict: false
+    append: true
+
+syllabify:
+  process:
+    extra_vowels: ""
+    extra_consonants: ""
+    extra_short_punct_chars: ""
+    extra_long_punct_chars: ""
+    extra_short_punct_pattern: []
+    extra_long_punct_pattern: []
+    number_format: ""
+    merge_hyphen: false
+    merge_lines: false
+  run:
+    title: null
+
+prosody:
+  process:
+    style: "lob"
+    mora_mode: "bi"
+    relax_last: false
+
+phonetize:
+  process:
+    allow_experimental: false
+    realization:
+      limit_emphatic_coloring: false
+      replace_proto_semitic: false
+      ultraheavy_hiatus_enable: false
+    intonation:
+      f0: 120
+      stress: "H2"
+      question: "H3"
+      statement: "L2"
+      exclamation: "H4"
+      continuation: "H1"
+    timing_model:
+      geminate_policy: "corrective"
+      accentuation_distribution_policy: "80_20"
+      enable_resync_pause: false
+      durations:
+        scale: 1.0
+        segmental_ceiling: 310
+        segmental_floor: 20
+        cvc_reference: 300
+        drift_tolerance: 19
+        basic_accentuation_lengthening: 50
+        consonants:
+          closure:
+            onset: 89
+            coda: 87
+            coda_final: 87
+            geminate: 175
+            geminate_coda_ratio: 0.6
+            special_realization:
+              hiatus: 35
+            perception_limits:
+              geminate_min: 145
+              gemination_max: 260
+          fricative:
+            onset: 115
+            coda: 112
+            coda_final: 112
+            geminate: 210
+            geminate_coda_ratio: 0.6
+            perception_limits:
+              geminate_min: 163
+              gemination_max: 290
+          sonorant:
+            onset: 105
+            coda: 100
+            coda_final: 100
+            geminate: 190
+            geminate_coda_ratio: 0.6
+            special_realization:
+              vowel_transition: 25
+            perception_limits:
+              geminate_min: 148
+              gemination_max: 275
+        vowels:
+          short: 110
+          short_final: 110
+          long: 160
+          long_final: 160
+          very_long: 260
+          perception_limits:
+            short_min: 60
+            long_min: 153
+            very_long_min: 233
+            elongation_max: 280
+        pauses:
+          resync:
+            min: 100
+            max: 200
+          short:
+            min: 520
+            max: 680
+          long:
+            min: 1100
+            max: 1780
+
+metrics:
+  run:
+    table: true
+    json: true
+
+print:
+  run:
+    acute: true
+    bold: true
+    ipa: false
+    ipa_ultraheavy_hiatus: false
+    xar: true
+    print_merger: false

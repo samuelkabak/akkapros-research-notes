@@ -1,0 +1,903 @@
+utterance_id	batch	pattern	word_spaced	word_script	diphone_count	diphones
+1	single	2	z u w i X ? a H	_z u w i X ? a H_	9	_-z z-u u-w w-i i-X X-? ?-a a-H H-_
+2	single	2	g i t i m q e. s.	_g i t i m q e. s._	9	_-g g-i i-t t-i i-m m-q q-e. e.-s. s.-_
+3	single	2	s. i. m u m S e k	_s. i. m u m S e k_	9	_-s. s.-i. i.-m m-u u-m m-S S-e e-k k-_
+4	single	2	b u t e l n e l	_b u t e l n e l_	9	_-b b-u u-t t-e e-l l-n n-e e-l l-_
+5	single	2	S a x i l g a S	_S a x i l g a S_	9	_-S S-a a-x x-i i-l l-g g-a a-S S-_
+6	single	2	l a s i r s e. t.	_l a s i r s e. t._	9	_-l l-a a-s s-i i-r r-s s-e. e.-t. t.-_
+7	single	2	w i. s. u. m r a ?	_w i. s. u. m r a ?_	9	_-w w-i. i.-s. s.-u. u.-m m-r r-a a-? ?-_
+8	single	2	p i. s. a. s. d i p	_p i. s. a. s. d i p_	9	_-p p-i. i.-s. s.-a. a.-s. s.-d d-i i-p p-_
+9	single	2	H e s e s z a d	_H e s e s z a d_	9	_-H H-e e-s s-e e-s s-z z-a a-d d-_
+10	single	2	k a S i. t. S i x	_k a S i. t. S i x_	9	_-k k-a a-S S-i. i.-t. t.-S S-i i-x x-_
+11	single	2	t i d e x X a z	_t i d e x X a z_	9	_-t t-i i-d d-e e-x x-X X-a a-z z-_
+12	single	2	? i j u n g e X	_? i j u n g e X_	9	_-? ?-i i-j j-u u-n n-g g-e e-X X-_
+13	single	2	s e ? u g k u j	_s e ? u g k u j_	9	_-s s-e e-? ?-u u-g g-k k-u u-j j-_
+14	single	2	j i s a. s. q i. w	_j i s a. s. q i. w_	9	_-j j-i i-s s-a. a.-s. s.-q q-i. i.-w w-_
+15	single	2	n u z i. q s u. s.	_n u z i. q s u. s._	9	_-n n-u u-z z-i. i.-q q-s s-u. u.-s. s.-_
+16	single	2	t. i. t. u. k k i q	_t. i. t. u. k k i q_	9	_-t. t.-i. i.-t. t.-u. u.-k k-k k-i i-q q-_
+17	single	2	r e l e p w a n	_r e l e p w a n_	9	_-r r-e e-l l-e e-p p-w w-a a-n n-_
+18	single	2	z u. q u. t X u H	_z u. q u. t X u H_	9	_-z z-u. u.-q q-u. u.-t t-X X-u u-H H-_
+19	single	2	w u. t. e. g s. i. z	_w u. t. e. g s. i. z_	9	_-w w-u. u.-t. t.-e. e.-g g-s. s.-i. i.-z z-_
+20	single	2	X e ? u. s. S e g	_X e ? u. s. S e g_	9	_-X X-e e-? ?-u. u.-s. s.-S S-e e-g g-_
+21	single	2	p i k u t w e m	_p i k u t w e m_	9	_-p p-i i-k k-u u-t t-w w-e e-m m-_
+22	single	2	d u l u r b a. q	_d u l u r b a. q_	9	_-d d-u u-l l-u u-r r-b b-a. a.-q q-_
+23	single	2	j e d a w X i w	_j e d a w X i w_	9	_-j j-e e-d d-a a-w w-X X-i i-w w-_
+24	single	2	j i z e w p u S	_j i z e w p u S_	9	_-j j-i i-z z-e e-w w-p p-u u-S S-_
+25	single	2	x a b a k g a ?	_x a b a k g a ?_	9	_-x x-a a-b b-a a-k k-g g-a a-? ?-_
+26	single	2	x u w e S s u n	_x u w e S s u n_	9	_-x x-u u-w w-e e-S S-s s-u u-n n-_
+27	single	2	g i. q u. x S u b	_g i. q u. x S u b_	9	_-g g-i. i.-q q-u. u.-x x-S S-u u-b b-_
+28	single	2	p a r u ? g e r	_p a r u ? g e r_	9	_-p p-a a-r r-u u-? ?-g g-e e-r r-_
+29	single	1	u s. s. a. d H i	_u s. s. a. d H i_	8	_-u u-s. s.-s. s.-a. a.-d d-H H-i i-_
+30	single	2	m a t a s X u H	_m a t a s X u H_	9	_-m m-a a-t t-a a-s s-X X-u u-H H-_
+31	single	2	n a g i ? ? i d	_n a g i ? ? i d_	9	_-n n-a a-g g-i i-? ?-? ?-i i-d d-_
+32	single	2	t a z i b t u k	_t a z i b t u k_	9	_-t t-a a-z z-i i-b b-t t-u u-k k-_
+33	single	1	e H p e t q u.	_e H p e t q u._	8	_-e e-H H-p p-e e-t t-q q-u. u.-_
+34	single	2	H u. q a. n H e. q	_H u. q a. n H e. q_	9	_-H H-u. u.-q q-a. a.-n n-H H-e. e.-q q-_
+35	single	2	k e X e t s a m	_k e X e t s a m_	9	_-k k-e e-X X-e e-t t-s s-a a-m m-_
+36	single	2	m a b i n t. u. l	_m a b i n t. u. l_	9	_-m m-a a-b b-i i-n n-t. t.-u. u.-l l-_
+37	single	2	b u x i g l a. t.	_b u x i g l a. t._	9	_-b b-u u-x x-i i-g g-l l-a. a.-t. t.-_
+38	single	2	s i p u p S u p	_s i p u p S u p_	9	_-s s-i i-p p-u u-p p-S S-u u-p p-_
+39	single	2	q a. r i j g a x	_q a. r i j g a x_	9	_-q q-a. a.-r r-i i-j j-g g-a a-x x-_
+40	single	1	a n ? e n z e	_a n ? e n z e_	8	_-a a-n n-? ?-e e-n n-z z-e e-_
+41	single	2	x a X a. q g u S	_x a X a. q g u S_	9	_-x x-a a-X X-a. a.-q q-g g-u u-S S-_
+42	single	1	i b s. i. g j a	_i b s. i. g j a_	8	_-i i-b b-s. s.-i. i.-g g-j j-a a-_
+43	single	2	s. u. p e d w u j	_s. u. p e d w u j_	9	_-s. s.-u. u.-p p-e e-d d-w w-u u-j j-_
+44	single	2	r a d u z H u X	_r a d u z H u X_	9	_-r r-a a-d d-u u-z z-H H-u u-X X-_
+45	single	1	u X j e z t. a.	_u X j e z t. a._	8	_-u u-X X-j j-e e-z z-t. t.-a. a.-_
+46	single	2	t. a. j u x z u ?	_t. a. j u x z u ?_	9	_-t. t.-a. a.-j j-u u-x x-z z-u u-? ?-_
+47	single	2	s. e. d a S H a r	_s. e. d a S H a r_	9	_-s. s.-e. e.-d d-a a-S S-H H-a a-r r-_
+48	single	1	i s. m e k p u	_i s. m e k p u_	8	_-i i-s. s.-m m-e e-k k-p p-u u-_
+49	single	1	e s. l i. t. H u	_e s. l i. t. H u_	8	_-e e-s. s.-l l-i. i.-t. t.-H H-u u-_
+50	single	2	l i l u m H e s	_l i l u m H e s_	9	_-l l-i i-l l-u u-m m-H H-e e-s s-_
+51	single	3	g a. a. t. e. i. t	_g a. a. t. e. i. t_	8	_-g g-a. a.-a. a.-t. t.-e. e.-i. i.-t t-_
+52	single	2	S e x e k H e. t.	_S e x e k H e. t._	9	_-S S-e e-x x-e e-k k-H H-e. e.-t. t.-_
+53	single	2	? e x u x m i s	_? e x u x m i s_	9	_-? ?-e e-x x-u u-x x-m m-i i-s s-_
+54	single	1	e t. l u. t. b e	_e t. l u. t. b e_	8	_-e e-t. t.-l l-u. u.-t. t.-b b-e e-_
+55	single	3	X a u t e e b	_X a u t e e b_	8	_-X X-a a-u u-t t-e e-e e-b b-_
+56	single	2	s. a. X i S k i z	_s. a. X i S k i z_	9	_-s. s.-a. a.-X X-i i-S S-k k-i i-z z-_
+57	single	3	n i u g u a g	_n i u g u a g_	8	_-n n-i i-u u-g g-u u-a a-g g-_
+58	single	2	q e. z i H b u. q	_q e. z i H b u. q_	9	_-q q-e. e.-z z-i i-H H-b b-u. u.-q q-_
+59	single	3	b u. e. q i. i. j	_b u. e. q i. i. j_	8	_-b b-u. u.-e. e.-q q-i. i.-i. i.-j j-_
+60	single	1	u d b e. s. r a	_u d b e. s. r a_	8	_-u u-d d-b b-e. e.-s. s.-r r-a a-_
+61	single	2	t. a. n e z m u l	_t. a. n e z m u l_	9	_-t. t.-a. a.-n n-e e-z z-m m-u u-l l-_
+62	single	2	k u t. i. b x i k	_k u t. i. b x i k_	9	_-k k-u u-t. t.-i. i.-b b-x x-i i-k k-_
+63	single	1	a q n e r t. i.	_a q n e r t. i._	8	_-a a-q q-n n-e e-r r-t. t.-i. i.-_
+64	single	2	d e b u w S a w	_d e b u w S a w_	9	_-d d-e e-b b-u u-w w-S S-a a-w w-_
+65	single	1	i l l u s l i	_i l l u s l i_	8	_-i i-l l-l l-u u-s s-l l-i i-_
+66	single	2	s. e. x e w j i m	_s. e. x e w j i m_	9	_-s. s.-e. e.-x x-e e-w w-j j-i i-m m-_
+67	single	1	e j d a t. s i	_e j d a t. s i_	8	_-e e-j j-d d-a a-t. t.-s s-i i-_
+68	single	2	X e. q u. t n i x	_X e. q u. t n i x_	9	_-X X-e. e.-q q-u. u.-t t-n n-i i-x x-_
+69	single	2	z a. t. e. n m e t	_z a. t. e. n m e t_	9	_-z z-a. a.-t. t.-e. e.-n n-m m-e e-t t-_
+70	single	2	r a. s. i. H H a. s.	_r a. s. i. H H a. s._	9	_-r r-a. a.-s. s.-i. i.-H H-H H-a. a.-s. s.-_
+71	single	2	z a b a p H a d	_z a b a p H a d_	9	_-z z-a a-b b-a a-p p-H H-a a-d d-_
+72	single	2	s a H i X m i n	_s a H i X m i n_	9	_-s s-a a-H H-i i-X X-m m-i i-n n-_
+73	single	2	t. e. S i S q a. t	_t. e. S i S q a. t_	9	_-t. t.-e. e.-S S-i i-S S-q q-a. a.-t t-_
+74	single	3	l u. u. t. u. i. S	_l u. u. t. u. i. S_	8	_-l l-u. u.-u. u.-t. t.-u. u.-i. i.-S S-_
+75	single	2	? i. q e. t. m i. q	_? i. q e. t. m i. q_	9	_-? ?-i. i.-q q-e. e.-t. t.-m m-i. i.-q q-_
+76	single	2	t a q i. r w u p	_t a q i. r w u p_	9	_-t t-a a-q q-i. i.-r r-w w-u u-p p-_
+77	single	2	b i. s. a. z d i ?	_b i. s. a. z d i ?_	9	_-b b-i. i.-s. s.-a. a.-z z-d d-i i-? ?-_
+78	single	1	a s. b e r X e	_a s. b e r X e_	8	_-a a-s. s.-b b-e e-r r-X X-e e-_
+79	single	2	w a H e m x a. q	_w a H e m x a. q_	9	_-w w-a a-H H-e e-m m-x x-a. a.-q q-_
+80	single	2	H u k a k m e d	_H u k a k m e d_	9	_-H H-u u-k k-a a-k k-m m-e e-d d-_
+81	single	3	j e. e. s. i. e. g	_j e. e. s. i. e. g_	8	_-j j-e. e.-e. e.-s. s.-i. i.-e. e.-g g-_
+82	single	2	d e b a s s. u. s	_d e b a s s. u. s_	9	_-d d-e e-b b-a a-s s-s. s.-u. u.-s s-_
+83	single	3	S a u r i a t	_S a u r i a t_	8	_-S S-a a-u u-r r-i i-a a-t t-_
+84	single	2	x u j a j t u s.	_x u j a j t u s._	9	_-x x-u u-j j-a a-j j-t t-u u-s. s.-_
+85	single	1	e s. ? u l l a	_e s. ? u l l a_	8	_-e e-s. s.-? ?-u u-l l-l l-a a-_
+86	single	2	q u. p a w t e j	_q u. p a w t e j_	9	_-q q-u. u.-p p-a a-w w-t t-e e-j j-_
+87	single	2	w i S i j s. e. s	_w i S i j s. e. s_	9	_-w w-i i-S S-i i-j j-s. s.-e. e.-s s-_
+88	single	2	p u. s. a. ? m i H	_p u. s. a. ? m i H_	9	_-p p-u. u.-s. s.-a. a.-? ?-m m-i i-H H-_
+89	single	1	u q d u z z i	_u q d u z z i_	8	_-u u-q q-d d-u u-z z-z z-i i-_
+90	single	1	e H q e. m ? a	_e H q e. m ? a_	8	_-e e-H H-q q-e. e.-m m-? ?-a a-_
+91	single	2	j u. q i. k n u s	_j u. q i. k n u s_	9	_-j j-u. u.-q q-i. i.-k k-n n-u u-s s-_
+92	single	1	a ? s. i. p n u	_a ? s. i. p n u_	8	_-a a-? ?-s. s.-i. i.-p p-n n-u u-_
+93	single	2	S a. t. u. j l u b	_S a. t. u. j l u b_	9	_-S S-a. a.-t. t.-u. u.-j j-l l-u u-b b-_
+94	single	3	j e i k a e t.	_j e i k a e t._	8	_-j j-e e-i i-k k-a a-e e-t. t.-_
+95	single	1	i g b e m k e	_i g b e m k e_	8	_-i i-g g-b b-e e-m m-k k-e e-_
+96	single	1	e q b u k s. i.	_e q b u k s. i._	8	_-e e-q q-b b-u u-k k-s. s.-i. i.-_
+97	single	2	l a l i w z u X	_l a l i w z u X_	9	_-l l-a a-l l-i i-w w-z z-u u-X X-_
+98	single	1	u m t u n r u	_u m t u n r u_	8	_-u u-m m-t t-u u-n n-r r-u u-_
+99	single	2	m e. s. e. m x a r	_m e. s. e. m x a r_	9	_-m m-e. e.-s. s.-e. e.-m m-x x-a a-r r-_
+100	single	1	u q t a t t. a.	_u q t a t t. a._	8	_-u u-q q-t t-a a-t t-t. t.-a. a.-_
+101	single	1	i m ? a l s. e.	_i m ? a l s. e._	8	_-i i-m m-? ?-a a-l l-s. s.-e. e.-_
+102	single	3	g e. a. t. e. u. X	_g e. a. t. e. u. X_	8	_-g g-e. e.-a. a.-t. t.-e. e.-u. u.-X X-_
+103	single	1	i t. s a X t. a.	_i t. s a X t. a._	8	_-i i-t. t.-s s-a a-X X-t. t.-a. a.-_
+104	single	3	d i i s u u r	_d i i s u u r_	8	_-d d-i i-i i-s s-u u-u u-r r-_
+105	single	1	u s. s i. q w i	_u s. s i. q w i_	8	_-u u-s. s.-s s-i. i.-q q-w w-i i-_
+106	single	3	g a. i. q i. a. S	_g a. i. q i. a. S_	8	_-g g-a. a.-i. i.-q q-i. i.-a. a.-S S-_
+107	single	1	e n q u. S X e	_e n q u. S X e_	8	_-e e-n n-q q-u. u.-S S-X X-e e-_
+108	single	1	u q s. i. l X i	_u q s. i. l X i_	8	_-u u-q q-s. s.-i. i.-l l-X X-i i-_
+109	single	3	w e a H i e z	_w e a H i e z_	8	_-w w-e e-a a-H H-i i-e e-z z-_
+110	single	1	u t. r i. t. r e	_u t. r i. t. r e_	8	_-u u-t. t.-r r-i. i.-t. t.-r r-e e-_
+111	single	2	j i. t. a. m t. a. x	_j i. t. a. m t. a. x_	9	_-j j-i. i.-t. t.-a. a.-m m-t. t.-a. a.-x x-_
+112	single	1	e S l e X s. u.	_e S l e X s. u._	8	_-e e-S S-l l-e e-X X-s. s.-u. u.-_
+113	single	3	l a. e. t. u. a. p	_l a. e. t. u. a. p_	8	_-l l-a. a.-e. e.-t. t.-u. u.-a. a.-p p-_
+114	single	1	a t. X a x X u	_a t. X a x X u_	8	_-a a-t. t.-X X-a a-x x-X X-u u-_
+115	single	3	j u a j u e g	_j u a j u e g_	8	_-j j-u u-a a-j j-u u-e e-g g-_
+116	single	1	u g r i n p a	_u g r i n p a_	8	_-u u-g g-r r-i i-n n-p p-a a-_
+117	single	3	w u e w a a p	_w u e w a a p_	8	_-w w-u u-e e-w w-a a-a a-p p-_
+118	single	2	j e. q i. p ? e p	_j e. q i. p ? e p_	9	_-j j-e. e.-q q-i. i.-p p-? ?-e e-p p-_
+119	single	1	a z t. i. x q u.	_a z t. i. x q u._	8	_-a a-z z-t. t.-i. i.-x x-q q-u. u.-_
+120	single	1	i z w a. t. n i	_i z w a. t. n i_	8	_-i i-z z-w w-a. a.-t. t.-n n-i i-_
+121	single	1	a s s i. t. ? u	_a s s i. t. ? u_	8	_-a a-s s-s s-i. i.-t. t.-? ?-u u-_
+122	single	1	e p x u. s. p i	_e p x u. s. p i_	8	_-e e-p p-x x-u. u.-s. s.-p p-i i-_
+123	single	1	u j p i r j a	_u j p i r j a_	8	_-u u-j j-p p-i i-r r-j j-a a-_
+124	single	3	r u. u. q i. u. g	_r u. u. q i. u. g_	8	_-r r-u. u.-u. u.-q q-i. i.-u. u.-g g-_
+125	single	3	t. u. e. l e e S	_t. u. e. l e e S_	8	_-t. t.-u. u.-e. e.-l l-e e-e e-S S-_
+126	single	1	i t. S u d t. a.	_i t. S u d t. a._	8	_-i i-t. t.-S S-u u-d d-t. t.-a. a.-_
+127	single	1	e ? r u j t. a.	_e ? r u j t. a._	8	_-e e-? ?-r r-u u-j j-t. t.-a. a.-_
+128	single	2	s. i. n i. q z a. q	_s. i. n i. q z a. q_	9	_-s. s.-i. i.-n n-i. i.-q q-z z-a. a.-q q-_
+129	single	1	i t k a n w i	_i t k a n w i_	8	_-i i-t t-k k-a a-n n-w w-i i-_
+130	single	3	s u i X u. u. q	_s u i X u. u. q_	8	_-s s-u u-i i-X X-u. u.-u. u.-q q-_
+131	single	1	u t. s. e. z ? e	_u t. s. e. z ? e_	8	_-u u-t. t.-s. s.-e. e.-z z-? ?-e e-_
+132	single	1	e l t. i. b n a	_e l t. i. b n a_	8	_-e e-l l-t. t.-i. i.-b b-n n-a a-_
+133	single	1	u b s a m s. u.	_u b s a m s. u._	8	_-u u-b b-s s-a a-m m-s. s.-u. u.-_
+134	single	2	q u. n u d m u H	_q u. n u d m u H_	9	_-q q-u. u.-n n-u u-d d-m m-u u-H H-_
+135	single	3	g u. i. s. e. i. w	_g u. i. s. e. i. w_	8	_-g g-u. u.-i. i.-s. s.-e. e.-i. i.-w w-_
+136	single	2	q u. ? i r n a t	_q u. ? i r n a t_	9	_-q q-u. u.-? ?-i i-r r-n n-a a-t t-_
+137	single	2	b a. q i. ? m a m	_b a. q i. ? m a m_	9	_-b b-a. a.-q q-i. i.-? ?-m m-a a-m m-_
+138	single	1	u X b e g s e	_u X b e g s e_	8	_-u u-X X-b b-e e-g g-s s-e e-_
+139	single	1	u S S e. s. H e	_u S S e. s. H e_	8	_-u u-S S-S S-e. e.-s. s.-H H-e e-_
+140	single	1	i q S i. s. X e	_i q S i. s. X e_	8	_-i i-q q-S S-i. i.-s. s.-X X-e e-_
+141	single	1	a j H a X n e	_a j H a X n e_	8	_-a a-j j-H H-a a-X X-n n-e e-_
+142	single	1	i x l i t q i.	_i x l i t q i._	8	_-i i-x x-l l-i i-t t-q q-i. i.-_
+143	single	2	k e b i w k e t.	_k e b i w k e t._	9	_-k k-e e-b b-i i-w w-k k-e e-t. t.-_
+144	single	3	n e. e. q e. e. X	_n e. e. q e. e. X_	8	_-n n-e. e.-e. e.-q q-e. e.-e. e.-X X-_
+145	single	3	t. i. a. z e u l	_t. i. a. z e u l_	8	_-t. t.-i. i.-a. a.-z z-e e-u u-l l-_
+146	single	2	w a. q a. s m i ?	_w a. q a. s m i ?_	9	_-w w-a. a.-q q-a. a.-s s-m m-i i-? ?-_
+147	single	1	u ? x e g p e	_u ? x e g p e_	8	_-u u-? ?-x x-e e-g g-p p-e e-_
+148	single	1	e r ? a. q r i	_e r ? a. q r i_	8	_-e e-r r-? ?-a. a.-q q-r r-i i-_
+149	single	1	a m q a. k t. e.	_a m q a. k t. e._	8	_-a a-m m-q q-a. a.-k k-t. t.-e. e.-_
+150	single	1	i ? t. e. p s a	_i ? t. e. p s a_	8	_-i i-? ?-t. t.-e. e.-p p-s s-a a-_
+151	single	1	i b t. a. r g a	_i b t. a. r g a_	8	_-i i-b b-t. t.-a. a.-r r-g g-a a-_
+152	single	2	X u. q e. k d u t.	_X u. q e. k d u t._	9	_-X X-u. u.-q q-e. e.-k k-d d-u u-t. t.-_
+153	single	3	x e i g e a p	_x e i g e a p_	8	_-x x-e e-i i-g g-e e-a a-p p-_
+154	single	1	u S s. a. H k a	_u S s. a. H k a_	8	_-u u-S S-s. s.-a. a.-H H-k k-a a-_
+155	single	2	k i s. e. r s. e. b	_k i s. e. r s. e. b_	9	_-k k-i i-s. s.-e. e.-r r-s. s.-e. e.-b b-_
+156	single	2	s. a. X a. t. ? e. q	_s. a. X a. t. ? e. q_	9	_-s. s.-a. a.-X X-a. a.-t. t.-? ?-e. e.-q q-_
+157	single	1	u n s. a. x t. e.	_u n s. a. x t. e._	8	_-u u-n n-s. s.-a. a.-x x-t. t.-e. e.-_
+158	single	3	s a. u. t. a. e. g	_s a. u. t. a. e. g_	8	_-s s-a. a.-u. u.-t. t.-a. a.-e. e.-g g-_
+159	single	2	g a. t. i. k m a. s.	_g a. t. i. k m a. s._	9	_-g g-a. a.-t. t.-i. i.-k k-m m-a. a.-s. s.-_
+160	single	2	w u. t. a. b q u. s	_w u. t. a. b q u. s_	9	_-w w-u. u.-t. t.-a. a.-b b-q q-u. u.-s s-_
+161	single	2	n u. q a. m s. u. ?	_n u. q a. m s. u. ?_	9	_-n n-u. u.-q q-a. a.-m m-s. s.-u. u.-? ?-_
+162	single	3	H i. u. t. u. a. m	_H i. u. t. u. a. m_	8	_-H H-i. i.-u. u.-t. t.-u. u.-a. a.-m m-_
+163	single	1	e s. s. e. r x a	_e s. s. e. r x a_	8	_-e e-s. s.-s. s.-e. e.-r r-x x-a a-_
+164	single	1	a g t. e. l r u	_a g t. e. l r u_	8	_-a a-g g-t. t.-e. e.-l l-r r-u u-_
+165	single	2	w e. q u. H l a l	_w e. q u. H l a l_	9	_-w w-e. e.-q q-u. u.-H H-l l-a a-l l-_
+166	single	1	e q z u. s. s i	_e q z u. s. s i_	8	_-e e-q q-z z-u. u.-s. s.-s s-i i-_
+167	single	1	u k q a. p d a	_u k q a. p d a_	8	_-u u-k k-q q-a. a.-p p-d d-a a-_
+168	single	1	u ? t a t. t i	_u ? t a t. t i_	8	_-u u-? ?-t t-a a-t. t.-t t-i i-_
+169	single	2	b a. q e. w x e. t.	_b a. q e. w x e. t._	9	_-b b-a. a.-q q-e. e.-w w-x x-e. e.-t. t.-_
+170	single	1	i m S u. t. p u	_i m S u. t. p u_	8	_-i i-m m-S S-u. u.-t. t.-p p-u u-_
+171	single	2	n a. q e. s t. u. s	_n a. q e. s t. u. s_	9	_-n n-a. a.-q q-e. e.-s s-t. t.-u. u.-s s-_
+172	single	1	e q x i H g u	_e q x i H g u_	8	_-e e-q q-x x-i i-H H-g g-u u-_
+173	single	3	m e. a. s. a. i. ?	_m e. a. s. a. i. ?_	8	_-m m-e. e.-a. a.-s. s.-a. a.-i. i.-? ?-_
+174	single	1	i w ? i. q k i	_i w ? i. q k i_	8	_-i i-w w-? ?-i. i.-q q-k k-i i-_
+175	single	1	a k z a X r u	_a k z a X r u_	8	_-a a-k k-z z-a a-X X-r r-u u-_
+176	single	1	e n b i. s. g e	_e n b i. s. g e_	8	_-e e-n n-b b-i. i.-s. s.-g g-e e-_
+177	single	1	e X X u. q j e	_e X X u. q j e_	8	_-e e-X X-X X-u. u.-q q-j j-e e-_
+178	single	1	u w s. a. S x i	_u w s. a. S x i_	8	_-u u-w w-s. s.-a. a.-S S-x x-i i-_
+179	single	1	i t. p u. t. x a	_i t. p u. t. x a_	8	_-i i-t. t.-p p-u. u.-t. t.-x x-a a-_
+180	single	1	i p S i d r e	_i p S i d r e_	8	_-i i-p p-S S-i i-d d-r r-e e-_
+181	single	1	u t d u s k u	_u t d u s k u_	8	_-u u-t t-d d-u u-s s-k k-u u-_
+182	single	2	x i l i. s. z u. t.	_x i l i. s. z u. t._	9	_-x x-i i-l l-i. i.-s. s.-z z-u. u.-t. t.-_
+183	single	1	e H s a k w e	_e H s a k w e_	8	_-e e-H H-s s-a a-k k-w w-e e-_
+184	single	1	i p s. u. r H a	_i p s. u. r H a_	8	_-i i-p p-s. s.-u. u.-r r-H H-a a-_
+185	single	1	u t. q a. t j e	_u t. q a. t j e_	8	_-u u-t. t.-q q-a. a.-t t-j j-e e-_
+186	single	2	t. i. k i s. t. i. s	_t. i. k i s. t. i. s_	9	_-t. t.-i. i.-k k-i i-s. s.-t. t.-i. i.-s s-_
+187	single	2	q u. r u s q e. H	_q u. r u s q e. H_	9	_-q q-u. u.-r r-u u-s s-q q-e. e.-H H-_
+188	single	3	m u. e. t. a. u. t	_m u. e. t. a. u. t_	8	_-m m-u. u.-e. e.-t. t.-a. a.-u. u.-t t-_
+189	single	2	? a. q u. n g i t	_? a. q u. n g i t_	9	_-? ?-a. a.-q q-u. u.-n n-g g-i i-t t-_
+190	single	1	e z s i. s. H u	_e z s i. s. H u_	8	_-e e-z z-s s-i. i.-s. s.-H H-u u-_
+191	single	1	a s. t. u. ? x e	_a s. t. u. ? x e_	8	_-a a-s. s.-t. t.-u. u.-? ?-x x-e e-_
+192	single	2	l a. q e. X q e. n	_l a. q e. X q e. n_	9	_-l l-a. a.-q q-e. e.-X X-q q-e. e.-n n-_
+193	single	3	g e. a. s. u. i. d	_g e. a. s. u. i. d_	8	_-g g-e. e.-a. a.-s. s.-u. u.-i. i.-d d-_
+194	single	1	u z q u. b z e	_u z q u. b z e_	8	_-u u-z z-q q-u. u.-b b-z z-e e-_
+195	single	1	u d t u s n i	_u d t u s n i_	8	_-u u-d d-t t-u u-s s-n n-i i-_
+196	single	1	a b ? a. q p a	_a b ? a. q p a_	8	_-a a-b b-? ?-a. a.-q q-p p-a a-_
+197	single	1	a X z a. s. t u	_a X z a. s. t u_	8	_-a a-X X-z z-a. a.-s. s.-t t-u u-_
+198	single	1	e j s. u. z X u	_e j s. u. z X u_	8	_-e e-j j-s. s.-u. u.-z z-X X-u u-_
+199	single	2	S i. t. i. s s. e. w	_S i. t. i. s s. e. w_	9	_-S S-i. i.-t. t.-i. i.-s s-s. s.-e. e.-w w-_
+200	single	1	a d x i. q H i	_a d x i. q H i_	8	_-a a-d d-x x-i. i.-q q-H H-i i-_
+201	single	2	? u. s. u. d r u z	_? u. s. u. d r u z_	9	_-? ?-u. u.-s. s.-u. u.-d d-r r-u u-z z-_
+202	single	1	a q l i ? S u	_a q l i ? S u_	8	_-a a-q q-l l-i i-? ?-S S-u u-_
+203	single	1	e S n e. s. n a	_e S n e. s. n a_	8	_-e e-S S-n n-e. e.-s. s.-n n-a a-_
+204	single	1	u j k u g b i	_u j k u g b i_	8	_-u u-j j-k k-u u-g g-b b-i i-_
+205	single	2	w u. t. e. j z i d	_w u. t. e. j z i d_	9	_-w w-u. u.-t. t.-e. e.-j j-z z-i i-d d-_
+206	single	1	u p q a. x ? a	_u p q a. x ? a_	8	_-u u-p p-q q-a. a.-x x-? ?-a a-_
+207	single	1	e g t. e. t m i	_e g t. e. t m i_	8	_-e e-g g-t. t.-e. e.-t t-m m-i i-_
+208	single	3	t. a. i. z e. i. q	_t. a. i. z e. i. q_	8	_-t. t.-a. a.-i. i.-z z-e. e.-i. i.-q q-_
+209	single	1	u w w e. q t a	_u w w e. q t a_	8	_-u u-w w-w w-e. e.-q q-t t-a a-_
+210	single	3	r i u X i. e. t.	_r i u X i. e. t._	8	_-r r-i i-u u-X X-i. i.-e. e.-t. t.-_
+211	single	1	i m m a. t. z e	_i m m a. t. z e_	8	_-i i-m m-m m-a. a.-t. t.-z z-e e-_
+212	single	2	d i p e. q t. e. x	_d i p e. q t. e. x_	9	_-d d-i i-p p-e. e.-q q-t. t.-e. e.-x x-_
+213	single	1	i j r u. t. w u	_i j r u. t. w u_	8	_-i i-j j-r r-u. u.-t. t.-w w-u u-_
+214	single	2	d e t. i. g r e. s.	_d e t. i. g r e. s._	9	_-d d-e e-t. t.-i. i.-g g-r r-e. e.-s. s.-_
+215	single	1	e q p e. q m u	_e q p e. q m u_	8	_-e e-q q-p p-e. e.-q q-m m-u u-_
+216	single	1	u s. X a. s. x a	_u s. X a. s. x a_	8	_-u u-s. s.-X X-a. a.-s. s.-x x-a a-_
+217	single	1	u m z e m p a	_u m z e m p a_	8	_-u u-m m-z z-e e-m m-p p-a a-_
+218	single	1	a d s. a. n w u	_a d s. a. n w u_	8	_-a a-d d-s. s.-a. a.-n n-w w-u u-_
+219	single	1	a s. k i m s e	_a s. k i m s e_	8	_-a a-s. s.-k k-i i-m m-s s-e e-_
+220	single	2	q i. z a s r a. t.	_q i. z a s r a. t._	9	_-q q-i. i.-z z-a a-s s-r r-a. a.-t. t.-_
+221	single	1	u n n a. t. k e	_u n n a. t. k e_	8	_-u u-n n-n n-a. a.-t. t.-k k-e e-_
+222	single	1	e p t. u. w p e	_e p t. u. w p e_	8	_-e e-p p-t. t.-u. u.-w w-p p-e e-_
+223	single	1	i q s u x x i	_i q s u x x i_	8	_-i i-q q-s s-u u-x x-x x-i i-_
+224	single	3	n i. a. t. a. u. d	_n i. a. t. a. u. d_	8	_-n n-i. i.-a. a.-t. t.-a. a.-u. u.-d d-_
+225	single	1	i d q e. H m u	_i d q e. H m u_	8	_-i i-d d-q q-e. e.-H H-m m-u u-_
+226	single	1	i m w a. q q u.	_i m w a. q q u._	8	_-i i-m m-w w-a. a.-q q-q q-u. u.-_
+227	single	1	a z r i. q t. u.	_a z r i. q t. u._	8	_-a a-z z-r r-i. i.-q q-t. t.-u. u.-_
+228	single	2	s. e. j i. t. s. e. r	_s. e. j i. t. s. e. r_	9	_-s. s.-e. e.-j j-i. i.-t. t.-s. s.-e. e.-r r-_
+229	single	1	i b S u. q s a	_i b S u. q s a_	8	_-i i-b b-S S-u. u.-q q-s s-a a-_
+230	single	2	q a. s u b t. e. ?	_q a. s u b t. e. ?_	9	_-q q-a. a.-s s-u u-b b-t. t.-e. e.-? ?-_
+231	single	2	s. a. k i x m i. s.	_s. a. k i x m i. s._	9	_-s. s.-a. a.-k k-i i-x x-m m-i. i.-s. s.-_
+232	single	2	x e. q e. z t i s.	_x e. q e. z t i s._	9	_-x x-e. e.-q q-e. e.-z z-t t-i i-s. s.-_
+233	single	1	u r q u. x s. a.	_u r q u. x s. a._	8	_-u u-r r-q q-u. u.-x x-s. s.-a. a.-_
+234	single	3	w u u p a. e. s.	_w u u p a. e. s._	8	_-w w-u u-u u-p p-a. a.-e. e.-s. s.-_
+235	single	3	s. e. u. l i a p	_s. e. u. l i a p_	8	_-s. s.-e. e.-u. u.-l l-i i-a a-p p-_
+236	single	2	q u. z e w l u. t.	_q u. z e w l u. t._	9	_-q q-u. u.-z z-e e-w w-l l-u. u.-t. t.-_
+237	single	2	j u. q a. l r u n	_j u. q a. l r u n_	9	_-j j-u. u.-q q-a. a.-l l-r r-u u-n n-_
+238	single	1	a k s. i. t b i	_a k s. i. t b i_	8	_-a a-k k-s. s.-i. i.-t t-b b-i i-_
+239	single	1	e H t. u. w q u.	_e H t. u. w q u._	8	_-e e-H H-t. t.-u. u.-w w-q q-u. u.-_
+240	single	1	i l q i. j p u	_i l q i. j p u_	8	_-i i-l l-q q-i. i.-j j-p p-u u-_
+241	single	3	r a. a. q i. u. k	_r a. a. q i. u. k_	8	_-r r-a. a.-a. a.-q q-i. i.-u. u.-k k-_
+242	single	1	u z s. e. m g u	_u z s. e. m g u_	8	_-u u-z z-s. s.-e. e.-m m-g g-u u-_
+243	single	1	u l b a r m u	_u l b a r m u_	8	_-u u-l l-b b-a a-r r-m m-u u-_
+244	single	2	g i. t. e. l p u S	_g i. t. e. l p u S_	9	_-g g-i. i.-t. t.-e. e.-l l-p p-u u-S S-_
+245	single	1	a t S e. t. d i	_a t S e. t. d i_	8	_-a a-t t-S S-e. e.-t. t.-d d-i i-_
+246	single	1	a s s. e. S w i	_a s s. e. S w i_	8	_-a a-s s-s. s.-e. e.-S S-w w-i i-_
+247	single	1	i z m a. s. j a	_i z m a. s. j a_	8	_-i i-z z-m m-a. a.-s. s.-j j-a a-_
+248	single	1	a n l i ? X u	_a n l i ? X u_	8	_-a a-n n-l l-i i-? ?-X X-u u-_
+249	single	1	e l s. a. d k u	_e l s. a. d k u_	8	_-e e-l l-s. s.-a. a.-d d-k k-u u-_
+250	single	2	H a. s. e. b z i S	_H a. s. e. b z i S_	9	_-H H-a. a.-s. s.-e. e.-b b-z z-i i-S S-_
+251	single	1	u S r i. s. r i	_u S r i. s. r i_	8	_-u u-S S-r r-i. i.-s. s.-r r-i i-_
+252	single	1	e j q e. j S u	_e j q e. j S u_	8	_-e e-j j-q q-e. e.-j j-S S-u u-_
+253	single	3	l e. u. s. u. a. j	_l e. u. s. u. a. j_	8	_-l l-e. e.-u. u.-s. s.-u. u.-a. a.-j j-_
+254	single	2	b a s a. t. t. a. w	_b a s a. t. t. a. w_	9	_-b b-a a-s s-a. a.-t. t.-t. t.-a. a.-w w-_
+255	single	2	t. i. q i. S t. u. x	_t. i. q i. S t. u. x_	9	_-t. t.-i. i.-q q-i. i.-S S-t. t.-u. u.-x x-_
+256	single	2	t. a. w u k q u. m	_t. a. w u k q u. m_	9	_-t. t.-a. a.-w w-u u-k k-q q-u. u.-m m-_
+257	single	1	i z q a. ? H i	_i z q a. ? H i_	8	_-i i-z z-q q-a. a.-? ?-H H-i i-_
+258	single	1	i j q i. d s i	_i j q i. d s i_	8	_-i i-j j-q q-i. i.-d d-s s-i i-_
+259	single	1	a m j a. t. t. a.	_a m j a. t. t. a._	8	_-a a-m m-j j-a. a.-t. t.-t. t.-a. a.-_
+260	single	1	e t s. a. ? t. i.	_e t s. a. ? t. i._	8	_-e e-t t-s. s.-a. a.-? ?-t. t.-i. i.-_
+261	single	1	i p p e. t. k a	_i p p e. t. k a_	8	_-i i-p p-p p-e. e.-t. t.-k k-a a-_
+262	single	2	m e. s. i. X s. a. q	_m e. s. i. X s. a. q_	9	_-m m-e. e.-s. s.-i. i.-X X-s. s.-a. a.-q q-_
+263	single	1	i l k a p g a	_i l k a p g a_	8	_-i i-l l-k k-a a-p p-g g-a a-_
+264	single	1	i s x i. q s. u.	_i s x i. q s. u._	8	_-i i-s s-x x-i. i.-q q-s. s.-u. u.-_
+265	single	1	e S w e. q k i	_e S w e. q k i_	8	_-e e-S S-w w-e. e.-q q-k k-i i-_
+266	single	2	s. e. q a. z x a. q	_s. e. q a. z x a. q_	9	_-s. s.-e. e.-q q-a. a.-z z-x x-a. a.-q q-_
+267	single	1	e l q i. t s. i.	_e l q i. t s. i._	8	_-e e-l l-q q-i. i.-t t-s. s.-i. i.-_
+268	single	2	s u. t. i. s t. i. H	_s u. t. i. s t. i. H_	9	_-s s-u. u.-t. t.-i. i.-s s-t. t.-i. i.-H H-_
+269	single	1	e n q i. X w e	_e n q i. X w e_	8	_-e e-n n-q q-i. i.-X X-w w-e e-_
+270	single	2	j a. t. i. d l a X	_j a. t. i. d l a X_	9	_-j j-a. a.-t. t.-i. i.-d d-l l-a a-X X-_
+271	single	2	l i. t. a. H s. i. S	_l i. t. a. H s. i. S_	9	_-l l-i. i.-t. t.-a. a.-H H-s. s.-i. i.-S S-_
+272	single	1	a x d u r k u	_a x d u r k u_	8	_-a a-x x-d d-u u-r r-k k-u u-_
+273	single	2	s. i. x a k r e. q	_s. i. x a k r e. q_	9	_-s. s.-i. i.-x x-a a-k k-r r-e. e.-q q-_
+274	single	1	e H p i. s. S i	_e H p i. s. S i_	8	_-e e-H H-p p-i. i.-s. s.-S S-i i-_
+275	single	2	b e. t. i. w j i. t.	_b e. t. i. w j i. t._	9	_-b b-e. e.-t. t.-i. i.-w w-j j-i. i.-t. t.-_
+276	single	1	i t t. u. l ? a	_i t t. u. l ? a_	8	_-i i-t t-t. t.-u. u.-l l-? ?-a a-_
+277	single	1	e b s. i. n m a	_e b s. i. n m a_	8	_-e e-b b-s. s.-i. i.-n n-m m-a a-_
+278	single	1	e b m u. q p e	_e b m u. q p e_	8	_-e e-b b-m m-u. u.-q q-p p-e e-_
+279	single	2	t. a. H i. t. j i. q	_t. a. H i. t. j i. q_	9	_-t. t.-a. a.-H H-i. i.-t. t.-j j-i. i.-q q-_
+280	single	1	a x q a. k x a	_a x q a. k x a_	8	_-a a-x x-q q-a. a.-k k-x x-a a-_
+281	single	1	e t. g e. t. r u	_e t. g e. t. r u_	8	_-e e-t. t.-g g-e. e.-t. t.-r r-u u-_
+282	single	1	a m b i. t. x i	_a m b i. t. x i_	8	_-a a-m m-b b-i. i.-t. t.-x x-i i-_
+283	single	2	j i. t. a. l H a. t.	_j i. t. a. l H a. t._	9	_-j j-i. i.-t. t.-a. a.-l l-H H-a. a.-t. t.-_
+284	single	1	e g s. i. j x u	_e g s. i. j x u_	8	_-e e-g g-s. s.-i. i.-j j-x x-u u-_
+285	single	1	i b s e. s. x a	_i b s e. s. x a_	8	_-i i-b b-s s-e. e.-s. s.-x x-a a-_
+286	single	1	e s H a n k a	_e s H a n k a_	8	_-e e-s s-H H-a a-n n-k k-a a-_
+287	single	1	u k j a k X e	_u k j a k X e_	8	_-u u-k k-j j-a a-k k-X X-e e-_
+288	single	2	r e. t. u. b s. a. g	_r e. t. u. b s. a. g_	9	_-r r-e. e.-t. t.-u. u.-b b-s. s.-a. a.-g g-_
+289	single	2	n u. s. i. n S i j	_n u. s. i. n S i j_	9	_-n n-u. u.-s. s.-i. i.-n n-S S-i i-j j-_
+290	single	1	e r z a ? s i	_e r z a ? s i_	8	_-e e-r r-z z-a a-? ?-s s-i i-_
+291	single	1	u w ? e ? d u	_u w ? e ? d u_	8	_-u u-w w-? ?-e e-? ?-d d-u u-_
+292	single	1	u t ? u b w u	_u t ? u b w u_	8	_-u u-t t-? ?-u u-b b-w w-u u-_
+293	single	1	a H s. e. k d a	_a H s. e. k d a_	8	_-a a-H H-s. s.-e. e.-k k-d d-a a-_
+294	single	1	u s p i x g i	_u s p i x g i_	8	_-u u-s s-p p-i i-x x-g g-i i-_
+295	single	1	a m q i. r d i	_a m q i. r d i_	8	_-a a-m m-q q-i. i.-r r-d d-i i-_
+296	single	1	i j z e. t. ? e	_i j z e. t. ? e_	8	_-i i-j j-z z-e. e.-t. t.-? ?-e e-_
+297	single	1	a ? q a. t H u	_a ? q a. t H u_	8	_-a a-? ?-q q-a. a.-t t-H H-u u-_
+298	single	1	u l t a b g a	_u l t a b g a_	8	_-u u-l l-t t-a a-b b-g g-a a-_
+299	single	1	a ? q a. X l a	_a ? q a. X l a_	8	_-a a-? ?-q q-a. a.-X X-l l-a a-_
+300	single	1	u p b i s S a	_u p b i s S a_	8	_-u u-p p-b b-i i-s s-S S-a a-_
+301	single	1	a q ? e. q j e	_a q ? e. q j e_	8	_-a a-q q-? ?-e. e.-q q-j j-e e-_
+302	single	1	i n t. a. l s u	_i n t. a. l s u_	8	_-i i-n n-t. t.-a. a.-l l-s s-u u-_
+303	single	1	e g X i d n u	_e g X i d n u_	8	_-e e-g g-X X-i i-d d-n n-u u-_
+304	single	1	e s. w i. t. s. e.	_e s. w i. t. s. e._	8	_-e e-s. s.-w w-i. i.-t. t.-s. s.-e. e.-_
+305	single	1	u S s. e. t n a	_u S s. e. t n a_	8	_-u u-S S-s. s.-e. e.-t t-n n-a a-_
+306	single	1	e t. q e. X t i	_e t. q e. X t i_	8	_-e e-t. t.-q q-e. e.-X X-t t-i i-_
+307	single	2	H u. t. a. g d e q	_H u. t. a. g d e q_	9	_-H H-u. u.-t. t.-a. a.-g g-d d-e e-q q-_
+308	single	1	a ? l a w s e	_a ? l a w s e_	8	_-a a-? ?-l l-a a-w w-s s-e e-_
+309	single	1	u w n u X H a	_u w n u X H a_	8	_-u u-w w-n n-u u-X X-H H-a a-_
+310	single	1	i d s e. s. m a	_i d s e. s. m a_	8	_-i i-d d-s s-e. e.-s. s.-m m-a a-_
+311	single	1	a r p u. s. g i	_a r p u. s. g i_	8	_-a a-r r-p p-u. u.-s. s.-g g-i i-_
+312	single	3	t. i. e. d a i s.	_t. i. e. d a i s._	8	_-t. t.-i. i.-e. e.-d d-a a-i i-s. s.-_
+313	single	1	u z l u n X e	_u z l u n X e_	8	_-u u-z z-l l-u u-n n-X X-e e-_
+314	single	1	e b k i H z a	_e b k i H z a_	8	_-e e-b b-k k-i i-H H-z z-a a-_
+315	single	1	i g q e. q w e	_i g q e. q w e_	8	_-i i-g g-q q-e. e.-q q-w w-e e-_
+316	single	1	u n d e k l a	_u n d e k l a_	8	_-u u-n n-d d-e e-k k-l l-a a-_
+317	single	1	u x k e l j u	_u x k e l j u_	8	_-u u-x x-k k-e e-l l-j j-u u-_
+318	single	1	e r s e H j u	_e r s e H j u_	8	_-e e-r r-s s-e e-H H-j j-u u-_
+319	single	3	q i. i. x e u k	_q i. i. x e u k_	8	_-q q-i. i.-i. i.-x x-e e-u u-k k-_
+320	single	1	e d X i. t. w a	_e d X i. t. w a_	8	_-e e-d d-X X-i. i.-t. t.-w w-a a-_
+321	single	1	u X x u. s. t a	_u X x u. s. t a_	8	_-u u-X X-x x-u. u.-s. s.-t t-a a-_
+322	single	1	u p t. e. p b u	_u p t. e. p b u_	8	_-u u-p p-t. t.-e. e.-p p-b b-u u-_
+323	single	1	e X d a g w a	_e X d a g w a_	8	_-e e-X X-d d-a a-g g-w w-a a-_
+324	single	1	e g H e ? j e	_e g H e ? j e_	8	_-e e-g g-H H-e e-? ?-j j-e e-_
+325	single	1	a m n a S z i	_a m n a S z i_	8	_-a a-m m-n n-a a-S S-z z-i i-_
+326	single	1	i X s e s g u	_i X s e s g u_	8	_-i i-X X-s s-e e-s s-g g-u u-_
+327	single	1	e j s u. s. b u	_e j s u. s. b u_	8	_-e e-j j-s s-u. u.-s. s.-b b-u u-_
+328	single	2	H u. q a. j m a w	_H u. q a. j m a w_	9	_-H H-u. u.-q q-a. a.-j j-m m-a a-w w-_
+329	single	1	u l t e z k e	_u l t e z k e_	8	_-u u-l l-t t-e e-z z-k k-e e-_
+330	single	1	a p r a w m a	_a p r a w m a_	8	_-a a-p p-r r-a a-w w-m m-a a-_
+331	single	1	e w n u. s. z a	_e w n u. s. z a_	8	_-e e-w w-n n-u. u.-s. s.-z z-a a-_
+332	single	1	a w m u s b e	_a w m u s b e_	8	_-a a-w w-m m-u u-s s-b b-e e-_
+333	single	2	? i. t. u. r t u b	_? i. t. u. r t u b_	9	_-? ?-i. i.-t. t.-u. u.-r r-t t-u u-b b-_
+334	single	1	a t. q e. w g u	_a t. q e. w g u_	8	_-a a-t. t.-q q-e. e.-w w-g g-u u-_
+335	single	2	S a. q e. t j e j	_S a. q e. t j e j_	9	_-S S-a. a.-q q-e. e.-t t-j j-e e-j j-_
+336	single	1	u n s. i. ? n e	_u n s. i. ? n e_	8	_-u u-n n-s. s.-i. i.-? ?-n n-e e-_
+337	single	2	X e. s. a. d g a r	_X e. s. a. d g a r_	9	_-X X-e. e.-s. s.-a. a.-d d-g g-a a-r r-_
+338	single	1	a p z i. t. g a	_a p z i. t. g a_	8	_-a a-p p-z z-i. i.-t. t.-g g-a a-_
+339	single	1	a p j u r r u	_a p j u r r u_	8	_-a a-p p-j j-u u-r r-r r-u u-_
+340	single	2	p i. q a. p s. a. b	_p i. q a. p s. a. b_	9	_-p p-i. i.-q q-a. a.-p p-s. s.-a. a.-b b-_
+341	single	1	e l n i. q q a.	_e l n i. q q a._	8	_-e e-l l-n n-i. i.-q q-q q-a. a.-_
+342	single	1	e X s a k ? e	_e X s a k ? e_	8	_-e e-X X-s s-a a-k k-? ?-e e-_
+343	single	1	a s. s. a. g z i	_a s. s. a. g z i_	8	_-a a-s. s.-s. s.-a. a.-g g-z z-i i-_
+344	single	1	u S b a d ? u	_u S b a d ? u_	8	_-u u-S S-b b-a a-d d-? ?-u u-_
+345	single	1	e w s. u. H d i	_e w s. u. H d i_	8	_-e e-w w-s. s.-u. u.-H H-d d-i i-_
+346	single	1	u j k a s j i	_u j k a s j i_	8	_-u u-j j-k k-a a-s s-j j-i i-_
+347	single	1	a X g a. q r a	_a X g a. q r a_	8	_-a a-X X-g g-a. a.-q q-r r-a a-_
+348	single	1	u ? s. u. S ? e	_u ? s. u. S ? e_	8	_-u u-? ?-s. s.-u. u.-S S-? ?-e e-_
+349	single	1	i g z u r l a	_i g z u r l a_	8	_-i i-g g-z z-u u-r r-l l-a a-_
+350	single	1	a k s. u. d S u	_a k s. u. d S u_	8	_-a a-k k-s. s.-u. u.-d d-S S-u u-_
+351	single	1	i H x a x r a	_i H x a x r a_	8	_-i i-H H-x x-a a-x x-r r-a a-_
+352	single	1	u q t. e. S m u	_u q t. e. S m u_	8	_-u u-q q-t. t.-e. e.-S S-m m-u u-_
+353	single	1	a X q i. g p e	_a X q i. g p e_	8	_-a a-X X-q q-i. i.-g g-p p-e e-_
+354	single	1	u t. n i g m i	_u t. n i g m i_	8	_-u u-t. t.-n n-i i-g g-m m-i i-_
+355	single	1	i w H a z b i	_i w H a z b i_	8	_-i i-w w-H H-a a-z z-b b-i i-_
+356	single	1	a x r i n s a	_a x r i n s a_	8	_-a a-x x-r r-i i-n n-s s-a a-_
+357	single	1	u p X a m d i	_u p X a m d i_	8	_-u u-p p-X X-a a-m m-d d-i i-_
+358	single	1	u S t. i. m X e	_u S t. i. m X e_	8	_-u u-S S-t. t.-i. i.-m m-X X-e e-_
+359	single	1	u g g i p s u	_u g g i p s u_	8	_-u u-g g-g g-i i-p p-s s-u u-_
+360	single	2	q u. j u. t. b i t	_q u. j u. t. b i t_	9	_-q q-u. u.-j j-u. u.-t. t.-b b-i i-t t-_
+361	single	1	e n s. a. S p a	_e n s. a. S p a_	8	_-e e-n n-s. s.-a. a.-S S-p p-a a-_
+362	single	1	a k s u H r i	_a k s u H r i_	8	_-a a-k k-s s-u u-H H-r r-i i-_
+363	single	1	e x x a d j a	_e x x a d j a_	8	_-e e-x x-x x-a a-d d-j j-a a-_
+364	single	1	e b p e j b u	_e b p e j b u_	8	_-e e-b b-p p-e e-j j-b b-u u-_
+365	single	1	a b X i. s. t. a.	_a b X i. s. t. a._	8	_-a a-b b-X X-i. i.-s. s.-t. t.-a. a.-_
+366	single	1	i s. q e. ? b a	_i s. q e. ? b a_	8	_-i i-s. s.-q q-e. e.-? ?-b b-a a-_
+367	single	1	e x d e H S a	_e x d e H S a_	8	_-e e-x x-d d-e e-H H-S S-a a-_
+368	single	1	u t m i. t. X a	_u t m i. t. X a_	8	_-u u-t t-m m-i. i.-t. t.-X X-a a-_
+369	single	1	u ? z e p k e	_u ? z e p k e_	8	_-u u-? ?-z z-e e-p p-k k-e e-_
+370	single	2	t e q i. w t. u. g	_t e q i. w t. u. g_	9	_-t t-e e-q q-i. i.-w w-t. t.-u. u.-g g-_
+371	single	1	a r q u. p d u	_a r q u. p d u_	8	_-a a-r r-q q-u. u.-p p-d d-u u-_
+372	single	1	i r S a d j u	_i r S a d j u_	8	_-i i-r r-S S-a a-d d-j j-u u-_
+373	single	1	i H n a. s. H a	_i H n a. s. H a_	8	_-i i-H H-n n-a. a.-s. s.-H H-a a-_
+374	single	1	i d S e. s. k a	_i d S e. s. k a_	8	_-i i-d d-S S-e. e.-s. s.-k k-a a-_
+375	single	1	e m l a b d u	_e m l a b d u_	8	_-e e-m m-l l-a a-b b-d d-u u-_
+376	single	1	a l m i X k e	_a l m i X k e_	8	_-a a-l l-m m-i i-X X-k k-e e-_
+377	single	1	e d z a g H i	_e d z a g H i_	8	_-e e-d d-z z-a a-g g-H H-i i-_
+378	single	1	e z S e l w e	_e z S e l w e_	8	_-e e-z z-S S-e e-l l-w w-e e-_
+379	single	1	u d t u j j e	_u d t u j j e_	8	_-u u-d d-t t-u u-j j-j j-e e-_
+380	single	1	u w r e z H e	_u w r e z H e_	8	_-u u-w w-r r-e e-z z-H H-e e-_
+381	single	1	a s x e. q X a	_a s x e. q X a_	8	_-a a-s s-x x-e. e.-q q-X X-a a-_
+382	single	1	e X S i g S e	_e X S i g S e_	8	_-e e-X X-S S-i i-g g-S S-e e-_
+383	single	1	a S g u x w e	_a S g u x w e_	8	_-a a-S S-g g-u u-x x-w w-e e-_
+384	single	1	u ? p a k b e	_u ? p a k b e_	8	_-u u-? ?-p p-a a-k k-b b-e e-_
+385	single	1	a S s. e. d w i	_a S s. e. d w i_	8	_-a a-S S-s. s.-e. e.-d d-w w-i i-_
+386	single	1	e k s u t r u	_e k s u t r u_	8	_-e e-k k-s s-u u-t t-r r-u u-_
+387	single	1	u X ? e. s. s e	_u X ? e. s. s e_	8	_-u u-X X-? ?-e. e.-s. s.-s s-e e-_
+388	single	1	e H w u r r e	_e H w u r r e_	8	_-e e-H H-w w-u u-r r-r r-e e-_
+389	single	1	u t. l e b l a	_u t. l e b l a_	8	_-u u-t. t.-l l-e e-b b-l l-a a-_
+390	single	1	i l w u t t e	_i l w u t t e_	8	_-i i-l l-w w-u u-t t-t t-e e-_
+391	single	1	a d q a. r t. u.	_a d q a. r t. u._	8	_-a a-d d-q q-a. a.-r r-t. t.-u. u.-_
+392	single	1	e H q u. H g u	_e H q u. H g u_	8	_-e e-H H-q q-u. u.-H H-g g-u u-_
+393	single	1	e q b i X j a	_e q b i X j a_	8	_-e e-q q-b b-i i-X X-j j-a a-_
+394	single	1	u t. t a H ? e	_u t. t a H ? e_	8	_-u u-t. t.-t t-a a-H H-? ?-e e-_
+395	single	2	p a. t. i. m l e. s.	_p a. t. i. m l e. s._	9	_-p p-a. a.-t. t.-i. i.-m m-l l-e. e.-s. s.-_
+396	single	1	a s d a H w u	_a s d a H w u_	8	_-a a-s s-d d-a a-H H-w w-u u-_
+397	single	1	e q n e l d u	_e q n e l d u_	8	_-e e-q q-n n-e e-l l-d d-u u-_
+398	single	1	u x H u x j u	_u x H u x j u_	8	_-u u-x x-H H-u u-x x-j j-u u-_
+399	single	1	u g q u. j b i	_u g q u. j b i_	8	_-u u-g g-q q-u. u.-j j-b b-i i-_
+400	single	1	e b b i z w u	_e b b i z w u_	8	_-e e-b b-b b-i i-z z-w w-u u-_
+401	single	1	i m n i d ? i	_i m n i d ? i_	8	_-i i-m m-n n-i i-d d-? ?-i i-_
+402	single	1	i s t a g g a	_i s t a g g a_	8	_-i i-s s-t t-a a-g g-g g-a a-_
+403	single	2	q u. X u S d u g	_q u. X u S d u g_	9	_-q q-u. u.-X X-u u-S S-d d-u u-g g-_
+404	single	1	u ? k a t ? e	_u ? k a t ? e_	8	_-u u-? ?-k k-a a-t t-? ?-e e-_
+405	single	1	i X p a. q S a	_i X p a. q S a_	8	_-i i-X X-p p-a. a.-q q-S S-a a-_
+406	single	1	u x p i j X u	_u x p i j X u_	8	_-u u-x x-p p-i i-j j-X X-u u-_
+407	single	1	u X p i n j u	_u X p i n j u_	8	_-u u-X X-p p-i i-n n-j j-u u-_
+408	single	1	a l t. a. k t u	_a l t. a. k t u_	8	_-a a-l l-t. t.-a. a.-k k-t t-u u-_
+409	single	1	u x t i p r e	_u x t i p r e_	8	_-u u-x x-t t-i i-p p-r r-e e-_
+410	single	1	i z n i g n i	_i z n i g n i_	8	_-i i-z z-n n-i i-g g-n n-i i-_
+411	single	1	a t H i. t. d e	_a t H i. t. d e_	8	_-a a-t t-H H-i. i.-t. t.-d d-e e-_
+412	single	1	a k S i l z a	_a k S i l z a_	8	_-a a-k k-S S-i i-l l-z z-a a-_
+413	single	1	i j n u z j i	_i j n u z j i_	8	_-i i-j j-n n-u u-z z-j j-i i-_
+414	single	1	a t x i s w i	_a t x i s w i_	8	_-a a-t t-x x-i i-s s-w w-i i-_
+415	single	1	a s H a z g a	_a s H a z g a_	8	_-a a-s s-H H-a a-z z-g g-a a-_
+416	single	1	u p t i k b e	_u p t i k b e_	8	_-u u-p p-t t-i i-k k-b b-e e-_
+417	single	1	i s q u. j S i	_i s q u. j S i_	8	_-i i-s s-q q-u. u.-j j-S S-i i-_
+418	single	1	a t z a X q a.	_a t z a X q a._	8	_-a a-t t-z z-a a-X X-q q-a. a.-_
+419	single	1	a p q u. g S i	_a p q u. g S i_	8	_-a a-p p-q q-u. u.-g g-S S-i i-_
+420	single	1	i S j a X w a	_i S j a X w a_	8	_-i i-S S-j j-a a-X X-w w-a a-_
+421	single	2	s. i. H i ? g u. s.	_s. i. H i ? g u. s._	9	_-s. s.-i. i.-H H-i i-? ?-g g-u. u.-s. s.-_
+422	single	1	a x b e. t. k i	_a x b e. t. k i_	8	_-a a-x x-b b-e. e.-t. t.-k k-i i-_
+423	single	1	a S t e ? ? u	_a S t e ? ? u_	8	_-a a-S S-t t-e e-? ?-? ?-u u-_
+424	single	1	a t t e l X u	_a t t e l X u_	8	_-a a-t t-t t-e e-l l-X X-u u-_
+425	single	1	i g ? a s ? a	_i g ? a s ? a_	8	_-i i-g g-? ?-a a-s s-? ?-a a-_
+426	single	1	e q j u l S u	_e q j u l S u_	8	_-e e-q q-j j-u u-l l-S S-u u-_
+427	single	1	u z X e. q H e	_u z X e. q H e_	8	_-u u-z z-X X-e. e.-q q-H H-e e-_
+428	single	1	e x q u. b S i	_e x q u. b S i_	8	_-e e-x x-q q-u. u.-b b-S S-i i-_
+429	single	1	a l x a l g e	_a l x a l g e_	8	_-a a-l l-x x-a a-l l-g g-e e-_
+430	single	1	u t l a ? x u	_u t l a ? x u_	8	_-u u-t t-l l-a a-? ?-x x-u u-_
+431	single	1	e z q u. b H i	_e z q u. b H i_	8	_-e e-z z-q q-u. u.-b b-H H-i i-_
+432	single	1	e S ? i. s. w a	_e S ? i. s. w a_	8	_-e e-S S-? ?-i. i.-s. s.-w w-a a-_
+433	single	1	i X t i ? w u	_i X t i ? w u_	8	_-i i-X X-t t-i i-? ?-w w-u u-_
+434	single	1	a l t u g t u	_a l t u g t u_	8	_-a a-l l-t t-u u-g g-t t-u u-_
+435	single	1	e p t. a. H X i	_e p t. a. H X i_	8	_-e e-p p-t. t.-a. a.-H H-X X-i i-_
+436	single	1	i w q i. p j a	_i w q i. p j a_	8	_-i i-w w-q q-i. i.-p p-j j-a a-_
+437	single	1	a d S u. q x i	_a d S u. q x i_	8	_-a a-d d-S S-u. u.-q q-x x-i i-_
+438	single	1	e k t. a. w n u	_e k t. a. w n u_	8	_-e e-k k-t. t.-a. a.-w w-n n-u u-_
+439	single	1	u m b u. s. w i	_u m b u. s. w i_	8	_-u u-m m-b b-u. u.-s. s.-w w-i i-_
+440	single	1	i z t. i. X l i	_i z t. i. X l i_	8	_-i i-z z-t. t.-i. i.-X X-l l-i i-_
+441	single	1	a S t. e. b n i	_a S t. e. b n i_	8	_-a a-S S-t. t.-e. e.-b b-n n-i i-_
+442	single	1	u g x e. s. r e	_u g x e. s. r e_	8	_-u u-g g-x x-e. e.-s. s.-r r-e e-_
+443	single	1	e d x e n t i	_e d x e n t i_	8	_-e e-d d-x x-e e-n n-t t-i i-_
+444	single	1	i x b i ? t u	_i x b i ? t u_	8	_-i i-x x-b b-i i-? ?-t t-u u-_
+445	single	1	e j w u p r u	_e j w u p r u_	8	_-e e-j j-w w-u u-p p-r r-u u-_
+446	single	1	u r S e p p e	_u r S e p p e_	8	_-u u-r r-S S-e e-p p-p p-e e-_
+447	single	1	a H t. a. s g i	_a H t. a. s g i_	8	_-a a-H H-t. t.-a. a.-s s-g g-i i-_
+448	single	1	u m j i m p u	_u m j i m p u_	8	_-u u-m m-j j-i i-m m-p p-u u-_
+449	single	1	u x n u b g u	_u x n u b g u_	8	_-u u-x x-n n-u u-b b-g g-u u-_
+450	single	1	a H g a p m e	_a H g a p m e_	8	_-a a-H H-g g-a a-p p-m m-e e-_
+451	single	1	u H j u w b u	_u H j u w b u_	8	_-u u-H H-j j-u u-w w-b b-u u-_
+452	single	3	r u i k a i p	_r u i k a i p_	8	_-r r-u u-i i-k k-a a-i i-p p-_
+453	single	1	e b p i X z i	_e b p i X z i_	8	_-e e-b b-p p-i i-X X-z z-i i-_
+454	single	1	u d t. e. ? m i	_u d t. e. ? m i_	8	_-u u-d d-t. t.-e. e.-? ?-m m-i i-_
+455	single	1	e s l e. q r e	_e s l e. q r e_	8	_-e e-s s-l l-e. e.-q q-r r-e e-_
+456	single	1	e H x a n x u	_e H x a n x u_	8	_-e e-H H-x x-a a-n n-x x-u u-_
+457	single	3	l i e b i e H	_l i e b i e H_	8	_-l l-i i-e e-b b-i i-e e-H H-_
+458	single	1	a z z i. q S i	_a z z i. q S i_	8	_-a a-z z-z z-i. i.-q q-S S-i i-_
+459	single	1	u m X u S p i	_u m X u S p i_	8	_-u u-m m-X X-u u-S S-p p-i i-_
+460	single	1	i H m a X m a	_i H m a X m a_	8	_-i i-H H-m m-a a-X X-m m-a a-_
+461	single	1	a n S a l b a	_a n S a l b a_	8	_-a a-n n-S S-a a-l l-b b-a a-_
+462	single	3	w a e m i i X	_w a e m i i X_	8	_-w w-a a-e e-m m-i i-i i-X X-_
+463	single	1	u b j a z ? i	_u b j a z ? i_	8	_-u u-b b-j j-a a-z z-? ?-i i-_
+464	single	1	u m x u. s. l i	_u m x u. s. l i_	8	_-u u-m m-x x-u. u.-s. s.-l l-i i-_
+465	single	1	u d p a g w u	_u d p a g w u_	8	_-u u-d d-p p-a a-g g-w w-u u-_
+466	single	1	a k H e. s. n i	_a k H e. s. n i_	8	_-a a-k k-H H-e. e.-s. s.-n n-i i-_
+467	single	1	a k n a g n a	_a k n a g n a_	8	_-a a-k k-n n-a a-g g-n n-a a-_
+468	single	1	e x l u l H u	_e x l u l H u_	8	_-e e-x x-l l-u u-l l-H H-u u-_
+469	single	1	u s j u k X i	_u s j u k X i_	8	_-u u-s s-j j-u u-k k-X X-i i-_
+470	single	1	e X j e. s. ? a	_e X j e. s. ? a_	8	_-e e-X X-j j-e. e.-s. s.-? ?-a a-_
+471	single	1	a x S u H d i	_a x S u H d i_	8	_-a a-x x-S S-u u-H H-d d-i i-_
+472	single	1	e p n e. q l i	_e p n e. q l i_	8	_-e e-p p-n n-e. e.-q q-l l-i i-_
+473	single	1	u d d u S g i	_u d d u S g i_	8	_-u u-d d-d d-u u-S S-g g-i i-_
+474	single	1	u w d i l p e	_u w d i l p e_	8	_-u u-w w-d d-i i-l l-p p-e e-_
+475	single	1	u m z u t x e	_u m z u t x e_	8	_-u u-m m-z z-u u-t t-x x-e e-_
+476	single	1	u b x i H l a	_u b x i H l a_	8	_-u u-b b-x x-i i-H H-l l-a a-_
+477	single	1	e m s. u. z b a	_e m s. u. z b a_	8	_-e e-m m-s. s.-u. u.-z z-b b-a a-_
+478	single	1	u X n e d l a	_u X n e d l a_	8	_-u u-X X-n n-e e-d d-l l-a a-_
+479	single	1	u g X i d s. u.	_u g X i d s. u._	8	_-u u-g g-X X-i i-d d-s. s.-u. u.-_
+480	single	1	i s d u b r a	_i s d u b r a_	8	_-i i-s s-d d-u u-b b-r r-a a-_
+481	single	1	a z p i H s. e.	_a z p i H s. e._	8	_-a a-z z-p p-i i-H H-s. s.-e. e.-_
+482	single	1	u j X i j ? e	_u j X i j ? e_	8	_-u u-j j-X X-i i-j j-? ?-e e-_
+483	single	1	a q X u p l e	_a q X u p l e_	8	_-a a-q q-X X-u u-p p-l l-e e-_
+484	single	1	u X X i X d u	_u X X i X d u_	8	_-u u-X X-X X-i i-X X-d d-u u-_
+485	single	1	e j d i d z e	_e j d i d z e_	8	_-e e-j j-d d-i i-d d-z z-e e-_
+486	single	2	j a. s. u. w H e b	_j a. s. u. w H e b_	9	_-j j-a. a.-s. s.-u. u.-w w-H H-e e-b b-_
+487	single	1	u ? s a t k i	_u ? s a t k i_	8	_-u u-? ?-s s-a a-t t-k k-i i-_
+488	single	1	e r m u m H i	_e r m u m H i_	8	_-e e-r r-m m-u u-m m-H H-i i-_
+489	single	1	a n z e. s. d a	_a n z e. s. d a_	8	_-a a-n n-z z-e. e.-s. s.-d d-a a-_
+490	single	1	i t g u ? s i	_i t g u ? s i_	8	_-i i-t t-g g-u u-? ?-s s-i i-_
+491	single	1	u d g a k x a	_u d g a k x a_	8	_-u u-d d-g g-a a-k k-x x-a a-_
+492	single	1	a X g e d n e	_a X g e d n e_	8	_-a a-X X-g g-e e-d d-n n-e e-_
+493	single	1	a x ? u k w a	_a x ? u k w a_	8	_-a a-x x-? ?-u u-k k-w w-a a-_
+494	single	1	e t s a z s i	_e t s a z s i_	8	_-e e-t t-s s-a a-z z-s s-i i-_
+495	single	1	a w t. u. k n u	_a w t. u. k n u_	8	_-a a-w w-t. t.-u. u.-k k-n n-u u-_
+496	single	1	e p z a l x e	_e p z a l x e_	8	_-e e-p p-z z-a a-l l-x x-e e-_
+497	single	1	e x H i S z u	_e x H i S z u_	8	_-e e-x x-H H-i i-S S-z z-u u-_
+498	single	1	i S t i z S a	_i S t i z S a_	8	_-i i-S S-t t-i i-z z-S S-a a-_
+499	single	1	i r d e X r e	_i r d e X r e_	8	_-i i-r r-d d-e e-X X-r r-e e-_
+500	single	1	i g j u k S i	_i g j u k S i_	8	_-i i-g g-j j-u u-k k-S S-i i-_
+501	single	1	u l t. i. b w u	_u l t. i. b w u_	8	_-u u-l l-t. t.-i. i.-b b-w w-u u-_
+502	single	1	a n s a S s e	_a n s a S s e_	8	_-a a-n n-s s-a a-S S-s s-e e-_
+503	single	1	u t l i s S i	_u t l i s S i_	8	_-u u-t t-l l-i i-s s-S S-i i-_
+504	single	1	a g l u p X e	_a g l u p X e_	8	_-a a-g g-l l-u u-p p-X X-e e-_
+505	single	1	a S k e H n i	_a S k e H n i_	8	_-a a-S S-k k-e e-H H-n n-i i-_
+506	single	1	i X x i z r i	_i X x i z r i_	8	_-i i-X X-x x-i i-z z-r r-i i-_
+507	single	1	a n ? u k m i	_a n ? u k m i_	8	_-a a-n n-? ?-u u-k k-m m-i i-_
+508	single	3	j a a s a a g	_j a a s a a g_	8	_-j j-a a-a a-s s-a a-a a-g g-_
+509	single	1	u m t. u. n m i	_u m t. u. n m i_	8	_-u u-m m-t. t.-u. u.-n n-m m-i i-_
+510	single	1	u b b a l z a	_u b b a l z a_	8	_-u u-b b-b b-a a-l l-z z-a a-_
+511	single	1	a s n i w g a	_a s n i w g a_	8	_-a a-s s-n n-i i-w w-g g-a a-_
+512	single	1	i p g u x s a	_i p g u x s a_	8	_-i i-p p-g g-u u-x x-s s-a a-_
+513	single	1	i n t. e. H s i	_i n t. e. H s i_	8	_-i i-n n-t. t.-e. e.-H H-s s-i i-_
+514	single	1	a w d a g t i	_a w d a g t i_	8	_-a a-w w-d d-a a-g g-t t-i i-_
+515	single	1	e ? z u m g a	_e ? z u m g a_	8	_-e e-? ?-z z-u u-m m-g g-a a-_
+516	single	1	u t p u s n i	_u t p u s n i_	8	_-u u-t t-p p-u u-s s-n n-i i-_
+517	single	1	u b ? a p m i	_u b ? a p m i_	8	_-u u-b b-? ?-a a-p p-m m-i i-_
+518	single	1	u n q e. k j u	_u n q e. k j u_	8	_-u u-n n-q q-e. e.-k k-j j-u u-_
+519	single	1	e ? X e g s u	_e ? X e g s u_	8	_-e e-? ?-X X-e e-g g-s s-u u-_
+520	single	1	a S X i g ? a	_a S X i g ? a_	8	_-a a-S S-X X-i i-g g-? ?-a a-_
+521	single	1	a z n i p q e.	_a z n i p q e._	8	_-a a-z z-n n-i i-p p-q q-e. e.-_
+522	single	1	e n r a H r u	_e n r a H r u_	8	_-e e-n n-r r-a a-H H-r r-u u-_
+523	single	1	u p x i ? r i	_u p x i ? r i_	8	_-u u-p p-x x-i i-? ?-r r-i i-_
+524	single	1	e r x i. t. H u	_e r x i. t. H u_	8	_-e e-r r-x x-i. i.-t. t.-H H-u u-_
+525	single	1	e q k e n t a	_e q k e n t a_	8	_-e e-q q-k k-e e-n n-t t-a a-_
+526	single	1	u g x u S l e	_u g x u S l e_	8	_-u u-g g-x x-u u-S S-l l-e e-_
+527	single	1	a z t a d r a	_a z t a d r a_	8	_-a a-z z-t t-a a-d d-r r-a a-_
+528	single	1	i x p e. s. p u	_i x p e. s. p u_	8	_-i i-x x-p p-e. e.-s. s.-p p-u u-_
+529	single	2	q u. m e. q w i. s.	_q u. m e. q w i. s._	9	_-q q-u. u.-m m-e. e.-q q-w w-i. i.-s. s.-_
+530	single	1	i x n u z m u	_i x n u z m u_	8	_-i i-x x-n n-u u-z z-m m-u u-_
+531	single	1	i H t u m S i	_i H t u m S i_	8	_-i i-H H-t t-u u-m m-S S-i i-_
+532	single	1	u x t. e. n w u	_u x t. e. n w u_	8	_-u u-x x-t. t.-e. e.-n n-w w-u u-_
+533	single	1	e d j e p l e	_e d j e p l e_	8	_-e e-d d-j j-e e-p p-l l-e e-_
+534	single	1	u n l e t m e	_u n l e t m e_	8	_-u u-n n-l l-e e-t t-m m-e e-_
+535	single	1	i t p e H m e	_i t p e H m e_	8	_-i i-t t-p p-e e-H H-m m-e e-_
+536	single	1	u x s u n d u	_u x s u n d u_	8	_-u u-x x-s s-u u-n n-d d-u u-_
+537	single	1	u s z e. q ? u	_u s z e. q ? u_	8	_-u u-s s-z z-e. e.-q q-? ?-u u-_
+538	single	1	u w S a. s. X u	_u w S a. s. X u_	8	_-u u-w w-S S-a. a.-s. s.-X X-u u-_
+539	single	1	u X b i H S e	_u X b i H S e_	8	_-u u-X X-b b-i i-H H-S S-e e-_
+540	single	1	e s r u. q d a	_e s r u. q d a_	8	_-e e-s s-r r-u. u.-q q-d d-a a-_
+541	single	1	e z l u z s. e.	_e z l u z s. e._	8	_-e e-z z-l l-u u-z z-s. s.-e. e.-_
+542	single	1	u r H i p H e	_u r H i p H e_	8	_-u u-r r-H H-i i-p p-H H-e e-_
+543	single	1	a d k a l j a	_a d k a l j a_	8	_-a a-d d-k k-a a-l l-j j-a a-_
+544	single	1	u j r u s m e	_u j r u s m e_	8	_-u u-j j-r r-u u-s s-m m-e e-_
+545	single	1	u x k i d m e	_u x k i d m e_	8	_-u u-x x-k k-i i-d d-m m-e e-_
+546	single	1	i r g a. s. j i	_i r g a. s. j i_	8	_-i i-r r-g g-a. a.-s. s.-j j-i i-_
+547	single	1	i S x a. t. l e	_i S x a. t. l e_	8	_-i i-S S-x x-a. a.-t. t.-l l-e e-_
+548	single	1	e s k a s. b u	_e s k a s. b u_	8	_-e e-s s-k k-a a-s. s.-b b-u u-_
+549	single	1	u r z e k z i	_u r z e k z i_	8	_-u u-r r-z z-e e-k k-z z-i i-_
+550	single	1	u S d e w r a	_u S d e w r a_	8	_-u u-S S-d d-e e-w w-r r-a a-_
+551	single	1	a ? b i t r u	_a ? b i t r u_	8	_-a a-? ?-b b-i i-t t-r r-u u-_
+552	single	1	u S S a n b e	_u S S a n b e_	8	_-u u-S S-S S-a a-n n-b b-e e-_
+553	single	1	a H ? u r x a	_a H ? u r x a_	8	_-a a-H H-? ?-u u-r r-x x-a a-_
+554	single	1	i z p a ? S i	_i z p a ? S i_	8	_-i i-z z-p p-a a-? ?-S S-i i-_
+555	single	1	e t S i X H a	_e t S i X H a_	8	_-e e-t t-S S-i i-X X-H H-a a-_
+556	single	1	u t w e x s. u.	_u t w e x s. u._	8	_-u u-t t-w w-e e-x x-s. s.-u. u.-_
+557	single	1	e j m i z t e	_e j m i z t e_	8	_-e e-j j-m m-i i-z z-t t-e e-_
+558	single	1	e w b u. t. z e	_e w b u. t. z e_	8	_-e e-w w-b b-u. u.-t. t.-z z-e e-_
+559	single	1	i S b e k p u	_i S b e k p u_	8	_-i i-S S-b b-e e-k k-p p-u u-_
+560	single	1	u r p i j n e	_u r p i j n e_	8	_-u u-r r-p p-i i-j j-n n-e e-_
+561	single	1	e w x u r g a	_e w x u r g a_	8	_-e e-w w-x x-u u-r r-g g-a a-_
+562	single	1	a ? k e X w u	_a ? k e X w u_	8	_-a a-? ?-k k-e e-X X-w w-u u-_
+563	single	1	e t z u s q a.	_e t z u s q a._	8	_-e e-t t-z z-u u-s s-q q-a. a.-_
+564	single	3	w a e g i. i. s.	_w a e g i. i. s._	8	_-w w-a a-e e-g g-i. i.-i. i.-s. s.-_
+565	single	1	e r z i r t i	_e r z i r t i_	8	_-e e-r r-z z-i i-r r-t t-i i-_
+566	single	1	e x j u ? p a	_e x j u ? p a_	8	_-e e-x x-j j-u u-? ?-p p-a a-_
+567	single	1	u w t u S j i	_u w t u S j i_	8	_-u u-w w-t t-u u-S S-j j-i i-_
+568	single	1	a X S i d w u	_a X S i d w u_	8	_-a a-X X-S S-i i-d d-w w-u u-_
+569	single	1	i H t e n b e	_i H t e n b e_	8	_-i i-H H-t t-e e-n n-b b-e e-_
+570	single	1	e s p e r m a	_e s p e r m a_	8	_-e e-s s-p p-e e-r r-m m-a a-_
+571	single	1	u S H u w l e	_u S H u w l e_	8	_-u u-S S-H H-u u-w w-l l-e e-_
+572	single	1	a d X u. q s. e.	_a d X u. q s. e._	8	_-a a-d d-X X-u. u.-q q-s. s.-e. e.-_
+573	single	1	a t q a. q d a	_a t q a. q d a_	8	_-a a-t t-q q-a. a.-q q-d d-a a-_
+574	single	1	i H b a p z a	_i H b a p z a_	8	_-i i-H H-b b-a a-p p-z z-a a-_
+575	single	1	i b l u m j i	_i b l u m j i_	8	_-i i-b b-l l-u u-m m-j j-i i-_
+576	single	1	i j t u t s a	_i j t u t s a_	8	_-i i-j j-t t-u u-t t-s s-a a-_
+577	single	1	e s t e t k i	_e s t e t k i_	8	_-e e-s s-t t-e e-t t-k k-i i-_
+578	single	1	i d d e j l i	_i d d e j l i_	8	_-i i-d d-d d-e e-j j-l l-i i-_
+579	single	1	i j t e j H a	_i j t e j H a_	8	_-i i-j j-t t-e e-j j-H H-a a-_
+580	single	1	e r k e H k i	_e r k e H k i_	8	_-e e-r r-k k-e e-H H-k k-i i-_
+581	single	1	i ? j e. t. x u	_i ? j e. t. x u_	8	_-i i-? ?-j j-e. e.-t. t.-x x-u u-_
+582	single	1	i j ? u. t. X e	_i j ? u. t. X e_	8	_-i i-j j-? ?-u. u.-t. t.-X X-e e-_
+583	single	1	a m t e b S a	_a m t e b S a_	8	_-a a-m m-t t-e e-b b-S S-a a-_
+584	single	1	u k q u. s b a	_u k q u. s b a_	8	_-u u-k k-q q-u. u.-s s-b b-a a-_
+585	single	1	a X t. i. j t. i.	_a X t. i. j t. i._	8	_-a a-X X-t. t.-i. i.-j j-t. t.-i. i.-_
+586	single	2	t. i. l u. t. z a k	_t. i. l u. t. z a k_	9	_-t. t.-i. i.-l l-u. u.-t. t.-z z-a a-k k-_
+587	single	1	i m s e w q u.	_i m s e w q u._	8	_-i i-m m-s s-e e-w w-q q-u. u.-_
+588	single	1	e m d u b H e	_e m d u b H e_	8	_-e e-m m-d d-u u-b b-H H-e e-_
+589	single	1	u ? n e j S e	_u ? n e j S e_	8	_-u u-? ?-n n-e e-j j-S S-e e-_
+590	single	1	a n X e H X u	_a n X e H X u_	8	_-a a-n n-X X-e e-H H-X X-u u-_
+591	single	1	i z s. u. X t u	_i z s. u. X t u_	8	_-i i-z z-s. s.-u. u.-X X-t t-u u-_
+592	single	1	u t d a s. d a	_u t d a s. d a_	8	_-u u-t t-d d-a a-s. s.-d d-a a-_
+593	single	3	k e a w a. a. s.	_k e a w a. a. s._	8	_-k k-e e-a a-w w-a. a.-a. a.-s. s.-_
+594	single	1	u k g a X r u	_u k g a X r u_	8	_-u u-k k-g g-a a-X X-r r-u u-_
+595	single	1	u g m i w H i	_u g m i w H i_	8	_-u u-g g-m m-i i-w w-H H-i i-_
+596	single	1	a q g u r s. i.	_a q g u r s. i._	8	_-a a-q q-g g-u u-r r-s. s.-i. i.-_
+597	single	1	a s s i m m i	_a s s i m m i_	8	_-a a-s s-s s-i i-m m-m m-i i-_
+598	single	1	e ? d a k t. u.	_e ? d a k t. u._	8	_-e e-? ?-d d-a a-k k-t. t.-u. u.-_
+599	single	1	i j z a l d u	_i j z a l d u_	8	_-i i-j j-z z-a a-l l-d d-u u-_
+600	single	1	u x s. e. x b u	_u x s. e. x b u_	8	_-u u-x x-s. s.-e. e.-x x-b b-u u-_
+601	single	1	a z k e b d u	_a z k e b d u_	8	_-a a-z z-k k-e e-b b-d d-u u-_
+602	single	1	i ? w a ? d a	_i ? w a ? d a_	8	_-i i-? ?-w w-a a-? ?-d d-a a-_
+603	single	1	a g k e r b e	_a g k e r b e_	8	_-a a-g g-k k-e e-r r-b b-e e-_
+604	single	1	i t j a w b u	_i t j a w b u_	8	_-i i-t t-j j-a a-w w-b b-u u-_
+605	single	1	u S q a. l m a	_u S q a. l m a_	8	_-u u-S S-q q-a. a.-l l-m m-a a-_
+606	single	1	i d g u ? n u	_i d g u ? n u_	8	_-i i-d d-g g-u u-? ?-n n-u u-_
+607	single	1	e r j a S d e	_e r j a S d e_	8	_-e e-r r-j j-a a-S S-d d-e e-_
+608	single	1	i b k i g b a	_i b k i g b a_	8	_-i i-b b-k k-i i-g g-b b-a a-_
+609	single	1	u z g i l r a	_u z g i l r a_	8	_-u u-z z-g g-i i-l l-r r-a a-_
+610	single	3	w i a b i u s	_w i a b i u s_	8	_-w w-i i-a a-b b-i i-u u-s s-_
+611	single	1	e d H u. s. ? i	_e d H u. s. ? i_	8	_-e e-d d-H H-u. u.-s. s.-? ?-i i-_
+612	single	1	u l s u x x u	_u l s u x x u_	8	_-u u-l l-s s-u u-x x-x x-u u-_
+613	single	1	a b r u j g u	_a b r u j g u_	8	_-a a-b b-r r-u u-j j-g g-u u-_
+614	single	1	a j s a n n e	_a j s a n n e_	8	_-a a-j j-s s-a a-n n-n n-e e-_
+615	single	1	e t t. i. r H u	_e t t. i. r H u_	8	_-e e-t t-t. t.-i. i.-r r-H H-u u-_
+616	single	1	i z x i m r i	_i z x i m r i_	8	_-i i-z z-x x-i i-m m-r r-i i-_
+617	single	1	e w S e r X u	_e w S e r X u_	8	_-e e-w w-S S-e e-r r-X X-u u-_
+618	single	1	a b s e p t e	_a b s e p t e_	8	_-a a-b b-s s-e e-p p-t t-e e-_
+619	single	1	a z H i n k u	_a z H i n k u_	8	_-a a-z z-H H-i i-n n-k k-u u-_
+620	single	1	e j j e j d u	_e j j e j d u_	8	_-e e-j j-j j-e e-j j-d d-u u-_
+621	single	1	i b j i t S a	_i b j i t S a_	8	_-i i-b b-j j-i i-t t-S S-a a-_
+622	single	1	e H X i b q a.	_e H X i b q a._	8	_-e e-H H-X X-i i-b b-q q-a. a.-_
+623	single	1	u l s. u. S b a	_u l s. u. S b a_	8	_-u u-l l-s. s.-u. u.-S S-b b-a a-_
+624	single	1	a l j a b t i	_a l j a b t i_	8	_-a a-l l-j j-a a-b b-t t-i i-_
+625	single	1	a S X i S r u	_a S X i S r u_	8	_-a a-S S-X X-i i-S S-r r-u u-_
+626	single	1	i r q e. p j a	_i r q e. p j a_	8	_-i i-r r-q q-e. e.-p p-j j-a a-_
+627	single	1	i j x a g s. u.	_i j x a g s. u._	8	_-i i-j j-x x-a a-g g-s. s.-u. u.-_
+628	single	1	e s. j e m w u	_e s. j e m w u_	8	_-e e-s. s.-j j-e e-m m-w w-u u-_
+629	single	3	? e i b u i k	_? e i b u i k_	8	_-? ?-e e-i i-b b-u u-i i-k k-_
+630	single	3	X e e t a u b	_X e e t a u b_	8	_-X X-e e-e e-t t-a a-u u-b b-_
+631	single	1	i X H a b X u	_i X H a b X u_	8	_-i i-X X-H H-a a-b b-X X-u u-_
+632	single	1	u t b i. q l u	_u t b i. q l u_	8	_-u u-t t-b b-i. i.-q q-l l-u u-_
+633	single	1	e n p e ? S a	_e n p e ? S a_	8	_-e e-n n-p p-e e-? ?-S S-a a-_
+634	single	1	i n t e p H e	_i n t e p H e_	8	_-i i-n n-t t-e e-p p-H H-e e-_
+635	single	1	u p w u r ? u	_u p w u r ? u_	8	_-u u-p p-w w-u u-r r-? ?-u u-_
+636	single	1	a t. j u t x a	_a t. j u t x a_	8	_-a a-t. t.-j j-u u-t t-x x-a a-_
+637	single	1	u n z a s ? u	_u n z a s ? u_	8	_-u u-n n-z z-a a-s s-? ?-u u-_
+638	single	1	a x X u g t a	_a x X u g t a_	8	_-a a-x x-X X-u u-g g-t t-a a-_
+639	single	1	a s. q a. t. m a	_a s. q a. t. m a_	8	_-a a-s. s.-q q-a. a.-t. t.-m m-a a-_
+640	single	1	a S t i t. t u	_a S t i t. t u_	8	_-a a-S S-t t-i i-t. t.-t t-u u-_
+641	single	1	i n x a s X a	_i n x a s X a_	8	_-i i-n n-x x-a a-s s-X X-a a-_
+642	single	1	a ? t. i. X g i	_a ? t. i. X g i_	8	_-a a-? ?-t. t.-i. i.-X X-g g-i i-_
+643	single	1	e k g u z j a	_e k g u z j a_	8	_-e e-k k-g g-u u-z z-j j-a a-_
+644	single	1	e g d i q x u	_e g d i q x u_	8	_-e e-g g-d d-i i-q q-x x-u u-_
+645	single	1	a p s i H z e	_a p s i H z e_	8	_-a a-p p-s s-i i-H H-z z-e e-_
+646	single	1	u b x i d p i	_u b x i d p i_	8	_-u u-b b-x x-i i-d d-p p-i i-_
+647	single	1	u w s a m n a	_u w s a m n a_	8	_-u u-w w-s s-a a-m m-n n-a a-_
+648	single	1	a l S i b p i	_a l S i b p i_	8	_-a a-l l-S S-i i-b b-p p-i i-_
+649	single	1	u S n i k d a	_u S n i k d a_	8	_-u u-S S-n n-i i-k k-d d-a a-_
+650	single	1	e t X u z w i	_e t X u z w i_	8	_-e e-t t-X X-u u-z z-w w-i i-_
+651	single	1	a w l e r n e	_a w l e r n e_	8	_-a a-w w-l l-e e-r r-n n-e e-_
+652	single	1	i ? b u d m a	_i ? b u d m a_	8	_-i i-? ?-b b-u u-d d-m m-a a-_
+653	single	1	i r w e k w e	_i r w e k w e_	8	_-i i-r r-w w-e e-k k-w w-e e-_
+654	single	1	i j w e H ? e	_i j w e H ? e_	8	_-i i-j j-w w-e e-H H-? ?-e e-_
+655	single	1	i m ? u x g u	_i m ? u x g u_	8	_-i i-m m-? ?-u u-x x-g g-u u-_
+656	single	1	i b w i d t. a.	_i b w i d t. a._	8	_-i i-b b-w w-i i-d d-t. t.-a. a.-_
+657	single	3	S e u r u a l	_S e u r u a l_	8	_-S S-e e-u u-r r-u u-a a-l l-_
+658	single	1	i w t e r l e	_i w t e r l e_	8	_-i i-w w-t t-e e-r r-l l-e e-_
+659	single	1	a l k e b k i	_a l k e b k i_	8	_-a a-l l-k k-e e-b b-k k-i i-_
+660	single	1	a H H e x g e	_a H H e x g e_	8	_-a a-H H-H H-e e-x x-g g-e e-_
+661	single	1	u p s. i. p ? a	_u p s. i. p ? a_	8	_-u u-p p-s. s.-i. i.-p p-? ?-a a-_
+662	single	1	u n d a l H u	_u n d a l H u_	8	_-u u-n n-d d-a a-l l-H H-u u-_
+663	single	1	e k x i ? H u	_e k x i ? H u_	8	_-e e-k k-x x-i i-? ?-H H-u u-_
+664	single	1	i w X u j s. u.	_i w X u j s. u._	8	_-i i-w w-X X-u u-j j-s. s.-u. u.-_
+665	single	1	u t g a z z u	_u t g a z z u_	8	_-u u-t t-g g-a a-z z-z z-u u-_
+666	single	1	e l m u n j u	_e l m u n j u_	8	_-e e-l l-m m-u u-n n-j j-u u-_
+667	single	1	e x ? u X n e	_e x ? u X n e_	8	_-e e-x x-? ?-u u-X X-n n-e e-_
+668	single	1	a S z u X z i	_a S z u X z i_	8	_-a a-S S-z z-u u-X X-z z-i i-_
+669	single	1	i b l e k l e	_i b l e k l e_	8	_-i i-b b-l l-e e-k k-l l-e e-_
+670	single	2	z e. q e. s j u p	_z e. q e. s j u p_	9	_-z z-e. e.-q q-e. e.-s s-j j-u u-p p-_
+671	single	1	e w w a r j u	_e w w a r j u_	8	_-e e-w w-w w-a a-r r-j j-u u-_
+672	single	1	u p k a s. x i	_u p k a s. x i_	8	_-u u-p p-k k-a a-s. s.-x x-i i-_
+673	single	1	e k r e ? r u	_e k r e ? r u_	8	_-e e-k k-r r-e e-? ?-r r-u u-_
+674	single	1	u m H i s w a	_u m H i s w a_	8	_-u u-m m-H H-i i-s s-w w-a a-_
+675	single	1	a x t i x S e	_a x t i x S e_	8	_-a a-x x-t t-i i-x x-S S-e e-_
+676	single	1	i k r i w k i	_i k r i w k i_	8	_-i i-k k-r r-i i-w w-k k-i i-_
+677	single	1	a S m i x w a	_a S m i x w a_	8	_-a a-S S-m m-i i-x x-w w-a a-_
+678	single	1	i z x e s k a	_i z x e s k a_	8	_-i i-z z-x x-e e-s s-k k-a a-_
+679	single	1	e j x a. t. H u	_e j x a. t. H u_	8	_-e e-j j-x x-a. a.-t. t.-H H-u u-_
+680	single	1	i S g a ? ? u	_i S g a ? ? u_	8	_-i i-S S-g g-a a-? ?-? ?-u u-_
+681	single	1	a S m u. s. S u	_a S m u. s. S u_	8	_-a a-S S-m m-u. u.-s. s.-S S-u u-_
+682	single	1	e r t. e. m r u	_e r t. e. m r u_	8	_-e e-r r-t. t.-e. e.-m m-r r-u u-_
+683	single	1	e q g e H H e	_e q g e H H e_	8	_-e e-q q-g g-e e-H H-H H-e e-_
+684	single	1	u s l u l n e	_u s l u l n e_	8	_-u u-s s-l l-u u-l l-n n-e e-_
+685	single	1	e g n u l ? e	_e g n u l ? e_	8	_-e e-g g-n n-u u-l l-? ?-e e-_
+686	single	3	X i i j u u t	_X i i j u u t_	8	_-X X-i i-i i-j j-u u-u u-t t-_
+687	single	1	a d d e w p e	_a d d e w p e_	8	_-a a-d d-d d-e e-w w-p p-e e-_
+688	single	1	i b t i q z i	_i b t i q z i_	8	_-i i-b b-t t-i i-q q-z z-i i-_
+689	single	1	e l x a d x a	_e l x a d x a_	8	_-e e-l l-x x-a a-d d-x x-a a-_
+690	single	1	i x z a b b i	_i x z a b b i_	8	_-i i-x x-z z-a a-b b-b b-i i-_
+691	single	1	i t w e t w i	_i t w e t w i_	8	_-i i-t t-w w-e e-t t-w w-i i-_
+692	single	1	i n r u j H u	_i n r u j H u_	8	_-i i-n n-r r-u u-j j-H H-u u-_
+693	single	1	e H s u g j u	_e H s u g j u_	8	_-e e-H H-s s-u u-g g-j j-u u-_
+694	single	1	u t. s e n l a	_u t. s e n l a_	8	_-u u-t. t.-s s-e e-n n-l l-a a-_
+695	single	1	a S H i s H e	_a S H i s H e_	8	_-a a-S S-H H-i i-s s-H H-e e-_
+696	single	1	i S p u r n u	_i S p u r n u_	8	_-i i-S S-p p-u u-r r-n n-u u-_
+697	single	1	e z l a w t. u.	_e z l a w t. u._	8	_-e e-z z-l l-a a-w w-t. t.-u. u.-_
+698	single	1	u w z u H t. e.	_u w z u H t. e._	8	_-u u-w w-z z-u u-H H-t. t.-e. e.-_
+699	single	1	a p x u w X a	_a p x u w X a_	8	_-a a-p p-x x-u u-w w-X X-a a-_
+700	single	1	a q m u g s i	_a q m u g s i_	8	_-a a-q q-m m-u u-g g-s s-i i-_
+701	single	1	i b r u S r u	_i b r u S r u_	8	_-i i-b b-r r-u u-S S-r r-u u-_
+702	single	1	e t. n i p t i	_e t. n i p t i_	8	_-e e-t. t.-n n-i i-p p-t t-i i-_
+703	single	1	a l l e m d i	_a l l e m d i_	8	_-a a-l l-l l-e e-m m-d d-i i-_
+704	single	1	i r X a ? w a	_i r X a ? w a_	8	_-i i-r r-X X-a a-? ?-w w-a a-_
+705	single	1	u H x u. s. z i	_u H x u. s. z i_	8	_-u u-H H-x x-u. u.-s. s.-z z-i i-_
+706	single	1	u d b i l S i	_u d b i l S i_	8	_-u u-d d-b b-i i-l l-S S-i i-_
+707	single	1	e s z u ? l i	_e s z u ? l i_	8	_-e e-s s-z z-u u-? ?-l l-i i-_
+708	single	2	m e j e X k a ?	_m e j e X k a ?_	9	_-m m-e e-j j-e e-X X-k k-a a-? ?-_
+709	single	1	i b m a H d i	_i b m a H d i_	8	_-i i-b b-m m-a a-H H-d d-i i-_
+710	single	1	a w j e l b i	_a w j e l b i_	8	_-a a-w w-j j-e e-l l-b b-i i-_
+711	single	1	a z r a H w e	_a z r a H w e_	8	_-a a-z z-r r-a a-H H-w w-e e-_
+712	single	3	z u e r a i z	_z u e r a i z_	8	_-z z-u u-e e-r r-a a-i i-z z-_
+713	single	1	u d X u r S a	_u d X u r S a_	8	_-u u-d d-X X-u u-r r-S S-a a-_
+714	single	1	u l w i H q e.	_u l w i H q e._	8	_-u u-l l-w w-i i-H H-q q-e. e.-_
+715	single	1	i m l e g t. i.	_i m l e g t. i._	8	_-i i-m m-l l-e e-g g-t. t.-i. i.-_
+716	single	1	a H b u p ? e	_a H b u p ? e_	8	_-a a-H H-b b-u u-p p-? ?-e e-_
+717	single	1	u t s. e. l d a	_u t s. e. l d a_	8	_-u u-t t-s. s.-e. e.-l l-d d-a a-_
+718	single	1	e z ? e b n i	_e z ? e b n i_	8	_-e e-z z-? ?-e e-b b-n n-i i-_
+719	single	1	i s g e t g e	_i s g e t g e_	8	_-i i-s s-g g-e e-t t-g g-e e-_
+720	single	1	u t p a n j u	_u t p a n j u_	8	_-u u-t t-p p-a a-n n-j j-u u-_
+721	single	1	u g x u ? X i	_u g x u ? X i_	8	_-u u-g g-x x-u u-? ?-X X-i i-_
+722	single	1	a d H e j n i	_a d H e j n i_	8	_-a a-d d-H H-e e-j j-n n-i i-_
+723	single	1	e s. g a. q n e	_e s. g a. q n e_	8	_-e e-s. s.-g g-a. a.-q q-n n-e e-_
+724	single	1	u g g i j w e	_u g g i j w e_	8	_-u u-g g-g g-i i-j j-w w-e e-_
+725	single	1	u s b i z X u	_u s b i z X u_	8	_-u u-s s-b b-i i-z z-X X-u u-_
+726	single	1	u k s e H z e	_u k s e H z e_	8	_-u u-k k-s s-e e-H H-z z-e e-_
+727	single	1	u d l a. s. k u	_u d l a. s. k u_	8	_-u u-d d-l l-a. a.-s. s.-k k-u u-_
+728	single	1	a r k a q q u.	_a r k a q q u._	8	_-a a-r r-k k-a a-q q-q q-u. u.-_
+729	single	1	i x m a ? H a	_i x m a ? H a_	8	_-i i-x x-m m-a a-? ?-H H-a a-_
+730	single	1	e X l a g z u	_e X l a g z u_	8	_-e e-X X-l l-a a-g g-z z-u u-_
+731	single	1	i r l i m z a	_i r l i m z a_	8	_-i i-r r-l l-i i-m m-z z-a a-_
+732	single	1	e r s. u. b z i	_e r s. u. b z i_	8	_-e e-r r-s. s.-u. u.-b b-z z-i i-_
+733	single	1	e j t. u. z g u	_e j t. u. z g u_	8	_-e e-j j-t. t.-u. u.-z z-g g-u u-_
+734	single	1	a k S u l k e	_a k S u l k e_	8	_-a a-k k-S S-u u-l l-k k-e e-_
+735	single	3	g u. e. s. u. a. p	_g u. e. s. u. a. p_	8	_-g g-u. u.-e. e.-s. s.-u. u.-a. a.-p p-_
+736	single	1	a t. w u g X u	_a t. w u g X u_	8	_-a a-t. t.-w w-u u-g g-X X-u u-_
+737	single	1	u w d u s. p u	_u w d u s. p u_	8	_-u u-w w-d d-u u-s. s.-p p-u u-_
+738	single	1	e p b a t z i	_e p b a t z i_	8	_-e e-p p-b b-a a-t t-z z-i i-_
+739	single	1	a t t a n g a	_a t t a n g a_	8	_-a a-t t-t t-a a-n n-g g-a a-_
+740	single	1	a S s a H l i	_a S s a H l i_	8	_-a a-S S-s s-a a-H H-l l-i i-_
+741	single	1	a S k u q ? a	_a S k u q ? a_	8	_-a a-S S-k k-u u-q q-? ?-a a-_
+742	single	1	i m k e s. g i	_i m k e s. g i_	8	_-i i-m m-k k-e e-s. s.-g g-i i-_
+743	single	1	u X p a k l a	_u X p a k l a_	8	_-u u-X X-p p-a a-k k-l l-a a-_
+744	single	1	a p m a p m i	_a p m a p m i_	8	_-a a-p p-m m-a a-p p-m m-i i-_
+745	single	2	n e p a j m a b	_n e p a j m a b_	9	_-n n-e e-p p-a a-j j-m m-a a-b b-_
+746	single	2	s i. s. u. t. p u j	_s i. s. u. t. p u j_	9	_-s s-i. i.-s. s.-u. u.-t. t.-p p-u u-j j-_
+747	single	1	u t. b a l z i	_u t. b a l z i_	8	_-u u-t. t.-b b-a a-l l-z z-i i-_
+748	single	1	a d n e S n u	_a d n e S n u_	8	_-a a-d d-n n-e e-S S-n n-u u-_
+749	single	1	e n H a w s u	_e n H a w s u_	8	_-e e-n n-H H-a a-w w-s s-u u-_
+750	single	1	i d p i g w a	_i d p i g w a_	8	_-i i-d d-p p-i i-g g-w w-a a-_
+751	single	2	g e s a j p u k	_g e s a j p u k_	9	_-g g-e e-s s-a a-j j-p p-u u-k k-_
+752	single	1	i m k a x n a	_i m k a x n a_	8	_-i i-m m-k k-a a-x x-n n-a a-_
+753	single	1	a r r i l s e	_a r r i l s e_	8	_-a a-r r-r r-i i-l l-s s-e e-_
+754	single	1	e ? k i k t a	_e ? k i k t a_	8	_-e e-? ?-k k-i i-k k-t t-a a-_
+755	single	1	e g d u r b e	_e g d u r b e_	8	_-e e-g g-d d-u u-r r-b b-e e-_
+756	single	1	e d ? a S l a	_e d ? a S l a_	8	_-e e-d d-? ?-a a-S S-l l-a a-_
+757	single	1	i l ? a H w a	_i l ? a H w a_	8	_-i i-l l-? ?-a a-H H-w w-a a-_
+758	single	2	g e ? u k ? a j	_g e ? u k ? a j_	9	_-g g-e e-? ?-u u-k k-? ?-a a-j j-_
+759	single	1	a p S a p d u	_a p S a p d u_	8	_-a a-p p-S S-a a-p p-d d-u u-_
+760	single	1	e b g i s S e	_e b g i s S e_	8	_-e e-b b-g g-i i-s s-S S-e e-_
+761	single	1	u k ? a. t. w i	_u k ? a. t. w i_	8	_-u u-k k-? ?-a. a.-t. t.-w w-i i-_
+762	single	1	u j j a j X i	_u j j a j X i_	8	_-u u-j j-j j-a a-j j-X X-i i-_
+763	single	1	u j b a l g i	_u j b a l g i_	8	_-u u-j j-b b-a a-l l-g g-i i-_
+764	single	1	u z j e k b a	_u z j e k b a_	8	_-u u-z z-j j-e e-k k-b b-a a-_
+765	single	1	i t. m e j k a	_i t. m e j k a_	8	_-i i-t. t.-m m-e e-j j-k k-a a-_
+766	single	1	a n p u p d i	_a n p u p d i_	8	_-a a-n n-p p-u u-p p-d d-i i-_
+767	single	1	i r ? u ? j a	_i r ? u ? j a_	8	_-i i-r r-? ?-u u-? ?-j j-a a-_
+768	single	1	a j r i d z u	_a j r i d z u_	8	_-a a-j j-r r-i i-d d-z z-u u-_
+769	single	1	u w w i S ? a	_u w w i S ? a_	8	_-u u-w w-w w-i i-S S-? ?-a a-_
+770	single	1	e s ? i l q u.	_e s ? i l q u._	8	_-e e-s s-? ?-i i-l l-q q-u. u.-_
+771	single	1	a n k a b d e	_a n k a b d e_	8	_-a a-n n-k k-a a-b b-d d-e e-_
+772	single	1	i g l e x H u	_i g l e x H u_	8	_-i i-g g-l l-e e-x x-H H-u u-_
+773	single	2	n a p i p l a w	_n a p i p l a w_	9	_-n n-a a-p p-i i-p p-l l-a a-w w-_
+774	single	2	? a. q u. z d e j	_? a. q u. z d e j_	9	_-? ?-a. a.-q q-u. u.-z z-d d-e e-j j-_
+775	single	1	u p w a t ? e	_u p w a t ? e_	8	_-u u-p p-w w-a a-t t-? ?-e e-_
+776	single	1	i X d u S k e	_i X d u S k e_	8	_-i i-X X-d d-u u-S S-k k-e e-_
+777	single	1	a q H e m g a	_a q H e m g a_	8	_-a a-q q-H H-e e-m m-g g-a a-_
+778	single	1	e q m u. t. S a	_e q m u. t. S a_	8	_-e e-q q-m m-u. u.-t. t.-S S-a a-_
+779	single	2	x u k e j s a l	_x u k e j s a l_	9	_-x x-u u-k k-e e-j j-s s-a a-l l-_
+780	single	1	u k H e p p a	_u k H e p p a_	8	_-u u-k k-H H-e e-p p-p p-a a-_
+781	single	1	u m m a t b u	_u m m a t b u_	8	_-u u-m m-m m-a a-t t-b b-u u-_
+782	single	1	e x s a s t u	_e x s a s t u_	8	_-e e-x x-s s-a a-s s-t t-u u-_
+783	single	2	z u m a w g u l	_z u m a w g u l_	9	_-z z-u u-m m-a a-w w-g g-u u-l l-_
+784	single	1	a w x u s z u	_a w x u s z u_	8	_-a a-w w-x x-u u-s s-z z-u u-_
+785	single	1	i n x a t H a	_i n x a t H a_	8	_-i i-n n-x x-a a-t t-H H-a a-_
+786	single	1	i m X u n s e	_i m X u n s e_	8	_-i i-m m-X X-u u-n n-s s-e e-_
+787	single	1	u j g u d s a	_u j g u d s a_	8	_-u u-j j-g g-u u-d d-s s-a a-_
+788	single	1	e H k i n H u	_e H k i n H u_	8	_-e e-H H-k k-i i-n n-H H-u u-_
+789	single	1	a p n u l X e	_a p n u l X e_	8	_-a a-p p-n n-u u-l l-X X-e e-_
+790	single	2	s. e. t i x z u k	_s. e. t i x z u k_	9	_-s. s.-e. e.-t t-i i-x x-z z-u u-k k-_
+791	single	1	a X S a d s. e.	_a X S a d s. e._	8	_-a a-X X-S S-a a-d d-s. s.-e. e.-_
+792	single	1	i w s. i. z n e	_i w s. i. z n e_	8	_-i i-w w-s. s.-i. i.-z z-n n-e e-_
+793	single	2	l u. t. a. S q i. H	_l u. t. a. S q i. H_	9	_-l l-u. u.-t. t.-a. a.-S S-q q-i. i.-H H-_
+794	single	1	a ? t e n X i	_a ? t e n X i_	8	_-a a-? ?-t t-e e-n n-X X-i i-_
+795	single	1	i r d i t n a	_i r d i t n a_	8	_-i i-r r-d d-i i-t t-n n-a a-_
+796	single	2	n e n u x k i X	_n e n u x k i X_	9	_-n n-e e-n n-u u-x x-k k-i i-X X-_
+797	single	1	e s X e S m i	_e s X e S m i_	8	_-e e-s s-X X-e e-S S-m m-i i-_
+798	single	1	i w ? u k z a	_i w ? u k z a_	8	_-i i-w w-? ?-u u-k k-z z-a a-_
+799	single	1	e X b u x w a	_e X b u x w a_	8	_-e e-X X-b b-u u-x x-w w-a a-_
+800	single	1	e s s. u. H j i	_e s s. u. H j i_	8	_-e e-s s-s. s.-u. u.-H H-j j-i i-_
+801	single	2	k u t. e. x r a z	_k u t. e. x r a z_	9	_-k k-u u-t. t.-e. e.-x x-r r-a a-z z-_
+802	single	1	a j t. a. t X a	_a j t. a. t X a_	8	_-a a-j j-t. t.-a. a.-t t-X X-a a-_
+803	single	1	u t d i q l i	_u t d i q l i_	8	_-u u-t t-d d-i i-q q-l l-i i-_
+804	single	2	s. a. p e m w e z	_s. a. p e m w e z_	9	_-s. s.-a. a.-p p-e e-m m-w w-e e-z z-_
+805	single	1	a k k u s. t. u.	_a k k u s. t. u._	8	_-a a-k k-k k-u u-s. s.-t. t.-u. u.-_
+806	single	1	e b H i w r a	_e b H i w r a_	8	_-e e-b b-H H-i i-w w-r r-a a-_
+807	single	1	e x t i x t e	_e x t i x t e_	8	_-e e-x x-t t-i i-x x-t t-e e-_
+808	single	1	u n ? a k s. i.	_u n ? a k s. i._	8	_-u u-n n-? ?-a a-k k-s. s.-i. i.-_
+809	single	1	e s r a. t. j i	_e s r a. t. j i_	8	_-e e-s s-r r-a. a.-t. t.-j j-i i-_
+810	single	1	a z S u w z e	_a z S u w z e_	8	_-a a-z z-S S-u u-w w-z z-e e-_
+811	single	1	i S q i. k t i	_i S q i. k t i_	8	_-i i-S S-q q-i. i.-k k-t t-i i-_
+812	single	1	u b j e d x u	_u b j e d x u_	8	_-u u-b b-j j-e e-d d-x x-u u-_
+813	single	1	a X s i p s a	_a X s i p s a_	8	_-a a-X X-s s-i i-p p-s s-a a-_
+814	single	1	a ? s. a. s. X u	_a ? s. a. s. X u_	8	_-a a-? ?-s. s.-a. a.-s. s.-X X-u u-_
+815	single	2	X i X e S w u r	_X i X e S w u r_	9	_-X X-i i-X X-e e-S S-w w-u u-r r-_
+816	single	2	? u k u b m u g	_? u k u b m u g_	9	_-? ?-u u-k k-u u-b b-m m-u u-g g-_
+817	single	1	e l H u p X i	_e l H u p X i_	8	_-e e-l l-H H-u u-p p-X X-i i-_
+818	single	2	n e t i q t u X	_n e t i q t u X_	9	_-n n-e e-t t-i i-q q-t t-u u-X X-_
+819	single	1	e t. t. e. X p i	_e t. t. e. X p i_	8	_-e e-t. t.-t. t.-e. e.-X X-p p-i i-_
+820	single	1	u t. d i x t. a.	_u t. d i x t. a._	8	_-u u-t. t.-d d-i i-x x-t. t.-a. a.-_
+821	single	1	i s s u n t. a.	_i s s u n t. a._	8	_-i i-s s-s s-u u-n n-t. t.-a. a.-_
+822	single	2	w u X i z p a z	_w u X i z p a z_	9	_-w w-u u-X X-i i-z z-p p-a a-z z-_
+823	single	1	a t. l e r t u	_a t. l e r t u_	8	_-a a-t. t.-l l-e e-r r-t t-u u-_
+824	single	2	n i j e g r a X	_n i j e g r a X_	9	_-n n-i i-j j-e e-g g-r r-a a-X X-_
+825	single	2	n a r i s m i p	_n a r i s m i p_	9	_-n n-a a-r r-i i-s s-m m-i i-p p-_
+826	single	2	k i s e H S e r	_k i s e H S e r_	9	_-k k-i i-s s-e e-H H-S S-e e-r r-_
+827	single	1	u H r i k ? a	_u H r i k ? a_	8	_-u u-H H-r r-i i-k k-? ?-a a-_
+828	single	2	r i w u X ? e r	_r i w u X ? e r_	9	_-r r-i i-w w-u u-X X-? ?-e e-r r-_
+829	single	1	a w ? a d q e.	_a w ? a d q e._	8	_-a a-w w-? ?-a a-d d-q q-e. e.-_
+830	single	2	? i r e. q X a. t.	_? i r e. q X a. t._	9	_-? ?-i i-r r-e. e.-q q-X X-a. a.-t. t.-_
+831	single	1	i S x a g t a	_i S x a g t a_	8	_-i i-S S-x x-a a-g g-t t-a a-_
+832	single	1	e ? l e X g u	_e ? l e X g u_	8	_-e e-? ?-l l-e e-X X-g g-u u-_
+833	single	1	a t. g a. q s. i.	_a t. g a. q s. i._	8	_-a a-t. t.-g g-a. a.-q q-s. s.-i. i.-_
+834	single	2	S a g u t r u. t.	_S a g u t r u. t._	9	_-S S-a a-g g-u u-t t-r r-u. u.-t. t.-_
+835	single	1	u H n a r r e	_u H n a r r e_	8	_-u u-H H-n n-a a-r r-r r-e e-_
+836	single	1	a s t. e. q b i	_a s t. e. q b i_	8	_-a a-s s-t. t.-e. e.-q q-b b-i i-_
+837	single	1	e p k i s p i	_e p k i s p i_	8	_-e e-p p-k k-i i-s s-p p-i i-_
+838	single	1	a S m u. s. l e	_a S m u. s. l e_	8	_-a a-S S-m m-u. u.-s. s.-l l-e e-_
+839	single	1	i k X a g g e	_i k X a g g e_	8	_-i i-k k-X X-a a-g g-g g-e e-_
+840	single	1	a w m e. s. w i	_a w m e. s. w i_	8	_-a a-w w-m m-e. e.-s. s.-w w-i i-_
+841	single	1	u m t i n n a	_u m t i n n a_	8	_-u u-m m-t t-i i-n n-n n-a a-_
+842	single	1	e H p u t z u	_e H p u t z u_	8	_-e e-H H-p p-u u-t t-z z-u u-_
+843	single	2	g e. s. i. k p e g	_g e. s. i. k p e g_	9	_-g g-e. e.-s. s.-i. i.-k k-p p-e e-g g-_
+844	single	1	i g p i H j e	_i g p i H j e_	8	_-i i-g g-p p-i i-H H-j j-e e-_
+845	single	1	e t. X u g k a	_e t. X u g k a_	8	_-e e-t. t.-X X-u u-g g-k k-a a-_
+846	single	1	i ? q u. x t e	_i ? q u. x t e_	8	_-i i-? ?-q q-u. u.-x x-t t-e e-_
+847	single	2	? e r i s d u s.	_? e r i s d u s._	9	_-? ?-e e-r r-i i-s s-d d-u u-s. s.-_
+848	single	1	i x p a. t. d u	_i x p a. t. d u_	8	_-i i-x x-p p-a. a.-t. t.-d d-u u-_
+849	single	1	i s x u t g e	_i s x u t g e_	8	_-i i-s s-x x-u u-t t-g g-e e-_
+850	single	1	e s. m i m g e	_e s. m i m g e_	8	_-e e-s. s.-m m-i i-m m-g g-e e-_
+851	single	1	i ? g a n l a	_i ? g a n l a_	8	_-i i-? ?-g g-a a-n n-l l-a a-_
+852	single	1	a m H e z k i	_a m H e z k i_	8	_-a a-m m-H H-e e-z z-k k-i i-_
+853	single	2	H u. s. a. x l i m	_H u. s. a. x l i m_	9	_-H H-u. u.-s. s.-a. a.-x x-l l-i i-m m-_
+854	single	1	u k k a n g e	_u k k a n g e_	8	_-u u-k k-k k-a a-n n-g g-e e-_
+855	single	1	i ? g i ? p i	_i ? g i ? p i_	8	_-i i-? ?-g g-i i-? ?-p p-i i-_
+856	single	1	e j ? a b X i	_e j ? a b X i_	8	_-e e-j j-? ?-a a-b b-X X-i i-_
+857	single	2	s a k u g m i ?	_s a k u g m i ?_	9	_-s s-a a-k k-u u-g g-m m-i i-? ?-_
+858	single	2	z a p u x j u w	_z a p u x j u w_	9	_-z z-a a-p p-u u-x x-j j-u u-w w-_
+859	single	1	i X k u p w i	_i X k u p w i_	8	_-i i-X X-k k-u u-p p-w w-i i-_
+860	single	1	e H s e s w u	_e H s e s w u_	8	_-e e-H H-s s-e e-s s-w w-u u-_
+861	single	2	l u. q e. g ? e k	_l u. q e. g ? e k_	9	_-l l-u. u.-q q-e. e.-g g-? ?-e e-k k-_
+862	single	1	a s n e X s. a.	_a s n e X s. a._	8	_-a a-s s-n n-e e-X X-s. s.-a. a.-_
+863	single	2	l a. s. i. g S u. s.	_l a. s. i. g S u. s._	9	_-l l-a. a.-s. s.-i. i.-g g-S S-u. u.-s. s.-_
+864	single	1	u j l a s b a	_u j l a s b a_	8	_-u u-j j-l l-a a-s s-b b-a a-_
+865	single	1	a m s i. t. H e	_a m s i. t. H e_	8	_-a a-m m-s s-i. i.-t. t.-H H-e e-_
+866	single	1	u t p a z d e	_u t p a z d e_	8	_-u u-t t-p p-a a-z z-d d-e e-_
+867	single	1	a t l a g r a	_a t l a g r a_	8	_-a a-t t-l l-a a-g g-r r-a a-_
+868	single	1	a w s a H t u	_a w s a H t u_	8	_-a a-w w-s s-a a-H H-t t-u u-_
+869	single	2	t. i. g i d t a r	_t. i. g i d t a r_	9	_-t. t.-i. i.-g g-i i-d d-t t-a a-r r-_
+870	single	1	i p g a j S e	_i p g a j S e_	8	_-i i-p p-g g-a a-j j-S S-e e-_
+871	single	1	u z n e b ? a	_u z n e b ? a_	8	_-u u-z z-n n-e e-b b-? ?-a a-_
+872	single	1	e r p u l H u	_e r p u l H u_	8	_-e e-r r-p p-u u-l l-H H-u u-_
+873	single	1	e x r a k j u	_e x r a k j u_	8	_-e e-x x-r r-a a-k k-j j-u u-_
+874	single	1	u p p u l p e	_u p p u l p e_	8	_-u u-p p-p p-u u-l l-p p-e e-_
+875	single	2	n i. t. i. l t a S	_n i. t. i. l t a S_	9	_-n n-i. i.-t. t.-i. i.-l l-t t-a a-S S-_
+876	single	1	e n g i. s. n u	_e n g i. s. n u_	8	_-e e-n n-g g-i. i.-s. s.-n n-u u-_
+877	single	1	u X x e X k i	_u X x e X k i_	8	_-u u-X X-x x-e e-X X-k k-i i-_
+878	single	2	k e t u S j u H	_k e t u S j u H_	9	_-k k-e e-t t-u u-S S-j j-u u-H H-_
+879	single	1	e k p e ? z a	_e k p e ? z a_	8	_-e e-k k-p p-e e-? ?-z z-a a-_
+880	single	1	a s. t u t x e	_a s. t u t x e_	8	_-a a-s. s.-t t-u u-t t-x x-e e-_
+881	single	1	u H l a d b i	_u H l a d b i_	8	_-u u-H H-l l-a a-d d-b b-i i-_
+882	single	2	t. a. q e. b q i. S	_t. a. q e. b q i. S_	9	_-t. t.-a. a.-q q-e. e.-b b-q q-i. i.-S S-_
+883	single	1	e b t. e. ? s. i.	_e b t. e. ? s. i._	8	_-e e-b b-t. t.-e. e.-? ?-s. s.-i. i.-_
+884	single	1	a X t. a. w r e	_a X t. a. w r e_	8	_-a a-X X-t. t.-a. a.-w w-r r-e e-_
+885	single	2	k a m i z b a H	_k a m i z b a H_	9	_-k k-a a-m m-i i-z z-b b-a a-H H-_
+886	single	1	u S S e z q e.	_u S S e z q e._	8	_-u u-S S-S S-e e-z z-q q-e. e.-_
+887	single	1	u w H u m p e	_u w H u m p e_	8	_-u u-w w-H H-u u-m m-p p-e e-_
+888	single	1	a m b i H b i	_a m b i H b i_	8	_-a a-m m-b b-i i-H H-b b-i i-_
+889	single	1	u g H e k r u	_u g H e k r u_	8	_-u u-g g-H H-e e-k k-r r-u u-_
+890	single	1	i w k a n s a	_i w k a n s a_	8	_-i i-w w-k k-a a-n n-s s-a a-_
+891	single	2	? u g u r w u k	_? u g u r w u k_	9	_-? ?-u u-g g-u u-r r-w w-u u-k k-_
+892	single	2	l e l a X X i s	_l e l a X X i s_	9	_-l l-e e-l l-a a-X X-X X-i i-s s-_
+893	single	1	i j b u z s e	_i j b u z s e_	8	_-i i-j j-b b-u u-z z-s s-e e-_
+894	single	1	u j l u j q u.	_u j l u j q u._	8	_-u u-j j-l l-u u-j j-q q-u. u.-_
+895	single	2	j u X e d k e s.	_j u X e d k e s._	9	_-j j-u u-X X-e e-d d-k k-e e-s. s.-_
+896	single	3	s. e. a. b i i X	_s. e. a. b i i X_	8	_-s. s.-e. e.-a. a.-b b-i i-i i-X X-_
+897	single	1	e r s a n z i	_e r s a n z i_	8	_-e e-r r-s s-a a-n n-z z-i i-_
+898	single	2	t. a. n i g q u. t	_t. a. n i g q u. t_	9	_-t. t.-a. a.-n n-i i-g g-q q-u. u.-t t-_
+899	single	1	i X m a ? s. i.	_i X m a ? s. i._	8	_-i i-X X-m m-a a-? ?-s. s.-i. i.-_
+900	single	2	m a s a m t. e. l	_m a s a m t. e. l_	9	_-m m-a a-s s-a a-m m-t. t.-e. e.-l l-_
+901	single	1	u H p i n S e	_u H p i n S e_	8	_-u u-H H-p p-i i-n n-S S-e e-_
+902	single	1	e x d u q z u	_e x d u q z u_	8	_-e e-x x-d d-u u-q q-z z-u u-_

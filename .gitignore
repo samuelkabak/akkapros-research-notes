@@ -1,0 +1,71 @@
+# User specific
+*.bak
+.github/
+.cline/
+.clinerules
+local-only/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv
+virtualenv/
+.env
+
+# Package build artifacts
+*.egg-info/
+*.egg
+build/
+dist/
+develop-eggs/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+.installed.cfg
+MANIFEST
+
+# Testing
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Project specific
+data/models/
+*.wav
+*.mp3
+*.log
+
+# IMPORTANT ADDITION: Prevent accidental commit of sensitive data
+.env
+*.key
+*.pem
+secrets.*
+config.local.*

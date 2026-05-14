@@ -1,0 +1,231 @@
+---
+package:
+  name: "akkapros"
+  version: "3.0.1"
+pipeline: "pipeline"
+step: "syllabify"
+file:
+  id: "1a732124-c518-5c8c-a8e7-ff3bf28b175a"
+  title: "L I.5 Erra and Išum SB I"
+  format: "syl"
+  version: "1.0.0"
+  date: "2026-05-11"
+metadata:
+  input_file_id: "242ffb6c-17d3-51de-b844-e2bd57775d1f"
+  options:
+    prosody_style: "lob"
+    mora_mode: "mono"
+    phonetize_geminate_policy: "corrective"
+    phonetize_accentuation_distribution_policy: "80_20"
+    phonetize_drift_tolerance: 19
+    metrics_table: true
+    metrics_json: true
+    print_acute: true
+    print_bold: true
+    print_xar: true
+    print_merger: false
+    extra_vowels: ""
+    extra_consonants: ""
+    extra_short_punct_chars: ""
+    extra_long_punct_chars: ""
+    extra_short_punct_pattern: "[]"
+    extra_long_punct_pattern: "[]"
+  data:
+---
+
+šar+gi·mir¦dad·mē¦bā·nû¦kib·rā·ti¦⟦ …⟧
+ḫen·dur·san·ga¦˙a·pil+˙el·lil¦rēš·tû¦⟦ …⟧
+nāš+ḫaṭ·ṭi¦ṣīr·ti¦nā·qid¦ṣal·māt+qaq·qa·di¦rē·ʾû¦te·nē·šē·ti¦
+˙ī·šum¦ṭā·bi·ḫu¦naʾ·du¦ša¦˙a·na¦na·šê+kak·kī·šu¦˙ez·zū·ti¦qā·tā·šu¦˙as·mā¦
+˙u¦˙a·na¦šub·ruq¦˙ul·mī·šu¦šē·rū·ti¦˙er·ra¦qar·rād+˙i·lī¦˙i·nū·šu¦˙i·na¦šub·ti¦
+˙ī·ris·sū-ma¦lib·ba·šu¦⟦ : ⟧˙e·pēš+tā·ḫā·zi¦
+˙ī·tam·mi¦˙a·na¦kak·kī·šu¦⟦ : ⟧lit·pa·tā¦˙i·mat+mū·ti¦
+˙a·na¦se·bet·ti+qar·rād¦lā¦ša·nān¦⟦ : ⟧nan·di·qā¦kak·kī·kun¦
+˙i·qab·bī·ku¦˙a·na¦kâ·ša¦⟦ : ⟧lu·ṣī-ma¦˙a·na¦ṣē·ri¦
+˙at·tā¦di·pā·rum-ma¦⟦ : ⟧˙i·naṭ·ṭa·lū¦nūr·ka¦
+˙at·tā¦˙ā·lik+maḫ·rim-ma¦⟦ : ⟧˙i·lū¦⟦ … …⟧
+˙at·tā¦nam·ṣa·rum-ma¦ṭā·bi·ḫu¦⟦ …⟧
+˙er·ra¦te·bī-ma¦⟦ : ⟧˙i·na¦sa·pān+mā·ti¦
+kī¦nam·rat¦kab·tat·ka¦⟦ : ⟧˙u¦ḫa·dû¦lib·buk¦
+˙er·ra¦kī¦ša¦˙a·mē·li¦dal·pi¦⟦ : ⟧˙i·dā·šu¦˙an·ḫā¦
+˙i·qab·bi¦˙a·na¦lib·bī·šu¦⟦ : ⟧lut·be¦luṣ·lal-ma¦
+˙ī·tam·ma¦˙a·na¦kak·kī·šu¦⟦ : ⟧˙um·me·dā¦tub·qā·ti¦
+˙a·na¦se·bet·ti+qar·rād¦lā¦ša·nān¦⟦ : ⟧˙a·na¦šub·tī·ku·nu¦tū·rā-ma¦
+˙a·di¦˙at·tā¦ta·dek·kû·šu¦⟦ : ⟧ṣa·lil¦˙ur·šuš·šu¦
+˙it·ti¦mā·mi¦ḫī·ra·tuš¦⟦ : ⟧˙ip·pu·ša¦˙ul·ṣam-ma¦
+˙en·gi·du·du¦bē·lu¦mut·tal·lik+mū·ši¦mut·tar·rû+ru·bê¦
+ša¦˙eṭ·la¦˙u¦˙ar·da·ta¦˙i·na¦šul·mi¦˙it·ta·nar·rû¦˙u·nam·ma·ru¦kī·ma¦˙ū·mi¦
+ša¦se·bet·ti+qar·rād¦lā¦ša·nān¦⟦ : ⟧šun·nât¦˙i·lūs·sun¦
+˙i·lit·ta·šu·nu¦˙a·ḫât-ma¦⟦ : ⟧ma·lû¦pul·ḫā·ti¦
+˙ā·mir·šu·nu¦˙uš·taḫ·ḫat-ma¦⟦ : ⟧na·pīs·su·nu¦mū·tum-ma¦
+ni·šū¦šaḫ·tū-ma¦⟦ : ⟧˙ul¦˙i·ʾir·rū¦˙a·na¦šâ·šu¦
+˙ī·šum¦dal·tum-ma¦⟦ : ⟧˙e·dil¦pā·nuš·šun¦
+˙ā·nu¦šar+˙i·lī¦⟦ : ⟧˙er·ṣe·ta¦˙ir·ḫē-ma¦
+se·bet·ti+˙i·lī¦˙ul·daš·šum-ma¦⟦ : ⟧se·bet·ta¦˙it·ta·bi¦zi·kir·šun¦
+˙iz·zaz·zū¦˙i·na¦maḫ·rī·šū-ma¦⟦ : ⟧šī·mas·su·nu¦˙i·šīm-ma¦
+˙is·sī-ma¦˙iš·tēn¦⟦ : ⟧˙i·šak·ka·na¦ṭē·ma¦
+˙ē·ma¦tan·di·rū-ma¦tat·tal·ku¦⟦ : ⟧mā·ḫi·ra¦˙ē¦tar·ši¦
+˙i·qab·bi¦˙a·na¦ša·nî¦kī·ma¦gī·ri¦ku·bum-ma¦⟦ : ⟧ḫu·muṭ¦kī·ma¦nab·li¦
+˙ī·tam·mi¦˙a·na¦šal·ši¦zīm+lab·bi¦lū¦šak·nā·tā-ma¦˙ā·mir·ka¦liš·ḫar·miṭ¦
+˙i·qab·bi¦˙a·na¦re·bî¦˙a·na¦na·šê+kak·kī·ka¦˙ez·zū·ti¦ša·dû¦lī·tab·bit¦
+˙a·na¦ḫam·ši¦˙iq·ta·bi¦kī·ma¦šā·ri¦zīq-ma¦⟦ : ⟧kip·pa·ta¦ḫī·ṭa¦
+šeš·ša¦˙um·taʾ·ʾer¦˙e·liš¦˙u¦šap·liš¦bā·ʾam-ma¦⟦ : ⟧lā¦ta·gam·mil¦mam·ma¦
+si·bâ¦˙i·mat+baš·mi¦˙i·ṣēn·šū-ma¦šum·qi·ta¦na·piš·ta¦
+˙ul·tu¦šī·mat+se·bet·ti¦nap·ḫar·šu·nu¦⟦ : ⟧˙i·šī·mu¦˙ā·nu¦
+˙id·din·šu·nū·tī-ma¦˙a·na¦˙er·ra¦qar·rād+˙i·lī¦⟦ : ⟧lil·li·kū¦˙i·dā·ka¦
+kī¦ša¦ni·šī¦dad·mē¦ḫu·būr·ši·na¦⟦ : ⟧˙e·lī·ka¦˙im·tar·ṣu¦
+˙ub·lam-ma¦lib·ba·ka¦⟦ : ⟧˙a·na¦ša·kān+ka·mā·ri¦
+ṣal·māt+qaq·qa·di¦˙a·na¦šu·mut·ti¦⟦ : ⟧šum·qu·tu¦būl+šak·kan¦
+lū¦kak·kū·ka¦˙ez·zū·tu¦šu·nū-ma¦⟦ : ⟧lil·li·kū¦˙i·dā·ka¦
+šu·nu¦˙ez·zū-ma¦⟦ : ⟧te·bû¦kak·kū·šun¦
+˙ī·tam·mû¦˙a·na¦˙er·ra¦⟦ : ⟧ti·be¦˙i·ziz-ma¦
+min·su¦kī¦šī·bi¦muq·qi¦⟦ : ⟧tu·šib¦˙i·na¦˙ā·li¦
+kī¦šer·ri¦la·ʾî¦⟦ : ⟧tu·šib¦˙i·na¦bī·ti¦
+kī¦lā¦˙ā·lik+ṣē·ri¦⟦ : ⟧nik·ka·la¦˙a·kal+sin·niš¦
+kī¦ša¦tā·ḫā·za¦lā¦nī·dû¦⟦ : ⟧nip·la·ḫa¦ni·rū·da¦
+˙a·lāk+ṣē·ri¦ša¦˙eṭ·lū·ti¦kī¦ša¦˙i·sin·num-ma¦
+˙ā·šib+˙ā·li¦lū¦ru·bû¦⟦ : ⟧˙ul¦˙i·šeb·bi¦˙ak·la¦
+šum·suk¦˙i·na¦pī+ni·šī·šū-ma¦⟦ : ⟧qa·lil¦qaq·qas·su¦
+˙a·na¦˙ā·lik+ṣē·ri¦˙a·kî¦⟦ : ⟧˙i·tar·raṣ¦qās·su¦
+ša¦˙ā·šib+˙ā·li¦⟦ : ⟧lū¦pug·gu·lat¦ku·buk·kuš¦
+˙a·na¦˙ā·lik+ṣē·ri¦˙a·kî¦⟦ : ⟧˙i·dan·nin¦mī·na¦
+˙a·kal+˙ā·li¦lul·lû¦⟦ : ⟧˙ul¦˙ub·ba·la¦ka·mān+tum·ri¦
+ši·kar+naš·pi¦⟦ : ⟧duš·šu·pi¦⟦ : ⟧˙ul¦˙ub·ba·la¦mê+nā·di¦
+˙ē·kal+tam·lî¦˙ul¦˙ub·ba·la¦ma·ṣal·lu¦ša¦rē·ʾî¦
+qu·rā·du¦˙er·ra¦ṣī-ma¦˙a·na¦ṣē·ri¦tu·ruk¦kak·kī·ka¦
+ri·gim·ka¦dun·nin-ma¦⟦ : ⟧liš·tar·ʾi·bū¦˙e·liš¦˙u¦šap·liš¦
+˙i·gī·gū¦liš·mû-ma¦⟦ : ⟧li·šar·bû¦šum·ka¦
+˙a·nun·na·kū¦liš·mû-ma¦⟦ : ⟧liš·ḫu·ṭū¦zi·kir·ka¦
+˙i·lū¦liš·mû-ma¦⟦ : ⟧lik·nu·šū¦˙a·na¦nī·rī·ka¦
+mal·kū¦liš·mû-ma¦⟦ : ⟧lik·mi·sū¦ša·pal·ka¦
+mā·tā·tu¦liš·mâ-ma¦⟦ : ⟧bi·las·si·na¦liš·šâ·ka¦
+gal·lû¦liš·mû-ma¦⟦ : ⟧˙i·na¦ra·mā·nī·šu·nu¦li·mū·tū¦
+dan·nu¦liš·mē-ma¦⟦ : ⟧liš·šur¦˙e·mū·qī·šu¦
+ḫur·sā·nū¦zaq·rū·tu¦liš·mû-ma¦lī·tab·bi·tū-ma¦liš·pi·lā¦rē·šā·šun¦
+tâ·mā·tu¦gal·lā·tu¦liš·mâ-ma¦lid·dal·ḫā-ma¦li·ḫal·li·qā¦me·šer·ta¦
+ša¦qī·ši+dan·ni¦⟦ : ⟧lik·tap·pi·rū¦gup·nū·šu¦
+˙a·pu¦ša¦nē·re·ba¦lā¦˙ī·šû¦⟦ : ⟧liḫ·taṣ·ṣi·ṣū¦qa·nû·šu¦
+ni·šū¦lip·la·ḫā-ma¦⟦ : ⟧lit·qu·na¦ḫu·būr·šin¦
+bū·lu¦lī·rur-ma¦⟦ : ⟧li·tūr¦˙a·na¦ṭiṭ·ṭi¦
+˙i·lū¦˙ab·bū·ka¦lī·mu·rū-ma¦⟦ : ⟧li·nā·dū¦qur·dī·ka¦
+qu·rā·du¦˙er·ra¦min·su¦ṣē·ra¦tu·maš·šir-ma¦⟦ : ⟧tu·šib¦˙i·na¦˙ā·li¦
+būl+šak·kan¦˙u¦nam·maš·šû¦⟦ : ⟧le·qû¦šē·ṭūt·ni¦
+qu·rā·du¦˙er·ra¦ni·qab·bī·kum-ma¦˙at·mû·ni¦lim·ruṣ¦˙e·lī·ka¦
+˙a·di¦mā·tu¦nap·ḫar·ša¦⟦ : ⟧˙ir·bû¦˙e·lī·ni¦
+min·dē-ma¦˙at·tā¦⟦ : ⟧še·mâ·ta¦˙a·māt·ni¦
+min·dē-ma¦˙a·māt·ni¦⟦ : ⟧˙ul¦še·mâ·ta¦˙at·tā¦
+˙a·na¦˙a·nun·na·kī¦rā·ʾim+šaḫ·rar·ti¦⟦ : ⟧da·miq·ta¦˙ep·ša¦
+˙a·nun·na·kū¦˙i·na¦ḫu·būr+ni·šī¦⟦ : ⟧˙ul¦˙i·reḫ·ḫû¦šit·ta¦
+na·piš·ti+mā·ti¦gi·pā·ra¦⟦ : ⟧ra·ḫiṣ¦bū·lu¦
+˙ik·ka·ru¦˙i·na¦muḫ·ḫi¦⟦ … : ⟧˙i·bak·ki¦ṣar·piš¦
+nē·šu¦˙u¦bar·ba·ru¦˙u·šam·qa·tū¦būl+šak·kan¦
+rē·ʾû¦˙aš·šu¦ṣē·nī·šu¦˙ur·ra¦˙u¦mū·ša¦˙ul¦˙i·ṣal·lal¦˙i·bal·la¦kâ·ša¦
+˙u¦nī·nu¦mū·dê+nē·reb+ša·dî¦⟦ : ⟧nim·taš·ši¦ḫar·rā·na¦
+˙i·na¦muḫ·ḫi¦til·lê¦ṣē·rī·ni¦⟦ : ⟧ša·tât¦qê¦˙et·tū·tu¦
+qa·šat·ni¦ṭāb·tu¦˙ib·bal·kit-ma¦⟦ : ⟧˙id·ni·na¦˙e·li¦˙e·mū·qī·ni¦
+ša¦˙uṣ·ṣī·ni¦zaq·ti¦⟦ : ⟧ke·pât¦li·šāš·šu¦
+pa·tar·ni¦˙i·na¦lā¦ṭa·bā·ḫi¦˙it·ta·di¦šuḫ·ta¦
+˙iš·mē·šu·nū·tī-ma¦qu·rā·du¦˙er·ra¦
+˙a·māt+se·bet·ti¦˙iq·bû¦kī¦˙u·lu¦šam·ni¦˙e·lī·šu¦˙i·ṭīb¦
+˙a·māt+se·bet·ti¦˙iq·bû·šu¦˙e·lī·šu¦kī¦˙u·lu¦⟦ ( ⟧šam·ni¦⟦) : ⟧˙i·ṭīb¦
+˙ī·puš-ma¦pâ·šu¦⟦ : ⟧˙i·zak·kar¦˙a·na¦˙ī·šum¦
+min·su¦še·mâ·tā-ma¦⟦ : ⟧qâ·liš¦tuš·šab¦
+ṭū·da¦pi·tē-ma¦⟦ : ⟧luṣ·bat¦ḫar·rā·na¦
+se·bet·tu+qar·rād¦lā¦ša·nān¦⟦ : ⟧lup·pi·šū¦tā·ḫā·za¦
+kak·kī·ya¦˙ez·zū·ti¦⟦ : ⟧šū·li·ka¦˙i·dā·ya¦
+˙u¦˙at·tā¦˙ā·lik+maḫ·rī·ya¦⟦ : ⟧˙a·lik¦pā·nī·ya¦
+˙ī·šum¦˙an·nī·ta¦˙i·na¦še·mê·šu¦
+˙iš·mē-ma¦˙ī·šum¦˙an·nâ¦qa·bâ¦ša¦˙er·ra¦
+rē·ma¦˙ir·ta·šī-ma¦⟦ : ⟧˙iq·ta·bi¦˙a·ḫū·lap¦
+˙ī·puš-ma¦pâ·šu¦˙i·zak·kar¦˙a·na¦qu·rā·di¦˙er·ra¦
+qu·rā·du¦˙er·ra¦min·su¦˙a·na¦˙i·lī¦⟦ : ⟧le·mut·ta¦tak·pud¦
+˙a·na¦sa·pān+mā·tā·ti¦ḫul·luq+ni·šī·šin¦le·mut·ta¦tak·pud-ma¦lā¦ta·tūr¦˙a·na¦˙ar·kī·ka¦
+˙er·ra¦pâ·šu¦⟦ : ⟧˙ī·puš-ma¦˙i·qab·bi¦
+˙a·na¦˙ī·šum¦˙ā·lik+maḫ·rī·šu¦⟦ : ⟧˙a·mā·ta¦˙i·zak·kar¦
+˙ī·šum¦qū·lam-ma¦⟦ : ⟧ši·me¦qa·bâ·ya¦
+˙aš·šu¦ni·šī¦dad·mē¦⟦ : ⟧ša¦taq·bû¦ga·māl·šin¦
+˙ā·lik+maḫ·ri¦˙i·lī¦˙en·qu¦˙ī·šum¦ša¦mi·lik·šu¦dam·qu¦
+˙i·na¦ša·mê¦rī·mā·ku¦⟦ : ⟧˙i·na¦˙er·ṣe·ti¦lab·bā·ku¦
+˙i·na¦mā·ti¦šar·rā·ku¦⟦ : ⟧˙i·na¦˙i·lī¦˙ez·zā·ku¦
+˙i·na¦˙i·gī·gī¦qar·dā·ku¦⟦ : ⟧˙i·na¦˙a·nun·na·kī¦gaš·rā·ku¦
+˙i·na¦bū·li¦mā·ḫi·ṣā·ku¦⟦ : ⟧˙i·na¦ša·dî¦šu·bā·ku¦
+˙i·na¦˙a·pi¦gī·rā·ku¦⟦ : ⟧˙i·na¦qī·ši¦mag·ša·rā·ku¦
+˙i·na¦˙a·lāk+ḫar·rā·ni¦˙u·rin·nā·ku¦
+kī¦šā·ri¦˙a·zâq¦⟦ : ⟧kī¦˙ad·di¦˙ur·taṣ·ṣan¦
+kī¦šam·ši¦˙a·bar·ri¦⟦ : ⟧kip·pa·ta¦ka·lā·ma¦
+˙a·na¦ṣē·ri¦˙uṣ·ṣī-ma¦bib·bā·ku¦
+˙a·na¦na·mî¦˙er·rub-ma¦ner·gal¦ra·mâ·ku¦šub·ta¦
+˙i·lū¦nap·ḫar·šu·nu¦⟦ : ⟧ni·bī·tī¦šaḫ·tū¦
+˙u¦ni·šī¦ṣal·māt+qaq·qa·di¦⟦ : ⟧le·qû¦šē·ṭū·tī¦
+˙a·nā·ku¦˙aš·šu¦lā¦˙iš·ḫu·ṭū-ma¦zik·rī¦
+˙u¦ša¦ru·bê¦ma·rū·tuk¦˙a·mās·su¦˙id·dû-ma¦˙ep·pu·šu¦kī¦lib·buš¦
+ru·bâ¦ma·rū·tuk¦˙u·šag·gag-ma¦˙i·na¦šub·tī·šu¦˙a·dek·kē-ma¦ni·šī¦˙a·sap·pan¦
+qu·rā·du¦˙er·ra¦˙a·na¦šu·ʾan·na¦˙āl+šar+˙i·lī¦˙iš·ta·kan¦pā·nī·šu¦
+˙a·na¦˙ē·sa·gil¦˙ē·kal+ša·mê¦˙u¦˙er·ṣe·ti¦˙ī·rum-ma¦˙it·ta·ziz¦pā·nuš·šu¦
+˙ī·puš-ma¦pâ·šu¦⟦ : ⟧˙a·na¦šar+˙i·lī¦˙ī·tam·mi¦
+min·su¦šu·kut·tu¦si·mat+bē·lū·tī·ka¦ša¦kī·ma¦kak·ka·bī¦ša·mā·mī¦lu·lâ¦ma·lât¦le·qât¦˙u·rū·ša¦
+˙a·gê¦bē·lū·tī·ka¦ša¦kī·ma¦˙ē·te·me·nan·ki¦˙u·šan·bi·ṭu¦˙ē·ḫa·lan·ki¦pā·nū·šu¦kat·mū¦
+˙ī·puš-ma¦pâ·šu¦⟦ : ⟧šar+˙i·lī¦˙ī·tam·mi¦
+˙a·na¦˙er·ra¦qar·rād+˙i·lī¦⟦ : ⟧˙a·mā·ta¦˙i·zak·kar¦
+qu·rā·du¦˙er·ra¦˙aš·šu¦šip·ri¦šâ·šu¦ša¦taq·bû¦˙e·pē·ša¦
+˙ul·tu¦˙ul·lu¦˙ā·gu·gū-ma¦˙i·na¦šub·tī·ya¦˙at·bû-ma¦˙aš·ku·na¦˙a·bū·ba¦
+˙i·na¦šub·tī·ya¦˙at·bē-ma¦ši·pīt+ša·mê¦˙u¦˙er·ṣe·ti¦˙up·taṭ·ṭir¦
+ša·mê¦ša¦˙uš·tar·ʾi·bū¦ša¦kak·ka·bī¦ša·mā·mī¦man·zās·su·nu¦˙iš·nī-ma¦˙ul¦˙u·tīr¦˙aš·ruš·šun¦
+˙er·kal·lu¦ša¦˙i·nū·šu¦ša¦šer·ʾi¦bi·las·su¦˙im·ṭī-ma¦˙a·di¦˙ul·la¦˙a·na¦˙e·mē·di¦˙aš·ṭa¦
+ši·pīt+ša·mê¦˙u¦˙er·ṣe·ti¦ša¦˙up·taṭ·ṭi·ru¦nag·bu¦˙im·ta·ṭī-ma¦mī·lū¦˙it·taḫ·sū¦˙a·tūr¦˙ā·mur-ma¦˙a·na¦še·bê¦˙im·tar·ṣa¦
+ša¦šik·nāt+na·piš·ti¦nab·nīs·si·na¦˙iṣ·ḫir-ma¦⟦ : ⟧˙ul¦˙u·tīr¦˙aš·ruš·šun¦
+˙a·di¦kī·ma¦˙ik·ka·ri¦zē·rī·šin¦⟦ : ⟧˙aṣ·ba·tu¦˙i·na¦qā·tī·ya¦
+bī·ta¦˙ē·puš-ma¦⟦ : ⟧˙u·šib¦˙i·na¦lib·bi¦
+šu·kut·tī¦ša¦˙i·na¦˙a·bū·bi¦˙ud·daʾ·ʾi·pū-ma¦⟦ : ⟧˙ī·ki·lu¦ši·kin·ša¦
+˙a·na¦šun·buṭ+zī·mī·ya¦˙u¦˙ub·bub+ṣu·bā·tī·ya¦⟦ : ⟧gī·ra¦˙um·taʾ·ʾer¦
+˙ul·tu¦šu·kut·tī¦˙u·nam·me·rū-ma¦⟦ : ⟧˙u·qat·tû¦šip·ra¦
+˙a·gê¦bē·lū·tī·ya¦˙an·nad·qū-ma¦⟦ : ⟧˙a·na¦˙aš·rī·ya¦˙a·tū·ru¦
+zī·mū·ʾa¦tub·bû-ma¦⟦ : ⟧ga·lit¦niṭ·lī¦
+ni·šū¦ša¦˙i·na¦˙a·bū·bi¦˙i·sī·tā-ma¦˙ī·mu·rā¦˙e·pēš+šip·ri¦
+kak·kī·ya¦˙u·šat·bā-ma¦⟦ : ⟧˙u·ḫal·laq¦rē·ḫa¦
+kak·kī·ka¦tu·šat·bī-ma¦⟦ : ⟧tu·ḫal·liq¦rē·ḫa¦
+˙um·mâ·nī¦šu·nū·ti¦˙a·na¦˙ap·sî¦˙u·šē·rid-ma¦⟦ : ⟧˙e·lâ·šu·nu¦˙ul¦˙aq·bi¦
+ša¦mē·si¦˙el·mē·ši¦˙a·šar·šun¦˙u·nak·kir-ma¦⟦ : ⟧˙ul¦˙u·kal·lim¦mam·ma¦
+˙en·na¦˙aš·šu¦šip·ri¦šâ·šu¦ša¦taq·bû¦qu·rā·du¦˙er·ra¦
+˙a·li¦mē·su¦šīr+˙i·lī¦si·mat+šar+gim·ri¦
+˙i·ṣu¦˙el·lu¦˙eṭ·lu¦ṣī·ru¦⟦ : ⟧ša¦šū·lu·ku¦˙a·na¦bē·lū·ti¦
+ša¦˙i·na¦tâm·ti¦ra·paš·ti¦˙i·na¦mê¦me·ʾat¦bē·rī¦˙i·šis·su¦˙ik·šu·du¦šu·pul+˙a·ral·li¦
+˙u¦qim·mas·su¦˙i·na¦˙e·lâ·ti¦˙em·det¦ša·mê¦ša¦˙ā·nu¦
+˙a·li¦˙eb·bu¦za·gin·du·rû¦⟦ : ⟧ša¦˙u·šam·sa·kū¦˙uq·nâ¦
+˙a·li¦ni·nil·du¦⟦ : ⟧na·gar·gal¦˙ā·nū·tī·ya¦
+nāš+pā·ši¦šaš·ši¦˙eb·bi¦⟦ : ⟧mū·dû¦˙i·ṣi¦šâ·šu¦
+ša¦kī·ma¦˙ū·mi¦˙u·šan·ba·ṭū-ma¦⟦ : ⟧˙i·na¦šap·lū·ʾa¦˙u·kan·nu¦
+˙a·li¦ku·si·ban·da¦bān+˙i·li¦˙u¦˙a·mē·li¦⟦ : ⟧ša¦qā·tā·šu¦nas·qā¦
+˙a·li¦ni·na·gal¦⟦ : ⟧nāš+˙e·sî¦˙u¦ša·pil·ti¦⟦ …⟧
+ša¦dan·na¦˙e·râ¦kī·ma¦maš·ki¦˙i·lē·mu¦⟦ : ⟧pā·ti·qu¦˙u·nū·ti¦
+˙a·li¦˙ab·nū¦nas·qū·tu¦bi·nût+tâm·ti¦ra·paš·ti¦si·mat+˙a·gê¦
+˙a·li¦se·bet+˙ap·kal·lū¦˙ap·sî¦pu·rā·dū¦˙eb·bū·tu¦ša¦kī·ma¦˙ē·¨a¦bē·lī·šu·nu¦˙uz·na¦ṣīr·ta¦šuk·lu·lū¦mub·bi·bū¦zum·rī·ya¦
+˙iš·mē·šū-ma¦qu·rā·du¦˙er·ra¦
+˙ī·puš-ma¦pâ·šu¦˙i·zak·kar¦˙a·na¦ru·bê¦ma·rū·tuk¦
+⟦… … ⟧˙ul·tu¦˙ap·sî¦⟦ … … ⟧˙a·na¦˙e·lâ·ti¦
+mē·su¦⟦ … ⟧me·ḫer·šu¦˙u·šel·lâm-ma¦⟦ … ⟧mē·sa¦
+˙el·mē·ša¦˙eb·ba¦ša¦⟦ … … ⟧me·ḫer·šu¦˙u·šel·lâm-ma¦⟦ … … ⟧˙el·mē·šu¦
+ma·rū·tuk¦˙an·nī·ta¦˙i·na¦še·mê·šu¦
+˙ī·puš-ma¦pâ·šu¦˙i·zak·kar¦˙a·na¦qu·rā·di¦˙er·ra¦
+˙i·na¦šub·tī·ya¦˙a·teb·bī-ma¦⟦ : ⟧ši·pīt+ša·mê¦˙er·ṣe·ti¦˙up·taṭ·ṭar¦
+mû¦˙il·lû·nim-ma¦⟦ : ⟧˙i·baʾ·ʾū¦mā·ta¦
+˙ū·ma¦nam·ra¦⟦ : ⟧˙a·na¦da·ʾum·ma·ti¦˙u·tar·rū¦
+me·ḫû¦˙i·teb·bâ-ma¦kak·ka·bī¦ša·mā·mī¦⟦ … ⟧˙u·kat·tam¦
+šā·ru¦lem·nu¦˙i·ziq·qam-ma¦ša¦ni·šī¦šik·nāt+na·piš·ti¦ni·ṭil·šin¦˙uṭ·ṭa¦
+gal·lû¦˙il·lû·nim-ma¦˙i·ṣab·ba·tū¦⟦ …⟧
+ša¦qab·lī¦paṭ·rā·ti¦mā·ḫir·šu·nu¦⟦ …⟧
+˙a·nun·na·kū¦˙il·lû·nim-ma¦⟦ : ⟧šik·nāt+na·piš·ti¦˙i·mes·sū¦
+˙a·di¦kak·kī·ya¦lā¦˙an·nad·qu¦⟦ : ⟧˙u·târ·šu·nū·ti¦man·nu¦
+˙er·ra¦˙an·nī·ta¦˙i·na¦še·mê·šu¦
+˙ī·puš-ma¦pâ·šu¦˙i·zak·kar¦˙a·na¦ru·bê¦ma·rū·tuk¦
+ru·bû¦ma·rū·tuk¦˙a·di¦˙at·tā¦˙a·na¦bī·ti¦šâ·šu¦ter·ru·bū-ma¦gī·ru¦ṣu·bāt·ka¦˙ub·ba·bū-ma¦ta·tū·ra¦˙aš·ruk·ka¦
+˙a·di¦˙ul·la¦˙a·rad·dī-ma¦⟦ : ⟧ši·pīt+ša·mê¦˙er·ṣe·ti¦˙u·dan·nan¦
+˙a·na¦ša·mê¦˙el·lī-ma¦˙a·na¦˙i·gī·gī¦˙a·nad·din¦˙ûr·ta¦
+˙ur·rad¦˙a·na¦˙ap·sî¦⟦ : ⟧˙a·nun·na·kī¦˙u·paq·qad¦
+gal·lê¦šam·rū·ti¦⟦ : ⟧˙a·na¦kur·nu·gî¦˙a·ṭar·rad-ma¦
+kak·kī·ya¦˙ez·zū·ti¦⟦ : ⟧˙e·lī·šu·nu¦˙uš·zaz·za¦
+ša¦šā·ri¦lem·ni¦kī·ma¦˙iṣ·ṣū·ri¦⟦ : ⟧˙a·kas·sâ¦˙i·dī·šu¦
+˙a·na¦bī·ti¦šâ·šu¦˙a·šar¦ter·ru·bu¦ru·bû¦ma·rū·tuk¦
+˙im·na¦˙u¦šu·mē·la¦ša¦bā·bī·ka¦˙ā·nu¦˙u¦˙el·lil¦˙u·šar·ba·ṣa¦kī·ma¦˙al·pi¦
+˙iš·mē·šū-ma¦ru·bû¦ma·rū·tuk¦
+˙a·māt+˙er·ra¦˙iq·bû·šu¦⟦ : ⟧˙e·lī·šu¦˙i·ṭīb¦

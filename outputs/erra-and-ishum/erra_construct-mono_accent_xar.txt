@@ -1,0 +1,230 @@
+---
+package:
+  name: "akkapros"
+  version: "3.0.1"
+pipeline: "pipeline"
+step: "print"
+file:
+  id: "0b72e755-36ec-50f5-9485-b6264d189e7e"
+  title: "L I.5 Erra and Išum SB I"
+  format: "xar"
+  version: "1.0.0"
+  date: "2026-05-11"
+metadata:
+  input_file_id: "6a0e67ec-e771-597e-b3c0-5c27138eb9dd"
+  options:
+    prosody_style: "lob"
+    mora_mode: "mono"
+    phonetize_geminate_policy: "corrective"
+    phonetize_accentuation_distribution_policy: "80_20"
+    phonetize_drift_tolerance: 19
+    metrics_table: true
+    metrics_json: true
+    print_acute: true
+    print_bold: true
+    print_xar: true
+    print_merger: false
+    extra_vowels: ""
+    extra_consonants: ""
+    extra_short_punct_chars: ""
+    extra_long_punct_chars: ""
+    extra_short_punct_pattern: "[]"
+    extra_long_punct_pattern: "[]"
+---
+
+x̌ar g´imir dad´mee baaniû´ kibraa´ti … 
+ḫendursan´ga apil el´lil reex̌tiû´ … 
+naax̌ ḫàꞓ´ꞓì ɉìi´rti naa´ꝗìd ɉàlmaat ꝗàꝗ´ꝗàdi ree'iû´ teneex̌ee´ti
+ii´x̌um ꞓàa´biḫu na'´du x̌a ana nax̌aê´ kakkii´x̌u ezzuu´ti ꝗàataa´x̌u as´maa
+u ana x̌ub´rùꝗ ùlmii´x̌u x̌eeruu´ti er´ra ꝗàrraad ilii´ inuu´x̌u ina x̌ub´ti
+iirissuu´-ma lib´bax̌u : epeex̌ taaḫaa´zi
+iitam´mi ana kakkii´x̌u : lit´pataa imat muu´ti
+ana sebet´ti ꝗàrraa´d laa x̌anaa´n : nan´diꝗàa kakkii´kun
+iꝗàbbii´ku ana keâ´x̌a : luɉìi´-ma ana ɉèe´ri
+at´taa dipaarum´-ma : inàꞓ´ꞓàluu nuu´rka
+at´taa aalik maḫrim´-ma : iluu´ … … 
+at´taa namɉàrum´-ma ꞓàa´biḫu … 
+er´ra tebii´-ma : ina sapaa´n maa´ti
+kii´ nam´rat kabtat´ka : u ḫadiû´ lib´buk
+er´ra kii´ x̌a amee´li dal´pi : idaa´x̌u an´ḫaa
+iꝗàb´bi ana libbii´x̌u : lut´be lùɉlàl´-ma
+iitam´ma ana kakkii´x̌u : um´medaa tubꝗàa´ti
+ana sebet´ti ꝗàrraa´d laa x̌anaa´n : ana x̌ubtii´kunu tuuraa´-ma
+ad´i at´taa tadekkiû´x̌u : ɉàl´il urx̌ux̌´x̌u
+itti maa´mi ḫii´ratux̌ : ip´pux̌a ulɉàm´-ma
+en´gidudu bee´lu muttallik muu´x̌i muttarriû rubaê´
+x̌a èꞓ´là u ar´data ina x̌ul´mi ittanarriû´ unam´maru kii´ma uu´mi
+x̌a sebet´ti ꝗàrraa´d laa x̌anaa´n : x̌unneâ´t iluu´ssun
+ilit´tax̌unu aḫeâ´t-ma : maliû´ pulḫaa´ti
+aamir´x̌unu ux̌taḫḫat´-ma : napii´ssunu muutum´-ma
+nix̌uu´ x̌aḫtuu´-ma : ul i'ir´ruu ana x̌eâ´x̌u
+ii´x̌um daltum´-ma : ed´il paanux̌´x̌un
+aa´nu x̌ar ilii´ : er´ɉèta irḫee´-ma
+sebetti ilii´ uldax̌x̌um´-ma : sebet´ta it´tabi zikir´x̌un
+izzaz´zuu ina maḫriix̌uu´-ma : x̌iimas´sunu ix̌ii´m-ma
+issii´-ma ix̌tee´n : ix̌ak´kana ꞓèe´ma
+ee´ma tandiruu´-ma tattal´ku : maa´ḫira ee´ tar´x̌i
+iꝗàb´bi ana x̌aneî´ kii´ma gii´ri kubum´-ma : ḫum´ùꞓ kii´ma nab´li
+iitam´mi ana x̌al´x̌i ziim lab´bi luu x̌aknaataa´-ma aamir´ka lix̌ḫar´mìꞓ
+iꝗàb´bi ana rebeî´ ana nax̌aê´ kakkii´ka ezzuu´ti x̌adiû´ liitab´bit
+ana ḫam´x̌i ìꝗ´tabi kii´ma x̌aa´ri zìi´ꝗ-mà : kip´pata ḫii´ꞓà
+x̌ex̌´x̌a umta'´'er el´ix̌ u x̌ap´lix̌ baa'am´-ma : laa tagam´mil mam´ma
+sibeâ´ imat bax̌´mi iɉèenx̌uu´-ma x̌um´ꝗìta napix̌´ta
+ul´tu x̌iimat sebet´ti napḫar´x̌unu : ix̌ii´mu aa´nu
+iddinx̌unuutii´-ma ana er´ra ꝗàrraad ilii´ : lil´likuu idaa´ka
+kii´ x̌a nix̌ii´ dad´mee ḫubuu´rx̌ina : elii´ka imtar´ɉù
+ublam´-ma lib´baka : ana x̌akaa´n kamaa´ri
+ɉàlmaat ꝗàꝗ´ꝗàdi ana x̌umut´ti : x̌um´ꝗùtu buul x̌ak´kan
+luu kakkuu´ka ezzuu´tu x̌unuu´-ma : lil´likuu idaa´ka
+x̌unu ezzuu´-ma : tebiû´ kakkuu´x̌un
+iitammiû´ ana er´ra : tib´e iziz´-ma
+min´su kii´ x̌ii´bi mùꝗ´ꝗì : tux̌´ib ina aa´li
+kii´ x̌er´ri la'eî´ : tux̌´ib ina bii´ti
+kii´ laa aa´lik ɉèe´ri : nik´kala akal sin´nix̌
+kii´ x̌a taaḫaa´za laa niidiû´ : nip´laḫa niruu´da
+alaak ɉèe´ri x̌a èꞓlùu´ti kii´ x̌a isinnum´-ma
+aax̌ib aa´li luu rubiû´ : ul ix̌eb´bi ak´la
+x̌um´suk ina pii´ nix̌iix̌uu´-ma : ꝗàl´il ꝗàꝗꝗàs´su
+ana aa´lik ɉèe´ri akeî´ : itar´ràɉ ꝗàa´ssu
+x̌a aa´x̌ib aa´li : luu pug´gulat kubuk´kux̌
+ana aa´lik ɉèe´ri akeî´ : idan´nin mii´na
+akal aa´li lulliû´ : ul ub´bala kamaan tum´ri
+x̌ikar nax̌´pi : dux̌´x̌upi : ul ub´bala maê naa´di
+eekal tamleî´ ul ub´bala maɉàl´lu x̌a ree'eî´
+ꝗùraa´du er´ra ɉìi´-ma ana ɉèe´ri tur´uk kakkii´ka
+rigim´ka dunnin´-ma : lix̌tar´'ibuu el´ix̌ u x̌ap´lix̌
+igii´guu lix̌miû´-ma : lix̌arbiû´ x̌um´ka
+anun´nakuu lix̌miû´-ma : lix̌´ḫuꞓùu zikir´ka
+iluu´ lix̌miû´-ma : lik´nux̌uu ana niirii´ka
+mal´kuu lix̌miû´-ma : lik´misuu x̌apal´ka
+maataa´tu lix̌meâ´-ma : bilas´sina lix̌x̌eâ´ka
+galliû´ lix̌miû´-ma : ina ramaanii´x̌unu limuu´tuu
+dan´nu lix̌mee´-ma : lix̌´x̌ur emuuꝗìi´x̌u
+ḫursaa´nuu zàꝗrùu´tu lix̌miû´-ma liitabbituu´-ma lix̌´pilaa reex̌aa´x̌un
+teâmaa´tu gallaa´tu lix̌meâ´-ma liddalḫaa´-ma liḫal´liꝗàa mex̌er´ta
+x̌a ꝗìi´x̌i dan´ni : liktap´piruu gupnuu´x̌u
+ap´u x̌a nee´reba laa iix̌iû´ : liḫtaɉ´ɉìɉùu ꝗàniû´x̌u
+nix̌uu´ liplaḫaa´-ma : lit´ꝗùna ḫubuu´rx̌in
+buu´lu liirur´-ma : lituu´r ana ꞓìꞓ´ꞓì
+iluu´ abbuu´ka liimuruu´-ma : linaa´duu ꝗùrdii´ka
+ꝗùraa´du er´ra min´su ɉèe´ra tumax̌x̌ir´-ma : tux̌´ib ina aa´li
+buul x̌ak´kan u nammax̌x̌iû´ : leꝗìû´ x̌eeꞓùu´tni
+ꝗùraa´du er´ra niꝗàbbiikum´-ma atmiû´ni lim´rùɉ èlii´ka
+ad´i maa´tu napḫar´x̌a : irbiû´ elii´ni
+mindee´-ma at´taa : x̌emeâ´ta amaa´tni
+mindee´-ma amaa´tni : ul x̌emeâ´ta at´taa
+ana anun´nakii raa'im x̌aḫrar´ti : damìꝗ´ta ep´x̌a
+anun´nakuu ina ḫubuu´r nix̌ii´ : ul ireḫḫiû´ x̌it´ta
+napix̌ti maa´ti gipaa´ra : raḫ´ìɉ bùu´lu
+ik´karu ina muḫ´ḫi … : ibak´ki ɉàr´pix̌
+nee´x̌u u bar´baru ux̌am´ꝗàtuu buul x̌ak´kan
+ree'iû´ ax̌´x̌u ɉèenii´x̌u ur´ra u muu´x̌a ul iɉàl´lal ibal´la keâ´x̌a
+u niinu muudaê´ neereb x̌adeî´ : nimtax̌´x̌i ḫarraa´na
+ina muḫ´ḫi tillaê´ ɉèerii´ni : x̌ateâ´t ꝗàê´ ettuu´tu
+ꝗàx̌at´ni ꞓàa´btu ibbalkit´-ma : id´nina eli emuuꝗìi´ni
+x̌a ùɉɉìi´ni zàꝗ´ti : kepeâ´t lix̌aa´x̌x̌u
+patar´ni ina laa ꞓàbaa´ḫi it´tadi x̌uḫ´ta
+ix̌meex̌unuutii´-ma ꝗùraa´du er´ra
+amaat sebet´ti ìꝗbìû´ kii´ ul´u x̌am´ni elii´x̌u iꞓìi´b
+amaat sebet´ti ìꝗbìû´x̌u elii´x̌u kii´ ul´u ( x̌am´ni ) : iꞓìi´b
+iipux̌´-ma peâ´x̌u : izak´kar ana ii´x̌um
+min´su x̌emeâtaa´-ma : ꝗèâ´lix̌ tux̌´x̌ab
+ꞓùu´da pitee´-ma : lùɉ´bàt ḫarraa´na
+sebettu ꝗàrraa´d laa x̌anaa´n : lup´pix̌uu taaḫaa´za
+kakkii´ja ezzuu´ti : x̌uu´lika idaa´ja
+u at´taa aalik maḫrii´ja : al´ik paanii´ja
+ii´x̌um annii´ta ina x̌emaê´x̌u
+ix̌mee´-ma ii´x̌um anneâ´ ꝗàbeâ´ x̌a er´ra
+ree´ma irtax̌ii´-ma : ìꝗ´tabi aḫuu´lap
+iipux̌´-ma peâ´x̌u izak´kar ana ꝗùraa´di er´ra
+ꝗùraa´du er´ra min´su ana ilii´ : lemut´ta tak´pud
+ana sapaa´n maataa´ti ḫullùꝗ nìx̌ii´x̌in lemut´ta takpud´-ma laa tatuu´r ana arkii´ka
+er´ra peâ´x̌u : iipux̌´-ma iꝗàb´bi
+ana ii´x̌um aalik maḫrii´x̌u : amaa´ta izak´kar
+ii´x̌um ꝗùulam´-ma : x̌im´e ꝗàbeâ´ja
+ax̌´x̌u nix̌ii´ dad´mee : x̌a taꝗbìû´ gamaa´lx̌in
+aalik maḫ´ri ilii´ en´ꝗù ii´x̌um x̌a milik´x̌u dam´ꝗù
+ina x̌amaê´ riimaa´ku : ina er´ɉèti labbaa´ku
+ina maa´ti x̌arraa´ku : ina ilii´ ezzaa´ku
+ina igii´gii ꝗàrdaa´ku : ina anun´nakii gax̌raa´ku
+ina buu´li maaḫiɉàa´ku : ina x̌adeî´ x̌ubaa´ku
+ina ´api giiraa´ku : ina ꝗìi´x̌i magx̌araa´ku
+ina alaa´k ḫarraa´ni urinnaa´ku
+kii´ x̌aa´ri azèâ´ꝗ : kii´ ad´di urtaɉ´ɉàn
+kii´ x̌am´x̌i abar´ri : kip´pata kalaa´ma
+ana ɉèe´ri ùɉɉìi´-ma bibbaa´ku
+ana nameî´ errub´-ma ner´gal rameâ´ku x̌ub´ta
+iluu´ napḫar´x̌unu : nibii´tii x̌aḫ´tuu
+u nix̌ii´ ɉàlmaat ꝗàꝗ´ꝗàdi : leꝗìû´ x̌eeꞓùu´tii
+anaaku ax̌´x̌u laa ix̌ḫuꞓùu´-ma zik´rii
+u x̌a rubaê´ maruu´tuk amaa´ssu iddiû´-ma ep´pux̌u kii´ lib´bux̌
+rubeâ´ maruu´tuk ux̌aggag´-ma ina x̌ubtii´x̌u adekkee´-ma nix̌ii´ asap´pan
+ꝗùraa´du er´ra ana x̌u'an´na aal x̌ar ilii´ ix̌´takan paanii´x̌u
+ana ee´sagil eekal x̌amaê´ u er´ɉèti iirum´-ma it´taziz paanux̌´x̌u
+iipux̌´-ma peâ´x̌u : ana x̌´ar ilii´ iitam´mi
+min´su x̌ukut´tu simat beeluutii´ka x̌a kii´ma kak´kabii x̌amaa´mii luleâ´ maleâ´t leꝗèâ´t uruu´x̌a
+agaê´ beeluutii´ka x̌a kii´ma eetemenan´ki ux̌an´biꞓù eeḫalan´ki paanuu´x̌u kat´muu
+iipux̌´-ma peâ´x̌u : x̌ar ilii´ iitam´mi
+ana er´ra ꝗàrraad ilii´ : amaa´ta izak´kar
+ꝗùraa´du er´ra ax̌´x̌u x̌ip´ri x̌eâ´x̌u x̌a taꝗbìû´ epee´x̌a
+ul´tu ul´lu aaguguu´-ma ina x̌ubtii´ja atbiû´-ma ax̌´kuna abuu´ba
+ina x̌ubtii´ja atbee´-ma x̌ipiit x̌amaê´ u er´ɉèti uptaꞓ´ꞓìr
+x̌amaê´ x̌a ux̌tar´'ibuu x̌a kak´kabii x̌amaa´mii manzaa´ssunu ix̌nii´-ma ul utii´r ax̌rux̌´x̌un
+erkal´lu x̌a inuu´x̌u x̌a x̌er´'i bilas´su imꞓìi´-ma ad´i ul´la ana emee´di ax̌´ꞓà
+x̌ipiit x̌amaê´ u er´ɉèti x̌a uptaꞓ´ꞓìru nag´bu imtaꞓìi´-ma mii´luu ittaḫ´suu atuu´r aamur´-ma ana x̌ebaê´ imtar´ɉà
+x̌a x̌iknaa´t napix̌´ti nabnii´ssina ìɉḫìr´-ma : ul utii´r ax̌rux̌´x̌un
+ad´i kii´ma ik´kari zeerii´x̌in : àɉ´bàtu ina ꝗàatii´ja
+bii´ta eepux̌´-ma : ux̌´ib ina lib´bi
+x̌ukut´tii x̌a ina abuu´bi udda''ipuu´-ma : ii´kilu x̌ikin´x̌a
+ana x̌un´bùꞓ zìimii´ja u ub´bub ɉùbaatii´ja : gii´ra umta'´'er
+ul´tu x̌ukut´tii unammeruu´-ma : uꝗàttiû´ x̌ip´ra
+agaê´ beeluutii´ja annadꝗùu´-ma : ana ax̌rii´ja atuu´ru
+ziimuu´'a tubbiû´-ma : gal´it nìꞓ´lìi
+nix̌uu´ x̌a ina abuu´bi isiitaa´-ma ii´muraa epeex̌ x̌ip´ri
+kakkii´ja ux̌atbaa´-ma : uḫal´làꝗ rèe´ḫa
+kakkii´ka tux̌atbii´-ma : tuḫal´lìꝗ rèe´ḫa
+ummeâ´nii x̌unuu´ti ana apseî´ ux̌eerid´-ma : eleâ´x̌unu ul àꝗ´bì
+x̌a mee´si elmee´x̌i ax̌ar´x̌un unakkir´-ma : ul ukal´lim mam´ma
+en´na ax̌´x̌u x̌ip´ri x̌eâ´x̌u x̌a taꝗbìû´ ꝗùraa´du er´ra
+al´i mee´su x̌iir ilii´ simat x̌ar gim´ri
+iɉ´ù el´lu èꞓ´lù ɉìi´ru : x̌a x̌uu´luku ana beeluu´ti
+x̌a ina teâ´mti rapax̌´ti ina maê´ me'´at bee´rii ix̌is´su ik´x̌udu x̌upul aral´li
+u ꝗìmmas´su ina eleâ´ti em´det x̌amaê´ x̌a aa´nu
+al´i eb´bu zaginduriû´ : x̌a ux̌am´sakuu ùꝗnèâ´
+al´i ninil´du : nagar´gal aanuutii´ja
+naax̌ paa´x̌i x̌ax̌´x̌i eb´bi : muudiû´ iɉ´ì x̌eâ´x̌u
+x̌a kii´ma uu´mi ux̌anbaꞓùu´-ma : ina x̌apluu´'a ukan´nu
+al´i kusiban´da baan ´ili u amee´li : x̌a ꝗàataa´x̌u nas´ꝗàa
+al´i ninag´al : naax̌ eseî´ u x̌apil´ti … 
+x̌a dan´na ereâ´ kii´ma max̌´ki ilee´mu : paa´tiꝗù unuu´ti
+al´i ab´nuu nasꝗùu´tu biniût teâ´mti rapax̌´ti simat agaê´
+al´i sebet apkal´luu apseî´ puraa´duu ebbuu´tu x̌a kii´ma ee´a beelii´x̌unu uz´na ɉìi´rta x̌uk´luluu mub´bibuu zumrii´ja
+ix̌meex̌uu´-ma ꝗùraa´du er´ra
+iipux̌´-ma peâ´x̌u izak´kar ana rubaê´ maruu´tuk
+ … … ul´tu apseî´ … … ana eleâ´ti
+mee´su … meḫer´x̌u ux̌elleâ´m-ma … mee´sa
+elmee´x̌a ebba x̌a … … meḫer´x̌u ux̌elleâ´m-ma … … elmee´x̌u
+maruu´tuk annii´ta ina x̌emaê´x̌u
+iipux̌´-ma peâ´x̌u izak´kar ana ꝗùraa´di er´ra
+ina x̌ubtii´ja atebbii´-ma : x̌ipiit x̌amaê´ er´ɉèti uptaꞓ´ꞓàr
+miû´ illiûnim´-ma : iba'´'uu maa´ta
+uu´ma nam´ra : ana da'um´mati utar´ruu
+meḫiû´ itebbeâ´-ma kak´kabii x̌amaa´mii … ukat´tam
+x̌aa´ru lem´nu izìꝗꝗàm´-ma x̌a nix̌ii´ x̌iknaat napix̌´ti niꞓìl´x̌in ùꞓ´ꞓà
+galliû´ illiûnim´-ma iɉàb´batuu … 
+x̌a ꝗàb´lii pàꞓràa´ti maaḫir´x̌unu … 
+anun´nakuu illiûnim´-ma : x̌iknaat napix̌´ti imes´suu
+ad´i kakkii´ja laa annad´ꝗù : uteârx̌unuu´ti man´nu
+er´ra annii´ta ina x̌emaê´x̌u
+iipux̌´-ma peâ´x̌u izak´kar ana rubaê´ maruu´tuk
+rubiû´ maruu´tuk ad´i at´taa ana bii´ti x̌eâ´x̌u terrubuu´-ma gii´ru ɉùbaa´tka ubbabuu´-ma tatuu´ra ax̌ruk´ka
+ad´i ul´la araddii´-ma : x̌ipiit x̌amaê´ er´ɉèti udan´nan
+ana x̌amaê´ ellii´-ma ana igii´gii anad´din iû´rta
+ur´rad ana apseî´ : anun´nakii upàꝗ´ꝗàd
+gallaê´ x̌amruu´ti : ana kurnugeî´ aꞓàrrad´-ma
+kakkii´ja ezzuu´ti : elii´x̌unu ux̌zaz´za
+x̌a x̌aa´ri lem´ni kii´ma ìɉɉùu´ri : akasseâ´ idii´x̌u
+ana bii´ti x̌eâ´x̌u ax̌´ar ter´rubu rubiû´ maruu´tuk
+im´na u x̌umee´la x̌a baabii´ka aa´nu u el´lil ux̌ar´baɉà kii´ma al´pi
+ix̌meex̌uu´-ma rubiû´ maruu´tuk
+amaat er´ra ìꝗbìû´x̌u : elii´x̌u iꞓìi´b

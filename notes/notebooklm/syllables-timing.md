@@ -1,0 +1,22 @@
+Based on the provided sources, the evidence strongly suggests that measuring **whole syllable or rime intervals** provides more consistent and theoretically sound data than measuring isolated consonant durations. This is because segment durations are highly "elastic" and their apparent acoustic lengths are often the byproduct of higher-level temporal targets.
+
+### **Direct Evidence**
+Direct evidence confirms that compensation operates at the level of the syllable or rime to equalize larger rhythmic units.
+*   **Rhyme Equality:** In a production study of English minimal pairs (e.g., *feet/feed*), while individual vowel and consonant durations changed significantly based on voicing and rate, **rhyme (VC) durations** for stops were nearly identical, differing by only (Morley and Smith) **(201)** ms. This indicates that speakers preserve a larger temporal target for the rime even when internal segment durations differ.
+*   **Syllable Robustness:** Syllables are significantly more robust units than segments in speech. In conversational speech corpora, while **20-22% of segments** are omitted, only **1% to 5.1% of syllables** are deleted (Pellegrino et al. 2011) **(961)**. 
+*   **Foot Isochrony:** In Estonian, the **foot PVI** (Pairwise Variability Index) is significantly lower and more stable than syllable or vowel PVI (Asu and Nolan 2006) **(1136, 1145)**. This proves that timing regularity is controlled more tightly at the foot level than at the segmental level.
+*   **Perceptual Boundaries:** In Japanese, listeners exhibit a clear **categorical perception threshold** for moraic weight (shifting from one to two morae) at approximately (Sugai 2017) **(1226, 1232)** ms.
+
+### **Indirect Suggestions**
+The sources indirectly suggest that CVC and CVV converge toward similar perceptual weight through "democratic" timing adjustments.
+*   **Convergent Targets:** The "Expandability Hypothesis" suggests that segments are not fixed but resist expanding or compressing past a preferred duration based on **inherent elasticity** (Morley and Smith) **(113, 256)**. This implies that CVC and CVV pattern together as bimoraic because they are both constrained by the same **syllable-level distribution of lengthening force** (Morley and Smith) **(113)**.
+*   **Relative Timing:** Japanese "long" vowels in production are often as short as (Sugai 2017) **(137-186)** ms, yet the perceptual threshold for a second mora is much higher (250 ms). This suggests the brain uses **relative duration and phasing** to categorize weight rather than raw milliseconds in isolation (Sugai 2017) **(1222-1223)**.
+*   **Compensatory Sharing:** In Estonian, as a foot adds unstressed syllables, "compensatory shortening is **shared more equally** among the syllables," including the stressed one, to preserve foot timing (Asu and Nolan 2006) **(1142)**.
+
+### **Unsupported Extrapolation**
+Some aspects of the proposed model lack specific empirical support in these sources:
+*   **Superheavy Intervals:** While the sources acknowledge **"overlong" (Q3)** categories in Estonian (Asu and Nolan 2006) **(1137)**, they do not provide specific, usable duration ranges for a "superheavy" CVVC class across multiple languages.
+*   **Specific Segment Classes:** There is no direct empirical evidence in these sources classifying **ʔ:V** specifically within a "heavy" class or **CVV:** within a "superheavy" class. While geminate glides (/w:/ and /j:/) are (Billington 2015) **(1.77)** times longer than singletons, their placement in a weight hierarchy is described for some languages (like Lopit) but not established as a cross-linguistic universal.
+
+### **Modeling Recommendation**
+It is **more defensible to parameterize the system by syllable and rime intervals** (light, heavy, superheavy) than by isolated consonant durations. The sources indicate that segment duration is a dependent variable of **gestural phasing** (Morley and Smith) **(211)** and **prosodic boundary forces** (Morley and Smith) **(273)**. Modeling isolated consonants ignores the "imperfect compensation" (Morley and Smith) **(258)** that occurs at the syllable level. A model based on **duration bands for timing classes** (e.g., 250ms for bimoraic targets in Japanese) better reflects how listeners categorize weight and how speakers distribute articulatory effort to meet rhythmic goals.

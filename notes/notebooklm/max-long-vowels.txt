@@ -1,0 +1,87 @@
+Based on the provided sources, the maximum duration for "very long" vowels varies significantly depending on whether the measurement is for phonological "overlength" (trimoraic syllables), emotional speech, or artificial experimental stimuli.
+
+### **1. Phonological "Overlong" Vowels**
+In languages that utilize a three-way vowel length distinction (short, long, and overlong/trimoraic), the recorded durations provide a baseline for "very long" linguistic units:
+*   **Estonian Overlength (Q3):** In Estonian, the "overlong" vowel [aa:] in the word *kaa:ta* (categorized as trimoraic) is measured at (Bruce Hayes 1989) **243** ms. For comparison, a standard long vowel (bimoraic) in a similar context is (Bruce Hayes 1989) **183** ms to **196** ms.
+*   **Persian Trimoraic Syllables:** Persian permits "ultraheavy" CVVCC syllables, which are theoretically limited to an upper boundary of (Mufleh Salem M. Alqahtani 2020) **three** moras.
+*   **Malayalam Long Vowels:** Standard long vowels in Malayalam stressed syllables have been recorded reaching (Ellen Broselow, Su-I Chen, and Marie Huffman 1997) **366.6** ms for some speakers.
+
+### **2. Phonetic and Contextual Maxima**
+Natural phonetic environment and emotional states can push vowel durations well beyond their standard phonological targets:
+*   **English Open Vowels:** In English, the open vowel /æ/ before a voiced fricative (e.g., in "pazz") was recorded at a mean duration of (Margaret A. Naeser 1970) **384** ms.
+*   **Emotional Dilation:** Emotional states like **disgust, joy, or anger** significantly dilate vowel length. In Slovenian and English databases, vowels produced under the emotion of disgust reached values that were (Vladimir Hozjan and Zdravko Kacic 2002) **2.2** to **2.4** times their normal neutral duration.
+*   **Modeling "Effective Maximums":** Simulation models of the "voicing effect" (the tendency for vowels to lengthen before voiced consonants) suggest that vowels hit an "effective maximum value" of approximately (Rebecca L. Morley and Bridget J. Smith 2022) **420** ms in voiced-final syllables under maximum lengthening force.
+
+### **3. Perceptual and Experimental Limits**
+Research into the mental representation of duration identifies the point where a sound transitions from a "long vowel" to "unnaturally long."
+*   **The Unnaturalness Boundary:** In Japanese, while the threshold for identifying a "long" vowel is approximately 250 ms, reaction times for stimuli reaching (Kosuke Sugai 2017) **310** ms cease to be associated with duration. This suggests that at (Kosuke Sugai 2017) **310** ms and beyond, the sound is no longer processed as a standard phonological unit but rather as an unnaturally prolonged sound.
+*   **Experimental Stimuli Limits:** In reaction-time tests for Japanese mora perception, vowels were digitally manipulated up to (Kosuke Sugai 2017) **430** ms. Similarly, in Mandarin Chinese experimental sets, the mean duration of recorded monosyllabic stimuli tokens was (Yang Liu 2022) **545** ms.
+
+### **Summary Table of Long Vowel Durations**
+
+| Context | Vowel Category | Recorded Maximum |
+| :--- | :--- | :--- |
+| **Estonian (Q3)** | Overlong (Trimoraic) | (Bruce Hayes 1989) **243** ms |
+| **Malayalam (VV)** | Long Stressed Vowel | (Ellen Broselow et al. 1997) **366.6** ms |
+| **English (/æ/)** | Before Voiced Fricative | (Margaret A. Naeser 1970) **384** ms |
+| **Japanese (Perceptual)** | "Unnatural" Threshold | (Kosuke Sugai 2017) **310** ms |
+| **Mandarin (Experimental)** | Monosyllabic Token | (Yang Liu 2022) **545** ms |
+
+
+---
+
+A "normal" long vowel—categorized as phonologically long or bimoraic—typically falls within a duration range of **150 ms to 250 ms** across various languages. This distinguishes it from "short" vowels (often under 100 ms) and the "overlong" or exaggerated durations (exceeding 300 ms) previously discussed.
+
+### **1. Standard Durations for Long Vowels**
+The empirical data for standard (non-exaggerated) long vowels across different languages is as follows:
+
+*   **English Tense Vowels:** In English, mean durations for tense (long) vowels such as /i/ or /u/ typically range from (Margaret A. Naeser 1970) **(206) 128 ms** (before voiceless stops) to (Margaret A. Naeser 1970) **(193) 248 ms** (before voiced consonants).
+*   **Estonian Long Vowels (Q2):** In Estonian, which has a distinct three-way length contrast, a "normal" long vowel (the second degree of length) is measured at approximately (Bruce Hayes 1989) **(320) 183 ms** to **196 ms**.
+*   **Japanese Long Vowels:** Perceptual thresholds for identifying a vowel as "long" in Japanese vary by vowel quality:
+    *   **/i:/** averages (Kosuke Sugai 2017) **(739) 140–170 ms**.
+    *   **/e:/** averages (Kosuke Sugai 2017) **(739) 171–186 ms**.
+    *   **/a:/** averages (Kosuke Sugai 2017) **(739) 158–177 ms**.
+*   **Hindi and Arabic:** In Hindi, long vowels average between (Ellen Broselow et al. 1997) **(577) 143 ms** and **152 ms**. In Levantine Arabic, the mean duration for long vowels in open syllables is (Ellen Broselow et al. 1997) **(587) 114 ms** (Lebanese), **123 ms** (Syrian), and **161 ms** (Jordanian).
+
+### **2. Factors Conditioning "Normal" Length**
+Even without "exaggeration," the duration of a long vowel is highly sensitive to its phonetic environment:
+
+*   **The Voicing Effect:** A long vowel is consistently at the higher end of its "normal" range when it precedes a voiced consonant. For example, the English vowel /i/ is approximately (Margaret A. Naeser 1970) **(206) 78 ms** longer before a voiced /b/ than before a voiceless /p/.
+*   **Stress and Position:** Long vowels in stressed syllables are significantly longer than those in unstressed syllables; in Greek, stressed [a] averages (Antonis Botinis et al. 1999) **(514) 105 ms** compared to **71 ms** when unstressed.
+*   **Vowel Height:** Low vowels (like /a/) have greater "intrinsic" duration than high vowels (like /i/ or /u/) because they require greater jaw opening (Joshua Tauberer and Keelan Evanini 2009) **(458, 459)**. In English, the low vowel /æ/ has an average duration of (Margaret A. Naeser 1970) **(198) 275 ms**, whereas the high vowel /I/ is only **162 ms**.
+
+### **3. The Boundary of "Normal" vs. "Exaggerated"**
+Perceptual studies help define where "normal long" ends and "exaggerated" begins:
+*   **Perceptual Shift:** In Japanese, listeners begin to confidently categorize a sound as "long" (two morae) at (Kosuke Sugai 2017) **(742) 250 ms**. 
+*   **The Confidence Ceiling:** Once a vowel exceeds (Kosuke Sugai 2017) **(743) 310 ms**, listeners' reaction times stop correlating with the duration, suggesting the brain no longer perceives the sound as a standard linguistic unit but as an unnaturally prolonged stimulus.
+*   **Maximal Effective Value:** Under the strongest natural lengthening force (such as phrase-final position before a voiced stop), a normal vowel reaches an "effective maximum" of approximately (Rebecca L. Morley and Bridget J. Smith 2022) **(101) 420 ms**.
+
+---
+
+Based on the provided research, the **geminate maximum duration** is determined by both the phonetic manner of articulation and the perceptual boundaries where the brain ceases to process the sound as a standard linguistic unit.
+
+### **1. Absolute Production Maxima for Geminates**
+Measured production data across different languages identifies the upper temporal limits for articulated geminate consonants:
+
+*   **Geminate Stops:** The longest recorded geminate stop is the Estonian "overlong" [t:t] (categorized as 2 moras plus an onset), which reaches (Hayes 1989) (286) **221 ms**. In laboratory conditions for English, voiceless stop closures are typically recorded at a maximum of (Morley and Smith 2022) (68) **140 ms**.
+*   **Geminate Fricatives:** In contrast to stops, geminate fricatives in the Estonian system reach a maximum of only (Hayes 1989) (286) **131 ms**. However, in French whispered speech, the perceptual boundary for identifying a [+voiced] fricative in final position shifts significantly higher, requiring durations of (Meynadier et al. 2019) (585) **164 ms** to (Meynadier et al. 2019) (585) **186 ms** to be correctly categorized.
+*   **Geminate Glides:** In the Eastern Nilotic language Lopit, geminate palatal glides /j:/ reach a mean duration of (Billington 2015) (760) **167 ms**, while geminate labiovelar glides /w:/ average (Billington 2015) (760) **163 ms**.
+
+### **2. Perceptual Boundaries and Confidence Ceilings**
+Perceptual research identifies a "ceiling" where increasing the duration no longer improves categorization and instead begins to sound unnatural:
+
+*   **The Identification Ceiling:** In Japanese, listeners achieve near-total confidence in categorizing a consonant as a geminate (two morae) only as the duration approaches (Sugai 2017) (838) **310 ms** to (Sugai 2017) (838) **330 ms**.
+*   **The Unnaturalness Boundary:** Once a segment exceeds (Sugai 2017) (839) **310 ms**, listeners' reaction times cease to correlate with the duration. This suggests that at (Sugai 2017) (839) **310 ms** and beyond, the brain no longer processes the sound as a standard phonological unit but rather as an **unnaturally prolonged stimulus**.
+*   **Typological Ratio:** Regardless of the absolute duration, geminates are generally defined by a ratio of (Billington 2015) (754) **1.5** to (Billington 2015) (754) **3** times the length of their singleton counterparts.
+
+### **3. Comparative Manner Maxima (Estonian vs. Lopit)**
+The data highlights a consistent difference between types of consonants:
+*   **Stops vs. Fricatives:** In high-quantity systems, the maximum geminate stop is approximately (Hayes 1989) (286) **90 ms** longer than the maximum geminate fricative. 
+*   **Glide Proportions:** Geminate glides in Lopit are specifically found to be (Billington 2015) (760) **1.77** times longer than singletons, which is a slightly lower expansion ratio than that typically seen in stop consonants.
+
+### **Summary of Maximum Benchmarks**
+| Category | Linguistic Max (Production) | Perceptual Ceiling (Automatization) |
+| :--- | :--- | :--- |
+| **Stops** | (Hayes 1989) (286) **221 ms** | (Sugai 2017) (838) **330 ms** |
+| **Fricatives** | (Meynadier et al. 2019) (585) **186 ms** | (Sugai 2017) (838) **310 ms** |
+| **Glides** | (Billington 2015) (760) **167 ms** | *Not explicitly defined* |

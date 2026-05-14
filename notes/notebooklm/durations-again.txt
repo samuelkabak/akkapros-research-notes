@@ -1,0 +1,45 @@
+To address the apparent inconsistency between the **54.5 ms** (Arabic) and **151 ms** (Estonian) closure durations, it is necessary to distinguish between **phonetic singletons** and **phonological geminates**. The Estonian value of (Bruce Hayes 1989) **151 ms** corresponds to the sequence [tt] in the word *katta*, which is a **bimoraic geminate** (Long/Q2), whereas the Arabic value of (Ellen Broselow et al. 1997) **54.5 ms** represents a **true singleton onset**.
+
+When these values are categorized by their phonological weight (moraic status), the data becomes highly consistent across studies.
+
+### **1. Consistent Singleton Durations (Non-Moraic/Single Mora)**
+True singletons across languages typically range from **38 ms to 100 ms**.
+
+| Class | Position | Language/Study | Duration (ms) |
+| :--- | :--- | :--- | :--- |
+| **Closures (Stops)** | Stressed Onset | Arabic (Broselow et al. 1997) | **54.5** |
+| **Closures (Stops)** | Word-Initial | Spanish (Gibson et al. 2013) | **89–101** |
+| **Closures (Stops)** | Coda (Median) | English (Morley & Smith 2022) | **46** |
+| **Fricatives** | Singleton | Estonian (Hayes 1989) | **98** |
+| **Liquids** | Initial | Spanish (Gibson et al. 2013) | **89** |
+| **Liquids** | Cluster | Spanish (Gibson et al. 2013) | **66** |
+| **Nasals** | Stressed | Malayalam (Broselow et al. 1997) | **38** |
+| **Glides** | Singleton | Lopit (Billington 2015) | **93–97** |
+
+### **2. Consistent Geminate Durations (Multi-Moraic)**
+Geminates (long consonants) are consistently **1.5 to 3 times longer** than their singleton counterparts, falling into the **130 ms to 230 ms** range.
+
+| Class | Category | Language/Study | Duration (ms) |
+| :--- | :--- | :--- | :--- |
+| **Closures (Stops)** | Geminate (Q2) | Estonian (Hayes 1989) | **151** |
+| **Closures (Stops)** | Overlong (Q3) | Estonian (Hayes 1989) | **221** |
+| **Closures (Stops)** | Voiced Coda | Arabic (Broselow et al. 1997) | **88.4** |
+| **Fricatives** | Geminate (Q2) | Estonian (Hayes 1989) | **131** |
+| **Glides** | Geminate | Lopit (Billington 2015) | **163–167** |
+
+### **3. Consistent Vowel Durations**
+Vowel durations are conditioned by the class and voicing of the following consonant.
+
+| Vowel Type | Context | Study | Duration (ms) |
+| :--- | :--- | :--- | :--- |
+| **Short Vowel** | Stressed | Arabic (Broselow et al. 1997) | **79.9–80.2** |
+| **Short Vowel** | Stressed | Hindi (Broselow et al. 1997) | **66.1–80.4** |
+| **Short Vowel** | Median | English (Morley & Smith 2022) | **83** |
+| **Long Vowel** | Open Syllable | Arabic (Broselow et al. 1997) | **114–161** |
+| **Long Vowel** | Stressed | Hindi (Broselow et al. 1997) | **143–152** |
+| **Overlong (Q3)** | Stressed | Estonian (Hayes 1989) | **243** |
+
+### **Summary of "Aberrant" Values**
+*   **The 151 ms Stop:** This value is consistent when labeled as a **Long (Q2) Geminate** (Bruce Hayes 1989). It is only "aberrant" if compared to singletons.
+*   **Whispered Fricatives:** Fricative durations in whispered French—reaching (Yohann Meynadier et al. 2019) **253 ms**—are naturally longer than normal speech because they must carry the perceptual burden of the missing voicing feature.
+*   **Mandarin Stimuli:** The mean duration of (Yang Liu 2022) **545 ms** refers to an entire monosyllabic stimulus token in an experimental setting, not a single consonant segment.
