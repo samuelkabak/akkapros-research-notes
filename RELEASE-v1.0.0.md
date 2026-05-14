@@ -10,7 +10,6 @@ Initial release of the research notes and working files accompanying the computa
 - **Prep notes** (`notes/prep/`): Exploratory syntheses before promotion to main notes.
 - **Outputs** (`outputs/`): Results of running the akkapros toolkit on sample texts, including full-corpus and Erra and Išum analyses, plus MBROLA preparation artifacts.
 - **Samples** (`samples/`): ATF files from the Electronic Babylonian Library.
-- **Configs** (`configs/`): Configuration files for the akkapros toolkit (copied for reference).
 - **Data** (`data/`): Lexical analysis files and sample sources.
 
 ## Related Project
