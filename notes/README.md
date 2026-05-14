@@ -1,6 +1,6 @@
 # Notes Directory
 
-This directory contains the research notes for the Akkadian Prosody Project. The notes are organized into three layers: the canonical note archive (`dist/`), exploratory working notes (`prep/`), and NotebookLM-generated source summaries (`notebooklm/`).
+This directory contains the research notes for the Akkadian Prosody Project. The notes are organized into three layers: the consolidated bibliography, exploratory working notes (`prep/`), and NotebookLM-generated source summaries (`notebooklm/`).
 
 ---
 
@@ -9,53 +9,16 @@ This directory contains the research notes for the Akkadian Prosody Project. The
 ```
 notes/
 ├── README.md              # This file
-├── dist/                  # Canonical note archive (numbered Notes-A through Notes-L)
+├── bibliography.md        # Consolidated project bibliography
 ├── prep/                  # Exploratory synthesis and working notes
 └── notebooklm/            # NotebookLM-generated source summaries
 ```
 
 ---
 
-## `dist/` — Canonical Note Archive
+## `bibliography.md` — Consolidated Bibliography
 
-The main research notes have been split into 12 thematic files (Notes-A through Notes-L), replacing the former monolithic `research-notes.md`:
-
-| File | Part | Content |
-|------|------|---------|
-| `Notes-A-Foundations.md` | A | Project overview, corpus description, syllable types, mora counting |
-| `Notes-B-Corpus.md` | B | Corpus statistics, text descriptions, word counts |
-| `Notes-C-Academic-Model.md` | C | Academic stress rules (Huehnergard, Streck), accent styles |
-| `Notes-D-Metrics.md` | D | Acoustic metrics (%V, ΔC, VarcoC, nPVI-V, rPVI-C), reference values |
-| `Notes-E-Hypotheses.md` | E | Hypothesis development, legal/illegal operations, design principles |
-| `Notes-F-Algorithm.md` | F | Merge logic, diphthong processing, worked examples |
-| `Notes-G-Results.md` | G | Results, pauses, speech rate, limitations, implications |
-| `Notes-H-Implementation.md` | H | Data structures (Syllable, Word, MergedUnit), CLI tools, pipeline |
-| `Notes-I-Timing-Model.md` | I | Phonetizer timing model, drift mechanism, configuration structure |
-| `Notes-J-TTS.md` | J | MBROLA integration, diphone recording, voice building |
-| `Notes-K-Article-Content.md` | K | Article planning, argumentation, and content tracking |
-| `Notes-L-Parameter-Justifications.md` | L | Empirical grounding for each timing model parameter |
-
-The former monolithic `research-notes.md` is also preserved in `dist/` for historical reference.
-
-### Note Numbering
-
-Notes are numbered sequentially within each part:
-- Part A: A-001 through A-030
-- Part B: B-001 through B-030
-- Part C: C-001 through C-030
-- Part D: D-031 through D-048
-- Part E: E-049 through E-065
-- Part F: F-066 through F-087
-- Part G: G-088 through G-129
-- Part H: H-130 through H-141
-- Part I: I-142 through I-150
-- Part J: J-151 through J-159
-- Part K: K-160 through K-184
-- Part L: L-200 through L-226
-
-### Parameter Supersession
-
-Note L-201 (Parameter Supersession Note) documents that the parameter justifications in Part L supersede the earlier, less rigorous justifications in notes 200–230 of the original monolithic file. For any research use, cite the parameter values and justifications from Part L, not the earlier notes.
+All bibliographic references used across the research notes, article drafts, and NotebookLM source summaries, organized by domain in Chicago Author-Date format.
 
 ---
 
@@ -102,7 +65,9 @@ The prep layer separates exploratory synthesis from the canonical note record. T
 | `coda-pause-compensation-formal-model.md` | Formal model for CVC/CVV timing equivalence |
 | `coda-pause-compensation-hypothesis.md` | Compensation hypothesis statement |
 | `compensation-model-qa-assessment.md` | Assesses source support for compensation model |
+| `consonant-duration-note.md` | Consonant duration data note |
 | `onset-post_vocalic-parameter-choice.md` | Parameter reduction to onset vs. post-vocalic |
+| `phonetizer-algorithm-note.md` | Phonetizer algorithm documentation |
 | `positional-comparability-audit.md` | Methodological correction on measurement comparability |
 | `special-realization-placement.md` | YAML placement rationale for hiatus and vowel_transition |
 | `syllable-total-vs-mora-boundary.md` | Checks perceptual thresholds for whole-syllable templates |
@@ -125,8 +90,6 @@ Research papers (uploaded to NotebookLM)
 notebooklm/  (AI-generated summaries — raw data extraction)
     ↓
 prep/        (analytical distillation — evidence separated from inference)
-    ↓
-dist/        (canonical notes — stable, publication-facing formulations)
 ```
 
 ### File Inventory
