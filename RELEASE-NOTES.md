@@ -1,6 +1,6 @@
 # Release v1.0.0 — Akkadian Prosody Research Notes
 
-**Date:** 14 May 2026
+**Date:** 15 May 2026
 
 Initial release of the research notes and working files accompanying the computational reconstruction of Babylonian prosody.
 
