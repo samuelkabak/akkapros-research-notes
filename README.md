@@ -1,5 +1,9 @@
 # Akkadian Prosody – Research Notes
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20199708.svg)](https://doi.org/10.5281/zenodo.20199708)
+[![GitHub release](https://img.shields.io/github/v/release/samuelkabak/akkapros-research-notes)](https://github.com/samuelkabak/akkapros-research-notes/releases)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 Research materials, working files, and reproducibility data for the computational reconstruction of Babylonian prosody. This repository accompanies the main [akkapros](https://github.com/samuelkabak/akkapros) toolkit.
 
 *Note: This repository contains research notes, input data, and computational outputs only. The program code resides in the main toolkit repository.*
