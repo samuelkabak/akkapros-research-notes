@@ -111,6 +111,12 @@ AI-generated summaries of uploaded research papers (Google NotebookLM), serving 
 
 The files here are designed to work with the main [akkapros](https://github.com/samuelkabak/akkapros) toolkit. For installation and usage of the toolkit itself, please refer to its documentation.
 
+## 📄 Citation
+
+If you use these materials in your research, please cite the Zenodo record:
+
+> Kabak, Samuel. 2026. *Akkadian Prosody — Research Notes* (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.20199708
+
 ## 📄 License
 
 These research materials are shared under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license. You are free to share and adapt the material with appropriate credit.
