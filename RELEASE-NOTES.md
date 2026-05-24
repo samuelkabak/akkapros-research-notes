@@ -4,11 +4,13 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20199708.svg)](https://doi.org/10.5281/zenodo.20199708)
 
-Adds distilled research notes — a cleaned, public-ready version of the complete research log.
+Adds distilled research notes — cleaned, public-ready versions of the complete research log and all 13 topical research notes.
 
 ### Changes
 
-- Added `notes/distilled/research-notes-prep.md`: complete research log (notes 001–537), renamed and cleaned from the original `notes/research-notes.md`
+- Added `notes/distilled/` directory containing:
+  - `research-notes-prep.md`: complete research log (notes 001–537), renamed and cleaned from the original `notes/research-notes.md`
+  - `Notes-A-Foundations.md` through `Notes-M-Oral-Acquisition.md`: cleaned versions of all 13 topical research notes
 - Fixed duplicate title line in research notes
 - Removed all 'invalid note' and 'superseded' markers
 - Removed all TODO/FIXME/XXX markers
