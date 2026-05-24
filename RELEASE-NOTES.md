@@ -1,5 +1,21 @@
 # Release Notes
 
+## v1.1.0 — 24 May 2026
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20199708.svg)](https://doi.org/10.5281/zenodo.20199708)
+
+Adds distilled research notes — a cleaned, public-ready version of the complete research log.
+
+### Changes
+
+- Added `notes/distilled/research-notes-prep.md`: complete research log (notes 001–537), renamed and cleaned from the original `notes/research-notes.md`
+- Fixed duplicate title line in research notes
+- Removed all 'invalid note' and 'superseded' markers
+- Removed all TODO/FIXME/XXX markers
+- Content is appropriate for public release
+
+---
+
 ## v1.0.1 — 15 May 2026
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20199708.svg)](https://doi.org/10.5281/zenodo.20199708)
