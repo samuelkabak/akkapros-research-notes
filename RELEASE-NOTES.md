@@ -9,7 +9,7 @@ Remove irrelevent xar files from computation data.
 - In `outputs` directory :
   - `erra-and-ishum.yaml`: set xar option to false
   - `full-corpus.yaml` set xar option to false
-- remove *xar* files in `full-corpus/` and `erra-and-ishum/`
+  - remove *xar* files in `full-corpus/` and `erra-and-ishum/`
 
 ---
 
