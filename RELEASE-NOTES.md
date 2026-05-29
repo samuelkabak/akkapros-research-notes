@@ -2,7 +2,7 @@
 
 ## v1.1.1 — 29 May 2026
 
-Remove irrelevent xar files from computation data.
+Remove irrelevant xar files from computation data.
 
 ### Changes
 
