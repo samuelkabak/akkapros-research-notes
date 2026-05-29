@@ -126,5 +126,5 @@ print:
     bold: true
     ipa: false
     ipa_ultraheavy_hiatus: false
-    xar: true
+    xar: false
     print_merger: false
