@@ -825,11 +825,11 @@ All texts are from the Standard Babylonian period (ca. 1000–600 BCE), ensuring
 
 **Domain:** Algorithm / Selection
 
-**WHAT:** SOB (Standard Old Babylonian) priority: 1) rightmost non-final heavy, 2) final heavy.
+**WHAT:** SOB (Standard Old Babylonian) priority: 1) rightmost non-final heavy, 2) final heavy, 3) initial syllable (last-resort default).
 
-**WHY:** This follows Huehnergard's standard description. It avoids word-final operations when possible.
+**WHY:** SOB is a speculative modeling variant, not an attested academic style. No such hierarchy is established for Standard Old Babylonian in the literature; the standard academic model (Huehnergard 2011) is implemented separately as AOB.
 
-**THUS:** The SOB model is appropriate for general texts. It is the baseline for comparison.
+**THUS:** SOB is a heuristic testing variant of the toolkit. The study uses only LOB.
 
 ---
 
@@ -837,11 +837,11 @@ All texts are from the Standard Babylonian period (ca. 1000–600 BCE), ensuring
 
 **Domain:** Algorithm / Selection
 
-**WHAT:** AOB (Academic Old Babylonian) was initially considered as a comparison model with priority hierarchy: 1) final superheavy, 2) rightmost non-final heavy, 3) first syllable.
+**WHAT:** AOB (Academic Old Babylonian) implements the standard stress model (Huehnergard 2011) with priority hierarchy: 1) final superheavy, 2) rightmost non-final heavy, 3) first syllable (last-resort default).
 
 **WHY:** This hierarchy was proposed to compare the academic stress model directly against the proposed stress realization models (LOB and SOB). The idea was to test whether the traditional academic description of stress placement could serve as a selection mechanism for phrasal prominence. However, without any direct evidence for how Akkadian stress was actually realized, such a comparison becomes speculative. The key question is not which hierarchy is "correct," but whether the academic model as a whole is complete—it describes lexical stress positions but provides no mechanism for phrasal timing.
 
-**THUS:** Comparing different hierarchies is less relevant than validating the core insight: the academic model is incomplete. The focus should remain on demonstrating that a stress realization mechanism is necessary, and that the proposed LOB/SOB models offer one plausible way to fill that gap. The AOB model adds little to this argument and is set aside.
+**THUS:** Comparing different hierarchies is less relevant than validating the core insight: the academic model is incomplete. The focus should remain on demonstrating that a stress realization mechanism is necessary, and that the proposed LOB model offers one plausible way to fill that gap. AOB was later implemented in the toolkit (akkapros 3.2.0) as a testing style; the study uses only LOB and reports no AOB results.
 
 ---
 
@@ -4114,13 +4114,13 @@ Additionally, Ryan (2014) uses a 50 ms increment as a theoretical benchmark for 
 
 ## 272-Draft8-Content-Not-In-Article-Accent-Style-AOB
 
-**Domain:** Article / Draft 8 / Omitted Content
+**Domain:** Article / Accent Styles
 
-**WHAT:** The article draft (v8) mentions LOB and SOB accent styles but does not mention AOB (Academic Old Babylonian), which was initially considered as a comparison model. The research notes (note 064) document AOB and explain why it was set aside.
+**WHAT:** Earlier article drafts mentioned LOB and SOB accent styles. The current draft describes three styles: LOB (the default, following literary-register reconstructions, Streck 2022; Izre'el and Cohen 2004), AOB (the standard academic model, Huehnergard 2011), and SOB (a speculative testing variant). AOB is implemented in akkapros 3.2.0 and documented, but the study processes only LOB and reports no AOB results.
 
-**WHY:** The article correctly focuses on the two styles that are actually used in the research. AOB was a discarded experimental option.
+**WHY:** Each style must be attributed correctly: LOB follows literary-register reconstructions, AOB follows the standard description (Huehnergard 2011), and SOB is a speculative modeling variant with no direct basis in the academic literature.
 
-**THUS:** The omission is appropriate. The AOB discussion is preserved in the research notes for historical documentation.
+**THUS:** No style is presented as attested unless it is. The three-style description reflects the capabilities of the toolkit, while the analysis relies on LOB alone.
 
 ---
 
@@ -4379,10 +4379,10 @@ Additionally, Ryan (2014) uses a 50 ms increment as a theoretical benchmark for 
 
 **WHAT:** `prosmaker.py` applies the moraic prosody realization algorithm to syllabified text. It reads `*_syl.txt` and produces `*_tilde.txt`, the pivot format containing all accentuation decisions explicitly marked with `~`.
 
-**WHY:** This is the core algorithmic engine. It implements the LOB/SOB hierarchies, legal operations, merge logic, and function word handling. Diphthongs are restored automatically after processing. The output `_tilde.txt` is the prosody pivot that records grouping and accentuation decisions for downstream stages.
+**WHY:** This is the core algorithmic engine. It implements the LOB/SOB/AOB hierarchies, permitted operations, merge logic, and function word handling. Diphthongs are restored automatically after processing. The output `_tilde.txt` is the prosody pivot that records grouping and accentuation decisions for downstream stages.
 
 Key options:
-* `--style {lob,sob}`: accent style (default: lob)
+* `--style {lob,sob,aob}`: accent style (default: lob; SOB and AOB are testing variants)
 * `--mora-mode {bi,mono}`: bimoraic parity gate (bi, default) or academic mono-mode (mono)
 * `--relax-last`: allow stress realization propagation before last linked word
 * `--test`: run internal tests

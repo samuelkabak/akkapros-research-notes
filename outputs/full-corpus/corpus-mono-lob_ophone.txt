@@ -1,17 +1,17 @@
 ---
 package:
   name: "akkapros"
-  version: "3.0.1"
+  version: "3.2.0"
 pipeline: "pipeline"
 step: "phonetize"
 file:
-  id: "0c2256dd-c34e-58f4-aa1f-6a37e8ba1af8"
+  id: "2070ceed-7605-5769-9251-1cee232b5829"
   title: "L I.2 Poem of Creation (*Enūma eliš*) SB II | L I.2 Poem of Creation (*Enūma eliš*) SB IV | L I.2 Poem of Creation (*Enūma eliš*) SB VI | L I.2 Poem of Creation (*Enūma eliš*) SB VII | L I.5 Erra and Išum SB I | L III.3 Marduk’s Address to the Demons SB -"
   format: "phone"
   version: "1.0.0"
-  date: "2026-05-11"
+  date: "2026-08-12"
 metadata:
-  input_file_id: "01c50017-37db-5394-af62-1a570130ea53"
+  input_file_id: "660a44fe-cf28-5b92-a5d9-e45f276853a0"
   options:
     append: true
     extra_vowels: ""

@@ -3,7 +3,7 @@
 This file consolidates all bibliographic references used across the research notes, article drafts, and NotebookLM source summaries. It is organized by domain for ease of reference.
 
 **Format:** Chicago Author-Date (Bibliography style). Entries are drawn from:
-- `notes/dist/` — Canonical note archive (Notes-A through Notes-L, research-notes.md)
+- `notes/distilled/` — Canonical note archive (Notes-A through Notes-N, research-notes.md)
 - `notes/notebooklm/` — NotebookLM source summaries (bibliography-v1.md, bibliography-v2.md)
 - `local-only/bibliography/` — Working bibliography files
 - `local-only/article/new-biblio.md` — Article bibliography

@@ -1,17 +1,17 @@
 ---
 package:
   name: "akkapros"
-  version: "3.0.1"
+  version: "3.2.0"
 pipeline: "pipeline"
 step: "print"
 file:
-  id: "a3f1915e-8d41-50ba-a8aa-aec4a173fb1c"
+  id: "90d5c3ea-ecdf-5d81-9d79-a401e531f024"
   title: "L I.2 Poem of Creation (*Enūma eliš*) SB II | L I.2 Poem of Creation (*Enūma eliš*) SB IV | L I.2 Poem of Creation (*Enūma eliš*) SB VI | L I.2 Poem of Creation (*Enūma eliš*) SB VII | L I.5 Erra and Išum SB I | L III.3 Marduk’s Address to the Demons SB -"
   format: "acute"
   version: "1.0.0"
-  date: "2026-05-11"
+  date: "2026-08-12"
 metadata:
-  input_file_id: "7931d92f-1b74-5328-ad27-cf944ec603a9"
+  input_file_id: "668bd9f8-ee67-555f-b0cd-12f35883a4db"
   options:
     append: true
     extra_vowels: ""
@@ -27,7 +27,6 @@ metadata:
     drift_tolerance: 19
     acute: true
     bold: true
-    xar: true
     print_merger: false
 ---
 
@@ -45,7 +44,7 @@ abī´ tiā´mtu : ālittani izerrannâti
 puḫ´ra šitkunat-ma : aggiš labbat
 isḫurūšim-ma : ilū´ gimir´šun
 adi ša attunu tabnâ´ : idāša alkū
-immasrūnim´-ma id´uš : tiā´mti tebûni
+immasrūnim´-ma ´iduš : tiā´mti tebûni
 ezzū kapdū : lā sā´kipū mū´ša u imma
 našû´ tamḫā´ra : nazarbubū labbū
 ukkin´na šitkunū-ma : ibannû´ ṣūlā´ti
@@ -919,8 +918,8 @@ anāku asal´luḫi nam´ru šalbā´bu apkal ilī´ muttal´lu
 anāku asal´luḫi ša šamê rūqū´ti mēlâšunu iḫīṭu
 anāku asal´luḫi ša ḫubur palkâ´ti šupulša ī´de
 anāku asal´luḫi ša ina tâ´mti elīti inabbûšu sirsir
-anāku asal´luḫi ša ina tâ´mti šaplī´ti ušarbûšu lagud´a
-anāku asal´luḫi atû´ rikis kalā´ma buk´ur mami
+anāku asal´luḫi ša ina tâ´mti šaplī´ti ušarbûšu l´aguda
+anāku asal´luḫi atû´ rikis kalā´ma b´ukur mami
 anāku asal´luḫi qarrā´du sākip mukīl rē´š lemutti
 anāku asal´luḫi etel ilī ša šamê rūqū´ti
 anāku asal´luḫi nādin šul´mi u balā´ṭi ana nišī´ rapšā´ti
@@ -1002,7 +1001,7 @@ ana nabû´ sukkallī´šu amāta izak´kar
 man´nu annû ša annikâ iʾirru … 
 ana šip´ti ezzeti rabīti ša ´ea … 
 ana šutuk´kī dannū´ti ša ningiš´zida
-ana uṣrā´ti rabâti ša ´ea bē´l erid´u
+ana uṣrā´ti rabâti ša ´ea bē´l ´eridu
 gir´ru qāmû … … 
 nus´ku dapīnu … likmissunūti
 dipāru … … 

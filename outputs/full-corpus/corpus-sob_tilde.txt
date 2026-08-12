@@ -1,15 +1,15 @@
 ---
 package:
   name: "akkapros"
-  version: "3.0.1"
+  version: "3.2.0"
 pipeline: "pipeline"
 step: "prosody"
 file:
-  id: "d2f626e2-2859-545e-9882-b6fff44d554e"
+  id: "7779d092-efe2-5ca2-bcda-21e56ae6153b"
   title: "L I.2 Poem of Creation (*Enūma eliš*) SB II | L I.2 Poem of Creation (*Enūma eliš*) SB IV | L I.2 Poem of Creation (*Enūma eliš*) SB VI | L I.2 Poem of Creation (*Enūma eliš*) SB VII | L I.5 Erra and Išum SB I | L III.3 Marduk’s Address to the Demons SB -"
   format: "tilde"
   version: "1.0.0"
-  date: "2026-05-11"
+  date: "2026-08-12"
 metadata:
   input_file_id: "7f737eca-61fa-5ed2-84af-65d3facce922"
   options:
@@ -39,7 +39,7 @@ mim·mû ti·¨ā~m·tu ˙ik·pu·du⟦ : ⟧˙u·šan~·nâ ˙a·na&šâ~·šu
 puḫ~·ra šit·ku·nat-ma⟦ : ⟧˙ag·giš lab·bat
 ˙is·ḫu·rū·šim-ma⟦ : ⟧˙i·lū~ gi·mir~·šun
 ˙a·di ša&˙at·tu·nu&tab~·nâ⟦ : ⟧˙i·dā·ša ˙al·kū
-˙im·mas·rū·nim~-ma ˙i·d~uš⟦ : ⟧ti·¨ā~m·ti te·bû·ni
+˙im·mas·rū·nim~-ma ˙~i·duš⟦ : ⟧ti·¨ā~m·ti te·bû·ni
 ˙ez·zū kap·dū⟦ : ⟧lā&sā~·ki·pū mū~·ša ˙u&˙im·ma
 na·šû~ tam·ḫā~·ra⟦ : ⟧na·zar·bu·bū lab·bū
 ˙uk·kin~·na šit·ku·nū-ma⟦ : ⟧˙i·ban~·nû ṣū·lā~·ti
@@ -913,8 +913,8 @@ dup·pir pu·ṭur&lem·nu ša&pā·nī·ya ˙uk·kiš ˙ay·yā·bī ša&˙ar·
 ˙a·nā·ku&˙a·sal~·lu·ḫi ša&ša·mê rū·qū~·ti mē·lâ·šu·nu ˙i·ḫī·ṭu
 ˙a·nā·ku&˙a·sal~·lu·ḫi ša&ḫu·bur pal·kâ~·ti šu·pul·ša ˙ī~·de
 ˙a·nā·ku&˙a·sal~·lu·ḫi ša&˙i·na&tâ~m·ti ˙e·lī·ti ˙i·nab·bû·šu sir·sir
-˙a·nā·ku&˙a·sal~·lu·ḫi ša&˙i·na&tâ~m·ti šap·lī~·ti ˙u·šar·bû·šu la·gu·d~a
-˙a·nā·ku&˙a·sal~·lu·ḫi ˙a·tû~ ri·kis&ka·lā~·ma bu·k~ur ma·mi
+˙a·nā·ku&˙a·sal~·lu·ḫi ša&˙i·na&tâ~m·ti šap·lī~·ti ˙u·šar·bû·šu l~a·gu·da
+˙a·nā·ku&˙a·sal~·lu·ḫi ˙a·tû~ ri·kis&ka·lā~·ma b~u·kur ma·mi
 ˙a·nā·ku&˙a·sal~·lu·ḫi qar·rā~·du sā·kip mu·kīl rē~š le·mut·ti
 ˙a·nā·ku&˙a·sal~·lu·ḫi ˙e·tel&˙i·lī ša&ša·mê rū·qū~·ti
 ˙a·nā·ku&˙a·sal~·lu·ḫi nā·din šul~·mi ˙u&ba·lā~·ṭi ˙a·na&ni·šī~ rap·šā~·ti
@@ -996,7 +996,7 @@ dup·pir pu·ṭur&lem·nu ša&pā·nī·ya ˙uk·kiš ˙ay·yā·bī ša&˙ar·
 man~·nu ˙an·nû ša&˙an·ni·kâ ˙i·ʾir·ru⟦ …⟧
 ˙a·na&šip~·ti ˙ez·ze·ti ra·bī·ti ša&˙~e·¨a⟦ …⟧
 ˙a·na&šu·tuk~·kī dan·nū~·ti ša&nin·giš~·zi·da
-˙a·na&˙uṣ·rā~·ti ra·bâ·ti ša&˙~e·¨a bē~l ˙e·ri·d~u
+˙a·na&˙uṣ·rā~·ti ra·bâ·ti ša&˙~e·¨a bē~l ˙~e·ri·du
 gir~·ru qā·mû⟦ … …⟧
 nus~·ku da·pī·nu⟦ … ⟧lik·mis·su·nū·ti
 di·pā·ru⟦ … …⟧

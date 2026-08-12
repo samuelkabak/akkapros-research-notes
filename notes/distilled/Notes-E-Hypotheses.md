@@ -175,23 +175,23 @@
 
 **Domain:** Algorithm / Accent Styles
 
-**WHAT:** SOB (Standard Old Babylonian) hierarchy: 1. rightmost non-final heavy, 2. final heavy.
+**WHAT:** SOB (Standard Old Babylonian) hierarchy: 1. rightmost non-final heavy, 2. final heavy, 3. initial syllable (last-resort default).
 
-**WHY:** This follows Huehnergard (2011) for standard texts. Final superheavy is not prioritized.
+**WHY:** SOB is a speculative modeling variant. No such hierarchy is attested in the academic literature on Standard Old Babylonian; the standard academic model (Huehnergard 2011) is implemented separately as AOB.
 
-**THUS:** SOB is available as an alternative for non-literary texts.
+**THUS:** SOB is a heuristic testing variant of the toolkit, not an attested style. The study uses only LOB.
 
 ---
 
 ## E-064-Accentuation-Hierarchy-AOB
 
-**Domain:** Algorithm / Accent Styles (Discarded)
+**Domain:** Algorithm / Accent Styles
 
-**WHAT:** AOB (Academic Old Babylonian) was initially considered as a comparison model. It was set aside because it did not provide useful distinctions.
+**WHAT:** AOB (Academic Old Babylonian) implements the standard stress model described by Huehnergard (2011): final superheavy > rightmost non-final heavy, with the initial syllable as the last-resort default. In the toolkit it is implemented as LOB without the final-heavy rule (akkapros 3.2.0).
 
-**WHY:** AOB was an experimental option that did not contribute to the research findings.
+**WHY:** AOB makes the academic model directly available as an accent style for hypothesis testing, e.g. for comparing stress placement when the final syllable cannot attract the accent.
 
-**THUS:** AOB is documented here for historical completeness but is not used in the current research.
+**THUS:** AOB is provided by the toolkit but is not used in the study, which processes only LOB. Earlier notes described AOB as discarded; it was later implemented as a testing style (akkapros 3.2.0).
 
 ---
 

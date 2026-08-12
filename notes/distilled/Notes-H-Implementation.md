@@ -119,10 +119,10 @@
 
 **WHAT:** `prosmaker.py` applies the moraic prosody realization algorithm to syllabified text. It reads `*_syl.txt` and produces `*_tilde.txt`, the pivot format containing all accentuation decisions explicitly marked with `~`.
 
-**WHY:** This is the core algorithmic engine. It implements the LOB/SOB hierarchies, legal operations, merge logic, and function word handling. Diphthongs are restored automatically after processing. The output `_tilde.txt` is the prosody pivot that records grouping and accentuation decisions for downstream stages.
+**WHY:** This is the core algorithmic engine. It implements the LOB/SOB/AOB hierarchies, permitted operations, merge logic, and function word handling. Diphthongs are restored automatically after processing. The output `_tilde.txt` is the prosody pivot that records grouping and accentuation decisions for downstream stages.
 
 Key options:
-* `--style {lob,sob}`: accent style (default: lob)
+* `--style {lob,sob,aob}`: accent style (default: lob; SOB and AOB are testing variants)
 * `--mora-mode {bi,mono}`: bimoraic parity gate (bi, default) or academic mono-mode (mono)
 * `--relax-last`: allow stress realization propagation before last linked word
 * `--test`: run internal tests

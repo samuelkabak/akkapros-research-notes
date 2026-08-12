@@ -1,0 +1,1146 @@
+---
+package:
+  name: "akkapros"
+  version: "3.2.0"
+pipeline: "pipeline"
+step: "altscripts"
+file:
+  id: "ef7e7ef7-9309-513b-8a30-b16f8c26660b"
+  title: "L I.2 Poem of Creation (*Enūma eliš*) SB II | L I.2 Poem of Creation (*Enūma eliš*) SB IV | L I.2 Poem of Creation (*Enūma eliš*) SB VI | L I.2 Poem of Creation (*Enūma eliš*) SB VII | L I.5 Erra and Išum SB I | L III.3 Marduk’s Address to the Demons SB -"
+  format: "gir"
+  version: "1.0.0"
+  date: "2026-08-12"
+metadata:
+  input_file_id: "79559a26-e9ab-532d-8736-9c943ffb0605"
+  options:
+    append: true
+    extra_vowels: ""
+    extra_consonants: ""
+    extra_short_punct_chars: ""
+    extra_long_punct_chars: ""
+    extra_short_punct_pattern: "[]"
+    extra_long_punct_pattern: "[]"
+    style: "aob"
+    mora_mode: "bi"
+    geminate_policy: "corrective"
+    accentuation_distribution_policy: "80_20"
+    drift_tolerance: 19
+    acute: true
+    bold: true
+    print_merger: false
+    xar: true
+    gir: true
+    gir_vowel_coloring: true
+    xar_preserve_merger: true
+    gir_accentuation_as_diacritic: true
+    gir_preserve_merger: true
+---
+
+ukappit-ma : tiahmtu pitickxa
+tahjahza iktacsàr : ana ilih niprihxa
+ajra'htax eli apsi'h : ulammin tiahmtu
+ananta kih ìcsmidu : ana ea iptaxruh
+ixmeh-ma ea : amahta xuahti
+kummix uxjarrir-ma : xackùmmix uxba
+ixtu imtalkuh-ma : uzzaxu inuhju
+muttix anxar abihxu : xuh uxtardi
+ihrum-ma majru abi : ahlidihxu anxar
+mimmu'h tiahmtu ikpudu : uxanna'h ana xa'hxu
+abih tiahmtu : ahlittani izerranna'hti
+pujra xitkunat-ma : aggix labbat
+isjuruhxim-ma : iluh gimirxun
+adi xa attunu tabna'h : idahxa alkuh
+immasruhnim-ma idux : tiahmti tebu'hni
+ezzuh kapduh : lah sahkipuh muhxa u imma
+naxu'h tamjahra : nazarbubuh labbuh
+ukkinna xitkunuh-ma : ibannu'h csùhlahti
+ummu jubuhr : pahtickàt kalahma
+uxraddi kakka lah majra : ittalad muxmajjih
+zàcktuh-ma xinnih : lah pahdu'h attah'ih
+imta kihma dahmi : zumurxunu uxmalli
+uxumgallih nadruhti : puljahti uxalbix-ma
+melammih uxtaxxa'h : ilix umtaxxil
+ahmirxunu : xarbahbix lijjarmim
+zumurxunu lixtajjictàm-ma : lah ine''uh irassun
+uxziz : baxma muxjuxxa u lajahma
+ugalla uridimma : u girtablihla
+uhmih dabruhti kulihla u kusarikka
+nahx kakki lah pahdu'h : lah ahdiruh tahjahzi
+gapxah te'hrehtuhxa : lah majrah xinah-ma
+appuhnah-ma ixtehn-exret : kihma xuahti uxtabxi
+ina ilih bukrihxa : xuht ixkunuhxi pujra
+uxaxckì ckìngu : ina birihxunu xa'hxu uxrabbihx
+ahlikuht majri pahn ummahni mu'erruht pujri
+naxe'h kakkih ticsbutu : deku'h ananti
+xuht tamjahri : rab sikkatuhti
+ipckìd-ma ckàhtuxxu : uxehxibaxxu ina karri
+addi ta'hka : ina pujur ilih uxarbihka
+malikuht ilih gimrassunu : ckàhtukka uxmalli
+luh xurba'htah-ma jah'irih : ehdu'h attah
+lirtabbu'h zikruhka : eli kali'hxunu anukkih
+iddinxum-ma tuppi xihmahti : iratux uxatmij
+kataduggu'hka lah innenna'h : likuhn csìht pi'hka
+innana ckìngu xuxckù'h : leckù'h ahnuhti
+an ilih mahrihxa : xihmata ixtihma
+epxu pi'hkunu : gihra linijja
+imtuk kitmuru : magxara lixrabbib
+ixmeh-ma anxar : amahtu magal daljat
+uh'a ixtasi : xapassu ittaxka
+ezzet kabtassu : lah nahjat karassu
+eli ea bukrihxu : xagihmaxu uxtajjaj
+mahrih : xa tegru'h tuckùnta
+mimma'h ehdukka tehpuxu : itaxxi attah
+ta'ihram-ma : apsa'h tanahra
+u tiahmtu xa tuxahgigu : ali mahjirxa
+ahxix milki : rube'h taxihmti
+bahnu'h nehmeckì : ilu nudimmud
+amaht tapxujti : sickàr tanehji
+anxar abahxu : ctàhbix ippal
+ea pa'hxu ihpuxam-ma
+abih libbu rùhckù : muximmu xihmti
+xa xubxu'h u julluckù : baxu'h ittihxu
+anxar libbu rùhckù : muximmu xihmti
+xa xubxu'h u julluckù : baxu'h ittihxu
+inimme'h ahtammuhka : surrix nuhjam-ma
+kih amaht dumckì ehpuxu : xudud libbukka
+lahm anahku : apsa'h anahram-ma
+mannu ihtamar-ma : inanna anna'hti
+lahm urrijam-ma : uballu'h xuahti
+luh xa'hxi uxjallickà : mihnu'h baxih-ma
+ixmeh-ma anxar : amahtu ictìhb elxu
+ipxaj libbaxuh-ma : ana ea izakkar
+mahrih epxehtuhka : ilix nactà'h-ma
+ezza mejcsà lah majra : tele''e … 
+ea epxehtuhka : ilix nactà'h-ma
+ezza mejcsà lah majra : tele''e … 
+alik-ma muttix tiahmti : tehba'hxa xupxij
+uggassa luh … xuhcsà'ht : surrix ina xiptihka
+ixmeh-ma zikrih : abihxu anxar
+ìcsbat jarrahnxuh-ma : urujxu uxtardi
+illik ea : xibckùhx tiahmti ixe''a'hm-ma
+uxib uxjarrir-ma : ituhra arkix
+ihrum-ma majru : ba'uhli anxar
+unnenna ìcsbatam-ma : izakkarxu
+abih uhtattir-ma tiahmtu : epxetaxa elihya
+mahlakxa exe''eh-ma : ul imajjar xiptih
+gapxah emuhckàhxa : mala'ht adihra
+pujra dunnunat-ma : ul iya'hrxi mamman
+lah naxir tukkaxa : xeba'hm-ma
+ahdur-ma rigmaxa : atuhra arkix
+abih eh tuxtahnij : tuhr xupurxi
+emùhckàh sinnixti luh dunnunah : ul mala xa zikri
+rummi kicsrihxa : milkaxa supuj attah
+lahm ckàhtihxa : ummidu ana mujjihni
+anxar : uzzuzix ixassi
+ana ahni mahrihxu : xuh izakkar
+aplu kannu'h : kaxuhxu ckàrrahdu
+xa gapxah emuhckàhxu : lah majahr tehbu'hxu
+aruj-ma muttix tiahmti : iziz attah
+xupxij kabtatax : libbux lippux
+xummah-ma : lah xema'hta amahtka
+amaht unnenni atmehxim-ma : xih lippaxja
+ixmeh-ma zikrih : abihxu anxar
+ìcsbat jarrahnxuh-ma : urujxu uxtardi
+illik ahnu xibckùhx : tiahmti ixe''a'hm-ma
+uxib uxjarrir-ma : ituhra arkix
+ihrum-ma majru : abi ahlidihxu anxar
+unnenna ìcsbatam-ma : izakkarxu
+abih uhtattir-ma tiahmtu : epxetaxa elihya
+mahlakxa exe''eh-ma : ul imajjar xiptih
+gapxah emuhckàhxa : mala'ht adihra
+pujra dunnunat-ma : ul iya'hrxi mamman
+lah naxir tukkaxa : xeba'hm-ma
+ahdur-ma rigmaxa : atuhra arkix
+abih eh tuxtahnij : tuhr xupurxi
+emùhckàh sinnixti luh dunnunah : ul mala xa zikri
+emùhckàh sinnixti lah dunnunah : mala xa zikri
+rummi kicsrihxa : milkaxa supuj attah
+lahm ckàhtihxa : ummidu ina mujjihni
+uxjarrir-ma anxar : ckàckckàra inactctàl
+ikammam ana ea : unahx ckàckckàssu
+pajruh-ma igihguh : kalihxunu anukkuh
+xaptahxunu kuttumah-ma : ckà'hlix uxbuh
+ilu ayyu'hm-ma : ul iya'hr … 
+majahrix tiahmti : ul ucscsì ina xaptihxun
+u behlu anxar : abi ilih rabu'hti
+kamil libbaxuh-ma : ul ixassi mamman
+aplu gaxru : mutirru gimilli abihxu
+jah'ix tuckmahti : marduk ckàrdu
+ilsih-ma ea : axar pirixtihxu
+ka'inimmak libbihxu : ihtammihxu
+marduk milka : xemi abihka
+attah-ma mahrih : munappixu libbihxu
+muttix anxar : ckìtrubix ctèjeh-ma
+epux pihka izuzzu : amahrukka nijja
+ijduh-ma behlu : ana ama'ht abihxu
+ìctjeh-ma ittaziz : majarix anxar
+ihmurxuh-ma anxar : libbaxu ctùbbahti imla
+ixxìck xaptihxu : adihraxu uttessi
+abih lah xuktumat : pite xaptuk
+lullik-ma luxamcsà'h : mala libbihka
+anxar lah xuktumat : pite xaptuk
+lullik-ma luxamcsà'h : mala libbihka
+ayyu'h zikru : tahjahzaxu uxehcsìhka
+u tiahmtu xa sinnixatu : iya'hrka ina kakki
+abih bahnu'h : jidi u xuhlil
+kixahd tiahmti urrujix : takabbas attah
+anxar bahnu'h : jidi u xuhlil
+kixahd tiahmti urrujix : takabbas attah
+alik mahrih : muhdu'h gimir uzni
+tiahmta xupxij : ina te'hka elli
+rikab uhmih : urrujix xutardih-ma
+pahnuxxa lah uttakkaxuh : tihr arkahnix
+ijduh-ma behlu : ana amaht abihxu
+ihlìcs libbaxuh-ma : ana abihxu izakkar
+behluh ilih : xihmaht ilih rabu'hti
+xummah-ma anahku : mutihr gimillihkun
+akammi tiahmtam-ma : uballàct ka'hxun
+xuknah-ma pujra : xuhterah iba'h xihmtih
+ina ubxukkinnakki mitjahrix : jadi'hx tixbah-ma
+epxu pi'hya kihma ka'htunuh-ma : xihmata luxihm-ma
+lah uttakkar mimmu'h : abannu'h anahku
+ai ituhr ai innena'h : sickàr xaptihya
+iddu'hxum-ma : parak rubu'hti
+majarix abbihxu : ana malikuhti irme
+attah-ma kabtahta : ina ilih rabu'hti
+xihmatka lah xanahn : sickàrka ahnu
+marduk kabtahta : ina ilih rabu'hti
+xihmatka lah xanahn : sickàrka ahnu
+ixtu uhmim-ma : lah innenna'h ckìbihtka
+xuxckù'h u xuxpulu : xih luh ckàhtka
+luh kihnat csìht pi'hka : lah sarahr sickàrka
+mamman ina ilih : itu'hkka lah ittick
+zanahnuhtu erxat : parak ilih-ma
+zanahnuht kixsat parak ilih-ma
+axar sahgihxunu : luh kuhn axrukka
+marduk attah-ma : mutirru gimillihni
+i niddinka xarruhta : kixxat kal gimrehti
+tixab-ma ina pujri : luh xackà'ht amahtka
+kakkuhka ai ippalctù'h : lira''isuh nakirihka
+behlu xa takluhka : napixtaxu gimil-ma
+u ila xa lemnehti ihjuzu : tubuk napxassu
+uxzizzuh-ma ina birihxunu : lumahxa ixtehn
+ana marduk bukrihxunu : xunu izzakruh
+xihmatka behlu : luh majrat ilih-ma
+abahtu u banu'h : ckìbi liktuhnah
+epxu pi'hka : li''abit lumahxu
+tuhr ckìbihxum-ma : lumahxu lixlim
+ìckbih-ma ina pi'hxu : i''abit lumahxu
+ituhr ìckbihxum-ma : lumahxu ittabni
+kihma csìht pi'hxu ihmuruh : iluh abbuhxu
+ijdu'h ikrubuh : marduk-ma xarru
+ùcscsìbuhxu jactctà : kussa'h u pala'h
+iddinuhxu kakka lah majra : dah'ipu zayyahri
+alik-ma xa tiahmti : napxatux puru'-ma
+xahruh dahmihxa : ana busrati libilluhni
+ixihmuh-ma xa behli : xihmatux iluh abbuhxu
+uruj xulmi u texme'h : uxtacsbituhx jarrahna
+ibxim-ma ckàxta : kakkaxu u'addi
+mulmulla uxtarkiba : ukihnxi matna
+ixxih-ma mictctà : imnaxu uxahjiz
+ckàxta u ixpata : iduxxu ihlul
+ixkun berckà : ina pahnihxu
+nabla muxtajmictà : zumurxu umtalli
+ihpux-ma sapahra : xulmu'h ckèrbix tiahmta
+erbetti xahrih uxtecsbita : lah acsè'h mimmi'hxa
+erbetti xahrih uxtecsbita : ana lah acsè'h mimmi'hxa
+xuhta iltahna : xada'h amurra
+idux sapahri uxtackriba : ckìhsti abihxu ahni
+idux sapahri uxtackriba ana ckìhxti abihxu ahni
+ibni imjulla xahra lemna : meja'h axamxuhta
+xahr-erbetti xahr-sebetti : imsujja xahr-lah-majahr
+uxehcsà'hm-ma xahrih : xa ibnu'h sebettihxun
+ckèrbix tiahmti xudluju : tebu'h arkihxu
+ixxih-ma behlu : abuhba kakkaxu raba'h
+narkabta uhma lah majra : galitta irkab
+ìcsmissim-ma erbet nacsmadih : iduxxa ihlul
+xaggixa lah pahda'h : rahjicsà mupparxa
+patu'hni xaptih : xinnahxunu naxa'h imta
+anahja lah ihdu'h : sapahna lamduh
+uxziz imnuxxu : tahjahza raxba u tuckùnta
+xumehla ananta : dah'ipat kala muttendih
+najlapta aplujta : puljahti jalip-ma
+melammih raxubbahti : apir rahxuxxu
+uxtehxir-ma behlu : urjaxu uxardih-ma
+axrix tiahmti xa uggugat : pahnuxxu ixkun
+ina xaptihxu : ta'h ukalla
+xammi imta bulli'h : tamij rittuxxu
+ina uhmihxu idulluhxu : iluh idulluhxu
+iluh abbuhxu idulluhxu : iluh idulluhxu
+ìctjeh-ma behlu : ckàblux tiahwati ibarri
+xa ckìngu jah'irihxa : ixe''a'h xibckìhxu
+inàctctàl-ma : exi mahlakxu
+sapij ctèhmaxuh-ma : seja'ht epxessu
+u iluh rehcsùhxu : ahlikuh idihxu
+ihmuruh-ma ckàrda axarehda : nictìlxun ihxi
+iddi ta'hxa tiahmtu ul utahr kixahssa
+ina xaptihxa lulla'h : ukalla sarrahti
+ … xa behli : iluh tebu'hka
+ … ipjuruh : xunu axrukka
+ixxih-ma behlu : abuhba kakkaxu raba'h
+ana tiahmti xa ikmilu : kiahm ixpurxi
+mihna'h tubba'hti : elix naxa'htih-ma
+u kapid libbakih-ma : deke'h ananta
+issu'h mahruh : abbihxunu idacscsùh
+u attih ahlittaxunu : tazerrih rehma
+tabbi'h ckìngu ana jah'iruhtihki
+ana lah simahtihxu taxkunihx : ana paràcs ahnuhti
+ana anxar xar ilih : lemnehti texe'h-ma
+u ana ilih abbihya : lemuttaki tuktinnih
+luh csàndat ummahtki : luh ritkusuh xunu kakkuhki
+endihm-ma anahku u ka'hxi : i nihpux xaxma
+tiahmtu annihta ina xemi'hxa
+majjuhtix ihtemi : uxanni ctèhnxa
+issih-ma tiahmtu : xitmurix elihta
+xurxix malmalix : itrurah ixdahxa
+imanni xipta : ittanaddi ta'hxa
+u iluh xa tahjahzi uxa''aluh xunu kakkihxun
+innenduh-ma tiahmtu : u apkal ilih marduk
+xaxmix itlupuh : ckìtrubuh tahjahzix
+uxparrir-ma behlu : sapahraxu uxalmihxi
+imjulla csàhbit arkati : pahnuxxa umtaxxir
+ipteh-ma pihxa : tiahmtu ana la'ahtihxa
+imjulla uxtehriba : ana lah katahm xaptihxa
+ezzuhtu xahruh : karxaxa icsàhnuh-ma
+innesil libbaxah-ma : pa'hxa uxpalki
+issuk mulmulla : ijtepi karassa
+ckèrbihxa ubattickà : uxallìct libba
+ikmihxih-ma napxatux uballi
+xalamtax idda'h : elihxa izzaza
+ixtu tiahmta : ahlik pahni inahru
+kicsrihxa uptarrira : pujurxa issapja
+u iluh rehcsùhxa ahlikuh idihxa
+ittarruh iplajuh : usajjiruh alkassun
+uxècscsù'h-ma napxatux ectèhra
+nihta lamu'h : naparxudix lah le'u'h
+ihsirxunuhtih-ma kakkihxunu uxabbir
+sapahrix nadu'h-ma : kamahrix uxbuh
+enduh tubckàhti : malu'h dumahmih
+xehressu naxu'h : kalu'h kixukkix
+u ixtehn-exret nabnihti : xuht puljahti csà'nuh
+milla galle'h : ahlikuh kirdip imnihxa
+ittadi csèrrehti : idihxunu ukassi
+ckàdu tuckmahtihxunu : xapalxu ikbus
+u ckìngu : xa irtabbu'h ina birihxun
+ikmihxuh-ma itti ugge'h : xuahtu imnihxu
+ihkimxuh-ma : tuppi xihmahti lah simahtihxu
+ina kixibbi iknukam-ma : irtux itmuj
+ixtu lemnihxu : ikmu'h isahdu
+ayyahba mutta'da : uxahpu'h xuhrihxam
+ernitti anxar eli nakirih : kali'hx uxzizzu
+nizmat nudimmud ikxudu : marduk ckàrdu
+eli ilih kamu'hti : csìbittaxu udannin-ma
+csèhrix tiahmti xa ikmu'h : ituhra arkix
+ikbus-ma behlu : xa tiahmti ixissa
+ina mìctctìhxu lah pahdi'h : ulatti mujja
+uparri'-ma : uxlaht dahmihxa
+xahra iltahna : ana busrati uxtahbil
+ihmuruh-ma abbuhxu : ijdu'h irihxuh
+igise'h xulmahna uxahbiluh : xunu ana xa'hxu
+inuhj-ma behlu : xalamtax ibarri
+xerkuppa uzahz : ibanna'h niklahti
+ijpihxih-ma kihma nuhn : maxctè'h ana xinihxu
+mixluxxa ixkunam-ma : xamahmih ùcscsàllil
+ixdud maxka : màcscsàra uxacsbit
+me'hxa lah xuhcsà'h : xunuhti umta''ir
+xame'h ihbir : axrata ijihctàm-ma
+uxtamjir mejret apsi'h : xubat nudimmud
+imxuj-ma behlu : xa apsi'h binu'htuxxu
+exgalla tamxihlaxu : ukihn exarra
+exgalla exarra : xa ibnu'h xamahmih
+ahnu enlil u ea : mahjahzihxun uxramma
+marduk : zikrih ilih ina xemi'hxu
+ubbal libbaxu : ibanna'h niklahti
+epxu pi'hxu : ana ea ickàbbi
+xa ina libbihxu uxtahmu'h : inaddin milka
+dahmih lukcsùr-ma : ecsèmta luxabxih-ma
+luxziz-ma lulla'h : luh amehlu xumxu
+lubnih-ma : lulla'h amehla
+luh emduh dulli ilih-ma : xunu luh paxjuh
+luxannih-ma alkakaht : ilih lunakkil
+ixtehnix luh kubbutuh-ma : ana xina luh zihzuh
+ihpulxuh-ma ea : amahta ickàbbihxu
+axxu tapxujti xa ilih : uxanna'hxxu ctèhma
+linnadnam-ma : ixtehn ajuhxun
+xuh li''abbit-ma : nixuh lippatckàh
+lipjuruhnim-ma : iluh rabu'htu
+xa arni linnadin-ma : xunu liktuhnuh
+marduk upajjir-ma : ilih rabu'hti
+ctàhbix uma''ar : inaddin te'hrta
+epxu pi'hxu : iluh upàckckùhxu
+xarru ana anunnakkih : amahta izakkar
+luh kihnam-ma : majru'h nihbuhkun
+kinahti atama'h : inimma'h ittihya
+mannum-ma : xa ibnu'h tuckùnta
+tiahmta uxbalkituh-ma : ikcsùru tahjahza
+u tiahmta uxbalkituh-ma ikcsùru tahjahza
+linnadnam-ma : xa ibnu'h tuckùnta
+arnuxxu luxaxxa'h : paxahjix tuxbah
+ihpuluhxuh-ma igihguh : iluh rabu'htu
+ana lugaldimeranki'a malik ilih : behlahxun
+ckìngum-ma : xa ibnu'h tuckùnta
+tiahmta uxbalkituh-ma : ikcsùru tahjahza
+u tiahmta uxbalkituh-ma ikcsùru tahjahza
+ikmu'hxuh-ma majrix : ea ukalluhxu
+arna ihmiduhxuh-ma : dahmihxu iptar'uh
+ina dahmihxu : ibnu'h amehluhta
+ihmid dulli ilih-ma : ilih umtaxxir
+ixtu amehluhta : ibnu'h ea erxu
+dulla xa ilih : ihmiduhni xa'hxu
+xipru xuh : lah nactù'h jasahsihx
+ina niklahti xa marduk : ibna'h nudimmud
+marduk xarru : ilih uza''iz
+ana anunnakkih gimrassunu : elix u xaplix
+u'addi ana ahni : te'hrehtux nacsàhra
+jamxat xuxxi ina xame'h : ukihn màcscsàrta
+uxtaxnih-ma alkakaht : ercsèti u'acscsìr
+ina xame'h u ercsèti : nehr uxtehxib
+ixtu te'hrehti : napjarxina uma''iru
+ana anunnakkih xa xame'h u ercsèti : uza''izu isckàhssun
+anunnakkuh : pa'hxunu ihpuxuh-ma
+ana marduk behlihxunu : xunu izzakruh
+inanna behl : xa xubarra'hni taxkunuh-ma
+mihnu'h dumckà'hni : ina majrihka
+i nihpux parakka : xa nabu'h zikirxu
+kummuk luh nubattani : i nuxapxij ckèrbux
+i niddi parakka : nehmeda axarxu
+i niddi parakka : xa nimmidu axarxu
+ina uhmi xa nikaxxada : i nuxapxij ckèrbux
+marduk : annihta ina xemi'hxu
+kihma uhmi immiruh : zihmuhxu ma'dix
+epxah-ma bahbili : xa tehrixah xipirxu
+libnassu lippatick-ma : parakka zùckrah
+anunnakkuh : itrukuh alla
+xattu ixta'ht : libittaxu iltabnuh
+xattu ana ixta'hti : libittaxu iltebnuh
+xanihtu xattu : ina kaxahdi
+xa esagil mejret apsi'h : ullu'h rehxihxu
+ibnu'h-ma : zìckckùrrat : apsi'h elihta
+ana ahni enlil ea u xa'hxu : ukinnuh xubta
+ina tarba'hti : majarxunu uxibam-ma
+xurxix exarra : inactctàla ckàrnihxu
+ixtu esagil : ihpuxuh xipirxu
+anunnakkuh kalihxunu : parakkihxunu ibtaxmuh
+jamxat xuxxi igihguh xa xamahmih u nehr xa apsi'h : kalihxunu pajruh
+behlu ina paramahji : xa ibnu'h xubassu
+ilih abbihxu : ckèrihtaxu uxtehxib
+anna'h bahbili : xubat narmi'hkun
+nuga'h axruxxu : jidu'htaxu tixbah-ma
+uxibuh-ma : iluh rabu'htu
+zarbahba ixkunuh : ina ckèrihti uxbuh
+ixtu nigu'hta : ixkunuh ckèrebxu
+ina esagil raxbi : ihtepuxuh xunu tackribta
+kunnah te'hrehtu : napjarxina ucsùrahtu
+manzahz xame'h u ercsèti uza''izuh : iluh gimrassun
+iluh rabu'htu : jamxahssunu uxibuh-ma
+iluh xihmahti sebettihxunu : ana purusse'h uktinnuh
+imjur-ma behlu ckàxta : kakkaxu majarxun iddi
+sapahra xa ihteppuxu : ihmuruh iluh abbuhxu
+ihmuruh-ma ckàxta : kih nukkulat binu'hta
+epxeht ihteppuxu : inadduh abbuhxu
+ixxih-ma ahnu : ina pujur ilih ickàbbi
+ckàxta ittaxìck : xih luh mahrtih
+ibbih-ma xa ckàxti : kiahm xumihxa
+icsù arik luh ixtehnum-ma : xanu'h luh kahxid
+xalxu xumxa kakkab ckàxti : ina xame'h uxahpi
+ukihn-ma gisgallaxa : itti ilih atje'hxa
+ixtu xihmahti xa ckàxti : ixihmu ahnu
+iddih-ma kusse'h xarruhti : xa ina ilih xackà'hta
+ahnu ina pujur ilih : xuahxu uxtehxibxi
+ipjuruhnim-ma : iluh rabu'htu
+xihmat marduk ullu'h : xunu uxkinnuh
+uzakkiruh-ma : ana ramahnihxunu arahra
+ina me'h u xamni itmu'h : ulappituh napxahti
+iddinuhxum-ma : xarruht ilih epehxa
+ana behluht ilih xa xame'h u ercsèti : xunu uktinnuhxu
+uxahtir-ma anxar asarluji : ittabi xumxu
+ana zikrihxu ckàbe'h : i nilbin appa
+epxu pi'hxu : iluh lipìckckùhxu
+ckìbihtuxxu luh xuhturat : elix u xaplix
+luh xuxckùh-ma mahru : mutihr gimillihni
+enuhssu luh xuhturat : xahnina ai irxi
+lihpux-ma reh'u'ht : csàlmaht ckàckckàdi bina'htuxxu
+ajra'htax uhmih lah maxe'h : lizakkirah alkassu
+ajra'htax uhmih ana lah maxe'h lizzakkirah alkassu
+likihn ana abbihxu : nindabe'h rabu'hti
+zahninuhssun lihpuxa : lipackckìda exrehssun
+lixèhcsìn ckùtrinnih : tih'ahxina lixrexxa
+tamxihl ina xame'h ihteppuxu : ina ercsèti lihteppux
+li'addih-ma : csàlmaht ckàckckàdi palahjixxu
+li'addih-ma csàlmaht ckàckckàdi palahju xa'hxu
+ba'uhlahtu luh jissusah : ilaxina lizzakrah
+epxu pi'hxu : ixtarix lipickckàh
+nindabu'h linnaxa'h : ilaxina ixtarxin
+ai immaxa'h : ilaxina likillah
+mahtihxina lixteppa'h : parakkihxina lihtepxah
+luh zihzah-ma csàlmaht ckàckckàdi ilih
+na'hxi mala xuma nibbu'h : xuh luh ilni
+i nibbih-ma jamxah xumihxu
+alkatux luh xuhpa'ht : epxetux luh maxlat
+alkahtux luh xuhpa'h epxehtux luh maxlah
+marduk xa ixtu csìhtihxu ibbu'hxu : abuhxu ahnu
+xahkin mirihti u maxckìhti : muctàjjidu uri'hxun
+xa ina kakkihxu abuhbi : ikmu'h xahpu'hti
+ilih abbihxu : ihctìru ina xapxàhckì
+luh mahru xamxi xa ilih : nebu'h xuh-ma
+luh mahru xamxi xa ina ilih nabu'h xuh-ma
+ina nuhrihxu namri : littallakuh xunu kayyahna
+nixih xa ibnu'h : xikitta napxa
+dulli ilih ihmiduh-ma : xunu ippaxjuh
+bana'h abahta : napxura enehna
+luh baxih-ma nannu'hxxu : luh naplusuh xunu xa'hxu
+luh baxih-ma ulla'hnuxxu : luh naplusuh xunu ana xa'hxu
+marukku luh ilu : bahnu'hxunu xuh-ma
+muctìhb libbi anunnakkih : muxapxiju igihgih
+marutukku luh tukulti mahti : ahli u nixihxu
+xa'hxuh-ma litta''idahxu : nixuh ajra'htax
+ana xa'hxuh-ma litta''idahxu : nixuh ajra'htax
+merxakuxu eziz u muxtahl : sabux u tayyahr
+rapax libbaxu : lah'ìct karassu
+lugaldimeranki'a xumxu : xa nibbu'h pujurni
+lugaldimeranki'a xa xumxu : i nimbu'h pujurni
+zikrih pi'hxu nuxaxckù'h : eli ilih abbihxu
+luh behl ilih : xa xame'h u ercsèti kali'hxun
+xarru ana taklimtihxu iluh luh xu'duruh elix u xaplix
+nari-lugaldimeranki'a xumxu xa nizkuru : ahxir ilih kalahma
+xa ina xame'h u ercsèti ittaddu'h : xubatni ina puxckì
+ana igihgih u anunnakkih : uza''izu manzahza
+ana xumihxu iluh lixtar'ibuh : linuhxuh ina xubti
+asarluji xumxu xa ibbu'hxu : abuhxu ahnu
+xuh luh nuhru xa ilih : gexctù'h dannu
+xa kihma xumihxuh-ma : lamassi ilih u mahti
+ina xaxmi danni : ihctèru xubatni ina puxckì
+asarluji-namtila xani'hx ibbu'h : ilu muxnexxu
+xa kihma binu'htihxuh-ma ikxiru : kala ilih abtuhti
+behlu xa ina xiptihxu elleti : uballictù ilih mihtuhti
+mu'abbit egruhti : zah'irih i nibbu'hxu
+asarluji-namru xa innabu'h : xalxix xumxu
+ilu ellu : mullilu alaktihni
+xuluxah xumihxu ibbu'h : anxar lajmu u lajahmu
+ana ilih mahrihxunu : xunu izzakruh
+nihnuh-ma xuluxah : nittabi xumihxu
+kih na'hxih-ma attunu : xumihxu zukrah
+ijdu'h-ma iluh : ixmu'h sickàrxun
+ina ubxukkinnakki uxtaddinuh : xunu milkassun
+xa mahri ckàrrahdi : mutihr gimillihni
+nihnu xa zahnini : i nulli xumxu
+uxibuh-ma ina ukkinihxunu : inabbu'h xihmahti
+ina mehsih nagbaxunu : uzakkiruhni xumxu
+asarre xahrik mehrexti : xa israta ukinnu
+bahnu'h e'h u ckè'h : muxehcsù'h urckìhti
+asaralim xa ina biht milki kabti : xuhturu milikxu
+iluh uhtackckù'h : adihrxu ajzuh
+asaralimnunna karuhbu : nuhr abi ahlidihxu
+muxtehxir te'hreht ahni : enlil u ea u ninxihku
+xuh-ma zahninxunu : mu'addu'h isckìhxun
+xa xukuhssu jegalla : ùcscsàpa ana mahti
+tutu bahn tehdixtihxunu : xuh-ma
+lillil sahgihxunuh-ma : xunu luh paxjuh
+libnih-ma xipta : iluh linuhjuh
+aggix luh tebu'h : lineh'uh irassun
+luh xuxckù'h-ma : ina pujur ilih ehdixxihxu
+mamman ina ilih : xuahxu lah umdaxxalxu
+tutu zi'ukkina napixti ummahni : xani'hx izzakruh
+xa ukinnu ana ilih : xame'h elluhti
+alkassun ìcsbatuh-ma : u'addu'h manzahssun
+ai immaxi ina apa'hti : epxetaxu liktilla
+tutu ziku xalxix : imbu'h mukihl tehlilti
+il xahri ctàhbi : behl taxme'h u magahri
+muxabxi csìmri u kubutte'h : mukihn jegalli
+xa mimma'hni ìhcsà : ana ma'di'h utirru
+ina puxckì danni : nihcsìnu xahrxu ctàhba
+lìckbu'h litta''iduh : lidluluh dalihlihxu
+tutu agaku ina rebi'h : lixarrijah abrahtu
+behl xipti elleti : muballìct mihti
+xa ana ilih kamu'hti : irxu'h tayahra
+abxahna enda uxassiku : eli ilih nakirihxu
+ana padi'hxunu : ibnu'h amehluhta
+rehmehnu'h xa bulluctù : baxu'h ittihxu
+likuhnah-ma : ai immaxa'h ama'htuhxu
+ina pi'h csàlmaht ckàckckàdi : xa ibna'h ckàhtahxu
+tutu tuku ina jamxi ta'hxu ella : pahxina littabbal
+xa ina xiptihxu elleti : issuju nagab lemnuhti
+xazu muhde'h libbi ilih : xa ibarru'h karxa
+ehpix lemnehti lah uxehcsù'h ittihxu
+mukihn pujri xa ilih : muctìhb libbihxun
+mukannix lah mahgirih : csùluhlxun rapxu
+muxehxir kitti : nahsij itgura dabahba
+xa sartu u kittu : umtassa'h axruxxu
+xazu zisi muxebbi tehbi'h : xani'hx litta''iduh
+mukkix xujarrati : ina zumur ilih abbihxu
+xazu sujrim xalxix : nahsij ayyahbih gimirxunu ina kakki
+musappij kipdihxunu : muterru xahrix
+muballi napjar raggih : mala iya'hruhxu
+iluh lixtalliluh : xunu ina pujri
+xazu xujgurim ina rebi'h : xahkin taxme'h ana ilih abbihxu
+nahsij ayyahbih : mujallìck niprihxun
+musappij epxehtihxunu : lah ezehb mimme'hxun
+lizzakir lìckckàbi : xumxu ina mahti
+luh zakir lìckckàbi : xumxu ina mahti
+xazu zajrim ina jamxi : lixtaddinuh arku'htu
+mujallìck nagab zahma'hnih : lah mahgirih kali'hxun
+xa napjar ilih munnabtih : uxehribu exrehtix
+likuhn-ma : annu'h zikirxu
+xazu zajgurim ina xexxi appuhna : kali'hx lixtamruh
+xa napjar ayyahbih ujallickù : xuh tahjahzix
+enbilulu behlu : mudexxu'hxunu xuh-ma
+dannu nabu'hxunu : xahkin taklihmi
+xa ri'hta maxckìhta uxtexxeru : ukinnu ana mahti
+berahti upattu'h : uza''izu me'h nujxi
+enbilulu epadun behl nami'h u ate'h : xani'hx lizzakruh
+gugal xame'h u ercsèti : mukinnu absinni
+xa mehrexta elleta : ukinnu ina csèhri
+ihka u palga uxtexxeru : ùcscsìru apkihsa
+enbilulu gugal gugal mìctrat ilih linahduh xalxix
+behl jegalli ctùjdi : ixpikih rabu'hti
+xahkin mexre'h : munajjix dadmeh
+nahdin xu'i : muxabxu'h axnan
+enbilulu jegal mukammir jegalli ana nixih : rebi'hx lìckbu'h
+muxaznin nujxi eli ercsèti rapaxti : mudexxu'h urckìhti
+sirsir xahpik xadi'h : elehnux tiahmti
+xahlil xalamta : tiahmta ina kakkihxu
+muttarru'h mahti : reh'u'hxina kihnu
+xa xarkuhxu mehrexu : xukuhsu xer'u
+xa tiahmta rapaxta : ihtebberu uzzuxxu
+xa ina tiahmti rapaxti : ihtebberu uzzuxxu
+kih titurri ihtetteckù : axar xaxmihxa
+sirsir malaj ina xani'h imbu'h : xih luh kiahm
+tiahmtu rukuhbxuh-ma : xuh malahjxa
+gil muxtappik kare'h : tihlih bitru'hti
+bahnu'h axnan u lajri : nahdinu zehr mahti
+gilima mukihn ctùrri ilih : bahnu'h kinahti
+rappu lah'issunu : muxacsbitu damckàhti
+agilima xackù'h : nahsij age'h ahxir xalgi
+bahnu'h ercsèti elix me'h : mukihn ela'hti
+zulum mu'addi ckèrbeti ana ilih : pahlik binu'hti
+nahdin isckìh u nindabe'h : pahckìdu exrehti
+mummu bahn xame'h u ercsèti : muxehxir parsi
+ilu mullil xame'h u ercsèti : xani'hx zulummu
+xa ana dunnihxu ina ilih : xanu'h lah maxlu
+gixnumunab bahnu'h napjar nixih : ehpixu kibrahti
+ahbit ilih xa tiahmti : ehpix nixih ina mimme'hxun
+lugalabdubur xarru sahpij epxet tiahmti : nahsiju kakkihxa
+xa ina rehxi u arkati : duruxxu kunnu
+pagalgu'enna axarehd napjar behlih : xa xackà'h emuhckàhxu
+pagalgu'enna axarehd napjar behl ilih xa xackà'h emuhckàhxu
+xa ina ilih ajjihxu xurbu'h : etel napjarxun
+lugaldurmaj xarru markas ilih : behl durmahji
+xa ina xubat xarruhti xurbu'h : ana ilih ma'dix csìhru
+aranunna mahlik ea : bahn ilih abbihxu
+xa ana alakti rubu'htihxu lah umaxxalu : ilu ayyumma
+dumuduku xa ina duku uhtaddaxu : xubassu ellet
+dumuduku xa ina balihxu purussa'h : lah iparrasu lugalduku
+lugalxu'ana xarru xa ina ilih : xackà'h emuhckàhxu
+behlu emùhck ahni : xa xuhturu nibu'ht anxar
+behl emuhckàhn csìhrahti : xuhturu nibu'ht anxar
+irugga xahlil gimrihxunu : ckèrbix tiahmti
+xa napjar uzni ijmumu : jasihsa palku'h
+irckìngu xahlil ckìngu : ayyahbix tahjahzi
+muttabbil te'hreht napjari : mukihn behluhti
+kinma muma''ir napjar ilih : nahdin milki
+xa ana xumihxu iluh kihma meje'h : ixubbuh paljix
+dingiresiskur xackì'hx : ina biht ikribi lixib-ma
+dingiresiskur xa xackì'hx : ina biht ikribi lixibuh-ma
+iluh majruxxu : lixehribuh kadra'hxun
+adi erebxunu imajjaruhni
+mamman ina balihxu : lah ibanna'h niklahti
+erba csàlmaht ckàckckàdi bina'htuxxu
+ela xa'hxu ctèhmi uhmihxina : lah iyadda ilu mamman
+girru mukihn ahcsà'ht kakki
+xa ina tahjahz tiahmti : ibanna'h niklahti
+palka'h uzni : itpehxa jasihsi
+libbu rùhckù xa lah ilammaduh : iluh gimrahssun
+addu luh xumxu : kixxat xame'h lihrim-ma
+addu luh xumxu : xa kixxat xame'h lihrimuh-ma
+ctàhbu rigmaxu : eli ercsèti lirtacscsìn
+mummu erpehti lixtakcsìbam-ma
+xaplix ana nixih : ti'u'hta liddin
+axaru xa kihma xumihxuh-ma : ihxuru ilih xihmahti
+kullat kal nixih : xuh luh pahckìd
+nehberu nehberet xame'h u ercsèti luh tamij-ma
+elix u xaplix lah ibberuh : lickè''u'hxu xa'hxu
+nehberu kakkabxu : xa ina xame'h uxahpu'h
+luh csàhbit kunsagge'hxunu : xa'hxu luh palsuhxu
+mah xa ina ckèrbix tiahmti : ihtebbiru lah na'hjix
+xumxu luh nehberu : ahjizu ckèrbihxu
+xa kakkabih xamahmih : alkassunu likihn-ma
+kihma csèhni lirta'a'h : ilih gimraxun
+likmi tiahmta : napixtaxa lisihck u likri
+ajra'htax nixih : labahrix uhmih
+lixxih-ma lah uktahl : lirèhck ana csà'hti
+axxu axra ibna'h : iptickà dannina
+behl mahtahti xumxu : ittabi abu enlil
+behl mahtahti xa abu enlil imbu'hxu
+ina zikri igihguh : ibbu'h nagabxun
+ixmeh-ma ea : kabattaxu ittangi
+mah xa abbihxu : uxarrijuh zikirxu
+xuh kihma ya'htih-ma : ea luh xumxu
+rikis parcsìhya kalihxunu : libehl-ma
+gimri te'hrehtihya : xuh littabbal
+ina zikri jamxah : iluh rabu'htu
+jamxah xumihxu imbu'h : uxahtiruh alkassu
+lìcscsàbtuh-ma : majru'h likallim
+enckù u muhdu'h : mitjahrix limtalkuh
+lixannih-ma abu : mahra lixahjiz
+xa reh'i'h u nàhckìdi : lipatta'h uznihxun
+lah iggih-ma : ana enlil ilih marduk
+mahssu liddexxa'h : xuh luh xalma
+kihnat amahssu : lah ena'ht ckìbihssu
+csìht pi'hxu lah uxtepe'hl : ilu ayyumma
+ikkelemmuh-ma : ul utahr kixahssu
+ina sabahsihxu uzzaxu : ul imajjarxu ilu mamman
+rùhckù libbaxu : rapax karassu
+xa annu u gillatu : majarxu bah'u'h
+taklimti majru'h : idbubu pahnuxxu
+ixctùr-ma ixtakan : ana xemi'h arku'hti
+xihmat marduk xa ullu'h : iluh igihguh
+ehma mu'h ixxattu'h : xumxu lizzakruh
+inannam-ma : zamahru xa marduk
+xa tiahmta ikmu'h-ma : ilckù'h xarruhta
+ … ahnu enlil u ea : … behlet-ilih … 
+ … ina bahbili u esagil … 
+xar gimir dadmeh bahnu'h kibrahti … 
+jendursanga apil ellil rehxtu'h … 
+nahx jactctì csìhrti nahckìd csàlmaht ckàckckàdi reh'u'h tenehxehti
+ihxum ctàhbiju na'du xa ana naxe'h kakkihxu ezzuhti ckàhtahxu asmah
+u ana xubrùck ulmihxu xehruhti erra ckàrrahd ilih inuhxu ina xubti
+ihrissuh-ma libbaxu : epehx tahjahzi
+ihtammi ana kakkihxu : litpatah imat muhti
+ana sebetti ckàrrahd lah xanahn : nandickàh kakkihkun
+ickàbbihku ana ka'hxa : lucsìh-ma ana csèhri
+attah dipahrum-ma : inàctctàluh nuhrka
+attah ahlik majrim-ma : iluh … … 
+attah namcsàrum-ma ctàhbiju … 
+erra tebih-ma : ina sapahn mahti
+kih namrat kabtatka : u jadu'h libbuk
+erra kih xa amehli dalpi : idahxu anjah
+ickàbbi ana libbihxu : lutbe lùcslal-ma
+ihtamma ana kakkihxu : ummedah tubckàhti
+ana sebetti ckàrrahd lah xanahn : ana xubtihkunu tuhrah-ma
+adi attah tadekku'hxu : csàlil urxuxxu
+itti mahmi jihratux : ippuxa ulcsàm-ma
+engidudu behlu muttallik muhxi muttarru'h rube'h
+xa èctla u ardata ina xulmi ittanarru'h unammaru kihma uhmi
+xa sebetti ckàrrahd lah xanahn : xunna'ht iluhssun
+ilittaxunu aja'ht-ma : malu'h puljahti
+ahmirxunu uxtajjat-ma : napihssunu muhtum-ma
+nixuh xajtuh-ma : ul i'irruh ana xa'hxu
+ihxum daltum-ma : edil pahnuxxun
+ahnu xar ilih : ercsèta irjeh-ma
+sebetti ilih uldaxxum-ma : sebetta ittabi zikirxun
+izzazzuh ina majrihxuh-ma : xihmassunu ixihm-ma
+issih-ma ixtehn : ixakkana ctèhma
+ehma tandiruh-ma tattalku : mahjira eh tarxi
+ickàbbi ana xani'h kihma gihri kubum-ma : jumùct kihma nabli
+ihtammi ana xalxi zihm labbi luh xaknahtah-ma ahmirka lixjarmìct
+ickàbbi ana rebi'h ana naxe'h kakkihka ezzuhti xadu'h lihtabbit
+ana jamxi ìcktabi kihma xahri zìhck-ma : kippata jìhctà
+xexxa umta''er elix u xaplix bah'am-ma : lah tagammil mamma
+siba'h imat baxmi icsèhnxuh-ma xumckìta napixta
+ultu xihmat sebetti napjarxunu : ixihmu ahnu
+iddinxunuhtih-ma ana erra ckàrrahd ilih : lillikuh idahka
+kih xa nixih dadmeh jubuhrxina : elihka imtarcsù
+ublam-ma libbaka : ana xakahn kamahri
+csàlmaht ckàckckàdi ana xumutti : xumckùtu buhl xakkan
+luh kakkuhka ezzuhtu xunuh-ma : lillikuh idahka
+xunu ezzuh-ma : tebu'h kakkuhxun
+ihtammu'h ana erra : tibe iziz-ma
+minsu kih xihbi muckckì : tuxib ina ahli
+kih xerri la'i'h : tuxib ina bihti
+kih lah ahlik csèhri : nikkala akal sinnix
+kih xa tahjahza lah nihdu'h : niplaja niruhda
+alahk csèhri xa èctluhti kih xa isinnum-ma
+ahxib ahli luh rubu'h : ul ixebbi akla
+xumsuk ina pih nixihxuh-ma : ckàlil ckàckckàssu
+ana ahlik csèhri aki'h : itarràcs ckàhssu
+xa ahxib ahli : luh puggulat kubukkux
+ana ahlik csèhri aki'h : idannin mihna
+akal ahli lullu'h : ul ubbala kamahn tumri
+xikar naxpi : duxxupi : ul ubbala me'h nahdi
+ehkal tamli'h ul ubbala macsàllu xa reh'i'h
+ckùrahdu erra csìh-ma ana csèhri turuk kakkihka
+rigimka dunnin-ma : lixtar'ibuh elix u xaplix
+igihguh lixmu'h-ma : lixarbu'h xumka
+anunnakuh lixmu'h-ma : lixjuctùh zikirka
+iluh lixmu'h-ma : liknuxuh ana nihrihka
+malkuh lixmu'h-ma : likmisuh xapalka
+mahtahtu lixma'h-ma : bilassina lixxa'hka
+gallu'h lixmu'h-ma : ina ramahnihxunu limuhtuh
+dannu lixmeh-ma : lixxur emuhckìhxu
+jursahnuh zàckruhtu lixmu'h-ma lihtabbituh-ma lixpilah rehxahxun
+ta'hmahtu gallahtu lixma'h-ma liddaljah-ma lijallickàh mexerta
+xa ckìhxi danni : liktappiruh gupnuhxu
+apu xa nehreba lah ihxu'h : lijtacscsìcsùh ckànu'hxu
+nixuh liplajah-ma : litckùna jubuhrxin
+buhlu lihrur-ma : lituhr ana ctìctctì
+iluh abbuhka lihmuruh-ma : linahduh ckùrdihka
+ckùrahdu erra minsu csèhra tumaxxir-ma : tuxib ina ahli
+buhl xakkan u nammaxxu'h : leckù'h xehctùhtni
+ckùrahdu erra nickàbbihkum-ma atmu'hni limrùcs elihka
+adi mahtu napjarxa : irbu'h elihni
+mindeh-ma attah : xema'hta amahtni
+mindeh-ma amahtni : ul xema'hta attah
+ana anunnakih rah'im xajrarti : damìckta epxa
+anunnakuh ina jubuhr nixih : ul irejju'h xitta
+napixti mahti gipahra : rajìcs buhlu
+ikkaru ina mujji … : ibakki csàrpix
+nehxu u barbaru uxamckàtuh buhl xakkan
+reh'u'h axxu csèhnihxu urra u muhxa ul icsàllal iballa ka'hxa
+u nihnu muhde'h nehreb xadi'h : nimtaxxi jarrahna
+ina mujji tille'h csèhrihni : xata'ht ckè'h ettuhtu
+ckàxatni ctàhbtu ibbalkit-ma : idnina eli emuhckìhni
+xa ùcscsìhni zackti : kepa'ht lixahxxu
+patarni ina lah ctàbahji ittadi xujta
+ixmehxunuhtih-ma ckùrahdu erra
+amaht sebetti ìckbu'h kih ulu xamni elihxu ictìhb
+amaht sebetti ìckbu'hxu elihxu kih ulu ( xamni ) : ictìhb
+ihpux-ma pa'hxu : izakkar ana ihxum
+minsu xema'htah-ma : ckà'hlix tuxxab
+ctùhda piteh-ma : lùcsbat jarrahna
+sebettu ckàrrahd lah xanahn : luppixuh tahjahza
+kakkihya ezzuhti : xuhlika idahya
+u attah ahlik majrihya : alik pahnihya
+ihxum annihta ina xeme'hxu
+ixmeh-ma ihxum anna'h ckàba'h xa erra
+rehma irtaxih-ma : ìcktabi ajuhlap
+ihpux-ma pa'hxu izakkar ana ckùrahdi erra
+ckùrahdu erra minsu ana ilih : lemutta takpud
+ana sapahn mahtahti jullùck nixihxin lemutta takpud-ma lah tatuhr ana arkihka
+erra pa'hxu : ihpux-ma ickàbbi
+ana ihxum ahlik majrihxu : amahta izakkar
+ihxum ckùhlam-ma : xime ckàba'hya
+axxu nixih dadmeh : xa tackbu'h gamahlxin
+ahlik majri ilih enckù ihxum xa milikxu damckù
+ina xame'h rihmahku : ina ercsèti labbahku
+ina mahti xarrahku : ina ilih ezzahku
+ina igihgih ckàrdahku : ina anunnakih gaxrahku
+ina buhli mahjicsàhku : ina xadi'h xubahku
+ina api gihrahku : ina ckìhxi magxarahku
+ina alahk jarrahni urinnahku
+kih xahri azà'hck : kih addi urtacscsàn
+kih xamxi abarri : kippata kalahma
+ana csèhri ùcscsìh-ma bibbahku
+ana nami'h errub-ma nergal rama'hku xubta
+iluh napjarxunu : nibihtih xajtuh
+u nixih csàlmaht ckàckckàdi : leckù'h xehctùhtih
+anahku axxu lah ixjuctùh-ma zikrih
+u xa rube'h maruhtuk amahssu iddu'h-ma eppuxu kih libbux
+ruba'h maruhtuk uxaggag-ma ina xubtihxu adekkeh-ma nixih asappan
+ckùrahdu erra ana xu'anna ahl xar ilih ixtakan pahnihxu
+ana ehsagil ehkal xame'h u ercsèti ihrum-ma ittaziz pahnuxxu
+ihpux-ma pa'hxu : ana xar ilih ihtammi
+minsu xukuttu simat behluhtihka xa kihma kakkabih xamahmih lula'h mala'ht leckà'ht uruhxa
+age'h behluhtihka xa kihma ehtemenanki uxanbictù ehjalanki pahnuhxu katmuh
+ihpux-ma pa'hxu : xar ilih ihtammi
+ana erra ckàrrahd ilih : amahta izakkar
+ckùrahdu erra axxu xipri xa'hxu xa tackbu'h epehxa
+ultu ullu ahguguh-ma ina xubtihya atbu'h-ma axkuna abuhba
+ina xubtihya atbeh-ma xipiht xame'h u ercsèti uptactctìr
+xame'h xa uxtar'ibuh xa kakkabih xamahmih manzahssunu ixnih-ma ul utihr axruxxun
+erkallu xa inuhxu xa xer'i bilassu imctìh-ma adi ulla ana emehdi axctà
+xipiht xame'h u ercsèti xa uptactctìru nagbu imtactìh-ma mihluh ittajsuh atuhr ahmur-ma ana xebe'h imtarcsà
+xa xiknaht napixti nabnihssina ìcsjir-ma : ul utihr axruxxun
+adi kihma ikkari zehrihxin : àcsbatu ina ckàhtihya
+bihta ehpux-ma : uxib ina libbi
+xukuttih xa ina abuhbi udda''ipuh-ma : ihkilu xikinxa
+ana xunbùct zihmihya u ubbub csùbahtihya : gihra umta''er
+ultu xukuttih unammeruh-ma : uckàttu'h xipra
+age'h behluhtihya annadckùh-ma : ana axrihya atuhru
+zihmuh'a tubbu'h-ma : galit nictlih
+nixuh xa ina abuhbi isihtah-ma ihmurah epehx xipri
+kakkihya uxatbah-ma : ujallàck rehja
+kakkihka tuxatbih-ma : tujallìck rehja
+umma'hnih xunuhti ana apsi'h uxehrid-ma : ela'hxunu ul ackbi
+xa mehsi elmehxi axarxun unakkir-ma : ul ukallim mamma
+enna axxu xipri xa'hxu xa tackbu'h ckùrahdu erra
+ali mehsu xihr ilih simat xar gimri
+icsù ellu ectlu csìhru : xa xuhluku ana behluhti
+xa ina ta'hmti rapaxti ina me'h me'at behrih ixissu ikxudu xupul aralli
+u ckìmmassu ina ela'hti emdet xame'h xa ahnu
+ali ebbu zaginduru'h : xa uxamsakuh ùckna'h
+ali ninildu : nagargal ahnuhtihya
+nahx pahxi xaxxi ebbi : muhdu'h icsì xa'hxu
+xa kihma uhmi uxanbactùh-ma : ina xapluh'a ukannu
+ali kusibanda bahn ili u amehli : xa ckàhtahxu nasckàh
+ali ninagal : nahx esi'h u xapilti … 
+xa danna era'h kihma maxki ilehmu : pahtickù unuhti
+ali abnuh nasckùhtu binu'ht ta'hmti rapaxti simat age'h
+ali sebet apkalluh apsi'h purahduh ebbuhtu xa kihma eha behlihxunu uzna csìhrta xukluluh mubbibuh zumrihya
+ixmehxuh-ma ckùrahdu erra
+ihpux-ma pa'hxu izakkar ana rube'h maruhtuk
+ … … ultu apsi'h … … ana ela'hti
+mehsu … mejerxu uxella'hm-ma … mehsa
+elmehxa ebba xa … … mejerxu uxella'hm-ma … … elmehxu
+maruhtuk annihta ina xeme'hxu
+ihpux-ma pa'hxu izakkar ana ckùrahdi erra
+ina xubtihya atebbih-ma : xipiht xame'h ercsèti uptactctàr
+mu'h illu'hnim-ma : iba''uh mahta
+uhma namra : ana da'ummati utarruh
+meju'h itebba'h-ma kakkabih xamahmih … ukattam
+xahru lemnu izìckckàm-ma xa nixih xiknaht napixti nictìlxin uctctà
+gallu'h illu'hnim-ma icsàbbatuh … 
+xa ckàblih pàctrahti mahjirxunu … 
+anunnakuh illu'hnim-ma : xiknaht napixti imessuh
+adi kakkihya lah annadckù : uta'hrxunuhti mannu
+erra annihta ina xeme'hxu
+ihpux-ma pa'hxu izakkar ana rube'h maruhtuk
+rubu'h maruhtuk adi attah ana bihti xa'hxu terrubuh-ma gihru csùbahtka ubbabuh-ma tatuhra axrukka
+adi ulla araddih-ma : xipiht xame'h ercsèti udannan
+ana xame'h ellih-ma ana igihgih anaddin u'hrta
+urrad ana apsi'h : anunnakih upackckàd
+galle'h xamruhti : ana kurnugi'h actàrrad-ma
+kakkihya ezzuhti : elihxunu uxzazza
+xa xahri lemni kihma ìcscsùhri : akassa'h idihxu
+ana bihti xa'hxu axar terrubu rubu'h maruhtuk
+imna u xumehla xa bahbihka ahnu u ellil uxarbacsà kihma alpi
+ixmehxuh-ma rubu'h maruhtuk
+amaht erra ìckbu'hxu : elihxu ictìhb
+xiptu duppir lemnu xehdu lemnu utukku lemnu alu'h lemnu ectèmmu lemnu
+gallu'h lemnu ilu lemnu rahbicsù lemnu
+lamaxtu labahcsù ajjahzu
+lilu'h lilihtu ardat lili'h
+lugalura riju'ht xulpaea
+mickìt xame'h csèrej kakkabi mickìt benni
+luh csàlam namtari luh csàlam galle'h luh mimma lemnu xa xuma nabu'h
+ina majar te'h xa asalluji maxmax ilih mahr ea apkalli
+duppir puctùr lemnu xa pahnihya ukkix ayyahbih xa arkihya
+anahku asalluji maxmax ilih ilu ellu
+anahku asalluji ilu ellu ahxip balahctì
+anahku asalluji apkal apsi'h xa tu'hxu balahctù
+anahku asalluji behl nagbi maxmax ilih muballìct mihti
+anahku asalluji xammi balahctì mullil xame'h u ercsèti
+anahku asalluji uhmu ezzu muctàrrid galle'h rabu'hti
+anahku asalluji behl xipti xa ina majrihxu gallu'h u namtaruh immeduh puzrahti
+anahku asalluji nahsij murcsì mu'abbit xadi'h elu'hti
+anahku asalluji ckàrrahd ilih mu'abbit lemnuhti
+anahku asalluji axarehd kibrahti nahcsìr napixti
+anahku asalluji muballìct mihti uxumgal xame'h u ercsèti
+anahku asalluji xa uznih petu'h xuhturu jasihsa
+anahku asalluji xa ina kikictctè'hxu mihtu iballuctù
+anahku asalluji xa ina ckàbli u tahjahzi leh'u'h anahku
+anahku asalluji xa pulujta ezzeta jitlupu xuhturu namrihrih
+anahku asalluji xa ina e'unir ibbanu'h malu'h jurbahxa
+anahku asalluji namru xalbahbu apkal ilih muttallu
+anahku asalluji xa xame'h ruhckùhti mehla'hxunu ijihctù
+anahku asalluji xa jubur palka'hti xupulxa ihde
+anahku asalluji xa ina ta'hmti elihti inabbu'hxu sirsir
+anahku asalluji xa ina ta'hmti xaplihti uxarbu'hxu laguda
+anahku asalluji atu'h rikis kalahma bukur mami
+anahku asalluji ckàrrahdu sahkip mukihl rehx lemutti
+anahku asalluji etel ilih xa xame'h ruhckùhti
+anahku asalluji nahdin xulmi u balàhctì ana nixih rapxahti
+anahku asalluji ehctìr kami'h csàhbit ckàhtih naski
+anahku asalluji mukkix ayyahbi muxamckìt lemni
+anahku asalluji kahmu'h utukki galle'h ili lemni
+anahku asalluji behl bahbili rehmehnu'h anahku
+anahku asalluji malku jahmim gimir u'hrti
+anahku asalluji muhde'h kalahma ilitti nixxihku
+anahku asalluji dannu malku xa xuhturu jasihsa
+anahku asalluji xa sajpuh namrihruhxu eli kalihxina kibrahti
+anahku asalluji xa ezzix tebu'h abuhbix galtu
+anahku asalluji ana zikir xumihxu gallu'h namtaruh immeduh puzrahti
+anahku asalluji xa axar xillati lah ickàbbu'h anahku
+anahku asalluji xa ina ckàbli u tahjahzi dapihnu marduk
+anahku asalluji xa ina ctèhmihxu ibbanu'h anahku
+anahku asalluji bahru'h kibrahti raxubbu anahku
+anahku asalluji ilu ellu ahxib melammih anahku
+anahku asalluji xa ina bihti mitguri kahribu anahku
+anahku asalluji uxumgal xame'h u ercsèti nagbi u ta'hmahti
+anahku asalluji ahxib esagila ckàh'ix lamassi
+anahku asalluji rah'im kitti elix u xaplix
+anahku asalluji pehtu'h ekleti muttiru xanahti
+anahku asalluji mukihn gimir igihgih xa xame'h ilih rabu'hti
+anahku asalluji ahxib esagila mullil atmanihxun
+anahku asalluji ahxib esagila u bahbili raxubbu ezzu
+anahku asalluji uxumgal anunnakkih labbi igihgih
+anahku asalluji axarehd … … … pahcsìdu xadu … 
+anahku asalluji ckàrrahd ilih muma''er anduruna
+anahku asalluji xa namrihrih litbuxu malu'h puljahti
+anahku asalluji ahpir age'h xa melammuhxu raxubbata za'nuh
+anahku asalluji jahtin ahbiri'h muxehzib enxi
+anahku asalluji muppir nahrahti mukihl napixti mahti
+anahku asalluji bahru'h purusse'h pahris jaljalli
+anahku asalluji pehtu'h sattukki mujallìck csèhni u raggi
+anahku asalluji xa uhmixam-ma pi'h nixih ijirru
+anahku asalluji xa xaruhruhxu unammaruh mahtahti
+anahku asalluji xa birbirruhxu ubbatuh duhr abni
+anahku asalluji erxu itpehxu xa xuhturu jasihsa
+anahku asalluji xa kakkaxu abuhbu ezzu
+anahku asalluji xa ina dipahrihxu ickàmmu'h ayyahba u lemna
+anahku asalluji enlil ilih ahxir kibrahti
+anahku asalluji reh'u'h kixxat nixih csùluhl kal dadmeh
+anahku asalluji xa ina ilih rabu'hti lah ixxannanah emuhckàhxu
+anahku asalluji csàhbit kippat xame'h u ercsèti mukihl csèrreti
+anahku asalluji pahckìd ilih mu'addu'h isckì
+anahku asalluji bahxim gixjurrih exrehti nahdin sattukki
+anahku asalluji xa ana amahtihxu xadu'h irabbubuh rehssunu ickà'hp
+anahku asalluji xa kihma xamxi ibarru'h mahtahti
+anahku asalluji muxassik karcsì csàhbit ckàhtih naski
+anahku asalluji xa ina nahri ubbabu kihna u ragga
+anahku asalluji dabru xagapuhru behlu xa mahti
+anahku asalluji kabtu xitrahju simat behluhti
+anahku asalluji xa ina pulujtihxu mimma lemnu iturru uppuxu
+anahku asalluji jah'ìct lalgar bahxim gixjurrih
+anahku asalluji xahrik ri'hti u maxckìhti muxaznin nujxi
+anahku asalluji xa ina csìht pi'hxu uttakkaru csìbit namtari
+anahku asalluji xa ina pàhct gimri xurba'ht iluhssu
+anahku asalluji xa kihma abi u ummi ittanarru'h nixihxu
+anahku asalluji xa tahmiht libbihxu lah ihdu'h iluh ajjuhxu
+anahku asalluji nahsij murcsì mu'abbit galle'h rabu'hti
+anahku asalluji uhmu ezzu muttakkipu lah mahjiru anahku
+anahku asalluji muxpehl xihmahti lemnehti mupactctìr arni
+anahku asalluji urxahnu gitmahlu teleh'u'h xummi
+anahku asalluji xa ina te'hxu mihtu iballuctù itebbu'h marcsù
+anahku asalluji sahkip namtari kahmu'h asakki xuruppe'h di'i
+anahku asalluji ilu rehmehnu'h munessu'h ega'hti jictà'hti gillahti lemnehti
+anahku asalluji xa ina jissat xumihxu anunnakuh xajahta ajzuh
+anahku asalluji leh'u'h igihgih mukihl csèrret anunnakih
+anahku asalluji csàhbit ckàhtih ulahli ubburi mupactctìr arni
+anahku asalluji pahxir kixpih ruje'h ruse'h ctàhrid asakki
+anahku asalluji muctìhb simmih marcsùhti asu'h tenehxehti
+anahku asalluji xa xipat balahctì lah ictèjju'h ina balihxu
+anahku asalluji ehz u paxir xa nihx abi u ummi
+anahku asalluji xa ina tenehxehti rehmehnu'h marduk
+anahku asalluji uxumgal xame'h u ercsèti marduk
+ihmurxunuhtih-ma asalluji uxumgal xame'h u ercsèti marduk
+ana nabu'h sukkallihxu amahta izakkar
+mannu annu'h xa annika'h i'irru … 
+ana xipti ezzeti rabihti xa ea … 
+ana xutukkih dannuhti xa ningixzida
+ana ùcsrahti raba'hti xa ea behl eridu
+girru ckàhmu'h … … 
+nusku dapihnu … likmissunuhti
+dipahru … … 
+luh gallu'h lemnuhtu attunu
+naspijah kihma imbari … 
+luh xehduh lemnuhtu attunu
+ … … 
+ … … … 
+ … 
+ … … … 
+ … … 
+luh … … 
+luh mahruh … … 
+luh xa pitckàhti tattanablakkatah ana … … 
+luh exbu'h jayyàhctù mukihl rehx lemutti
+luh antaxubbu'h xa ilih rabu'hti
+luh bennu jayyàhctù xa muxihti
+luh xa kihma barbari tehtenekkikah
+luh xa kihma berckì tattanabrickàh
+luh xa kihma la'mi taxtanajjictàh
+luh xa kihma gihri tattallalla'h
+luh xa kihma csèhti tattanabbictàh
+luh xa kihma kakkabi tattananbictàh
+luh xa kihma csàlmi tattanàcslimah
+luh xa kihma ale'h tattanaktamah
+luh xa kihma lili'h tajtanirrah
+luh xa bihtahti tehtenerrubah
+luh xa askuppahti textene''irah
+luh xa uhrahti tattanablakkatah
+luh xa ina asurre'h tahtanallakah
+luh xa ina tubckìnnahti tattanaxxabah
+luh xa èctla damckà ardata damìckta ina suhckì textene''a'h
+luh jah'ictù xa mùcslahli
+luh jayyàhct pi'h xa amehluhti
+luh xa ina rehx marcsì tattanazzazzah
+luh xa ina rehx marcsì tattanaxxabah
+luh xa ina rehx marcsì tattanallakah
+luh xa ina akahlihxu ittihxu takkalah
+luh xa ina xati'hxu ittihxu taxatta'h
+luh xa marcsà annanna tugdanallatah
+luh xa marcsà annanna tuptanallajah
+luh xa marcsà annanna tuptanarradah
+luh xa ana pahn marcsì taptanarrikah
+luh xa ana pahn marcsì tugdannacsàh
+luh xa ana pahn marcsì tujtannacsàh
+luh xa ana pahn marcsì tattanaxxabah
+luh xa ana pahn marcsì xinnahtihkunu tagàcscsàcsàh
+luh xa ana pahn marcsì lixahnkunu tultenècscsà'hni
+luh xa ana pahn marcsì pihkunu taptenetta'h
+luh xa ana pahn marcsì tattanaxmamah
+luh xa ana pahn marcsì kihma alpi tattakkipah
+luh xa ana pahn marcsì kihma rihmi tugdaxxarah
+luh xa ana pahn marcsì kihma xaj api tuttajjarah
+luh xa ana pahn marcsì kihma kalbi tuttabbajah
+luh xa ana pahn marcsì kihma kalab-urcsì tattanammarah
+luh xa ana pahn marcsì kihma nehxi tuxarmamah
+luh xa ana pahn marcsì kihma csèrri tattanaxlalah
+luh xa ana pahn marcsì kihma baxmi tattanaxlalah
+luh xa ana pahn marcsì kihma nirahji tattanaxlalah
+luh xa ana pahn marcsì kihma ayyar ili tattanaxlalah
+luh xa ana pahn marcsì kihma tu'hlahti tattanaxlalah
+luh xa ana pahn marcsì kihma csùrahri'h tattanaxlalah
+luh xa ana pahn marcsì kihma muxahctì tacscsànallimah
+luh xa ana pahn marcsì kihma kizzi tacscsànallimah
+luh xa ana pahn marcsì kihma enzi tacscsànallimah
+luh xa ana pahn marcsì kihma lali'h taltanassa'h
+luh xa ana pahn marcsì kihma kaluhmi taddanakkukah
+luh xa ana pahn marcsì kihma xehlebi tattenèctpa'h
+luh xa ana pahn marcsì kihma kuzahzi tattanaprixah
+luh xa ana pahn marcsì kihma pitilti tattanaptilah
+luh xa ana pahn marcsì kihma ckùmahri tattanagxarah
+luh xa ana pahn marcsì kihma ìctctè'h tattanàcslimah
+luh xa ana pahn marcsì kihma gacscsì taptenècscsà'h
+luh xa ina suhckàhti tattanallakah
+luh xa ina suhckàhti tattanaxxabah
+luh xa ina reba'hti tattanapalsajah
+luh xa ina ximehtahn ahla tajtanirrah
+luh xa ina ximehtahn ahla tacscsànuddah
+luh xa ina … ahla textene''a'h
+luh xa ina duhrih tattanablakkatah
+luh xa xurxarahta tattanatbakah
+luh xa ina asurre'h tattanaxxabah
+luh xa ihkih textene''irah
+luh xa palgih taxtanajjictàh
+luh xa ina nigìcscsàhti tajtenessa'h
+luh xa ana nahri kullumahtunu
+luh xa ana nahri ctàbjahtunu
+luh xa ana nahri purrusahtunu
+luh xa ina nahri tartanajjicsàh
+luh xa ina nahri kihma amirahni tacscsànuddah
+luh xa ina nahri tacscsànuddah
+luh xa ina ckìxahti tattanallakah
+luh xa ina ckìxahti tajtanallupah
+luh xa ina kibsahti tuxaprasah
+luh xa ina csèhri pahckìda lah tihxa'h
+luh xa ina tahjahzi dihkahtunu
+luh xa ina kakki majcsàhtunu
+luh xa ina kakki danni majcsàhtunu
+luh xa ina patri ctàbjahtunu
+luh xa ina tarkulli nehrahtunu
+luh xa ina csìlli'h dihxahtunu
+luh xa ina gaxihxi puttujahtunu
+luh xa ina xaggaxti dihkahtunu
+luh xa aba u umma lah tihxa'h
+luh xa aja u ajahta lah tihxa'h
+luh xa kimta nixuhta salahta lah tihxa'h
+luh xa mahra u mahrta lah tihxa'h
+luh xa apla nàhck me'h lah tihxa'h
+luh xa ina tappe'h csàllahtunu
+lissujkunuhxi asalluji aplu rehxtu'h xa eridu
+lissujkunuhxi asalluji apil behli rabi'h ea
+lissujkunuhxi asalluji aplu narahm ea
+lissujkunuhxi asalluji apkal ilih rabu'hti
+lissujkunuhxi asalluji apkal ili u amehli
+utammihkunuhxi asalluji behl xame'h u ercsèti
+utammihkunuhxi asalluji nihx ninurta apli axarehdi xa enlil
+utammihkunuhxi asalluji nihx ubanu'ila kakki danni xa ninurta
+utammihkunuhxi asalluji nihx jendursaga muttaxrabbictì xa reba'hti
+utammihkunuhxi asalluji nihx xarur u xargaz muxamckìt ayyahbih u lemnuhti
+liddinkunuhxi meslamtaea ana bahb kurnugi
+lipckìdkunuhxi ana sebetti ati'h xa erexkigal
+liddinkunuhxi ana namtar xukkal ercsèti rapaxti xa bahb kama'hti ukallu
+lixehribkunuhxi abul ercsèti rapaxti
+ana ckàhtih galle'h rabu'hti limannihkunuhxi
+bidu idugallu xa ercsèti bahbkunu lìcsbat
+liddinkunuhxi ana ningixzida guzale'h ercsèti rapaxti
+anunnakuh iluh rabu'htu likmu'hkunuhxi
+utammihkunuhxi guzala'h raba'h xa allatu
+liklahkunuhxi na'ihlu xa ercsèti rapaxti
+lah tallakahni lah tassanajjurahni lah taturrahni ana zumur annanna mahr annanna
+utammihkunuhxi xame'h u ercsèta anu antu enlil ninlil
+duhri dahri lajmu u lajahmu engara ningara alahla u behlili
+nignakka ckùtrinna csìlla u csèhta ximehtahn u lihla'hti xubta kibsa
+tahluka u manzahza ucsùraht ea u asalluji tumma'htunu
+attunu nasjahtunu ctàrdahtunu ukkuxahtunu duppurahtunu
+nihx xame'h u ercsèti tumma'htunu jultuppu'h

@@ -1,17 +1,17 @@
 ---
 package:
   name: "akkapros"
-  version: "3.0.1"
+  version: "3.2.0"
 pipeline: "pipeline"
 step: "metrics"
 file:
-  id: "6d32c77e-d816-5835-b63b-52b68a683032"
+  id: "d6e2c2fc-8348-5747-928b-02702d5caaf7"
   title: "L I.5 Erra and Išum SB I"
   format: "metrics"
   version: "1.0.0"
-  date: "2026-05-11"
+  date: "2026-08-12"
 metadata:
-  input_file_id: "0f23b3e5-681c-51d1-b7b7-49ad43fc064e"
+  input_file_id: "76f68476-39c7-5b81-ab2c-7cb3d188b4e7"
   options:
     prosody_style: "lob"
     mora_mode: "mono"
@@ -22,7 +22,6 @@ metadata:
     metrics_json: true
     print_acute: true
     print_bold: true
-    print_xar: true
     print_merger: false
     extra_vowels: ""
     extra_consonants: ""
@@ -109,20 +108,20 @@ Phonetizer diagnostics:
 
 Syllable statistics:
   Syllable types:
-    CV    : 1095 syllables (36.63%)
-    CVC   :  279 syllables ( 9.33%)
+    CV    : 1103 syllables (36.90%)
+    CVC   :  296 syllables ( 9.90%)
     CVV   :  174 syllables ( 5.82%)
     CVVC  :   32 syllables ( 1.07%)
     VC    :   99 syllables ( 3.31%)
-    V     :  300 syllables (10.04%)
+    V     :  275 syllables ( 9.20%)
     VV    :   32 syllables ( 1.07%)
     VVC   :    1 syllables ( 0.03%)
-    C:V   :   40 syllables ( 1.34%)
+    C:V   :   15 syllables ( 0.50%)
     CVC:  :  295 syllables ( 9.87%)
     CVV:  :  462 syllables (15.46%)
     CVV:C :   54 syllables ( 1.81%)
     VC:   :   93 syllables ( 3.11%)
-    ʔ:V   :    2 syllables ( 0.07%)
+    ʔ:V   :   27 syllables ( 0.90%)
     VV:   :   30 syllables ( 1.00%)
     VV:C  :    1 syllables ( 0.03%)
   Total syllables: 2989 syllables
@@ -132,9 +131,9 @@ Word statistics:
   Syllables per word: 2.426 ± 0.821 syllable/word
 
 Mora statistics:
-  Mean morae per syllable: 1.876 ± 0.911 mora/syllable
-  Mean morae per word: 4.550 ± 1.711 mora/word
-  Total morae: 5606 mora
+  Mean morae per syllable: 1.881 ± 0.909 mora/syllable
+  Mean morae per word: 4.564 ± 1.703 mora/word
+  Total morae: 5623 mora
 
 Merge statistics:
   Merged words: 498 words
@@ -153,12 +152,12 @@ Acoustic metrics (accentuated):
   %V: 35.35%
   meanC: 121.73 ms
   meanV: 136.27 ms
-  ΔC: 61.35 ms
+  ΔC: 61.02 ms
   ΔV: 43.84 ms
-  VarcoC: 50.40
+  VarcoC: 50.13
   VarcoV: 32.18
-  rPVI-C: 74.60
-  nPVI-V: 28.40
+  rPVI-C: 73.59
+  nPVI-V: 28.46
   Unit drift max: 210.00 ms
   Unit drift mean: 14.46 ms
   Unit drift stddev: 50.01 ms
@@ -178,13 +177,13 @@ Phonetizer diagnostics:
   Accentuation rate: 32.69%
 
   Accentuation types:
-    C:V     :   40 syllables
+    C:V     :   15 syllables
     CVC:    :  295 syllables
     CVV:    :  462 syllables
     CVV:C   :   54 syllables
     VC:     :   93 syllables
     VV:     :   30 syllables
     VV:C    :    1 syllables
-    ʔ:V     :    2 syllables
+    ʔ:V     :   27 syllables
 
 ================================================================================

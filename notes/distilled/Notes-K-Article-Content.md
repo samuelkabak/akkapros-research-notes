@@ -24,11 +24,11 @@
 1. **Introduction** — States the problem: lexical stress rules identify candidates, not phrasal realization.
 2. **Lexical Stress and the Phrasal Problem** — Presents the academic model as a candidate set, introduces the Erra diagnostic (29.2% lexical vs. 18.30% realized), and explains why Erra is illustrative but not the main quantitative proof.
 3. **Corpus and Metric Framework** — Describes the 6-text corpus (6,261 words, 15,406 syllables) and the cluster of rhythm metrics used (%V, ΔC, ΔV, VarcoC, VarcoV, rPVI-C, nPVI-V).
-4. **Metrics Demonstration** — Presents the original stream baseline, the accentuated stream (LOB bi mode), comparison with SOB, and comparison with mono mode.
+4. **Metrics Demonstration** — Presents the original stream baseline, the accentuated stream (LOB bi mode), and the comparison with mono mode.
 5. **Why Akkadian Is Unlikely to Be Syllable-Timed** — Structural and metric arguments against syllable-timing.
 6. **Why Akkadian Is Unlikely to Be Mora-Timed** — Distinction between moraic phonology and mora-timed rhythm.
 7. **Why a Stress-Timed Reading Is the Strongest Remaining Option** — Positive argument for stress-timing, including honest discussion of intermediate VarcoC values.
-8. **The Realization Algorithm** — Describes mora modes, accent styles, legal operations, and grouping rules.
+8. **The Realization Algorithm** — Describes mora modes, accent styles, permitted operations, and grouping rules.
 9. **Worked Example: Erra 59–62** — Shows the algorithm on a short passage.
 10. **From Morae to Millisecond Durations** — Timing model parameters and their empirical grounding.
 11. **Practical Consequence: Toward Akkadian TTS** — TTS as a practical outcome, not evidence.
@@ -142,10 +142,11 @@ Corpus statistics: 6,261 words, 15,406 syllables, 2,580 accentuated syllables (1
 - `mono` mode: accentuation attempted regardless of mora parity. No forward merge.
 
 **Accent styles:**
-- LOB (Literary Old Babylonian): final superheavy > rightmost non-final heavy > final heavy
-- SOB (Standard Old Babylonian): rightmost non-final heavy > final heavy
+- LOB (Literary Old Babylonian): final superheavy > rightmost non-final heavy > final heavy (default style)
+- SOB (Standard Old Babylonian): rightmost non-final heavy > final heavy > initial syllable (speculative testing variant, not an attested academic style)
+- AOB (Academic Old Babylonian): the standard model (Huehnergard 2011), final superheavy > rightmost non-final heavy > initial syllable (testing variant; not used in the study)
 
-**Legal operations (always add exactly one mora):**
+**Permitted operations (always add exactly one mora):**
 1. Vowel lengthening — on CVV, VV, CVVC, VVC syllables
 2. Coda gemination — on CVC, VC syllables non-final in the active unit
 3. Last-resort — geminate onset or add glottal onset

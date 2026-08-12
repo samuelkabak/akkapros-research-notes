@@ -4,6 +4,8 @@
 .cline/
 .clinerules
 local-only/
+tmp/
+.codewhale/
 
 # IDE
 .vscode/

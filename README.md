@@ -52,7 +52,7 @@ Results for *Erra and Išum* Tablet I, including:
 ### `outputs/full-corpus/`
 
 Results for the full six-text corpus, including:
-- All pipeline stages for LOB (Literary Old Babylonian) and SOB (Standard Old Babylonian) accent styles
+- All pipeline stages for the LOB, SOB, and AOB accent styles (the study itself uses only LOB)
 - Both `bi` and `mono` mora modes
 - Metrics reports in JSON and plain text formats
 
@@ -68,9 +68,9 @@ MBROLA voice preparation files:
 
 The `notes/` directory contains the research documentation organized into three layers:
 
-### `notes/dist/` — Canonical Note Archive
+### `notes/distilled/` — Canonical Note Archive
 
-Numbered thematic notes (Notes-A through Notes-M) covering:
+Numbered thematic notes (Notes-A through Notes-N) covering:
 
 | File | Content |
 |------|---------|
@@ -87,6 +87,7 @@ Numbered thematic notes (Notes-A through Notes-M) covering:
 | `Notes-K-Article-Content.md` | Article planning, argumentation, and content tracking |
 | `Notes-L-Parameter-Justifications.md` | Empirical grounding for each timing model parameter |
 | `Notes-M-Oral-Acquisition.md` | SLA evidence for the broader implication |
+| `Notes-N-Data-Update-and-Accent-Styles.md` | Output regeneration (akkapros 3.2.0) and accent style clarification |
 
 ### `notes/prep/` — Exploratory Synthesis
 
@@ -115,7 +116,7 @@ The files here are designed to work with the main [akkapros](https://github.com/
 
 If you use these materials in your research, please cite the Zenodo record:
 
-> Kabak, Samuel. 2026. *Akkadian Prosody — Research Notes* (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.20199708
+> Kabak, Samuel. 2026. *Akkadian Prosody — Research Notes* (v1.2.0). Zenodo. https://doi.org/10.5281/zenodo.20199708
 
 ## 📄 License
 

@@ -1,0 +1,1147 @@
+---
+package:
+  name: "akkapros"
+  version: "3.2.0"
+pipeline: "pipeline"
+step: "altscripts"
+file:
+  id: "8388018a-ab90-5b7e-9129-fdbdb941dbd6"
+  title: "L I.2 Poem of Creation (*Enūma eliš*) SB II | L I.2 Poem of Creation (*Enūma eliš*) SB IV | L I.2 Poem of Creation (*Enūma eliš*) SB VI | L I.2 Poem of Creation (*Enūma eliš*) SB VII | L I.5 Erra and Išum SB I | L III.3 Marduk’s Address to the Demons SB -"
+  format: "xar"
+  version: "1.0.0"
+  date: "2026-08-12"
+metadata:
+  input_file_id: "bb1781e4-2bb1-5599-909f-178d6aba9ede"
+  options:
+    append: true
+    extra_vowels: ""
+    extra_consonants: ""
+    extra_short_punct_chars: ""
+    extra_long_punct_chars: ""
+    extra_short_punct_pattern: "[]"
+    extra_long_punct_pattern: "[]"
+    style: "aob"
+    mora_mode: "mono"
+    geminate_policy: "corrective"
+    accentuation_distribution_policy: "80_20"
+    drift_tolerance: 19
+    acute: true
+    bold: true
+    print_merger: false
+    xar: true
+    gir: true
+    gir_vowel_coloring: true
+    gir_preserve_accentuation: true
+    xar_preserve_merger: true
+    gir_accentuation_as_diacritic: true
+    gir_preserve_merger: true
+---
+
+ukappit-ma : tiaamtu pitiꝗx̌a
+taaḫaaza iktaɉàr : ana ilii nipriix̌a
+aḫreâtax̌ eli apseî : ulammin tiaamtu
+ananta kii iɉmidu : ana ea iptax̌ruu
+ix̌mee-ma ea : amaata x̌uaati
+kummix̌ ux̌ḫarrir-ma : x̌aꝗùmmix̌ ux̌ba
+ix̌tu imtalkuu-ma : uzzax̌u inuuḫu
+muttix̌ anx̌ar abiix̌u : x̌uu ux̌tardi
+iirum-ma maḫru abi : aalidiix̌u anx̌ar
+mimmiû tiaamtu ikpudu : ux̌anneâ ana x̌eâx̌u
+abii tiaamtu : aalittani izerranneâti
+puḫra x̌itkunat-ma : aggix̌ labbat
+isḫuruux̌im-ma : iluu gimirx̌un
+adi x̌a attunu tabneâ : idaax̌a alkuu
+immasruunim-ma idux̌ : tiaamti tebiûni
+ezzuu kapduu : laa saakipuu muux̌a u imma
+nax̌iû tamḫaara : nazarbubuu labbuu
+ukkinna x̌itkunuu-ma : ibanniû ɉùulaati
+ummu ḫubuur : paatiꝗàt kalaama
+ux̌raddi kakka laa maḫra : ittalad mux̌maḫḫii
+zàꝗtuu-ma x̌innii : laa paadiû attaa'ii
+imta kiima daami : zumurx̌unu ux̌malli
+ux̌umgallii nadruuti : pulḫaati ux̌albix̌-ma
+melammii ux̌tax̌x̌eâ : ilix̌ umtax̌x̌il
+aamirx̌unu : x̌arbaabix̌ liḫḫarmim
+zumurx̌unu lix̌taḫḫiꞓàm-ma : laa ine''uu irassun
+ux̌ziz : bax̌ma mux̌ḫux̌x̌a u laḫaama
+ugalla uridimma : u girtabliila
+uumii dabruuti kuliila u kusarikka
+naax̌ kakki laa paadiû : laa aadiruu taaḫaazi
+gapx̌aa taêreetuux̌a : laa maḫraa x̌inaa-ma
+appuunaa-ma ix̌teen-ex̌ret : kiima x̌uaati ux̌tabx̌i
+ina ilii bukriix̌a : x̌uut ix̌kunuux̌i puḫra
+ux̌ax̌ꝗì ꝗìngu : ina biriix̌unu x̌eâx̌u ux̌rabbiix̌
+aalikuut maḫri paan ummaani mu'erruut puḫri
+nax̌aê kakkii tiɉbutu : dekiû ananti
+x̌uut tamḫaari : rab sikkatuuti
+ipꝗìd-ma ꝗàatux̌x̌u : ux̌eex̌ibax̌x̌u ina karri
+addi teâka : ina puḫur ilii ux̌arbiika
+malikuut ilii gimrassunu : ꝗàatukka ux̌malli
+luu x̌urbeâtaa-ma ḫaa'irii : eediû attaa
+lirtabbiû zikruuka : eli kaleîx̌unu anukkii
+iddinx̌um-ma tuppi x̌iimaati : iratux̌ ux̌atmiḫ
+kataduggiûka laa innenneâ : likuun ɉìit peîka
+innana ꝗìngu x̌ux̌ꝗìû : leꝗìû aanuuti
+an ilii maariix̌a : x̌iimata ix̌tiima
+epx̌u peîkunu : giira liniḫḫa
+imtuk kitmuru : magx̌ara lix̌rabbib
+ix̌mee-ma anx̌ar : amaatu magal dalḫat
+uu'a ix̌tasi : x̌apassu ittax̌ka
+ezzet kabtassu : laa naaḫat karassu
+eli ea bukriix̌u : x̌agiimax̌u ux̌taḫḫaḫ
+maarii : x̌a tegriû tuꝗùnta
+mimmeâ eedukka teepux̌u : itax̌x̌i attaa
+ta'iiram-ma : apseâ tanaara
+u tiaamtu x̌a tux̌aagigu : ali maaḫirx̌a
+aax̌ix̌ milki : rubaê tax̌iimti
+baaniû neemeꝗì : ilu nudimmud
+amaat tapx̌uḫti : siꝗàr taneeḫi
+anx̌ar abaax̌u : ꞓàabix̌ ippal
+ea peâx̌u iipux̌am-ma
+abii libbu rùuꝗù : mux̌immu x̌iimti
+x̌a x̌ubx̌iû u ḫulluꝗù : bax̌iû ittiix̌u
+anx̌ar libbu rùuꝗù : mux̌immu x̌iimti
+x̌a x̌ubx̌iû u ḫulluꝗù : bax̌iû ittiix̌u
+inimmaê aatammuuka : surrix̌ nuuḫam-ma
+kii amaat dumꝗì eepux̌u : x̌udud libbukka
+laam anaaku : apseâ anaaram-ma
+mannu iitamar-ma : inanna anneâti
+laam urriḫam-ma : uballiû x̌uaati
+luu x̌eâx̌i ux̌ḫalliꝗà : miiniû bax̌ii-ma
+ix̌mee-ma anx̌ar : amaatu iꞓìib elx̌u
+ipx̌aḫ libbax̌uu-ma : ana ea izakkar
+maarii epx̌eetuuka : ilix̌ naꞓèâ-ma
+ezza meḫɉà laa maḫra : tele''e … 
+ea epx̌eetuuka : ilix̌ naꞓèâ-ma
+ezza meḫɉà laa maḫra : tele''e … 
+alik-ma muttix̌ tiaamti : teebeâx̌a x̌upx̌iḫ
+uggassa luu … x̌uuɉèât : surrix̌ ina x̌iptiika
+ix̌mee-ma zikrii : abiix̌u anx̌ar
+iɉbat ḫarraanx̌uu-ma : uruḫx̌u ux̌tardi
+illik ea : x̌ibꝗùux̌ tiaamti ix̌e''eâm-ma
+ux̌ib ux̌ḫarrir-ma : ituura arkix̌
+iirum-ma maḫru : ba'uuli anx̌ar
+unnenna ìɉbatam-ma : izakkarx̌u
+abii uutattir-ma tiaamtu : epx̌etax̌a eliiya
+maalakx̌a ex̌e''ee-ma : ul imaḫḫar x̌iptii
+gapx̌aa emuuꝗàax̌a : maleât adiira
+puḫra dunnunat-ma : ul iyeârx̌i mamman
+laa nax̌ir tukkax̌a : x̌ebeâm-ma
+aadur-ma rigmax̌a : atuura arkix̌
+abii ee tux̌taaniḫ : tuur x̌upurx̌i
+emùuꝗàa sinnix̌ti luu dunnunaa : ul mala x̌a zikri
+rummi kiɉriix̌a : milkax̌a supuḫ attaa
+laam ꝗàatiix̌a : ummidu ana muḫḫiini
+anx̌ar : uzzuzix̌ ix̌assi
+ana aani maariix̌u : x̌uu izakkar
+aplu kanniû : kax̌uux̌u ꝗàrraadu
+x̌a gapx̌aa emuuꝗàax̌u : laa maḫaar teebiûx̌u
+aruḫ-ma muttix̌ tiaamti : iziz attaa
+x̌upx̌iḫ kabtatax̌ : libbux̌ lippux̌
+x̌ummaa-ma : laa x̌emeâta amaatka
+amaat unnenni atmeex̌im-ma : x̌ii lippax̌ḫa
+ix̌mee-ma zikrii : abiix̌u anx̌ar
+iɉbat ḫarraanx̌uu-ma : uruḫx̌u ux̌tardi
+illik aanu x̌ibꝗùux̌ : tiaamti ix̌e''eâm-ma
+ux̌ib ux̌ḫarrir-ma : ituura arkix̌
+iirum-ma maḫru : abi aalidiix̌u anx̌ar
+unnenna ìɉbatam-ma : izakkarx̌u
+abii uutattir-ma tiaamtu : epx̌etax̌a eliiya
+maalakx̌a ex̌e''ee-ma : ul imaḫḫar x̌iptii
+gapx̌aa emuuꝗàax̌a : maleât adiira
+puḫra dunnunat-ma : ul iyeârx̌i mamman
+laa nax̌ir tukkax̌a : x̌ebeâm-ma
+aadur-ma rigmax̌a : atuura arkix̌
+abii ee tux̌taaniḫ : tuur x̌upurx̌i
+emùuꝗàa sinnix̌ti luu dunnunaa : ul mala x̌a zikri
+emùuꝗàa sinnix̌ti laa dunnunaa : mala x̌a zikri
+rummi kiɉriix̌a : milkax̌a supuḫ attaa
+laam ꝗàatiix̌a : ummidu ina muḫḫiini
+ux̌ḫarrir-ma anx̌ar : ꝗàꝗꝗàra inaꞓꞓàl
+ikammam ana ea : unaax̌ ꝗàꝗꝗàssu
+paḫruu-ma igiiguu : kaliix̌unu anukkuu
+x̌aptaax̌unu kuttumaa-ma : ꝗèâlix̌ ux̌buu
+ilu ayyiûm-ma : ul iyeâr … 
+maḫaarix̌ tiaamti : ul uɉɉì ina x̌aptiix̌un
+u beelu anx̌ar : abi ilii rabiûti
+kamil libbax̌uu-ma : ul ix̌assi mamman
+aplu gax̌ru : mutirru gimilli abiix̌u
+ḫaa'ix̌ tuꝗmaati : marduk ꝗàrdu
+ilsii-ma ea : ax̌ar pirix̌tiix̌u
+ka'inimmak libbiix̌u : iitammiix̌u
+marduk milka : x̌emi abiika
+attaa-ma maarii : munappix̌u libbiix̌u
+muttix̌ anx̌ar : ꝗìtrubix̌ ꞓèḫee-ma
+epux̌ piika izuzzu : amaarukka niḫḫa
+iḫduu-ma beelu : ana ameât abiix̌u
+ìꞓḫee-ma ittaziz : maḫarix̌ anx̌ar
+iimurx̌uu-ma anx̌ar : libbax̌u ꞓùbbaati imla
+ix̌x̌ìꝗ x̌aptiix̌u : adiirax̌u uttessi
+abii laa x̌uktumat : pite x̌aptuk
+lullik-ma lux̌amɉèâ : mala libbiika
+anx̌ar laa x̌uktumat : pite x̌aptuk
+lullik-ma lux̌amɉèâ : mala libbiika
+ayyiû zikru : taaḫaazax̌u ux̌eeɉìika
+u tiaamtu x̌a sinnix̌atu : iyeârka ina kakki
+abii baaniû : ḫidi u x̌uulil
+kix̌aad tiaamti urruḫix̌ : takabbas attaa
+anx̌ar baaniû : ḫidi u x̌uulil
+kix̌aad tiaamti urruḫix̌ : takabbas attaa
+alik maarii : muudiû gimir uzni
+tiaamta x̌upx̌iḫ : ina taêka elli
+rikab uumii : urruḫix̌ x̌utardii-ma
+paanux̌x̌a laa uttakkax̌uu : tiir arkaanix̌
+iḫduu-ma beelu : ana amaat abiix̌u
+iilìɉ libbax̌uu-ma : ana abiix̌u izakkar
+beeluu ilii : x̌iimaat ilii rabiûti
+x̌ummaa-ma anaaku : mutiir gimilliikun
+akammi tiaamtam-ma : uballàꞓ keâx̌un
+x̌uknaa-ma puḫra : x̌uuteraa ibeâ x̌iimtii
+ina ubx̌ukkinnakki mitḫaarix̌ : ḫadeîx̌ tix̌baa-ma
+epx̌u peîya kiima keâtunuu-ma : x̌iimata lux̌iim-ma
+laa uttakkar mimmiû : abanniû anaaku
+ai ituur ai inneneâ : siꝗàr x̌aptiiya
+iddiûx̌um-ma : parak rubiûti
+maḫarix̌ abbiix̌u : ana malikuuti irme
+attaa-ma kabtaata : ina ilii rabiûti
+x̌iimatka laa x̌anaan : siꝗàrka aanu
+marduk kabtaata : ina ilii rabiûti
+x̌iimatka laa x̌anaan : siꝗàrka aanu
+ix̌tu uumim-ma : laa innenneâ ꝗìbiitka
+x̌ux̌ꝗìû u x̌ux̌pulu : x̌ii luu ꝗàatka
+luu kiinat ɉìit peîka : laa saraar siꝗàrka
+mamman ina ilii : itiûkka laa ittiꝗ
+zanaanuutu erx̌at : parak ilii-ma
+zanaanuut kix̌sat parak ilii-ma
+ax̌ar saagiix̌unu : luu kuun ax̌rukka
+marduk attaa-ma : mutirru gimilliini
+i niddinka x̌arruuta : kix̌x̌at kal gimreeti
+tix̌ab-ma ina puḫri : luu x̌aꝗèât amaatka
+kakkuuka ai ippalꞓìû : lira''isuu nakiriika
+beelu x̌a takluuka : napix̌tax̌u gimil-ma
+u ila x̌a lemneeti iiḫuzu : tubuk napx̌assu
+ux̌zizzuu-ma ina biriix̌unu : lumaax̌a ix̌teen
+ana marduk bukriix̌unu : x̌unu izzakruu
+x̌iimatka beelu : luu maḫrat ilii-ma
+abaatu u baniû : ꝗìbi liktuunaa
+epx̌u peîka : li''abit lumaax̌u
+tuur ꝗìbiix̌um-ma : lumaax̌u lix̌lim
+ìꝗbii-ma ina peîx̌u : i''abit lumaax̌u
+ituur ìꝗbiix̌um-ma : lumaax̌u ittabni
+kiima ɉìit peîx̌u iimuruu : iluu abbuux̌u
+iḫdiû ikrubuu : marduk-ma x̌arru
+ùɉɉìbuux̌u ḫaꞓꞓà : kusseâ u paleâ
+iddinuux̌u kakka laa maḫra : daa'ipu zayyaari
+alik-ma x̌a tiaamti : napx̌atux̌ puru'-ma
+x̌aaruu daamiix̌a : ana busrati libilluuni
+ix̌iimuu-ma x̌a beeli : x̌iimatux̌ iluu abbuux̌u
+uruḫ x̌ulmi u tex̌maê : ux̌taɉbituux̌ ḫarraana
+ibx̌im-ma ꝗàx̌ta : kakkax̌u u'addi
+mulmulla ux̌tarkiba : ukiinx̌i matna
+ix̌x̌ii-ma miꞓꞓà : imnax̌u ux̌aaḫiz
+ꝗàx̌ta u ix̌pata : idux̌x̌u iilul
+ix̌kun berꝗà : ina paaniix̌u
+nabla mux̌taḫmiꞓà : zumurx̌u umtalli
+iipux̌-ma sapaara : x̌ulmiû ꝗèrbix̌ tiaamta
+erbetti x̌aarii ux̌teɉbita : laa aɉàê mimmeîx̌a
+erbetti x̌aarii ux̌teɉbita : ana laa aɉàê mimmeîx̌a
+x̌uuta iltaana : x̌adeâ amurra
+idux̌ sapaari ux̌taꝗriba : ꝗìisti abiix̌u aani
+idux̌ sapaari ux̌taꝗriba ana ꝗìix̌ti abiix̌u aani
+ibni imḫulla x̌aara lemna : meḫeâ ax̌amx̌uuta
+x̌aar-erbetti x̌aar-sebetti : imsuḫḫa x̌aar-laa-maḫaar
+ux̌eeɉèâm-ma x̌aarii : x̌a ibniû sebettiix̌un
+ꝗèrbix̌ tiaamti x̌udluḫu : tebiû arkiix̌u
+ix̌x̌ii-ma beelu : abuuba kakkax̌u rabeâ
+narkabta uuma laa maḫra : galitta irkab
+ìɉmissim-ma erbet naɉmadii : idux̌x̌a iilul
+x̌aggix̌a laa paadeâ : raaḫiɉà mupparx̌a
+patiûni x̌aptii : x̌innaax̌unu nax̌eâ imta
+anaaḫa laa iidiû : sapaana lamduu
+ux̌ziz imnux̌x̌u : taaḫaaza rax̌ba u tuꝗùnta
+x̌umeela ananta : daa'ipat kala muttendii
+naḫlapta apluḫta : pulḫaati ḫalip-ma
+melammii rax̌ubbaati : apir raax̌ux̌x̌u
+ux̌teex̌ir-ma beelu : urḫax̌u ux̌ardii-ma
+ax̌rix̌ tiaamti x̌a uggugat : paanux̌x̌u ix̌kun
+ina x̌aptiix̌u : teâ ukalla
+x̌ammi imta bulleî : tamiḫ rittux̌x̌u
+ina uumiix̌u idulluux̌u : iluu idulluux̌u
+iluu abbuux̌u idulluux̌u : iluu idulluux̌u
+ìꞓḫee-ma beelu : ꝗàblux̌ tiaawati ibarri
+x̌a ꝗìngu ḫaa'iriix̌a : ix̌e''eâ x̌ibꝗìix̌u
+inàꞓꞓàl-ma : ex̌i maalakx̌u
+sapiḫ ꞓèemax̌uu-ma : seḫeât epx̌essu
+u iluu reeɉùux̌u : aalikuu idiix̌u
+iimuruu-ma ꝗàrda ax̌areeda : niꞓìlx̌un iix̌i
+iddi teâx̌a tiaamtu ul utaar kix̌aassa
+ina x̌aptiix̌a lulleâ : ukalla sarraati
+ … x̌a beeli : iluu tebiûka
+ … ipḫuruu : x̌unu ax̌rukka
+ix̌x̌ii-ma beelu : abuuba kakkax̌u rabeâ
+ana tiaamti x̌a ikmilu : kiiam ix̌purx̌i
+miineâ tubbeâti : elix̌ nax̌eâtii-ma
+u kapid libbakii-ma : dekaê ananta
+issiû maaruu : abbiix̌unu idaɉɉùu
+u attii aalittax̌unu : tazerrii reema
+tabbeî ꝗìngu ana ḫaa'iruutiiki
+ana laa simaatiix̌u tax̌kuniix̌ : ana paràɉ aanuuti
+ana anx̌ar x̌ar ilii : lemneeti tex̌aê-ma
+u ana ilii abbiiya : lemuttaki tuktinnii
+luu ɉàndat ummaatki : luu ritkusuu x̌unu kakkuuki
+endiim-ma anaaku u keâx̌i : i niipux̌ x̌ax̌ma
+tiaamtu anniita ina x̌emeîx̌a
+maḫḫuutix̌ iitemi : ux̌anni ꞓèenx̌a
+issii-ma tiaamtu : x̌itmurix̌ eliita
+x̌urx̌ix̌ malmalix̌ : itruraa ix̌daax̌a
+imanni x̌ipta : ittanaddi teâx̌a
+u iluu x̌a taaḫaazi ux̌a''aluu x̌unu kakkiix̌un
+innenduu-ma tiaamtu : u apkal ilii marduk
+x̌ax̌mix̌ itlupuu : ꝗìtrubuu taaḫaazix̌
+ux̌parrir-ma beelu : sapaarax̌u ux̌almiix̌i
+imḫulla ɉàabit arkati : paanux̌x̌a umtax̌x̌ir
+iptee-ma piix̌a : tiaamtu ana la'aatiix̌a
+imḫulla ux̌teeriba : ana laa kataam x̌aptiix̌a
+ezzuutu x̌aaruu : karx̌ax̌a iɉàanuu-ma
+innesil libbax̌aa-ma : peâx̌a ux̌palki
+issuk mulmulla : iḫtepi karassa
+ꝗèrbiix̌a ubattiꝗà : ux̌allìꞓ libba
+ikmiix̌ii-ma napx̌atux̌ uballi
+x̌alamtax̌ iddeâ : eliix̌a izzaza
+ix̌tu tiaamta : aalik paani inaaru
+kiɉriix̌a uptarrira : puḫurx̌a issapḫa
+u iluu reeɉùux̌a aalikuu idiix̌a
+ittarruu iplaḫuu : usaḫḫiruu alkassun
+ux̌èɉɉìû-ma napx̌atux̌ eꞓèera
+niita lamiû : naparx̌udix̌ laa le'iû
+iisirx̌unuutii-ma kakkiix̌unu ux̌abbir
+sapaarix̌ nadiû-ma : kamaarix̌ ux̌buu
+enduu tubꝗàati : maliû dumaamii
+x̌eeressu nax̌iû : kaliû kix̌ukkix̌
+u ix̌teen-ex̌ret nabniiti : x̌uut pulḫaati ɉà'nuu
+milla gallaê : aalikuu kirdip imniix̌a
+ittadi ɉèrreeti : idiix̌unu ukassi
+ꝗàdu tuꝗmaatiix̌unu : x̌apalx̌u ikbus
+u ꝗìngu : x̌a irtabbiû ina biriix̌un
+ikmiix̌uu-ma itti uggaê : x̌uaatu imniix̌u
+iikimx̌uu-ma : tuppi x̌iimaati laa simaatiix̌u
+ina kix̌ibbi iknukam-ma : irtux̌ itmuḫ
+ix̌tu lemniix̌u : ikmiû isaadu
+ayyaaba mutta'da : ux̌aapiû x̌uuriix̌am
+ernitti anx̌ar eli nakirii : kaleîx̌ ux̌zizzu
+nizmat nudimmud ikx̌udu : marduk ꝗàrdu
+eli ilii kamiûti : ɉìbittax̌u udannin-ma
+ɉèerix̌ tiaamti x̌a ikmiû : ituura arkix̌
+ikbus-ma beelu : x̌a tiaamti ix̌issa
+ina mìꞓꞓìix̌u laa paadeî : ulatti muḫḫa
+uparri'-ma : ux̌laat daamiix̌a
+x̌aara iltaana : ana busrati ux̌taabil
+iimuruu-ma abbuux̌u : iḫdiû iriix̌uu
+igisaê x̌ulmaana ux̌aabiluu : x̌unu ana x̌eâx̌u
+inuuḫ-ma beelu : x̌alamtax̌ ibarri
+x̌erkuppa uzaaz : ibanneâ niklaati
+iḫpiix̌ii-ma kiima nuun : max̌ꞓàê ana x̌iniix̌u
+mix̌lux̌x̌a ix̌kunam-ma : x̌amaamii ùɉɉàllil
+ix̌dud max̌ka : maɉɉàra ux̌aɉbit
+maêx̌a laa x̌uuɉèâ : x̌unuuti umta''ir
+x̌amaê iibir : ax̌rata iḫiiꞓàm-ma
+ux̌tamḫir meḫret apseî : x̌ubat nudimmud
+imx̌uḫ-ma beelu : x̌a apseî biniûtux̌x̌u
+ex̌galla tamx̌iilax̌u : ukiin ex̌arra
+ex̌galla ex̌arra : x̌a ibniû x̌amaamii
+aanu enlil u ea : maaḫaaziix̌un ux̌ramma
+marduk : zikrii ilii ina x̌emeîx̌u
+ubbal libbax̌u : ibanneâ niklaati
+epx̌u peîx̌u : ana ea iꝗàbbi
+x̌a ina libbiix̌u ux̌taamiû : inaddin milka
+daamii lukɉùr-ma : eɉèmta lux̌abx̌ii-ma
+lux̌ziz-ma lulleâ : luu ameelu x̌umx̌u
+lubnii-ma : lulleâ ameela
+luu emduu dulli ilii-ma : x̌unu luu pax̌ḫuu
+lux̌annii-ma alkakaat : ilii lunakkil
+ix̌teenix̌ luu kubbutuu-ma : ana x̌ina luu ziizuu
+iipulx̌uu-ma ea : amaata iꝗàbbiix̌u
+ax̌x̌u tapx̌uḫti x̌a ilii : ux̌anneâx̌x̌u ꞓèema
+linnadnam-ma : ix̌teen aḫuux̌un
+x̌uu li''abbit-ma : nix̌uu lippatꝗàa
+lipḫuruunim-ma : iluu rabiûtu
+x̌a arni linnadin-ma : x̌unu liktuunuu
+marduk upaḫḫir-ma : ilii rabiûti
+ꞓàabix̌ uma''ar : inaddin taêrta
+epx̌u peîx̌u : iluu upàꝗꝗùux̌u
+x̌arru ana anunnakkii : amaata izakkar
+luu kiinam-ma : maḫriû niibuukun
+kinaati atameâ : inimmeâ ittiiya
+mannum-ma : x̌a ibniû tuꝗùnta
+tiaamta ux̌balkituu-ma : ikɉùru taaḫaaza
+u tiaamta ux̌balkituu-ma ikɉùru taaḫaaza
+linnadnam-ma : x̌a ibniû tuꝗùnta
+arnux̌x̌u lux̌ax̌x̌eâ : pax̌aaḫix̌ tux̌baa
+iipuluux̌uu-ma igiiguu : iluu rabiûtu
+ana lugaldimeranki'a malik ilii : beelaax̌un
+ꝗìngum-ma : x̌a ibniû tuꝗùnta
+tiaamta ux̌balkituu-ma : ikɉùru taaḫaaza
+u tiaamta ux̌balkituu-ma ikɉùru taaḫaaza
+ikmiûx̌uu-ma maḫrix̌ : ea ukalluux̌u
+arna iimiduux̌uu-ma : daamiix̌u iptar'uu
+ina daamiix̌u : ibniû ameeluuta
+iimid dulli ilii-ma : ilii umtax̌x̌ir
+ix̌tu ameeluuta : ibniû ea erx̌u
+dulla x̌a ilii : iimiduuni x̌eâx̌u
+x̌ipru x̌uu : laa naꞓìû ḫasaasiix̌
+ina niklaati x̌a marduk : ibneâ nudimmud
+marduk x̌arru : ilii uza''iz
+ana anunnakkii gimrassunu : elix̌ u x̌aplix̌
+u'addi ana aani : taêreetux̌ naɉàara
+ḫamx̌at x̌ux̌x̌i ina x̌amaê : ukiin màɉɉàrta
+ux̌tax̌nii-ma alkakaat : erɉèti u'aɉɉìr
+ina x̌amaê u erɉèti : neer ux̌teex̌ib
+ix̌tu taêreeti : napḫarx̌ina uma''iru
+ana anunnakkii x̌a x̌amaê u erɉèti : uza''izu isꝗàassun
+anunnakkuu : peâx̌unu iipux̌uu-ma
+ana marduk beeliix̌unu : x̌unu izzakruu
+inanna beel : x̌a x̌ubarreâni tax̌kunuu-ma
+miiniû dumꝗèâni : ina maḫriika
+i niipux̌ parakka : x̌a nabiû zikirx̌u
+kummuk luu nubattani : i nux̌apx̌iḫ ꝗèrbux̌
+i niddi parakka : neemeda ax̌arx̌u
+i niddi parakka : x̌a nimmidu ax̌arx̌u
+ina uumi x̌a nikax̌x̌ada : i nux̌apx̌iḫ ꝗèrbux̌
+marduk : anniita ina x̌emeîx̌u
+kiima uumi immiruu : ziimuux̌u ma'dix̌
+epx̌aa-ma baabili : x̌a teerix̌aa x̌ipirx̌u
+libnassu lippatiꝗ-ma : parakka zuꝗraa
+anunnakkuu : itrukuu alla
+x̌attu ix̌teât : libittax̌u iltabnuu
+x̌attu ana ix̌teâti : libittax̌u iltebnuu
+x̌aniitu x̌attu : ina kax̌aadi
+x̌a esagil meḫret apseî : ulliû reex̌iix̌u
+ibniû-ma : zìꝗꝗùrrat : apseî eliita
+ana aani enlil ea u x̌eâx̌u : ukinnuu x̌ubta
+ina tarbeâti : maḫarx̌unu ux̌ibam-ma
+x̌urx̌ix̌ ex̌arra : inaꞓꞓàla ꝗàrniix̌u
+ix̌tu esagil : iipux̌uu x̌ipirx̌u
+anunnakkuu kaliix̌unu : parakkiix̌unu ibtax̌muu
+ḫamx̌at x̌ux̌x̌i igiiguu x̌a x̌amaamii u neer x̌a apseî : kaliix̌unu paḫruu
+beelu ina paramaaḫi : x̌a ibniû x̌ubassu
+ilii abbiix̌u : ꝗèriitax̌u ux̌teex̌ib
+anneâ baabili : x̌ubat narmeîkun
+nugeâ ax̌rux̌x̌u : ḫidiûtax̌u tix̌baa-ma
+ux̌ibuu-ma : iluu rabiûtu
+zarbaaba ix̌kunuu : ina ꝗèriiti ux̌buu
+ix̌tu nigiûta : ix̌kunuu ꝗèrebx̌u
+ina esagil rax̌bi : iitepux̌uu x̌unu taꝗribta
+kunnaa taêreetu : napḫarx̌ina uɉùraatu
+manzaaz x̌amaê u erɉèti uza''izuu : iluu gimrassun
+iluu rabiûtu : ḫamx̌aassunu ux̌ibuu-ma
+iluu x̌iimaati sebettiix̌unu : ana purussaê uktinnuu
+imḫur-ma beelu ꝗàx̌ta : kakkax̌u maḫarx̌un iddi
+sapaara x̌a iiteppux̌u : iimuruu iluu abbuux̌u
+iimuruu-ma ꝗàx̌ta : kii nukkulat biniûta
+epx̌eet iiteppux̌u : inadduu abbuux̌u
+ix̌x̌ii-ma aanu : ina puḫur ilii iꝗàbbi
+ꝗàx̌ta ittax̌ìꝗ : x̌ii luu maartii
+ibbii-ma x̌a ꝗàx̌ti : kiiam x̌umiix̌a
+iɉù arik luu ix̌teenum-ma : x̌aniû luu kaax̌id
+x̌alx̌u x̌umx̌a kakkab ꝗàx̌ti : ina x̌amaê ux̌aapi
+ukiin-ma gisgallax̌a : itti ilii atḫaêx̌a
+ix̌tu x̌iimaati x̌a ꝗàx̌ti : ix̌iimu aanu
+iddii-ma kussaê x̌arruuti : x̌a ina ilii x̌aꝗèâta
+aanu ina puḫur ilii : x̌uaax̌u ux̌teex̌ibx̌i
+ipḫuruunim-ma : iluu rabiûtu
+x̌iimat marduk ulliû : x̌unu ux̌kinnuu
+uzakkiruu-ma : ana ramaaniix̌unu araara
+ina maê u x̌amni itmiû : ulappituu napx̌aati
+iddinuux̌um-ma : x̌arruut ilii epeex̌a
+ana beeluut ilii x̌a x̌amaê u erɉèti : x̌unu uktinnuux̌u
+ux̌aatir-ma anx̌ar asarluḫi : ittabi x̌umx̌u
+ana zikriix̌u ꝗàbaê : i nilbin appa
+epx̌u peîx̌u : iluu lipìꝗꝗùux̌u
+ꝗìbiitux̌x̌u luu x̌uuturat : elix̌ u x̌aplix̌
+luu x̌ux̌ꝗùu-ma maaru : mutiir gimilliini
+enuussu luu x̌uuturat : x̌aanina ai irx̌i
+liipux̌-ma ree'iût : ɉàlmaat ꝗàꝗꝗàdi bineâtux̌x̌u
+aḫreâtax̌ uumii laa max̌aê : lizakkiraa alkassu
+aḫreâtax̌ uumii ana laa max̌aê lizzakkiraa alkassu
+likiin ana abbiix̌u : nindabaê rabiûti
+zaaninuussun liipux̌a : lipaꝗꝗìda ex̌reessun
+lix̌èeɉìn ꝗùtrinnii : tii'aax̌ina lix̌rex̌x̌a
+tamx̌iil ina x̌amaê iiteppux̌u : ina erɉèti liiteppux̌
+li'addii-ma : ɉàlmaat ꝗàꝗꝗàdi palaaḫix̌x̌u
+li'addii-ma ɉàlmaat ꝗàꝗꝗàdi palaaḫu x̌eâx̌u
+ba'uulaatu luu ḫissusaa : ilax̌ina lizzakraa
+epx̌u peîx̌u : ix̌tarix̌ lipiꝗꝗàa
+nindabiû linnax̌eâ : ilax̌ina ix̌tarx̌in
+ai immax̌eâ : ilax̌ina likillaa
+maatiix̌ina lix̌teppeâ : parakkiix̌ina liitepx̌aa
+luu ziizaa-ma ɉàlmaat ꝗàꝗꝗàdi ilii
+neâx̌i mala x̌uma nibbiû : x̌uu luu ilni
+i nibbii-ma ḫamx̌aa x̌umiix̌u
+alkatux̌ luu x̌uupeât : epx̌etux̌ luu max̌lat
+alkaatux̌ luu x̌uupeâ epx̌eetux̌ luu max̌laa
+marduk x̌a ix̌tu ɉìitiix̌u ibbiûx̌u : abuux̌u aanu
+x̌aakin miriiti u max̌ꝗìiti : muꞓàḫḫidu ureîx̌un
+x̌a ina kakkiix̌u abuubi : ikmiû x̌aapiûti
+ilii abbiix̌u : ìiꞓìru ina x̌apx̌àaꝗì
+luu maaru x̌amx̌i x̌a ilii : nebiû x̌uu-ma
+luu maaru x̌amx̌i x̌a ina ilii nabiû x̌uu-ma
+ina nuuriix̌u namri : littallakuu x̌unu kayyaana
+nix̌ii x̌a ibniû : x̌ikitta napx̌a
+dulli ilii iimiduu-ma : x̌unu ippax̌ḫuu
+baneâ abaata : napx̌ura eneena
+luu bax̌ii-ma nanniûx̌x̌u : luu naplusuu x̌unu x̌eâx̌u
+luu bax̌ii-ma ulleânux̌x̌u : luu naplusuu x̌unu ana x̌eâx̌u
+marukku luu ilu : baaniûx̌unu x̌uu-ma
+muꞓìib libbi anunnakkii : mux̌apx̌iḫu igiigii
+marutukku luu tukulti maati : aali u nix̌iix̌u
+x̌eâx̌uu-ma litta''idaax̌u : nix̌uu aḫreâtax̌
+ana x̌eâx̌uu-ma litta''idaax̌u : nix̌uu aḫreâtax̌
+merx̌akux̌u eziz u mux̌taal : sabux̌ u tayyaar
+rapax̌ libbax̌u : laa'ìꞓ karassu
+lugaldimeranki'a x̌umx̌u : x̌a nibbiû puḫurni
+lugaldimeranki'a x̌a x̌umx̌u : i nimbiû puḫurni
+zikrii peîx̌u nux̌ax̌ꝗìû : eli ilii abbiix̌u
+luu beel ilii : x̌a x̌amaê u erɉèti kaleîx̌un
+x̌arru ana taklimtiix̌u iluu luu x̌u'duruu elix̌ u x̌aplix̌
+nari-lugaldimeranki'a x̌umx̌u x̌a nizkuru : aax̌ir ilii kalaama
+x̌a ina x̌amaê u erɉèti ittaddiû : x̌ubatni ina pux̌ꝗì
+ana igiigii u anunnakkii : uza''izu manzaaza
+ana x̌umiix̌u iluu lix̌tar'ibuu : linuux̌uu ina x̌ubti
+asarluḫi x̌umx̌u x̌a ibbiûx̌u : abuux̌u aanu
+x̌uu luu nuuru x̌a ilii : gex̌ꞓìû dannu
+x̌a kiima x̌umiix̌uu-ma : lamassi ilii u maati
+ina x̌ax̌mi danni : ìiꞓèru x̌ubatni ina pux̌ꝗì
+asarluḫi-namtila x̌aneîx̌ ibbiû : ilu mux̌nex̌x̌u
+x̌a kiima biniûtiix̌uu-ma ikx̌iru : kala ilii abtuuti
+beelu x̌a ina x̌iptiix̌u elleti : uballiꞓù ilii miituuti
+mu'abbit egruuti : zaa'irii i nibbiûx̌u
+asarluḫi-namru x̌a innabiû : x̌alx̌ix̌ x̌umx̌u
+ilu ellu : mullilu alaktiini
+x̌ulux̌aa x̌umiix̌u ibbiû : anx̌ar laḫmu u laḫaamu
+ana ilii maariix̌unu : x̌unu izzakruu
+niinuu-ma x̌ulux̌aa : nittabi x̌umiix̌u
+kii neâx̌ii-ma attunu : x̌umiix̌u zukraa
+iḫdiû-ma iluu : ix̌miû siꝗàrx̌un
+ina ubx̌ukkinnakki ux̌taddinuu : x̌unu milkassun
+x̌a maari ꝗàrraadi : mutiir gimilliini
+niinu x̌a zaanini : i nulli x̌umx̌u
+ux̌ibuu-ma ina ukkiniix̌unu : inabbiû x̌iimaati
+ina meesii nagbax̌unu : uzakkiruuni x̌umx̌u
+asarre x̌aarik meerex̌ti : x̌a israta ukinnu
+baaniû aê u ꝗàê : mux̌eeɉìû urꝗìiti
+asaralim x̌a ina biit milki kabti : x̌uuturu milikx̌u
+iluu uutaꝗꝗìû : adiirx̌u aḫzuu
+asaralimnunna karuubu : nuur abi aalidiix̌u
+mux̌teex̌ir taêreet aani : enlil u ea u ninx̌iiku
+x̌uu-ma zaaninx̌unu : mu'addiû isꝗìix̌un
+x̌a x̌ukuussu ḫegalla : uɉɉàpa ana maati
+tutu baan teedix̌tiix̌unu : x̌uu-ma
+lillil saagiix̌unuu-ma : x̌unu luu pax̌ḫuu
+libnii-ma x̌ipta : iluu linuuḫuu
+aggix̌ luu tebiû : linee'uu irassun
+luu x̌ux̌ꝗìû-ma : ina puḫur ilii eedix̌x̌iix̌u
+mamman ina ilii : x̌uaax̌u laa umdax̌x̌alx̌u
+tutu zi'ukkina napix̌ti ummaani : x̌aneîx̌ izzakruu
+x̌a ukinnu ana ilii : x̌amaê elluuti
+alkassun ìɉbatuu-ma : u'addiû manzaassun
+ai immax̌i ina apeâti : epx̌etax̌u liktilla
+tutu ziku x̌alx̌ix̌ : imbiû mukiil teelilti
+il x̌aari ꞓàabi : beel tax̌maê u magaari
+mux̌abx̌i ɉìmri u kubuttaê : mukiin ḫegalli
+x̌a mimmeâni ìiɉà : ana ma'deî utirru
+ina pux̌ꝗì danni : nìiɉìnu x̌aarx̌u ꞓàaba
+lìꝗbiû litta''iduu : lidluluu daliiliix̌u
+tutu agaku ina rebeî : lix̌arriḫaa abraatu
+beel x̌ipti elleti : muballìꞓ miiti
+x̌a ana ilii kamiûti : irx̌iû tayaara
+abx̌aana enda ux̌assiku : eli ilii nakiriix̌u
+ana padeîx̌unu : ibniû ameeluuta
+reemeeniû x̌a bulluꞓù : bax̌iû ittiix̌u
+likuunaa-ma : ai immax̌eâ ameâtuux̌u
+ina peî ɉàlmaat ꝗàꝗꝗàdi : x̌a ibneâ ꝗàataax̌u
+tutu tuku ina ḫamx̌i teâx̌u ella : paax̌ina littabbal
+x̌a ina x̌iptiix̌u elleti : issuḫu nagab lemnuuti
+x̌azu muudaê libbi ilii : x̌a ibarriû karx̌a
+eepix̌ lemneeti laa ux̌eeɉìû ittiix̌u
+mukiin puḫri x̌a ilii : muꞓìib libbiix̌un
+mukannix̌ laa maagirii : ɉùluulx̌un rapx̌u
+mux̌eex̌ir kitti : naasiḫ itgura dabaaba
+x̌a sartu u kittu : umtasseâ ax̌rux̌x̌u
+x̌azu zisi mux̌ebbi teebeî : x̌aneîx̌ litta''iduu
+mukkix̌ x̌uḫarrati : ina zumur ilii abbiix̌u
+x̌azu suḫrim x̌alx̌ix̌ : naasiḫ ayyaabii gimirx̌unu ina kakki
+musappiḫ kipdiix̌unu : muterru x̌aarix̌
+muballi napḫar raggii : mala iyeâruux̌u
+iluu lix̌talliluu : x̌unu ina puḫri
+x̌azu x̌uḫgurim ina rebeî : x̌aakin tax̌maê ana ilii abbiix̌u
+naasiḫ ayyaabii : muḫallìꝗ nipriix̌un
+musappiḫ epx̌eetiix̌unu : laa ezeeb mimmaêx̌un
+lizzakir liꝗꝗàbi : x̌umx̌u ina maati
+luu zakir liꝗꝗàbi : x̌umx̌u ina maati
+x̌azu zaḫrim ina ḫamx̌i : lix̌taddinuu arkiûtu
+muḫallìꝗ nagab zaameânii : laa maagirii kaleîx̌un
+x̌a napḫar ilii munnabtii : ux̌eeribu ex̌reetix̌
+likuun-ma : anniû zikirx̌u
+x̌azu zaḫgurim ina x̌ex̌x̌i appuuna : kaleîx̌ lix̌tamruu
+x̌a napḫar ayyaabii uḫalliꝗù : x̌uu taaḫaazix̌
+enbilulu beelu : mudex̌x̌iûx̌unu x̌uu-ma
+dannu nabiûx̌unu : x̌aakin takliimi
+x̌a reîta max̌ꝗìita ux̌tex̌x̌eru : ukinnu ana maati
+beraati upattiû : uza''izu maê nuḫx̌i
+enbilulu epadun beel nameî u ataê : x̌aneîx̌ lizzakruu
+gugal x̌amaê u erɉèti : mukinnu absinni
+x̌a meerex̌ta elleta : ukinnu ina ɉèeri
+iika u palga ux̌tex̌x̌eru : uɉɉìru apkiisa
+enbilulu gugal gugal miꞓrat ilii linaaduu x̌alx̌ix̌
+beel ḫegalli ꞓùḫdi : ix̌pikii rabiûti
+x̌aakin mex̌raê : munaḫḫix̌ dadmee
+naadin x̌u'i : mux̌abx̌iû ax̌nan
+enbilulu ḫegal mukammir ḫegalli ana nix̌ii : rebeîx̌ lìꝗbiû
+mux̌aznin nuḫx̌i eli erɉèti rapax̌ti : mudex̌x̌iû urꝗìiti
+sirsir x̌aapik x̌adeî : eleenux̌ tiaamti
+x̌aalil x̌alamta : tiaamta ina kakkiix̌u
+muttarriû maati : ree'iûx̌ina kiinu
+x̌a x̌arkuux̌u meerex̌u : x̌ukuusu x̌er'u
+x̌a tiaamta rapax̌ta : iitebberu uzzux̌x̌u
+x̌a ina tiaamti rapax̌ti : iitebberu uzzux̌x̌u
+kii titurri iitetteꝗù : ax̌ar x̌ax̌miix̌a
+sirsir malaḫ ina x̌aneî imbiû : x̌ii luu kiiam
+tiaamtu rukuubx̌uu-ma : x̌uu malaaḫx̌a
+gil mux̌tappik karaê : tiilii bitriûti
+baaniû ax̌nan u laḫri : naadinu zeer maati
+gilima mukiin ꞓùrri ilii : baaniû kinaati
+rappu laa'issunu : mux̌aɉbitu damꝗàati
+agilima x̌aꝗìû : naasiḫ agaê aax̌ir x̌algi
+baaniû erɉèti elix̌ maê : mukiin eleâti
+zulum mu'addi ꝗèrbeti ana ilii : paalik biniûti
+naadin isꝗìi u nindabaê : pàaꝗìdu ex̌reeti
+mummu baan x̌amaê u erɉèti : mux̌eex̌ir parsi
+ilu mullil x̌amaê u erɉèti : x̌aneîx̌ zulummu
+x̌a ana dunniix̌u ina ilii : x̌aniû laa max̌lu
+gix̌numunab baaniû napḫar nix̌ii : eepix̌u kibraati
+aabit ilii x̌a tiaamti : eepix̌ nix̌ii ina mimmaêx̌un
+lugalabdubur x̌arru saapiḫ epx̌et tiaamti : naasiḫu kakkiix̌a
+x̌a ina reex̌i u arkati : durux̌x̌u kunnu
+pagalgu'enna ax̌areed napḫar beelii : x̌a x̌aꝗèâ emuuꝗàax̌u
+pagalgu'enna ax̌areed napḫar beel ilii x̌a x̌aꝗèâ emuuꝗàax̌u
+x̌a ina ilii aḫḫiix̌u x̌urbiû : etel napḫarx̌un
+lugaldurmaḫ x̌arru markas ilii : beel durmaaḫi
+x̌a ina x̌ubat x̌arruuti x̌urbiû : ana ilii ma'dix̌ ɉìiru
+aranunna maalik ea : baan ilii abbiix̌u
+x̌a ana alakti rubiûtiix̌u laa umax̌x̌alu : ilu ayyumma
+dumuduku x̌a ina duku uutaddax̌u : x̌ubassu ellet
+dumuduku x̌a ina baliix̌u purusseâ : laa iparrasu lugalduku
+lugalx̌u'ana x̌arru x̌a ina ilii : x̌aꝗèâ emuuꝗàax̌u
+beelu emùuꝗ aani : x̌a x̌uuturu nibiût anx̌ar
+beel emuuꝗàan ɉìiraati : x̌uuturu nibiût anx̌ar
+irugga x̌aalil gimriix̌unu : ꝗèrbix̌ tiaamti
+x̌a napḫar uzni iḫmumu : ḫasiisa palkiû
+irꝗìngu x̌aalil ꝗìngu : ayyaabix̌ taaḫaazi
+muttabbil taêreet napḫari : mukiin beeluuti
+kinma muma''ir napḫar ilii : naadin milki
+x̌a ana x̌umiix̌u iluu kiima meḫaê : ix̌ubbuu palḫix̌
+dingiresiskur x̌aꝗèîx̌ : ina biit ikribi lix̌ib-ma
+dingiresiskur x̌a x̌aꝗèîx̌ : ina biit ikribi lix̌ibuu-ma
+iluu maḫrux̌x̌u : lix̌eeribuu kadreâx̌un
+adi erebx̌unu imaḫḫaruuni
+mamman ina baliix̌u : laa ibanneâ niklaati
+erba ɉàlmaat ꝗàꝗꝗàdi bineâtux̌x̌u
+ela x̌eâx̌u ꞓèemi uumiix̌ina : laa iyadda ilu mamman
+girru mukiin aaɉèât kakki
+x̌a ina taaḫaaz tiaamti : ibanneâ niklaati
+palkeâ uzni : itpeex̌a ḫasiisi
+libbu rùuꝗù x̌a laa ilammaduu : iluu gimraassun
+addu luu x̌umx̌u : kix̌x̌at x̌amaê liirim-ma
+addu luu x̌umx̌u : x̌a kix̌x̌at x̌amaê liirimuu-ma
+ꞓàabu rigmax̌u : eli erɉèti lirtaɉɉìn
+mummu erpeeti lix̌takɉìbam-ma
+x̌aplix̌ ana nix̌ii : ti'iûta liddin
+ax̌aru x̌a kiima x̌umiix̌uu-ma : iix̌uru ilii x̌iimaati
+kullat kal nix̌ii : x̌uu luu pàaꝗìd
+neeberu neeberet x̌amaê u erɉèti luu tamiḫ-ma
+elix̌ u x̌aplix̌ laa ibberuu : liꝗè''iûx̌u x̌eâx̌u
+neeberu kakkabx̌u : x̌a ina x̌amaê ux̌aapiû
+luu ɉàabit kunsaggaêx̌unu : x̌eâx̌u luu palsuux̌u
+maa x̌a ina ꝗèrbix̌ tiaamti : iitebbiru laa neâḫix̌
+x̌umx̌u luu neeberu : aaḫizu ꝗèrbiix̌u
+x̌a kakkabii x̌amaamii : alkassunu likiin-ma
+kiima ɉèeni lirta'eâ : ilii gimrax̌un
+likmi tiaamta : napix̌tax̌a lisiiꝗ u likri
+aḫreâtax̌ nix̌ii : labaarix̌ uumii
+lix̌x̌ii-ma laa uktaal : lirèeꝗ ana ɉèâti
+ax̌x̌u ax̌ra ibneâ : iptiꝗà dannina
+beel maataati x̌umx̌u : ittabi abu enlil
+beel maataati x̌a abu enlil imbiûx̌u
+ina zikri igiiguu : ibbiû nagabx̌un
+ix̌mee-ma ea : kabattax̌u ittangi
+maa x̌a abbiix̌u : ux̌arriḫuu zikirx̌u
+x̌uu kiima yeâtii-ma : ea luu x̌umx̌u
+rikis parɉìiya kaliix̌unu : libeel-ma
+gimri taêreetiiya : x̌uu littabbal
+ina zikri ḫamx̌aa : iluu rabiûtu
+ḫamx̌aa x̌umiix̌u imbiû : ux̌aatiruu alkassu
+lìɉɉàbtuu-ma : maḫriû likallim
+enꝗù u muudiû : mitḫaarix̌ limtalkuu
+lix̌annii-ma abu : maara lix̌aaḫiz
+x̌a ree'eî u nàaꝗìdi : lipatteâ uzniix̌un
+laa iggii-ma : ana enlil ilii marduk
+maassu liddex̌x̌eâ : x̌uu luu x̌alma
+kiinat amaassu : laa eneât ꝗìbiissu
+ɉìit peîx̌u laa ux̌tepaêl : ilu ayyumma
+ikkelemmuu-ma : ul utaar kix̌aassu
+ina sabaasiix̌u uzzax̌u : ul imaḫḫarx̌u ilu mamman
+rùuꝗù libbax̌u : rapax̌ karassu
+x̌a annu u gillatu : maḫarx̌u baa'iû
+taklimti maḫriû : idbubu paanux̌x̌u
+ix̌ꞓùr-ma ix̌takan : ana x̌emeî arkiûti
+x̌iimat marduk x̌a ulliû : iluu igiiguu
+eema miû ix̌x̌attiû : x̌umx̌u lizzakruu
+inannam-ma : zamaaru x̌a marduk
+x̌a tiaamta ikmiû-ma : ilꝗìû x̌arruuta
+ … aanu enlil u ea : … beelet-ilii … 
+ … ina baabili u esagil … 
+x̌ar gimir dadmee baaniû kibraati … 
+ḫendursanga apil ellil reex̌tiû … 
+naax̌ ḫaꞓꞓì ɉìirti nàaꝗìd ɉàlmaat ꝗàꝗꝗàdi ree'iû teneex̌eeti
+iix̌um ꞓàabiḫu na'du x̌a ana nax̌aê kakkiix̌u ezzuuti ꝗàataax̌u asmaa
+u ana x̌ubrùꝗ ulmiix̌u x̌eeruuti erra ꝗàrraad ilii inuux̌u ina x̌ubti
+iirissuu-ma libbax̌u : epeex̌ taaḫaazi
+iitammi ana kakkiix̌u : litpataa imat muuti
+ana sebetti ꝗàrraad laa x̌anaan : nandiꝗàa kakkiikun
+iꝗàbbiiku ana keâx̌a : luɉìi-ma ana ɉèeri
+attaa dipaarum-ma : inaꞓꞓàluu nuurka
+attaa aalik maḫrim-ma : iluu … … 
+attaa namɉàrum-ma ꞓàabiḫu … 
+erra tebii-ma : ina sapaan maati
+kii namrat kabtatka : u ḫadiû libbuk
+erra kii x̌a ameeli dalpi : idaax̌u anḫaa
+iꝗàbbi ana libbiix̌u : lutbe lùɉlal-ma
+iitamma ana kakkiix̌u : ummedaa tubꝗàati
+ana sebetti ꝗàrraad laa x̌anaan : ana x̌ubtiikunu tuuraa-ma
+adi attaa tadekkiûx̌u : ɉàlil urx̌ux̌x̌u
+itti maami ḫiiratux̌ : ippux̌a ulɉàm-ma
+engidudu beelu muttallik muux̌i muttarriû rubaê
+x̌a eꞓla u ardata ina x̌ulmi ittanarriû unammaru kiima uumi
+x̌a sebetti ꝗàrraad laa x̌anaan : x̌unneât iluussun
+ilittax̌unu aḫeât-ma : maliû pulḫaati
+aamirx̌unu ux̌taḫḫat-ma : napiissunu muutum-ma
+nix̌uu x̌aḫtuu-ma : ul i'irruu ana x̌eâx̌u
+iix̌um daltum-ma : edil paanux̌x̌un
+aanu x̌ar ilii : erɉèta irḫee-ma
+sebetti ilii uldax̌x̌um-ma : sebetta ittabi zikirx̌un
+izzazzuu ina maḫriix̌uu-ma : x̌iimassunu ix̌iim-ma
+issii-ma ix̌teen : ix̌akkana ꞓèema
+eema tandiruu-ma tattalku : maaḫira ee tarx̌i
+iꝗàbbi ana x̌aneî kiima giiri kubum-ma : ḫumùꞓ kiima nabli
+iitammi ana x̌alx̌i ziim labbi luu x̌aknaataa-ma aamirka lix̌ḫarmìꞓ
+iꝗàbbi ana rebeî ana nax̌aê kakkiika ezzuuti x̌adiû liitabbit
+ana ḫamx̌i iꝗtabi kiima x̌aari zìiꝗ-ma : kippata ḫìiꞓà
+x̌ex̌x̌a umta''er elix̌ u x̌aplix̌ baa'am-ma : laa tagammil mamma
+sibeâ imat bax̌mi iɉèenx̌uu-ma x̌umꝗìta napix̌ta
+ultu x̌iimat sebetti napḫarx̌unu : ix̌iimu aanu
+iddinx̌unuutii-ma ana erra ꝗàrraad ilii : lillikuu idaaka
+kii x̌a nix̌ii dadmee ḫubuurx̌ina : eliika imtarɉù
+ublam-ma libbaka : ana x̌akaan kamaari
+ɉàlmaat ꝗàꝗꝗàdi ana x̌umutti : x̌umꝗùtu buul x̌akkan
+luu kakkuuka ezzuutu x̌unuu-ma : lillikuu idaaka
+x̌unu ezzuu-ma : tebiû kakkuux̌un
+iitammiû ana erra : tibe iziz-ma
+minsu kii x̌iibi muꝗꝗì : tux̌ib ina aali
+kii x̌erri la'eî : tux̌ib ina biiti
+kii laa aalik ɉèeri : nikkala akal sinnix̌
+kii x̌a taaḫaaza laa niidiû : niplaḫa niruuda
+alaak ɉèeri x̌a èꞓluuti kii x̌a isinnum-ma
+aax̌ib aali luu rubiû : ul ix̌ebbi akla
+x̌umsuk ina pii nix̌iix̌uu-ma : ꝗàlil ꝗàꝗꝗàssu
+ana aalik ɉèeri akeî : itarràɉ ꝗàassu
+x̌a aax̌ib aali : luu puggulat kubukkux̌
+ana aalik ɉèeri akeî : idannin miina
+akal aali lulliû : ul ubbala kamaan tumri
+x̌ikar nax̌pi : dux̌x̌upi : ul ubbala maê naadi
+eekal tamleî ul ubbala maɉàllu x̌a ree'eî
+ꝗùraadu erra ɉìi-ma ana ɉèeri turuk kakkiika
+rigimka dunnin-ma : lix̌tar'ibuu elix̌ u x̌aplix̌
+igiiguu lix̌miû-ma : lix̌arbiû x̌umka
+anunnakuu lix̌miû-ma : lix̌ḫuꞓùu zikirka
+iluu lix̌miû-ma : liknux̌uu ana niiriika
+malkuu lix̌miû-ma : likmisuu x̌apalka
+maataatu lix̌meâ-ma : bilassina lix̌x̌eâka
+galliû lix̌miû-ma : ina ramaaniix̌unu limuutuu
+dannu lix̌mee-ma : lix̌x̌ur emuuꝗìix̌u
+ḫursaanuu zàꝗruutu lix̌miû-ma liitabbituu-ma lix̌pilaa reex̌aax̌un
+teâmaatu gallaatu lix̌meâ-ma liddalḫaa-ma liḫalliꝗàa mex̌erta
+x̌a ꝗìix̌i danni : liktappiruu gupnuux̌u
+apu x̌a neereba laa iix̌iû : liḫtaɉɉìɉùu ꝗàniûx̌u
+nix̌uu liplaḫaa-ma : litꝗùna ḫubuurx̌in
+buulu liirur-ma : lituur ana ꞓìꞓꞓì
+iluu abbuuka liimuruu-ma : linaaduu ꝗùrdiika
+ꝗùraadu erra minsu ɉèera tumax̌x̌ir-ma : tux̌ib ina aali
+buul x̌akkan u nammax̌x̌iû : leꝗìû x̌eeꞓùutni
+ꝗùraadu erra niꝗàbbiikum-ma atmiûni limrùɉ eliika
+adi maatu napḫarx̌a : irbiû eliini
+mindee-ma attaa : x̌emeâta amaatni
+mindee-ma amaatni : ul x̌emeâta attaa
+ana anunnakii raa'im x̌aḫrarti : damiꝗta epx̌a
+anunnakuu ina ḫubuur nix̌ii : ul ireḫḫiû x̌itta
+napix̌ti maati gipaara : raḫìɉ buulu
+ikkaru ina muḫḫi … : ibakki ɉàrpix̌
+neex̌u u barbaru ux̌amꝗàtuu buul x̌akkan
+ree'iû ax̌x̌u ɉèeniix̌u urra u muux̌a ul iɉàllal iballa keâx̌a
+u niinu muudaê neereb x̌adeî : nimtax̌x̌i ḫarraana
+ina muḫḫi tillaê ɉèeriini : x̌ateât ꝗàê ettuutu
+ꝗàx̌atni ꞓàabtu ibbalkit-ma : idnina eli emuuꝗìini
+x̌a ùɉɉìini zaꝗti : kepeât lix̌aax̌x̌u
+patarni ina laa ꞓàbaaḫi ittadi x̌uḫta
+ix̌meex̌unuutii-ma ꝗùraadu erra
+amaat sebetti ìꝗbiû kii ulu x̌amni eliix̌u iꞓìib
+amaat sebetti ìꝗbiûx̌u eliix̌u kii ulu ( x̌amni ) : iꞓìib
+iipux̌-ma peâx̌u : izakkar ana iix̌um
+minsu x̌emeâtaa-ma : ꝗèâlix̌ tux̌x̌ab
+ꞓùuda pitee-ma : luɉbat ḫarraana
+sebettu ꝗàrraad laa x̌anaan : luppix̌uu taaḫaaza
+kakkiiya ezzuuti : x̌uulika idaaya
+u attaa aalik maḫriiya : alik paaniiya
+iix̌um anniita ina x̌emaêx̌u
+ix̌mee-ma iix̌um anneâ ꝗàbeâ x̌a erra
+reema irtax̌ii-ma : iꝗtabi aḫuulap
+iipux̌-ma peâx̌u izakkar ana ꝗùraadi erra
+ꝗùraadu erra minsu ana ilii : lemutta takpud
+ana sapaan maataati ḫullùꝗ nix̌iix̌in lemutta takpud-ma laa tatuur ana arkiika
+erra peâx̌u : iipux̌-ma iꝗàbbi
+ana iix̌um aalik maḫriix̌u : amaata izakkar
+iix̌um ꝗùulam-ma : x̌ime ꝗàbeâya
+ax̌x̌u nix̌ii dadmee : x̌a taꝗbiû gamaalx̌in
+aalik maḫri ilii enꝗù iix̌um x̌a milikx̌u damꝗù
+ina x̌amaê riimaaku : ina erɉèti labbaaku
+ina maati x̌arraaku : ina ilii ezzaaku
+ina igiigii ꝗàrdaaku : ina anunnakii gax̌raaku
+ina buuli maaḫiɉàaku : ina x̌adeî x̌ubaaku
+ina api giiraaku : ina ꝗìix̌i magx̌araaku
+ina alaak ḫarraani urinnaaku
+kii x̌aari azèâꝗ : kii addi urtaɉɉàn
+kii x̌amx̌i abarri : kippata kalaama
+ana ɉèeri ùɉɉìi-ma bibbaaku
+ana nameî errub-ma nergal rameâku x̌ubta
+iluu napḫarx̌unu : nibiitii x̌aḫtuu
+u nix̌ii ɉàlmaat ꝗàꝗꝗàdi : leꝗìû x̌eeꞓùutii
+anaaku ax̌x̌u laa ix̌ḫuꞓùu-ma zikrii
+u x̌a rubaê maruutuk amaassu iddiû-ma eppux̌u kii libbux̌
+rubeâ maruutuk ux̌aggag-ma ina x̌ubtiix̌u adekkee-ma nix̌ii asappan
+ꝗùraadu erra ana x̌u'anna aal x̌ar ilii ix̌takan paaniix̌u
+ana eesagil eekal x̌amaê u erɉèti iirum-ma ittaziz paanux̌x̌u
+iipux̌-ma peâx̌u : ana x̌ar ilii iitammi
+minsu x̌ukuttu simat beeluutiika x̌a kiima kakkabii x̌amaamii luleâ maleât leꝗèât uruux̌a
+agaê beeluutiika x̌a kiima eetemenanki ux̌anbiꞓù eeḫalanki paanuux̌u katmuu
+iipux̌-ma peâx̌u : x̌ar ilii iitammi
+ana erra ꝗàrraad ilii : amaata izakkar
+ꝗùraadu erra ax̌x̌u x̌ipri x̌eâx̌u x̌a taꝗbiû epeex̌a
+ultu ullu aaguguu-ma ina x̌ubtiiya atbiû-ma ax̌kuna abuuba
+ina x̌ubtiiya atbee-ma x̌ipiit x̌amaê u erɉèti uptaꞓꞓìr
+x̌amaê x̌a ux̌tar'ibuu x̌a kakkabii x̌amaamii manzaassunu ix̌nii-ma ul utiir ax̌rux̌x̌un
+erkallu x̌a inuux̌u x̌a x̌er'i bilassu imꞓìi-ma adi ulla ana emeedi ax̌ꞓà
+x̌ipiit x̌amaê u erɉèti x̌a uptaꞓꞓìru nagbu imtaꞓìi-ma miiluu ittaḫsuu atuur aamur-ma ana x̌ebaê imtarɉà
+x̌a x̌iknaat napix̌ti nabniissina ìɉḫir-ma : ul utiir ax̌rux̌x̌un
+adi kiima ikkari zeeriix̌in : aɉbatu ina ꝗàatiiya
+biita eepux̌-ma : ux̌ib ina libbi
+x̌ukuttii x̌a ina abuubi udda''ipuu-ma : iikilu x̌ikinx̌a
+ana x̌unbùꞓ ziimiiya u ubbub ɉùbaatiiya : giira umta''er
+ultu x̌ukuttii unammeruu-ma : uꝗàttiû x̌ipra
+agaê beeluutiiya annadꝗùu-ma : ana ax̌riiya atuuru
+ziimuu'a tubbiû-ma : galit niꞓlii
+nix̌uu x̌a ina abuubi isiitaa-ma iimuraa epeex̌ x̌ipri
+kakkiiya ux̌atbaa-ma : uḫallàꝗ reeḫa
+kakkiika tux̌atbii-ma : tuḫallìꝗ reeḫa
+ummeânii x̌unuuti ana apseî ux̌eerid-ma : eleâx̌unu ul aꝗbi
+x̌a meesi elmeex̌i ax̌arx̌un unakkir-ma : ul ukallim mamma
+enna ax̌x̌u x̌ipri x̌eâx̌u x̌a taꝗbiû ꝗùraadu erra
+ali meesu x̌iir ilii simat x̌ar gimri
+iɉù ellu eꞓlu ɉìiru : x̌a x̌uuluku ana beeluuti
+x̌a ina teâmti rapax̌ti ina maê me'at beerii ix̌issu ikx̌udu x̌upul aralli
+u ꝗìmmassu ina eleâti emdet x̌amaê x̌a aanu
+ali ebbu zaginduriû : x̌a ux̌amsakuu ùꝗneâ
+ali ninildu : nagargal aanuutiiya
+naax̌ paax̌i x̌ax̌x̌i ebbi : muudiû iɉì x̌eâx̌u
+x̌a kiima uumi ux̌anbaꞓùu-ma : ina x̌apluu'a ukannu
+ali kusibanda baan ili u ameeli : x̌a ꝗàataax̌u nasꝗàa
+ali ninagal : naax̌ eseî u x̌apilti … 
+x̌a danna ereâ kiima max̌ki ileemu : paatiꝗù unuuti
+ali abnuu nasꝗùutu biniût teâmti rapax̌ti simat agaê
+ali sebet apkalluu apseî puraaduu ebbuutu x̌a kiima eea beeliix̌unu uzna ɉìirta x̌ukluluu mubbibuu zumriiya
+ix̌meex̌uu-ma ꝗùraadu erra
+iipux̌-ma peâx̌u izakkar ana rubaê maruutuk
+ … … ultu apseî … … ana eleâti
+meesu … meḫerx̌u ux̌elleâm-ma … meesa
+elmeex̌a ebba x̌a … … meḫerx̌u ux̌elleâm-ma … … elmeex̌u
+maruutuk anniita ina x̌emaêx̌u
+iipux̌-ma peâx̌u izakkar ana ꝗùraadi erra
+ina x̌ubtiiya atebbii-ma : x̌ipiit x̌amaê erɉèti uptaꞓꞓàr
+miû illiûnim-ma : iba''uu maata
+uuma namra : ana da'ummati utarruu
+meḫiû itebbeâ-ma kakkabii x̌amaamii … ukattam
+x̌aaru lemnu izìꝗꝗàm-ma x̌a nix̌ii x̌iknaat napix̌ti niꞓìlx̌in uꞓꞓà
+galliû illiûnim-ma iɉàbbatuu … 
+x̌a ꝗàblii pàꞓraati maaḫirx̌unu … 
+anunnakuu illiûnim-ma : x̌iknaat napix̌ti imessuu
+adi kakkiiya laa annadꝗù : uteârx̌unuuti mannu
+erra anniita ina x̌emaêx̌u
+iipux̌-ma peâx̌u izakkar ana rubaê maruutuk
+rubiû maruutuk adi attaa ana biiti x̌eâx̌u terrubuu-ma giiru ɉùbaatka ubbabuu-ma tatuura ax̌rukka
+adi ulla araddii-ma : x̌ipiit x̌amaê erɉèti udannan
+ana x̌amaê ellii-ma ana igiigii anaddin iûrta
+urrad ana apseî : anunnakii upaꝗꝗàd
+gallaê x̌amruuti : ana kurnugeî aꞓàrrad-ma
+kakkiiya ezzuuti : eliix̌unu ux̌zazza
+x̌a x̌aari lemni kiima ìɉɉùuri : akasseâ idiix̌u
+ana biiti x̌eâx̌u ax̌ar terrubu rubiû maruutuk
+imna u x̌umeela x̌a baabiika aanu u ellil ux̌arbaɉà kiima alpi
+ix̌meex̌uu-ma rubiû maruutuk
+amaat erra ìꝗbiûx̌u : eliix̌u iꞓìib
+x̌iptu duppir lemnu x̌eedu lemnu utukku lemnu aliû lemnu eꞓèmmu lemnu
+galliû lemnu ilu lemnu raabiɉù lemnu
+lamax̌tu labàaɉù aḫḫaazu
+liliû liliitu ardat lileî
+lugalura riḫiût x̌ulpaea
+miꝗìt x̌amaê ɉèreḫ kakkabi miꝗìt benni
+luu ɉàlam namtari luu ɉàlam gallaê luu mimma lemnu x̌a x̌uma nabiû
+ina maḫar taê x̌a asalluḫi max̌max̌ ilii maar ea apkalli
+duppir puꞓùr lemnu x̌a paaniiya ukkix̌ ayyaabii x̌a arkiiya
+anaaku asalluḫi max̌max̌ ilii ilu ellu
+anaaku asalluḫi ilu ellu aax̌ip balàaꞓì
+anaaku asalluḫi apkal apseî x̌a tiûx̌u balàaꞓù
+anaaku asalluḫi beel nagbi max̌max̌ ilii muballìꞓ miiti
+anaaku asalluḫi x̌ammi balàaꞓì mullil x̌amaê u erɉèti
+anaaku asalluḫi uumu ezzu muꞓàrrid gallaê rabiûti
+anaaku asalluḫi beel x̌ipti x̌a ina maḫriix̌u galliû u namtaruu immeduu puzraati
+anaaku asalluḫi naasiḫ murɉì mu'abbit x̌adeî eliûti
+anaaku asalluḫi ꝗàrraad ilii mu'abbit lemnuuti
+anaaku asalluḫi ax̌areed kibraati nàaɉìr napix̌ti
+anaaku asalluḫi muballìꞓ miiti ux̌umgal x̌amaê u erɉèti
+anaaku asalluḫi x̌a uznii petiû x̌uuturu ḫasiisa
+anaaku asalluḫi x̌a ina kikiꞓꞓàêx̌u miitu iballuꞓù
+anaaku asalluḫi x̌a ina ꝗàbli u taaḫaazi lee'iû anaaku
+anaaku asalluḫi x̌a puluḫta ezzeta ḫitlupu x̌uuturu namriirii
+anaaku asalluḫi x̌a ina e'unir ibbaniû maliû ḫurbaax̌a
+anaaku asalluḫi namru x̌albaabu apkal ilii muttallu
+anaaku asalluḫi x̌a x̌amaê ruuꝗùuti meeleâx̌unu iḫìiꞓù
+anaaku asalluḫi x̌a ḫubur palkeâti x̌upulx̌a iide
+anaaku asalluḫi x̌a ina teâmti eliiti inabbiûx̌u sirsir
+anaaku asalluḫi x̌a ina teâmti x̌apliiti ux̌arbiûx̌u laguda
+anaaku asalluḫi atiû rikis kalaama bukur mami
+anaaku asalluḫi ꝗàrraadu saakip mukiil reex̌ lemutti
+anaaku asalluḫi etel ilii x̌a x̌amaê ruuꝗùuti
+anaaku asalluḫi naadin x̌ulmi u balàaꞓì ana nix̌ii rapx̌aati
+anaaku asalluḫi èeꞓìr kameî ɉàabit ꝗàatii naski
+anaaku asalluḫi mukkix̌ ayyaabi mux̌amꝗìt lemni
+anaaku asalluḫi kaamiû utukki gallaê ili lemni
+anaaku asalluḫi beel baabili reemeeniû anaaku
+anaaku asalluḫi malku ḫaamim gimir iûrti
+anaaku asalluḫi muudaê kalaama ilitti nix̌x̌iiku
+anaaku asalluḫi dannu malku x̌a x̌uuturu ḫasiisa
+anaaku asalluḫi x̌a saḫpuu namriiruux̌u eli kaliix̌ina kibraati
+anaaku asalluḫi x̌a ezzix̌ tebiû abuubix̌ galtu
+anaaku asalluḫi ana zikir x̌umiix̌u galliû namtaruu immeduu puzraati
+anaaku asalluḫi x̌a ax̌ar x̌illati laa iꝗàbbiû anaaku
+anaaku asalluḫi x̌a ina ꝗàbli u taaḫaazi dapiinu marduk
+anaaku asalluḫi x̌a ina ꞓèemiix̌u ibbaniû anaaku
+anaaku asalluḫi baariû kibraati rax̌ubbu anaaku
+anaaku asalluḫi ilu ellu aax̌ib melammii anaaku
+anaaku asalluḫi x̌a ina biiti mitguri kaaribu anaaku
+anaaku asalluḫi ux̌umgal x̌amaê u erɉèti nagbi u teâmaati
+anaaku asalluḫi aax̌ib esagila ꝗàa'ix̌ lamassi
+anaaku asalluḫi raa'im kitti elix̌ u x̌aplix̌
+anaaku asalluḫi peetiû ekleti muttiru x̌anaati
+anaaku asalluḫi mukiin gimir igiigii x̌a x̌amaê ilii rabiûti
+anaaku asalluḫi aax̌ib esagila mullil atmaniix̌un
+anaaku asalluḫi aax̌ib esagila u baabili rax̌ubbu ezzu
+anaaku asalluḫi ux̌umgal anunnakkii labbi igiigii
+anaaku asalluḫi ax̌areed … … … pàaɉìdu x̌adu … 
+anaaku asalluḫi ꝗàrraad ilii muma''er anduruna
+anaaku asalluḫi x̌a namriirii litbux̌u maliû pulḫaati
+anaaku asalluḫi aapir agaê x̌a melammuux̌u rax̌ubbata za'nuu
+anaaku asalluḫi ḫaatin aabireî mux̌eezib enx̌i
+anaaku asalluḫi muppir naaraati mukiil napix̌ti maati
+anaaku asalluḫi baariû purussaê paaris ḫalḫalli
+anaaku asalluḫi peetiû sattukki muḫallìꝗ ɉèeni u raggi
+anaaku asalluḫi x̌a uumix̌am-ma peî nix̌ii iḫirru
+anaaku asalluḫi x̌a x̌aruuruux̌u unammaruu maataati
+anaaku asalluḫi x̌a birbirruux̌u ubbatuu duur abni
+anaaku asalluḫi erx̌u itpeex̌u x̌a x̌uuturu ḫasiisa
+anaaku asalluḫi x̌a kakkax̌u abuubu ezzu
+anaaku asalluḫi x̌a ina dipaariix̌u iꝗàmmiû ayyaaba u lemna
+anaaku asalluḫi enlil ilii aax̌ir kibraati
+anaaku asalluḫi ree'iû kix̌x̌at nix̌ii ɉùluul kal dadmee
+anaaku asalluḫi x̌a ina ilii rabiûti laa ix̌x̌annanaa emuuꝗàax̌u
+anaaku asalluḫi ɉàabit kippat x̌amaê u erɉèti mukiil ɉèrreti
+anaaku asalluḫi pàaꝗìd ilii mu'addiû isꝗì
+anaaku asalluḫi baax̌im gix̌ḫurrii ex̌reeti naadin sattukki
+anaaku asalluḫi x̌a ana amaatiix̌u x̌adiû irabbubuu reessunu iꝗèâp
+anaaku asalluḫi x̌a kiima x̌amx̌i ibarriû maataati
+anaaku asalluḫi mux̌assik karɉì ɉàabit ꝗàatii naski
+anaaku asalluḫi x̌a ina naari ubbabu kiina u ragga
+anaaku asalluḫi dabru x̌agapuuru beelu x̌a maati
+anaaku asalluḫi kabtu x̌itraaḫu simat beeluuti
+anaaku asalluḫi x̌a ina puluḫtiix̌u mimma lemnu iturru uppux̌u
+anaaku asalluḫi ḫaa'ìꞓ lalgar baax̌im gix̌ḫurrii
+anaaku asalluḫi x̌aarik reîti u max̌ꝗìiti mux̌aznin nuḫx̌i
+anaaku asalluḫi x̌a ina ɉìit peîx̌u uttakkaru ɉìbit namtari
+anaaku asalluḫi x̌a ina pàaꞓ gimri x̌urbeât iluussu
+anaaku asalluḫi x̌a kiima abi u ummi ittanarriû nix̌iix̌u
+anaaku asalluḫi x̌a taamiit libbiix̌u laa iidiû iluu aḫḫuux̌u
+anaaku asalluḫi naasiḫ murɉì mu'abbit gallaê rabiûti
+anaaku asalluḫi uumu ezzu muttakkipu laa maaḫiru anaaku
+anaaku asalluḫi mux̌peel x̌iimaati lemneeti mupaꞓꞓìr arni
+anaaku asalluḫi urx̌aanu gitmaalu telee'iû x̌ummi
+anaaku asalluḫi x̌a ina taêx̌u miitu iballuꞓù itebbiû marɉù
+anaaku asalluḫi saakip namtari kaamiû asakki x̌uruppaê di'i
+anaaku asalluḫi ilu reemeeniû munessiû egeâti ḫiꞓèâti gillaati lemneeti
+anaaku asalluḫi x̌a ina ḫissat x̌umiix̌u anunnakuu x̌aḫaata aḫzuu
+anaaku asalluḫi lee'iû igiigii mukiil ɉèrret anunnakii
+anaaku asalluḫi ɉàabit ꝗàatii ulaali ubburi mupaꞓꞓìr arni
+anaaku asalluḫi paax̌ir kix̌pii ruḫaê rusaê ꞓàarid asakki
+anaaku asalluḫi muꞓìib simmii marɉùuti asiû teneex̌eeti
+anaaku asalluḫi x̌a x̌ipat balàaꞓì laa iꞓèḫḫiû ina baliix̌u
+anaaku asalluḫi eez u pax̌ir x̌a niix̌ abi u ummi
+anaaku asalluḫi x̌a ina teneex̌eeti reemeeniû marduk
+anaaku asalluḫi ux̌umgal x̌amaê u erɉèti marduk
+iimurx̌unuutii-ma asalluḫi ux̌umgal x̌amaê u erɉèti marduk
+ana nabiû sukkalliix̌u amaata izakkar
+mannu anniû x̌a annikeâ i'irru … 
+ana x̌ipti ezzeti rabiiti x̌a ea … 
+ana x̌utukkii dannuuti x̌a ningix̌zida
+ana ùɉraati rabeâti x̌a ea beel eridu
+girru ꝗàamiû … … 
+nusku dapiinu … likmissunuuti
+dipaaru … … 
+luu galliû lemnuutu attunu
+naspiḫaa kiima imbari … 
+luu x̌eeduu lemnuutu attunu
+ … … 
+ … … … 
+ … 
+ … … … 
+ … … 
+luu … … 
+luu maaruu … … 
+luu x̌a pitꝗàati tattanablakkataa ana … … 
+luu ex̌biû ḫayyàaꞓù mukiil reex̌ lemutti
+luu antax̌ubbiû x̌a ilii rabiûti
+luu bennu ḫayyàaꞓù x̌a mux̌iiti
+luu x̌a kiima barbari teetenekkikaa
+luu x̌a kiima berꝗì tattanabriꝗàa
+luu x̌a kiima la'mi tax̌tanaḫḫiꞓàa
+luu x̌a kiima giiri tattallalleâ
+luu x̌a kiima ɉèeti tattanabbiꞓàa
+luu x̌a kiima kakkabi tattananbiꞓàa
+luu x̌a kiima ɉàlmi tattanaɉlimaa
+luu x̌a kiima alaê tattanaktamaa
+luu x̌a kiima lileî taḫtanirraa
+luu x̌a biitaati teetenerrubaa
+luu x̌a askuppaati tex̌tene''iraa
+luu x̌a uuraati tattanablakkataa
+luu x̌a ina asurraê taatanallakaa
+luu x̌a ina tubꝗìnnaati tattanax̌x̌abaa
+luu x̌a eꞓla damꝗà ardata damiꝗta ina suuꝗì tex̌tene''eâ
+luu ḫaa'iꞓù x̌a mùɉlaali
+luu ḫayyàaꞓ peî x̌a ameeluuti
+luu x̌a ina reex̌ marɉì tattanazzazzaa
+luu x̌a ina reex̌ marɉì tattanax̌x̌abaa
+luu x̌a ina reex̌ marɉì tattanallakaa
+luu x̌a ina akaaliix̌u ittiix̌u takkalaa
+luu x̌a ina x̌ateîx̌u ittiix̌u tax̌atteâ
+luu x̌a marɉà annanna tugdanallataa
+luu x̌a marɉà annanna tuptanallaḫaa
+luu x̌a marɉà annanna tuptanarradaa
+luu x̌a ana paan marɉì taptanarrikaa
+luu x̌a ana paan marɉì tugdannaɉàa
+luu x̌a ana paan marɉì tuḫtannaɉàa
+luu x̌a ana paan marɉì tattanax̌x̌abaa
+luu x̌a ana paan marɉì x̌innaatiikunu tagaɉɉàɉàa
+luu x̌a ana paan marɉì lix̌aankunu tultenèɉɉèâni
+luu x̌a ana paan marɉì piikunu taptenetteâ
+luu x̌a ana paan marɉì tattanax̌mamaa
+luu x̌a ana paan marɉì kiima alpi tattakkipaa
+luu x̌a ana paan marɉì kiima riimi tugdax̌x̌araa
+luu x̌a ana paan marɉì kiima x̌aḫ api tuttaḫḫaraa
+luu x̌a ana paan marɉì kiima kalbi tuttabbaḫaa
+luu x̌a ana paan marɉì kiima kalab-urɉì tattanammaraa
+luu x̌a ana paan marɉì kiima neex̌i tux̌armamaa
+luu x̌a ana paan marɉì kiima ɉèrri tattanax̌lalaa
+luu x̌a ana paan marɉì kiima bax̌mi tattanax̌lalaa
+luu x̌a ana paan marɉì kiima niraaḫi tattanax̌lalaa
+luu x̌a ana paan marɉì kiima ayyar ili tattanax̌lalaa
+luu x̌a ana paan marɉì kiima tiûlaati tattanax̌lalaa
+luu x̌a ana paan marɉì kiima ɉùraareî tattanax̌lalaa
+luu x̌a ana paan marɉì kiima mux̌àaꞓì taɉɉànallimaa
+luu x̌a ana paan marɉì kiima kizzi taɉɉànallimaa
+luu x̌a ana paan marɉì kiima enzi taɉɉànallimaa
+luu x̌a ana paan marɉì kiima laleî taltanasseâ
+luu x̌a ana paan marɉì kiima kaluumi taddanakkukaa
+luu x̌a ana paan marɉì kiima x̌eelebi tattenèꞓpeâ
+luu x̌a ana paan marɉì kiima kuzaazi tattanaprix̌aa
+luu x̌a ana paan marɉì kiima pitilti tattanaptilaa
+luu x̌a ana paan marɉì kiima ꝗùmaari tattanagx̌araa
+luu x̌a ana paan marɉì kiima ìꞓꞓàê tattanaɉlimaa
+luu x̌a ana paan marɉì kiima gaɉɉì taptenèɉɉèâ
+luu x̌a ina suuꝗàati tattanallakaa
+luu x̌a ina suuꝗàati tattanax̌x̌abaa
+luu x̌a ina rebeâti tattanapalsaḫaa
+luu x̌a ina x̌imeetaan aala taḫtanirraa
+luu x̌a ina x̌imeetaan aala taɉɉànuddaa
+luu x̌a ina … aala tex̌tene''eâ
+luu x̌a ina duurii tattanablakkataa
+luu x̌a x̌urx̌araata tattanatbakaa
+luu x̌a ina asurraê tattanax̌x̌abaa
+luu x̌a iikii tex̌tene''iraa
+luu x̌a palgii tax̌tanaḫḫiꞓàa
+luu x̌a ina nigìɉɉàati taḫtenesseâ
+luu x̌a ana naari kullumaatunu
+luu x̌a ana naari ꞓàbḫaatunu
+luu x̌a ana naari purrusaatunu
+luu x̌a ina naari tartanaḫḫiɉàa
+luu x̌a ina naari kiima amiraani taɉɉànuddaa
+luu x̌a ina naari taɉɉànuddaa
+luu x̌a ina ꝗìx̌aati tattanallakaa
+luu x̌a ina ꝗìx̌aati taḫtanallupaa
+luu x̌a ina kibsaati tux̌aprasaa
+luu x̌a ina ɉèeri pàaꝗìda laa tiix̌eâ
+luu x̌a ina taaḫaazi diikaatunu
+luu x̌a ina kakki maḫɉàatunu
+luu x̌a ina kakki danni maḫɉàatunu
+luu x̌a ina patri ꞓàbḫaatunu
+luu x̌a ina tarkulli neeraatunu
+luu x̌a ina ɉìlleî diix̌aatunu
+luu x̌a ina gax̌iix̌i puttuḫaatunu
+luu x̌a ina x̌aggax̌ti diikaatunu
+luu x̌a aba u umma laa tiix̌eâ
+luu x̌a aḫa u aḫaata laa tiix̌eâ
+luu x̌a kimta nix̌uuta salaata laa tiix̌eâ
+luu x̌a maara u maarta laa tiix̌eâ
+luu x̌a apla nàaꝗ maê laa tiix̌eâ
+luu x̌a ina tappaê ɉàllaatunu
+lissuḫkunuux̌i asalluḫi aplu reex̌tiû x̌a eridu
+lissuḫkunuux̌i asalluḫi apil beeli rabeî ea
+lissuḫkunuux̌i asalluḫi aplu naraam ea
+lissuḫkunuux̌i asalluḫi apkal ilii rabiûti
+lissuḫkunuux̌i asalluḫi apkal ili u ameeli
+utammiikunuux̌i asalluḫi beel x̌amaê u erɉèti
+utammiikunuux̌i asalluḫi niix̌ ninurta apli ax̌areedi x̌a enlil
+utammiikunuux̌i asalluḫi niix̌ ubanu'ila kakki danni x̌a ninurta
+utammiikunuux̌i asalluḫi niix̌ ḫendursaga muttax̌rabbiꞓì x̌a rebeâti
+utammiikunuux̌i asalluḫi niix̌ x̌arur u x̌argaz mux̌amꝗìt ayyaabii u lemnuuti
+liddinkunuux̌i meslamtaea ana baab kurnugi
+lipꝗìdkunuux̌i ana sebetti ateî x̌a erex̌kigal
+liddinkunuux̌i ana namtar x̌ukkal erɉèti rapax̌ti x̌a baab kameâti ukallu
+lix̌eeribkunuux̌i abul erɉèti rapax̌ti
+ana ꝗàatii gallaê rabiûti limanniikunuux̌i
+bidu idugallu x̌a erɉèti baabkunu liɉbat
+liddinkunuux̌i ana ningix̌zida guzalaê erɉèti rapax̌ti
+anunnakuu iluu rabiûtu likmiûkunuux̌i
+utammiikunuux̌i guzaleâ rabeâ x̌a allatu
+liklaakunuux̌i na'iilu x̌a erɉèti rapax̌ti
+laa tallakaani laa tassanaḫḫuraani laa taturraani ana zumur annanna maar annanna
+utammiikunuux̌i x̌amaê u erɉèta anu antu enlil ninlil
+duuri daari laḫmu u laḫaamu engara ningara alaala u beelili
+nignakka ꝗùtrinna ɉìlla u ɉèeta x̌imeetaan u liileâti x̌ubta kibsa
+taaluka u manzaaza uɉùraat ea u asalluḫi tummeâtunu
+attunu nasḫaatunu ꞓàrdaatunu ukkux̌aatunu duppuraatunu
+niix̌ x̌amaê u erɉèti tummeâtunu ḫultuppiû

@@ -1,7 +1,7 @@
 ---
 package:
   name: "akkapros"
-  version: "3.0.1"
+  version: "3.2.0"
 pipeline: "pipeline"
 step: "phonetize"
 file:
@@ -9,7 +9,7 @@ file:
   title: "L I.5 Erra and Išum SB I"
   format: "phone"
   version: "1.0.0"
-  date: "2026-05-11"
+  date: "2026-08-12"
 metadata:
   input_file_id: "fe691013-c1a9-51cb-bfc5-59e5f8f2d0ab"
   options:
@@ -22,7 +22,6 @@ metadata:
     metrics_json: true
     print_acute: true
     print_bold: true
-    print_xar: true
     print_merger: false
     extra_vowels: ""
     extra_consonants: ""

@@ -63953,11 +63953,11 @@
     "accentuated_syllables": 547,
     "accentuation_rate": 18.30043492806959,
     "accentuation_types": {
-      "VV:": 13,
       "CVC:": 174,
       "CVV:": 282,
+      "CVV:C": 18,
       "VC:": 60,
-      "CVV:C": 18
+      "VV:": 13
     },
     "merged_words": 522,
     "merged_units": 253,
@@ -63966,7 +63966,7 @@
   "frontmatter": {
     "package": {
       "name": "akkapros",
-      "version": "3.0.1"
+      "version": "3.2.0"
     },
     "pipeline": "pipeline",
     "step": "metrics",
@@ -63975,7 +63975,7 @@
       "title": "L I.5 Erra and Išum SB I",
       "format": "metrics",
       "version": "1.0.0",
-      "date": "2026-05-11"
+      "date": "2026-08-12"
     },
     "metadata": {
       "input_file_id": "fe691013-c1a9-51cb-bfc5-59e5f8f2d0ab",
@@ -63989,7 +63989,6 @@
         "metrics_json": true,
         "print_acute": true,
         "print_bold": true,
-        "print_xar": true,
         "print_merger": false,
         "extra_vowels": "",
         "extra_consonants": "",

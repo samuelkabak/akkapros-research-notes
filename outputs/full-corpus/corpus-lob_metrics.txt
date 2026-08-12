@@ -1,17 +1,17 @@
 ---
 package:
   name: "akkapros"
-  version: "3.0.1"
+  version: "3.2.0"
 pipeline: "pipeline"
 step: "metrics"
 file:
-  id: "024286c2-6ee6-5414-bab6-7b089a580f1e"
+  id: "1a7d57da-662c-5edc-a83c-4284a7148f16"
   title: "L I.2 Poem of Creation (*Enūma eliš*) SB II | L I.2 Poem of Creation (*Enūma eliš*) SB IV | L I.2 Poem of Creation (*Enūma eliš*) SB VI | L I.2 Poem of Creation (*Enūma eliš*) SB VII | L I.5 Erra and Išum SB I | L III.3 Marduk’s Address to the Demons SB -"
   format: "metrics"
   version: "1.0.0"
-  date: "2026-05-11"
+  date: "2026-08-12"
 metadata:
-  input_file_id: "7931d92f-1b74-5328-ad27-cf944ec603a9"
+  input_file_id: "668bd9f8-ee67-555f-b0cd-12f35883a4db"
   options:
     append: true
     extra_vowels: ""
@@ -104,19 +104,19 @@ Phonetizer diagnostics:
 Syllable statistics:
   Syllable types:
     CV    : 5821 syllables (37.78%)
-    CVC   : 2314 syllables (15.02%)
+    CVC   : 2316 syllables (15.03%)
     CVV   : 2097 syllables (13.61%)
     CVVC  :  198 syllables ( 1.29%)
     VC    :  673 syllables ( 4.37%)
-    V     : 1561 syllables (10.13%)
+    V     : 1559 syllables (10.12%)
     VV    :  146 syllables ( 0.95%)
     VVC   :   16 syllables ( 0.10%)
-    C:V   :   20 syllables ( 0.13%)
+    C:V   :   18 syllables ( 0.12%)
     CVC:  :  908 syllables ( 5.89%)
     CVV:  : 1177 syllables ( 7.64%)
     CVV:C :  175 syllables ( 1.14%)
     VC:   :  194 syllables ( 1.26%)
-    ʔ:V   :   13 syllables ( 0.08%)
+    ʔ:V   :   15 syllables ( 0.10%)
     VV:   :   55 syllables ( 0.36%)
     VV:C  :   38 syllables ( 0.25%)
   Total syllables: 15406 syllables
@@ -127,8 +127,8 @@ Word statistics:
 
 Mora statistics:
   Mean morae per syllable: 1.714 ± 0.786 mora/syllable
-  Mean morae per word: 4.217 ± 1.766 mora/word
-  Total morae: 26404 mora
+  Mean morae per word: 4.218 ± 1.766 mora/word
+  Total morae: 26406 mora
 
 Merge statistics:
   Merged words: 2453 words
@@ -147,11 +147,11 @@ Acoustic metrics (accentuated):
   %V: 34.31%
   meanC: 126.00 ms
   meanV: 138.40 ms
-  ΔC: 68.81 ms
+  ΔC: 68.82 ms
   ΔV: 50.78 ms
   VarcoC: 54.61
   VarcoV: 36.69
-  rPVI-C: 78.91
+  rPVI-C: 78.90
   nPVI-V: 28.98
   Unit drift max: 372.00 ms
   Unit drift mean: 23.04 ms
@@ -172,13 +172,13 @@ Phonetizer diagnostics:
   Accentuation rate: 16.75%
 
   Accentuation types:
-    C:V     :   20 syllables
+    C:V     :   18 syllables
     CVC:    :  908 syllables
     CVV:    : 1177 syllables
     CVV:C   :  175 syllables
     VC:     :  194 syllables
     VV:     :   55 syllables
     VV:C    :   38 syllables
-    ʔ:V     :   13 syllables
+    ʔ:V     :   15 syllables
 
 ================================================================================

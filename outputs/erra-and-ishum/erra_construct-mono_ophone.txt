@@ -1,17 +1,17 @@
 ---
 package:
   name: "akkapros"
-  version: "3.0.1"
+  version: "3.2.0"
 pipeline: "pipeline"
 step: "phonetize"
 file:
-  id: "3c0f45da-012c-59f5-bdcb-eae11592f291"
+  id: "8ac52395-2506-5157-a2b7-ad3bf82aecc8"
   title: "L I.5 Erra and Išum SB I"
   format: "phone"
   version: "1.0.0"
-  date: "2026-05-11"
+  date: "2026-08-12"
 metadata:
-  input_file_id: "0f23b3e5-681c-51d1-b7b7-49ad43fc064e"
+  input_file_id: "76f68476-39c7-5b81-ab2c-7cb3d188b4e7"
   options:
     prosody_style: "lob"
     mora_mode: "mono"
@@ -22,7 +22,6 @@ metadata:
     metrics_json: true
     print_acute: true
     print_bold: true
-    print_xar: true
     print_merger: false
     extra_vowels: ""
     extra_consonants: ""

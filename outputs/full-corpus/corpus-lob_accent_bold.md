@@ -1,17 +1,17 @@
 ---
 package:
   name: "akkapros"
-  version: "3.0.1"
+  version: "3.2.0"
 pipeline: "pipeline"
 step: "print"
 file:
-  id: "17403a68-d588-5939-918c-fd5b57b7272c"
+  id: "237e0714-fc7b-5425-96c5-9057315424a0"
   title: "L I.2 Poem of Creation (*Enūma eliš*) SB II | L I.2 Poem of Creation (*Enūma eliš*) SB IV | L I.2 Poem of Creation (*Enūma eliš*) SB VI | L I.2 Poem of Creation (*Enūma eliš*) SB VII | L I.5 Erra and Išum SB I | L III.3 Marduk’s Address to the Demons SB -"
   format: "bold"
   version: "1.0.0"
-  date: "2026-05-11"
+  date: "2026-08-12"
 metadata:
-  input_file_id: "7931d92f-1b74-5328-ad27-cf944ec603a9"
+  input_file_id: "668bd9f8-ee67-555f-b0cd-12f35883a4db"
   options:
     append: true
     extra_vowels: ""
@@ -27,7 +27,6 @@ metadata:
     drift_tolerance: 19
     acute: true
     bold: true
-    xar: true
     print_merger: false
 ---
 
@@ -45,7 +44,7 @@ a**bī** ti**ām**tu : ālittani izerrannâti\
 **puḫ**ra šitkunat-ma : aggiš labbat\
 isḫurūšim-ma : i**lū** gi**mir**šun\
 adi ša attunu tab**nâ** : idāša alkū\
-immasrū**nim**-ma i**duš** : ti**ām**ti tebûni\
+immasrū**nim**-ma **i**duš : ti**ām**ti tebûni\
 ezzū kapdū : lā **sā**kipū **mū**ša u imma\
 na**šû** tam**ḫā**ra : nazarbubū labbū\
 uk**kin**na šitkunū-ma : iban**nû** ṣū**lā**ti\
@@ -919,8 +918,8 @@ anāku a**sal**luḫi **nam**ru šal**bā**bu apkal i**lī** mut**tal**lu\
 anāku a**sal**luḫi ša šamê rū**qū**ti mēlâšunu iḫīṭu\
 anāku a**sal**luḫi ša ḫubur pal**kâ**ti šupulša **ī**de\
 anāku a**sal**luḫi ša ina **tâm**ti elīti inabbûšu sirsir\
-anāku a**sal**luḫi ša ina **tâm**ti šap**lī**ti ušarbûšu lagu**da**\
-anāku a**sal**luḫi a**tû** rikis ka**lā**ma bu**kur** mami\
+anāku a**sal**luḫi ša ina **tâm**ti šap**lī**ti ušarbûšu **la**guda\
+anāku a**sal**luḫi a**tû** rikis ka**lā**ma **bu**kur mami\
 anāku a**sal**luḫi qar**rā**du sākip mukīl **rēš** lemutti\
 anāku a**sal**luḫi etel ilī ša šamê rū**qū**ti\
 anāku a**sal**luḫi nādin **šul**mi u ba**lā**ṭi ana ni**šī** rap**šā**ti\
@@ -1002,7 +1001,7 @@ ana na**bû** sukkal**lī**šu amāta i**zak**kar\
 **man**nu annû ša annikâ iʾirru … \
 ana **šip**ti ezzeti rabīti ša **e**a … \
 ana šu**tuk**kī dan**nū**ti ša nin**giš**zida\
-ana uṣ**rā**ti rabâti ša **e**a **bēl** eri**du**\
+ana uṣ**rā**ti rabâti ša **e**a **bēl** **e**ridu\
 **gir**ru qāmû … … \
 **nus**ku dapīnu … likmissunūti\
 dipāru … … \

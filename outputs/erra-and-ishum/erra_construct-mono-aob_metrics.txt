@@ -1,0 +1,189 @@
+---
+package:
+  name: "akkapros"
+  version: "3.2.0"
+pipeline: "pipeline"
+step: "metrics"
+file:
+  id: "d0cad97c-77e2-58c3-b997-1f78564c79c8"
+  title: "L I.5 Erra and Išum SB I"
+  format: "metrics"
+  version: "1.0.0"
+  date: "2026-08-12"
+metadata:
+  input_file_id: "c3c4fcc9-9132-5959-a5e8-9efee6bfd676"
+  options:
+    prosody_style: "aob"
+    mora_mode: "mono"
+    phonetize_geminate_policy: "corrective"
+    phonetize_accentuation_distribution_policy: "80_20"
+    phonetize_drift_tolerance: 19
+    metrics_table: true
+    metrics_json: true
+    print_acute: true
+    print_bold: true
+    print_merger: false
+    extra_vowels: ""
+    extra_consonants: ""
+    extra_short_punct_chars: ""
+    extra_long_punct_chars: ""
+    extra_short_punct_pattern: "[]"
+    extra_long_punct_pattern: "[]"
+---
+
+================================================================================
+METRICS SUMMARY: ...\results\erra_construct-mono-aob_phone.txt
+================================================================================
+
+--- RUN CONFIGURATION ---
+  cli: fullprosmaker.py
+  extra_consonants: 
+  extra_vowels: 
+  input: ...\results\erra_construct-mono-aob_phone.txt
+  prosody_relax_last: False
+  prosody_restore_diphthongs: True
+  prosody_style: aob
+
+--- ORIGINAL TEXT ---
+
+Syllable statistics:
+  Syllable types:
+    CV    : 1117 syllables (37.37%)
+    CVC   :  592 syllables (19.81%)
+    CVV   :  636 syllables (21.28%)
+    CVVC  :   86 syllables ( 2.88%)
+    VC    :  192 syllables ( 6.42%)
+    V     :  302 syllables (10.10%)
+    VV    :   62 syllables ( 2.07%)
+    VVC   :    2 syllables ( 0.07%)
+  Total syllables: 2989 syllables
+
+Word statistics:
+  Total words: 1232 words
+  Syllables per word: 2.426 ± 0.821 syllable/word
+
+Prominence statistics:
+  Function words: 189 words
+  Explicitly linked words: 63 words
+  Prominence candidates: 980 words
+
+Mora statistics:
+  Mean morae per syllable: 1.555 ± 0.553 mora/syllable
+  Mean morae per word: 3.772 ± 1.440 mora/word
+  Total morae: 4647 mora
+
+Speech metrics:
+  Total duration: 1116900 ms
+  Total pause duration: 375539 ms
+  Total articulate duration: 741361 ms
+  Pause ratio: 33.62%
+  WPM: 66.18 word/minute
+
+Acoustic metrics (original):
+  %C: 31.09%
+  %V: 35.28%
+  meanC: 114.27 ms
+  meanV: 131.85 ms
+  ΔC: 52.52 ms
+  ΔV: 40.03 ms
+  VarcoC: 45.96
+  VarcoV: 30.36
+  rPVI-C: 63.41
+  nPVI-V: 24.10
+  Unit drift max: 199.00 ms
+  Unit drift mean: 12.96 ms
+  Unit drift stddev: 46.52 ms
+
+Phonetizer diagnostics:
+  Duration scale: 1
+  Total units: 3329 = 2989 syllables + 340 pauses + 0 resync pauses
+  Unit drift extension: 1944 / 2989 = 65.04%
+  Non-accented long vowels: 786
+  Left-as-is non-accented long vowels: 151
+  Drift tolerance effect: 19.21%
+  Inserted resync pauses: 0 / 0 = 0.00%
+  Pauses with residual drift: 0 / 340 = 0.00%
+
+--- ACCENTUATED TEXT ---
+
+Syllable statistics:
+  Syllable types:
+    CV    : 1094 syllables (36.60%)
+    CVC   :  296 syllables ( 9.90%)
+    CVV   :  199 syllables ( 6.66%)
+    CVVC  :   32 syllables ( 1.07%)
+    VC    :   99 syllables ( 3.31%)
+    V     :  259 syllables ( 8.67%)
+    VV    :   32 syllables ( 1.07%)
+    VVC   :    1 syllables ( 0.03%)
+    C:V   :   39 syllables ( 1.30%)
+    CVC:  :  295 syllables ( 9.87%)
+    CVV:  :  422 syllables (14.12%)
+    CVV:C :   54 syllables ( 1.81%)
+    VC:   :   93 syllables ( 3.11%)
+    ʔ:V   :   44 syllables ( 1.47%)
+    VV:   :   29 syllables ( 0.97%)
+    VV:C  :    1 syllables ( 0.03%)
+  Total syllables: 2989 syllables
+
+Word statistics:
+  Total words: 1232 words
+  Syllables per word: 2.426 ± 0.821 syllable/word
+
+Mora statistics:
+  Mean morae per syllable: 1.876 ± 0.896 mora/syllable
+  Mean morae per word: 4.551 ± 1.718 mora/word
+  Total morae: 5607 mora
+
+Merge statistics:
+  Merged words: 498 words
+  Merged units: 244 units
+  Average unit size: 2.04 words
+
+Speech metrics:
+  Total duration: 1153000 ms
+  Total pause duration: 375050 ms
+  Total articulate duration: 777950 ms
+  Pause ratio: 32.53%
+  WPM: 64.11 word/minute
+
+Acoustic metrics (accentuated):
+  %C: 32.19%
+  %V: 35.28%
+  meanC: 122.13 ms
+  meanV: 136.09 ms
+  ΔC: 60.96 ms
+  ΔV: 43.45 ms
+  VarcoC: 49.91
+  VarcoV: 31.93
+  rPVI-C: 73.52
+  nPVI-V: 28.20
+  Unit drift max: 210.00 ms
+  Unit drift mean: 15.19 ms
+  Unit drift stddev: 50.03 ms
+
+Phonetizer diagnostics:
+  Duration scale: 1
+  Total units: 3329 = 2989 syllables + 340 pauses + 0 resync pauses
+  Unit drift extension: 1974 / 2989 = 66.04%
+  Non-accented long vowels: 786
+  Left-as-is non-accented long vowels: 143
+  Drift tolerance effect: 18.19%
+  Inserted resync pauses: 0 / 0 = 0.00%
+  Pauses with residual drift: 0 / 340 = 0.00%
+
+--- ACCENTUATION STATISTICS ---
+  Accentuated syllables: 977 syllables
+  Accentuation rate: 32.69%
+
+  Accentuation types:
+    C:V     :   39 syllables
+    CVC:    :  295 syllables
+    CVV:    :  422 syllables
+    CVV:C   :   54 syllables
+    VC:     :   93 syllables
+    VV:     :   29 syllables
+    VV:C    :    1 syllables
+    ʔ:V     :   44 syllables
+
+================================================================================

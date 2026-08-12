@@ -1,0 +1,229 @@
+---
+package:
+  name: "akkapros"
+  version: "3.2.0"
+pipeline: "pipeline"
+step: "print"
+file:
+  id: "f6bbbe74-ba70-5b93-90ab-be677180667f"
+  title: "L I.5 Erra and Išum SB I"
+  format: "acute"
+  version: "1.0.0"
+  date: "2026-08-12"
+metadata:
+  input_file_id: "4d95c876-f85b-5872-abd7-f48e6cde25d5"
+  options:
+    prosody_style: "aob"
+    mora_mode: "mono"
+    phonetize_geminate_policy: "corrective"
+    phonetize_accentuation_distribution_policy: "80_20"
+    phonetize_drift_tolerance: 19
+    metrics_table: true
+    metrics_json: true
+    print_acute: true
+    print_bold: true
+    print_merger: false
+    extra_vowels: ""
+    extra_consonants: ""
+    extra_short_punct_chars: ""
+    extra_long_punct_chars: ""
+    extra_short_punct_pattern: "[]"
+    extra_long_punct_pattern: "[]"
+---
+
+šar g´imir dad´mē bānû´ kibrā´ti … 
+ḫendursan´ga apil el´lil rēštû´ … 
+nāš ḫaṭ´ṭi ṣī´rti nā´qid ṣalmāt qaq´qadi rēʾû´ tenēšē´ti
+ī´šum ṭā´biḫu naʾ´du ša ana našê´ kakkī´šu ezzū´ti qātā´šu as´mā
+u ana šub´ruq ulmī´šu šērū´ti er´ra qarrād ´ilī inū´šu ina šub´ti
+īrissū´-ma lib´bašu : epēš tāḫā´zi
+ītam´mi ana kakkī´šu : lit´patā imat mū´ti
+ana sebet´ti qarrā´d lā šanā´n : nan´diqā kakkī´kun
+iqabbī´ku ana kâ´ša : luṣī´-ma ana ṣē´ri
+at´tā dipārum´-ma : inaṭ´ṭalū nū´rka
+at´tā ālik maḫrim´-ma : ´ilū … … 
+at´tā namṣarum´-ma ṭā´biḫu … 
+er´ra tebī´-ma : ina sapā´n mā´ti
+k´ī nam´rat kabtat´ka : u ḫadû´ lib´buk
+er´ra k´ī ša amē´li dal´pi : idā´šu an´ḫā
+iqab´bi ana libbī´šu : lut´be luṣlal´-ma
+ītam´ma ana kakkī´šu : um´medā tubqā´ti
+ana sebet´ti qarrā´d lā šanā´n : ana šubtī´kunu tūrā´-ma
+´adi at´tā tadekkû´šu : ṣ´alil uršuš´šu
+itti mā´mi ḫī´ratuš : ip´puša ulṣam´-ma
+en´gidudu bē´lu muttallik mū´ši muttarrû rubê´
+ša eṭ´la u ar´data ina šul´mi ittanarrû´ unam´maru kī´ma ū´mi
+ša sebet´ti qarrā´d lā šanā´n : šunnâ´t ilū´ssun
+ilit´tašunu aḫâ´t-ma : malû´ pulḫā´ti
+āmir´šunu uštaḫḫat´-ma : napī´ssunu mūtum´-ma
+n´išū šaḫtū´-ma : ul iʾir´rū ana šâ´šu
+ī´šum daltum´-ma : ´edil pānuš´šun
+ā´nu šar ´ilī : er´ṣeta irḫē´-ma
+sebetti ´ilī uldaššum´-ma : sebet´ta it´tabi zikir´šun
+izzaz´zū ina maḫrīšū´-ma : šīmas´sunu išī´m-ma
+issī´-ma ištē´n : išak´kana ṭē´ma
+ē´ma tandirū´-ma tattal´ku : mā´ḫira ´ē tar´ši
+iqab´bi ana šanî´ kī´ma gī´ri kubum´-ma : ḫ´umuṭ kī´ma nab´li
+ītam´mi ana šal´ši zīm lab´bi lū šaknātā´-ma āmir´ka lišḫar´miṭ
+iqab´bi ana rebî´ ana našê´ kakkī´ka ezzū´ti šadû´ lītab´bit
+ana ḫam´ši iq´tabi kī´ma šā´ri zī´q-ma : kip´pata ḫī´ṭa
+šeš´ša umtaʾ´ʾer ´eliš u šap´liš bāʾam´-ma : lā tagam´mil mam´ma
+sibâ´ imat baš´mi iṣēnšū´-ma šum´qita napiš´ta
+ul´tu šīmat sebet´ti napḫar´šunu : išī´mu ā´nu
+iddinšunūtī´-ma ana er´ra qarrād ´ilī : lil´likū idā´ka
+k´ī ša n´išī dad´mē ḫubū´ršina : elī´ka imtar´ṣu
+ublam´-ma lib´baka : ana šakā´n kamā´ri
+ṣalmāt qaq´qadi ana šumut´ti : šum´qutu būl šak´kan
+lū kakkū´ka ezzū´tu šunū´-ma : lil´likū idā´ka
+šunu ezzū´-ma : tebû´ kakkū´šun
+ītammû´ ana er´ra : t´ibe iziz´-ma
+min´su k´ī šī´bi muq´qi : t´ušib ina ā´li
+k´ī šer´ri laʾî´ : t´ušib ina bī´ti
+k´ī lā ā´lik ṣē´ri : nik´kala akal sin´niš
+k´ī ša tāḫā´za lā nīdû´ : nip´laḫa nirū´da
+alāk ṣē´ri ša eṭlū´ti k´ī ša isinnum´-ma
+āšib ā´li lū rubû´ : ul išeb´bi ak´la
+šum´suk ina p´ī nišīšū´-ma : q´alil qaqqas´su
+ana ā´lik ṣē´ri akî´ : itar´raṣ qā´ssu
+ša ā´šib ā´li : lū pug´gulat kubuk´kuš
+ana ā´lik ṣē´ri akî´ : idan´nin mī´na
+akal ā´li lullû´ : ul ub´bala kamān tum´ri
+šikar naš´pi : duš´šupi : ul ub´bala mê nā´di
+ēkal tamlî´ ul ub´bala maṣal´lu ša rēʾî´
+qurā´du er´ra ṣī´-ma ana ṣē´ri t´uruk kakkī´ka
+rigim´ka dunnin´-ma : lištar´ʾibū ´eliš u šap´liš
+igī´gū lišmû´-ma : lišarbû´ šum´ka
+anun´nakū lišmû´-ma : liš´ḫuṭū zikir´ka
+´ilū lišmû´-ma : lik´nušū ana nīrī´ka
+mal´kū lišmû´-ma : lik´misū šapal´ka
+mātā´tu lišmâ´-ma : bilas´sina liššâ´ka
+gallû´ lišmû´-ma : ina ramānī´šunu limū´tū
+dan´nu lišmē´-ma : liš´šur emūqī´šu
+ḫursā´nū zaqrū´tu lišmû´-ma lītabbitū´-ma liš´pilā rēšā´šun
+tâmā´tu gallā´tu lišmâ´-ma liddalḫā´-ma liḫal´liqā mešer´ta
+ša qī´ši dan´ni : liktap´pirū gupnū´šu
+´apu ša nē´reba lā īšû´ : liḫtaṣ´ṣiṣū qanû´šu
+n´išū liplaḫā´-ma : lit´quna ḫubū´ršin
+bū´lu līrur´-ma : litū´r ana ṭiṭ´ṭi
+´ilū abbū´ka līmurū´-ma : linā´dū qurdī´ka
+qurā´du er´ra min´su ṣē´ra tumaššir´-ma : t´ušib ina ā´li
+būl šak´kan u nammaššû´ : leqû´ šēṭū´tni
+qurā´du er´ra niqabbīkum´-ma atmû´ni lim´ruṣ elī´ka
+´adi mā´tu napḫar´ša : irbû´ elī´ni
+mindē´-ma at´tā : šemâ´ta amā´tni
+mindē´-ma amā´tni : ul šemâ´ta at´tā
+ana anun´nakī rāʾim šaḫrar´ti : damiq´ta ep´ša
+anun´nakū ina ḫubū´r n´išī : ul ireḫḫû´ šit´ta
+napišti mā´ti gipā´ra : r´aḫiṣ bū´lu
+ik´karu ina muḫ´ḫi … : ibak´ki ṣar´piš
+nē´šu u bar´baru ušam´qatū būl šak´kan
+rēʾû´ aš´šu ṣēnī´šu ur´ra u mū´ša ul iṣal´lal ibal´la kâ´ša
+u nīnu mūdê´ nēreb šadî´ : nimtaš´ši ḫarrā´na
+ina muḫ´ḫi tillê´ ṣērī´ni : šatâ´t qê´ ettū´tu
+qašat´ni ṭā´btu ibbalkit´-ma : id´nina eli emūqī´ni
+ša uṣṣī´ni zaq´ti : kepâ´t lišā´ššu
+patar´ni ina lā ṭabā´ḫi it´tadi šuḫ´ta
+išmēšunūtī´-ma qurā´du er´ra
+amāt sebet´ti iqbû´ k´ī ´ulu šam´ni elī´šu iṭī´b
+amāt sebet´ti iqbû´šu elī´šu k´ī ´ulu ( šam´ni ) : iṭī´b
+īpuš´-ma pâ´šu : izak´kar ana ī´šum
+min´su šemâtā´-ma : qâ´liš tuš´šab
+ṭū´da pitē´-ma : luṣ´bat ḫarrā´na
+sebettu qarrā´d lā šanā´n : lup´pišū tāḫā´za
+kakkī´ya ezzū´ti : šū´lika idā´ya
+u at´tā ālik maḫrī´ya : ´alik pānī´ya
+ī´šum annī´ta ina šemê´šu
+išmē´-ma ī´šum annâ´ qabâ´ ša er´ra
+rē´ma irtašī´-ma : iq´tabi aḫū´lap
+īpuš´-ma pâ´šu izak´kar ana qurā´di er´ra
+qurā´du er´ra min´su ana ´ilī : lemut´ta tak´pud
+ana sapā´n mātā´ti ḫulluq nišī´šin lemut´ta takpud´-ma lā tatū´r ana arkī´ka
+er´ra pâ´šu : īpuš´-ma iqab´bi
+ana ī´šum ālik maḫrī´šu : amā´ta izak´kar
+ī´šum qūlam´-ma : š´ime qabâ´ya
+aš´šu n´išī dad´mē : ša taqbû´ gamā´lšin
+ālik maḫ´ri ´ilī en´qu ī´šum ša milik´šu dam´qu
+ina šamê´ rīmā´ku : ina er´ṣeti labbā´ku
+ina mā´ti šarrā´ku : ina ´ilī ezzā´ku
+ina igī´gī qardā´ku : ina anun´nakī gašrā´ku
+ina bū´li māḫiṣā´ku : ina šadî´ šubā´ku
+ina ´api gīrā´ku : ina qī´ši magšarā´ku
+ina alā´k ḫarrā´ni urinnā´ku
+k´ī šā´ri azâ´q : k´ī ad´di urtaṣ´ṣan
+k´ī šam´ši abar´ri : kip´pata kalā´ma
+ana ṣē´ri uṣṣī´-ma bibbā´ku
+ana namî´ errub´-ma ner´gal ramâ´ku šub´ta
+´ilū napḫar´šunu : nibī´tī šaḫ´tū
+u n´išī ṣalmāt qaq´qadi : leqû´ šēṭū´tī
+anāku aš´šu lā išḫuṭū´-ma zik´rī
+u ša rubê´ marū´tuk amā´ssu iddû´-ma ep´pušu k´ī lib´buš
+rubâ´ marū´tuk ušaggag´-ma ina šubtī´šu adekkē´-ma n´išī asap´pan
+qurā´du er´ra ana šuʾan´na āl šar ´ilī iš´takan pānī´šu
+ana ē´sagil ēkal šamê´ u er´ṣeti īrum´-ma it´taziz pānuš´šu
+īpuš´-ma pâ´šu : ana š´ar ´ilī ītam´mi
+min´su šukut´tu simat bēlūtī´ka ša kī´ma kak´kabī šamā´mī lulâ´ malâ´t leqâ´t urū´ša
+agê´ bēlūtī´ka ša kī´ma ētemenan´ki ušan´biṭu ēḫalan´ki pānū´šu kat´mū
+īpuš´-ma pâ´šu : šar ´ilī ītam´mi
+ana er´ra qarrād ´ilī : amā´ta izak´kar
+qurā´du er´ra aš´šu šip´ri šâ´šu ša taqbû´ epē´ša
+ul´tu ul´lu āgugū´-ma ina šubtī´ya atbû´-ma aš´kuna abū´ba
+ina šubtī´ya atbē´-ma šipīt šamê´ u er´ṣeti uptaṭ´ṭir
+šamê´ ša uštar´ʾibū ša kak´kabī šamā´mī manzā´ssunu išnī´-ma ul utī´r ašruš´šun
+erkal´lu ša inū´šu ša šer´ʾi bilas´su imṭī´-ma ´adi ul´la ana emē´di aš´ṭa
+šipīt šamê´ u er´ṣeti ša uptaṭ´ṭiru nag´bu imtaṭī´-ma mī´lū ittaḫ´sū atū´r āmur´-ma ana šebê´ imtar´ṣa
+ša šiknā´t napiš´ti nabnī´ssina iṣḫir´-ma : ul utī´r ašruš´šun
+´adi kī´ma ik´kari zērī´šin : aṣ´batu ina qātī´ya
+bī´ta ēpuš´-ma : ´ušib ina lib´bi
+šukut´tī ša ina abū´bi uddaʾʾipū´-ma : ī´kilu šikin´ša
+ana šun´buṭ zīmī´ya u ub´bub ṣubātī´ya : gī´ra umtaʾ´ʾer
+ul´tu šukut´tī unammerū´-ma : uqattû´ šip´ra
+agê´ bēlūtī´ya annadqū´-ma : ana ašrī´ya atū´ru
+zīmū´ʾa tubbû´-ma : g´alit niṭ´lī
+n´išū ša ina abū´bi isītā´-ma ī´murā epēš šip´ri
+kakkī´ya ušatbā´-ma : uḫal´laq rē´ḫa
+kakkī´ka tušatbī´-ma : tuḫal´liq rē´ḫa
+ummâ´nī šunū´ti ana apsî´ ušērid´-ma : elâ´šunu ul aq´bi
+ša mē´si elmē´ši ašar´šun unakkir´-ma : ul ukal´lim mam´ma
+en´na aš´šu šip´ri šâ´šu ša taqbû´ qurā´du er´ra
+´ali mē´su šīr ´ilī simat šar gim´ri
+´iṣu el´lu eṭ´lu ṣī´ru : ša šū´luku ana bēlū´ti
+ša ina tâ´mti rapaš´ti ina mê´ m´eʾat bē´rī išis´su ik´šudu šupul aral´li
+u qimmas´su ina elâ´ti em´det šamê´ ša ā´nu
+´ali eb´bu zagindurû´ : ša ušam´sakū uqnâ´
+´ali ninil´du : nagar´gal ānūtī´ya
+nāš pā´ši šaš´ši eb´bi : mūdû´ ´iṣi šâ´šu
+ša kī´ma ū´mi ušanbaṭū´-ma : ina šaplū´ʾa ukan´nu
+´ali kusiban´da bān ´ili u amē´li : ša qātā´šu nas´qā
+´ali n´inagal : nāš esî´ u šapil´ti … 
+ša dan´na erâ´ kī´ma maš´ki ilē´mu : pā´tiqu unū´ti
+´ali ab´nū nasqū´tu binût tâ´mti rapaš´ti simat agê´
+´ali sebet apkal´lū apsî´ purā´dū ebbū´tu ša kī´ma ē´a bēlī´šunu uz´na ṣī´rta šuk´lulū mub´bibū zumrī´ya
+išmēšū´-ma qurā´du er´ra
+īpuš´-ma pâ´šu izak´kar ana rubê´ marū´tuk
+ … … ul´tu apsî´ … … ana elâ´ti
+mē´su … meḫer´šu ušellâ´m-ma … mē´sa
+elmē´ša ebba ša … … meḫer´šu ušellâ´m-ma … … elmē´šu
+marū´tuk annī´ta ina šemê´šu
+īpuš´-ma pâ´šu izak´kar ana qurā´di er´ra
+ina šubtī´ya atebbī´-ma : šipīt šamê´ er´ṣeti uptaṭ´ṭar
+mû´ illûnim´-ma : ibaʾ´ʾū mā´ta
+ū´ma nam´ra : ana daʾum´mati utar´rū
+meḫû´ itebbâ´-ma kak´kabī šamā´mī … ukat´tam
+šā´ru lem´nu iziqqam´-ma ša n´išī šiknāt napiš´ti niṭil´šin uṭ´ṭa
+gallû´ illûnim´-ma iṣab´batū … 
+ša qab´lī paṭrā´ti māḫir´šunu … 
+anun´nakū illûnim´-ma : šiknāt napiš´ti imes´sū
+´adi kakkī´ya lā annad´qu : utâršunū´ti man´nu
+er´ra annī´ta ina šemê´šu
+īpuš´-ma pâ´šu izak´kar ana rubê´ marū´tuk
+rubû´ marū´tuk ´adi at´tā ana bī´ti šâ´šu terrubū´-ma gī´ru ṣubā´tka ubbabū´-ma tatū´ra ašruk´ka
+´adi ul´la araddī´-ma : šipīt šamê´ er´ṣeti udan´nan
+ana šamê´ ellī´-ma ana igī´gī anad´din û´rta
+ur´rad ana apsî´ : anun´nakī upaq´qad
+gallê´ šamrū´ti : ana kurnugî´ aṭarrad´-ma
+kakkī´ya ezzū´ti : elī´šunu ušzaz´za
+ša šā´ri lem´ni kī´ma iṣṣū´ri : akassâ´ idī´šu
+ana bī´ti šâ´šu ´ašar ter´rubu rubû´ marū´tuk
+im´na u šumē´la ša bābī´ka ā´nu u el´lil ušar´baṣa kī´ma al´pi
+išmēšū´-ma rubû´ marū´tuk
+amāt er´ra iqbû´šu : elī´šu iṭī´b

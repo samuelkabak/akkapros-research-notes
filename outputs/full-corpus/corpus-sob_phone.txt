@@ -1,17 +1,17 @@
 ---
 package:
   name: "akkapros"
-  version: "3.0.1"
+  version: "3.2.0"
 pipeline: "pipeline"
 step: "phonetize"
 file:
-  id: "fd639156-fb18-5044-a121-ebd0268f332b"
+  id: "4de10bc4-487a-50f1-aabb-a2a6d3477f7c"
   title: "L I.2 Poem of Creation (*Enūma eliš*) SB II | L I.2 Poem of Creation (*Enūma eliš*) SB IV | L I.2 Poem of Creation (*Enūma eliš*) SB VI | L I.2 Poem of Creation (*Enūma eliš*) SB VII | L I.5 Erra and Išum SB I | L III.3 Marduk’s Address to the Demons SB -"
   format: "phone"
   version: "1.0.0"
-  date: "2026-05-11"
+  date: "2026-08-12"
 metadata:
-  input_file_id: "d2f626e2-2859-545e-9882-b6fff44d554e"
+  input_file_id: "7779d092-efe2-5ca2-bcda-21e56ae6153b"
   options:
     append: true
     extra_vowels: ""
@@ -501,10 +501,10 @@ IYA|V|H|S|N|N|F|II|0131|-006|H2C|i
 MIM|C|S|S|C|E|A|MI|0199|-021|H2C|m
 MIM|C|S|S|O|N|F|MI|0076|-021|M0C|m
 AYA|V|L|S|N|F|F|AA|0110|+015|M0C|a
-ARU|C|H|S|O|N|F|AL|0035|+015|M0C|˙
-IYA|V|H|S|N|I|F|II|0110|+010|M0C|i
-DAL|C|C|S|O|N|A|DA|0209|+010|H1C|d
-UYA|V|H|S|N|N|F|UU|0140|+010|H1C|u
+ARU|C|H|S|O|N|A|AL|0155|+015|H2C|˙
+IYA|V|H|S|N|I|F|II|0140|+010|H2C|i
+DAL|C|C|S|O|N|F|DA|0089|+010|H1C|d
+UYA|V|H|S|N|N|F|UU|0110|+010|H1C|u
 SIN|C|F|S|C|F|F|SI|0112|+021|H1C|š
 SES|S|C|S|S|N|P|SP|0579|+000|H1C|:
 TAW|C|C|S|O|N|F|TA|0089|+000|M0C|t
@@ -29502,12 +29502,12 @@ BET|C|C|S|O|N|F|BE|0089|+069|M0C|b
 UWI|V|H|L|N|I|F|UU|0160|+018|M0C|û
 SIN|C|F|S|O|N|F|SI|0115|+018|M0C|š
 UYA|V|H|S|N|F|F|UU|0110|+093|M0C|u
-LAM|C|S|S|O|N|F|LA|0105|+093|M0C|l
-AYA|V|L|S|N|I|F|AA|0110|+158|M0C|a
+LAM|C|S|S|O|N|A|LA|0225|+093|H2C|l
+AYA|V|L|S|N|I|F|AA|0140|+158|H2C|a
 GIM|C|C|S|O|N|F|GI|0089|+158|M0C|g
 UYA|V|H|S|N|I|F|UU|0110|+207|M0C|u
-DAL|C|C|S|O|N|A|DA|0209|+207|L2C|d
-AYA|V|L|S|N|F|F|AA|0140|-044|L2C|a
+DAL|C|C|S|O|N|F|DA|0089|+207|L2C|d
+AYA|V|L|S|N|F|F|AA|0110|-044|L2C|a
 ZEN|S|S|L|S|N|P|ZP|1544|+000|L2C|<EOL>
 ARU|C|H|S|O|N|F|AL|0035|+000|M0C|˙
 AYA|V|L|S|N|I|F|AA|0110|-005|M0C|a
@@ -29539,11 +29539,11 @@ LAM|C|S|S|O|N|F|LA|0135|+125|H2C|l
 AWA|V|L|L|N|I|A|AA|0190|+000|H2C|ā
 MIM|C|S|S|O|N|F|MI|0105|+000|M0C|m
 AYA|V|L|S|N|F|F|AA|0110|+065|M0C|a
-BET|C|C|S|O|N|F|BE|0089|+065|M0C|b
-UYA|V|H|S|N|I|F|UU|0110|+114|M0C|u
-KAP|C|C|S|O|N|A|KA|0209|+114|H2C|k
-UYA|V|H|S|N|N|F|UU|0140|+114|H2C|u
-RES|C|S|S|C|F|F|RE|0100|+113|H2C|r
+BET|C|C|S|O|N|A|BE|0209|+065|H2C|b
+UYA|V|H|S|N|I|F|UU|0140|+114|H2C|u
+KAP|C|C|S|O|N|F|KA|0089|+114|M0C|k
+UYA|V|H|S|N|N|F|UU|0110|+114|M0C|u
+RES|C|S|S|C|F|F|RE|0100|+113|M0C|r
 MIM|C|S|S|O|N|F|MI|0105|+113|M0C|m
 AYA|V|L|S|N|I|F|AA|0110|+178|M0C|a
 MIM|C|S|S|O|N|F|MI|0105|+178|L2C|m
@@ -33134,12 +33134,12 @@ AYA|V|L|S|N|F|F|AA|0110|+142|M0C|a
 BET|C|C|S|O|N|F|BE|0119|+142|H2C|b
 EWA|V|M|L|N|N|A|EE|0239|+142|H2C|ē
 LAM|C|S|S|C|F|F|LA|0100|+000|H2C|l
-ARU|C|H|S|O|N|F|AL|0035|+000|M0C|˙
-EYA|V|M|S|N|I|F|EE|0110|-005|M0C|e
+ARU|C|H|S|O|N|A|AL|0155|+000|H2C|˙
+EYA|V|M|S|N|I|F|EE|0140|-005|H2C|e
 RES|C|S|S|O|N|F|RE|0105|-005|M0C|r
 IYA|V|H|S|N|I|F|II|0110|+060|M0C|i
-DAL|C|C|S|O|N|A|DA|0209|+060|L2C|d
-UYA|V|H|S|N|F|F|UU|0140|+109|L2C|u
+DAL|C|C|S|O|N|F|DA|0089|+060|L2C|d
+UYA|V|H|S|N|F|F|UU|0110|+109|L2C|u
 ZEN|S|S|L|S|N|P|ZP|1391|+000|L2C|<EOL>
 GIM|C|C|S|O|N|F|GI|0089|+000|H2C|g
 IYA|V|H|S|N|N|F|II|0131|+000|H2C|i

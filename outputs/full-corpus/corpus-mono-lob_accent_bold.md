@@ -1,17 +1,17 @@
 ---
 package:
   name: "akkapros"
-  version: "3.0.1"
+  version: "3.2.0"
 pipeline: "pipeline"
 step: "print"
 file:
-  id: "3f4b7b45-8be9-51e2-bdb4-06955f5db789"
+  id: "574c1ab5-7d96-53e4-bc6d-b0da3b35a96b"
   title: "L I.2 Poem of Creation (*Enūma eliš*) SB II | L I.2 Poem of Creation (*Enūma eliš*) SB IV | L I.2 Poem of Creation (*Enūma eliš*) SB VI | L I.2 Poem of Creation (*Enūma eliš*) SB VII | L I.5 Erra and Išum SB I | L III.3 Marduk’s Address to the Demons SB -"
   format: "bold"
   version: "1.0.0"
-  date: "2026-05-11"
+  date: "2026-08-12"
 metadata:
-  input_file_id: "c0a735da-ad96-5afe-bc58-7181061fadad"
+  input_file_id: "90d4597b-8719-5d6b-9331-30be51a7595b"
   options:
     append: true
     extra_vowels: ""
@@ -27,7 +27,6 @@ metadata:
     drift_tolerance: 19
     acute: true
     bold: true
-    xar: true
     print_merger: false
 ---
 
@@ -35,17 +34,17 @@ ukap**pit**-ma : ti**ām**tu pi**tiq**ša\
 tā**ḫā**za **ik**taṣar : ana i**lī** nip**rī**ša\
 aḫ**râ**taš eli ap**sî** : u**lam**min ti**ām**tu\
 a**nan**ta **kī** **iṣ**midu : ana **e**a ip**taš**rū\
-iš**mē**-ma e**a** : a**mā**ta šu**ā**ti\
+iš**mē**-ma **e**a : a**mā**ta šu**ā**ti\
 **kum**miš ušḫar**rir**-ma : ša**qum**miš **uš**ba\
 ištu imtal**kū**-ma : **uz**zašu i**nū**ḫu\
 **mut**tiš **an**šar a**bī**šu : šū uš**tar**di\
-ī**rum**-ma **maḫ**ru a**bi** : āli**dī**šu **an**šar\
+ī**rum**-ma **maḫ**ru **a**bi : āli**dī**šu **an**šar\
 mim**mû** ti**ām**tu **ik**pudu : ušan**nâ** ana **šâ**šu\
 a**bī** ti**ām**tu : ā**lit**tani izerran**nâ**ti\
 **puḫ**ra šitku**nat**-ma : **ag**giš **lab**bat\
 isḫurū**šim**-ma : i**lū** gi**mir**šun\
-a**di** ša attunu tab**nâ** : i**dā**ša **al**kū\
-immasrū**nim**-ma i**duš** : ti**ām**ti te**bû**ni\
+**a**di ša attunu tab**nâ** : i**dā**ša **al**kū\
+immasrū**nim**-ma **i**duš : ti**ām**ti te**bû**ni\
 **ez**zū **kap**dū : lā **sā**kipū **mū**ša u **im**ma\
 na**šû** tam**ḫā**ra : na**zar**bubū **lab**bū\
 uk**kin**na šitku**nū**-ma : iban**nû** ṣū**lā**ti\
@@ -54,7 +53,7 @@ uš**rad**di **kak**ka lā **maḫ**ra : **it**talad muš**maḫ**ḫī\
 zaq**tū**-ma **šin**nī : lā pā**dû** at**tā**ʾī\
 **im**ta **kī**ma **dā**mi : zu**mur**šunu uš**mal**li\
 ušum**gal**lī nad**rū**ti : pul**ḫā**ti ušal**biš**-ma\
-me**lam**mī uštaš**šâ** : i**liš** um**taš**šil\
+me**lam**mī uštaš**šâ** : **i**liš um**taš**šil\
 ā**mir**šunu : šar**bā**biš liḫ**ḫar**mim\
 zu**mur**šunu lištaḫḫi**ṭam**-ma : lā i**neʾ**ʾū i**ras**sun\
 **uš**ziz : **baš**ma muš**ḫuš**ša u la**ḫā**ma\
@@ -73,47 +72,47 @@ ip**qid**-ma qā**tuš**šu : ušēši**baš**šu ina **kar**ri\
 mali**kūt** i**lī** gim**ras**sunu : qā**tuk**ka uš**mal**li\
 lū šurbâ**tā**-ma **ḫā**ʾirī : ē**dû** **at**tā\
 lirtab**bû** zik**rū**ka : eli ka**lî**šunu a**nuk**kī\
-iddin**šum**-ma **tup**pi šī**mā**ti : ira**tuš** u**šat**miḫ\
+iddin**šum**-ma **tup**pi šī**mā**ti : **i**ratuš u**šat**miḫ\
 katadug**gû**ka lā innen**nâ** : li**kūn** **ṣīt** **pî**ka\
 **in**nana **qin**gu šuš**qû** : le**qû** ā**nū**ti\
 **an** i**lī** mā**rī**ša : **šī**mata iš**tī**ma\
 **ep**šu **pî**kunu : **gī**ra li**niḫ**ḫa\
 **im**tuk **kit**muru : **mag**šara liš**rab**bib\
-iš**mē**-ma **an**šar : a**mā**tu ma**gal** **dal**ḫat\
+iš**mē**-ma **an**šar : a**mā**tu **ma**gal **dal**ḫat\
 **ū**ʾa **iš**tasi : ša**pas**su it**taš**ka\
 **ez**zet kab**tas**su : lā **nā**ḫat ka**ras**su\
 eli **e**a buk**rī**šu : ša**gī**mašu uš**taḫ**ḫaḫ\
 **mā**rī : ša teg**rû** tu**qun**ta\
 mim**mâ** ē**duk**ka **tē**pušu : i**taš**ši **at**tā\
 taʾī**ram**-ma : ap**sâ** ta**nā**ra\
-u ti**ām**tu ša tu**šā**gigu : a**li** mā**ḫir**ša\
+u ti**ām**tu ša tu**šā**gigu : **a**li mā**ḫir**ša\
 **ā**šiš **mil**ki : ru**bê** ta**šīm**ti\
-bā**nû** **nē**meqi : i**lu** nu**dim**mud\
-a**māt** tap**šuḫ**ti : si**qar** ta**nē**ḫi\
+bā**nû** **nē**meqi : **i**lu nu**dim**mud\
+a**māt** tap**šuḫ**ti : **si**qar ta**nē**ḫi\
 **an**šar a**bā**šu : **ṭā**biš **ip**pal\
-e**a** **pâ**šu īpu**šam**-ma\
+**e**a **pâ**šu īpu**šam**-ma\
 a**bī** **lib**bu **rū**qu : mu**šim**mu **šīm**ti\
 ša šub**šû** u **ḫul**luqu : ba**šû** it**tī**šu\
 **an**šar **lib**bu **rū**qu : mu**šim**mu **šīm**ti\
 ša šub**šû** u **ḫul**luqu : ba**šû** it**tī**šu\
 inim**mê** ātam**mū**ka : **sur**riš nū**ḫam**-ma\
-**kī** a**māt** **dum**qi **ē**pušu : šu**dud** lib**buk**ka\
+**kī** a**māt** **dum**qi **ē**pušu : **šu**dud lib**buk**ka\
 lām anāku : ap**sâ** anā**ram**-ma\
 **man**nu īta**mar**-ma : i**nan**na an**nâ**ti\
 **lām** urri**ḫam**-ma : ubal**lû** šu**ā**ti\
 lū **šâ**ši uš**ḫal**liqa : mī**nû** ba**šī**-ma\
 iš**mē**-ma **an**šar : a**mā**tu i**ṭīb** **el**šu\
 **ip**šaḫ libba**šū**-ma : ana **e**a i**zak**kar\
-**mā**rī epšē**tū**ka : i**liš** na**ṭâ**-ma\
+**mā**rī epšē**tū**ka : **i**liš na**ṭâ**-ma\
 **ez**za **meḫ**ṣa lā **maḫ**ra : te**leʾ**ʾe … \
-e**a** epšē**tū**ka : i**liš** na**ṭâ**-ma\
+**e**a epšē**tū**ka : **i**liš na**ṭâ**-ma\
 **ez**za **meḫ**ṣa lā **maḫ**ra : te**leʾ**ʾe … \
 a**lik**-ma **mut**tiš ti**ām**ti : tē**bâ**ša **šup**šiḫ\
 uggassa lū … šū**ṣât** : **sur**riš ina šip**tī**ka\
 iš**mē**-ma **zik**rī : a**bī**šu **an**šar\
 **iṣ**bat ḫarrān**šū**-ma : u**ruḫ**šu uš**tar**di\
-**il**lik e**a** : šib**qūš** ti**ām**ti išeʾ**ʾâm**-ma\
-u**šib** ušḫar**rir**-ma : i**tū**ra **ar**kiš\
+**il**lik **e**a : šib**qūš** ti**ām**ti išeʾ**ʾâm**-ma\
+**u**šib ušḫar**rir**-ma : i**tū**ra **ar**kiš\
 ī**rum**-ma **maḫ**ru : ba**ʾū**li **an**šar\
 un**nen**na iṣba**tam**-ma : izak**kar**šu\
 a**bī** ūtat**tir**-ma ti**ām**tu : **ep**šetaša e**lī**ya\
@@ -124,21 +123,21 @@ lā **na**šir **tuk**kaša : še**bâm**-ma\
 ā**dur**-ma **rig**maša : a**tū**ra **ar**kiš\
 a**bī** **ē** tuš**tā**niḫ : **tūr** šu**pur**ši\
 e**mū**qā sin**niš**ti lū **dun**nunā : ul **ma**la ša **zik**ri\
-**rum**mi kiṣ**rī**ša : **mil**kaša su**puḫ** **at**tā\
+**rum**mi kiṣ**rī**ša : **mil**kaša **su**puḫ **at**tā\
 **lām** qā**tī**ša : **um**midu ana muḫ**ḫī**ni\
 **an**šar : **uz**zuziš i**šas**si\
 ana **ā**ni mā**rī**šu : šū i**zak**kar\
 **ap**lu kan**nû** : ka**šū**šu qar**rā**du\
 ša **gap**šā emū**qā**šu : lā ma**ḫār** tē**bû**šu\
-a**ruḫ**-ma **mut**tiš ti**ām**ti : i**ziz** **at**tā\
+a**ruḫ**-ma **mut**tiš ti**ām**ti : **i**ziz **at**tā\
 **šup**šiḫ **kab**tataš : **lib**buš **lip**puš\
 šum**mā**-ma : lā še**mâ**ta a**māt**ka\
 a**māt** un**nen**ni atmē**šim**-ma : šī lip**paš**ḫa\
 iš**mē**-ma **zik**rī : a**bī**šu **an**šar\
 **iṣ**bat ḫarrān**šū**-ma : u**ruḫ**šu uš**tar**di\
 **il**lik **ā**nu šib**qūš** : ti**ām**ti išeʾ**ʾâm**-ma\
-u**šib** ušḫar**rir**-ma : i**tū**ra **ar**kiš\
-ī**rum**-ma **maḫ**ru : a**bi** āli**dī**šu **an**šar\
+**u**šib ušḫar**rir**-ma : i**tū**ra **ar**kiš\
+ī**rum**-ma **maḫ**ru : **a**bi āli**dī**šu **an**šar\
 un**nen**na iṣba**tam**-ma : izak**kar**šu\
 a**bī** ūtat**tir**-ma ti**ām**tu : **ep**šetaša e**lī**ya\
 mā**lak**ša ešeʾ**ʾē**-ma : ul i**maḫ**ḫar **šip**tī\
@@ -148,42 +147,42 @@ lā **na**šir **tuk**kaša : še**bâm**-ma\
 ā**dur**-ma **rig**maša : a**tū**ra **ar**kiš\
 a**bī** **ē** tuš**tā**niḫ : **tūr** šu**pur**ši\
 e**mū**qā sin**niš**ti lū **dun**nunā : ul **ma**la ša **zik**ri\
-e**mū**qā sin**niš**ti lā **dun**nunā : ma**la** ša **zik**ri\
-**rum**mi kiṣ**rī**ša : **mil**kaša su**puḫ** **at**tā\
+e**mū**qā sin**niš**ti lā **dun**nunā : **ma**la ša **zik**ri\
+**rum**mi kiṣ**rī**ša : **mil**kaša **su**puḫ **at**tā\
 **lām** qā**tī**ša : **um**midu ina muḫ**ḫī**ni\
 ušḫar**rir**-ma **an**šar : **qaq**qara i**naṭ**ṭal\
 i**kam**mam ana **e**a : u**nāš** qaq**qas**su\
 paḫ**rū**-ma i**gī**gū : ka**lī**šunu a**nuk**kū\
 šap**tā**šunu kuttu**mā**-ma : **qâ**liš **uš**bū\
-i**lu** ay**yûm**-ma : ul i**yâr** … \
+**i**lu ay**yûm**-ma : ul i**yâr** … \
 ma**ḫā**riš ti**ām**ti : ul **uṣ**ṣi ina šap**tī**šun\
-u **bē**lu **an**šar : a**bi** i**lī** ra**bû**ti\
-ka**mil** libba**šū**-ma : ul i**šas**si **mam**man\
+u **bē**lu **an**šar : **a**bi i**lī** ra**bû**ti\
+**ka**mil libba**šū**-ma : ul i**šas**si **mam**man\
 **ap**lu **gaš**ru : mu**tir**ru gi**mil**li a**bī**šu\
 **ḫā**ʾiš tuq**mā**ti : **mar**duk **qar**du\
-il**sī**-ma e**a** : a**šar** piriš**tī**šu\
+il**sī**-ma **e**a : **a**šar piriš**tī**šu\
 kaʾi**nim**mak lib**bī**šu : ītam**mī**šu\
-**mar**duk **mil**ka : še**mi** a**bī**ka\
+**mar**duk **mil**ka : **še**mi a**bī**ka\
 at**tā**-ma **mā**rī : mu**nap**pišu lib**bī**šu\
 **mut**tiš **an**šar : **qit**rubiš ṭe**ḫē**-ma\
-e**puš** **pī**ka i**zuz**zu : amā**ruk**ka **niḫ**ḫa\
+**e**puš **pī**ka i**zuz**zu : amā**ruk**ka **niḫ**ḫa\
 iḫ**dū**-ma **bē**lu : ana a**mât** a**bī**šu\
-iṭ**ḫē**-ma **it**taziz : maḫa**riš** **an**šar\
+iṭ**ḫē**-ma **it**taziz : **ma**ḫariš **an**šar\
 īmur**šū**-ma **an**šar : **lib**bašu ṭub**bā**ti **im**la\
 **iš**šiq šap**tī**šu : a**dī**rašu ut**tes**si\
-a**bī** lā **šuk**tumat : pi**te** **šap**tuk\
-lul**lik**-ma lušam**ṣâ** : ma**la** lib**bī**ka\
-**an**šar lā **šuk**tumat : pi**te** **šap**tuk\
-lul**lik**-ma lušam**ṣâ** : ma**la** lib**bī**ka\
+a**bī** lā **šuk**tumat : **pi**te **šap**tuk\
+lul**lik**-ma lušam**ṣâ** : **ma**la lib**bī**ka\
+**an**šar lā **šuk**tumat : **pi**te **šap**tuk\
+lul**lik**-ma lušam**ṣâ** : **ma**la lib**bī**ka\
 ay**yû** **zik**ru : tā**ḫā**zašu ušē**ṣī**ka\
 u ti**ām**tu ša **sin**nišatu : i**yâr**ka ina **kak**ki\
-a**bī** bā**nû** : ḫi**di** u **šū**lil\
+a**bī** bā**nû** : **ḫi**di u **šū**lil\
 ki**šād** ti**ām**ti **ur**ruḫiš : ta**kab**bas **at**tā\
-**an**šar bā**nû** : ḫi**di** u **šū**lil\
+**an**šar bā**nû** : **ḫi**di u **šū**lil\
 ki**šād** ti**ām**ti **ur**ruḫiš : ta**kab**bas **at**tā\
-a**lik** **mā**rī : mū**dû** gi**mir** **uz**ni\
+**a**lik **mā**rī : mū**dû** **gi**mir **uz**ni\
 ti**ām**ta **šup**šiḫ : ina **tê**ka **el**li\
-ri**kab** **ū**mī : **ur**ruḫiš šutar**dī**-ma\
+**ri**kab **ū**mī : **ur**ruḫiš šutar**dī**-ma\
 pā**nuš**ša lā ut**tak**kašū : **tīr** ar**kā**niš\
 iḫ**dū**-ma **bē**lu : ana a**māt** a**bī**šu\
 **ī**liṣ libba**šū**-ma : ana a**bī**šu i**zak**kar\
@@ -194,9 +193,9 @@ a**kam**mi tiām**tam**-ma : u**bal**laṭ **kâ**šun\
 ina ubšukkin**nak**ki mit**ḫā**riš : ḫa**dîš** tiš**bā**-ma\
 **ep**šu **pî**ya **kī**ma kâtu**nū**-ma : **šī**mata lu**šīm**-ma\
 lā ut**tak**kar mim**mû** : abannû anāku\
-a**i** i**tūr** a**i** inne**nâ** : si**qar** šap**tī**ya\
-iddû**šum**-ma : pa**rak** ru**bû**ti\
-maḫa**riš** ab**bī**šu : ana mali**kū**ti **ir**me\
+**a**i i**tūr** **a**i inne**nâ** : **si**qar šap**tī**ya\
+iddû**šum**-ma : **pa**rak ru**bû**ti\
+**ma**ḫariš ab**bī**šu : ana mali**kū**ti **ir**me\
 at**tā**-ma kab**tā**ta : ina i**lī** ra**bû**ti\
 šī**mat**ka lā ša**nān** : si**qar**ka **ā**nu\
 **mar**duk kab**tā**ta : ina i**lī** ra**bû**ti\
@@ -205,19 +204,19 @@ ištu ū**mim**-ma : lā innen**nâ** qi**bīt**ka\
 šuš**qû** u **šuš**pulu : šī lū **qāt**ka\
 lū **kī**nat **ṣīt** **pî**ka : lā sa**rār** si**qar**ka\
 **mam**man ina i**lī** : i**tûk**ka lā **it**tiq\
-zanā**nū**tu **er**šat : pa**rak** i**lī**-ma\
-zanā**nūt** **kiš**sat pa**rak** i**lī**-ma\
-a**šar** sā**gī**šunu : lū **kūn** aš**ruk**ka\
+zanā**nū**tu **er**šat : **pa**rak i**lī**-ma\
+zanā**nūt** **kiš**sat **pa**rak i**lī**-ma\
+**a**šar sā**gī**šunu : lū **kūn** aš**ruk**ka\
 **mar**duk at**tā**-ma : mu**tir**ru gimil**lī**ni\
 **i** nid**din**ka šar**rū**ta : **kiš**šat **kal** gim**rē**ti\
 ti**šab**-ma ina **puḫ**ri : lū ša**qât** a**māt**ka\
-kak**kū**ka a**i** ippal**ṭû** : li**raʾ**ʾisū naki**rī**ka\
+kak**kū**ka **a**i ippal**ṭû** : li**raʾ**ʾisū naki**rī**ka\
 **bē**lu ša tak**lū**ka : na**piš**tašu gi**mil**-ma\
-u **i**la ša lem**nē**ti **ī**ḫuzu : tu**buk** nap**šas**su\
+u **i**la ša lem**nē**ti **ī**ḫuzu : **tu**buk nap**šas**su\
 ušziz**zū**-ma ina bi**rī**šunu : lu**mā**ša iš**tēn**\
 ana **mar**duk buk**rī**šunu : šunu iz**zak**rū\
 šī**mat**ka **bē**lu : lū **maḫ**rat i**lī**-ma\
-a**bā**tu u ba**nû** : qi**bi** lik**tū**nā\
+a**bā**tu u ba**nû** : **qi**bi lik**tū**nā\
 **ep**šu **pî**ka : **liʾ**ʾabit lu**mā**šu\
 **tūr** qibī**šum**-ma : lu**mā**šu **liš**lim\
 iq**bī**-ma ina **pî**šu : **iʾ**ʾabit lu**mā**šu\
@@ -229,7 +228,7 @@ iddi**nū**šu **kak**ka lā **maḫ**ra : **dā**ʾipu zay**yā**ri\
 a**lik**-ma ša ti**ām**ti : **nap**šatuš pu**ruʾ**-ma\
 **šā**rū dā**mī**ša : ana **bus**rati libil**lū**ni\
 išī**mū**-ma ša **bē**li : **šī**matuš i**lū** ab**bū**šu\
-u**ruḫ** **šul**mi u teš**mê** : uštaṣbi**tūš** ḫar**rā**na\
+**u**ruḫ **šul**mi u teš**mê** : uštaṣbi**tūš** ḫar**rā**na\
 ib**šim**-ma **qaš**ta : **kak**kašu u**ʾad**di\
 mul**mul**la uš**tar**kiba : u**kīn**ši **mat**na\
 iš**šī**-ma **miṭ**ṭa : **im**našu u**šā**ḫiz\
@@ -240,8 +239,8 @@ iš**šī**-ma **miṭ**ṭa : **im**našu u**šā**ḫiz\
 er**bet**ti **šā**rī uš**teṣ**bita : lā a**ṣê** mim**mî**ša\
 er**bet**ti **šā**rī uš**teṣ**bita : ana lā a**ṣê** mim**mî**ša\
 **šū**ta il**tā**na : ša**dâ** a**mur**ra\
-i**duš** sa**pā**ri uš**taq**riba : **qīs**ti a**bī**šu **ā**ni\
-i**duš** sa**pā**ri uš**taq**riba ana **qīš**ti a**bī**šu **ā**ni\
+**i**duš sa**pā**ri uš**taq**riba : **qīs**ti a**bī**šu **ā**ni\
+**i**duš sa**pā**ri uš**taq**riba ana **qīš**ti a**bī**šu **ā**ni\
 **ib**ni im**ḫul**la **šā**ra **lem**na : me**ḫâ** ašam**šū**ta\
 šār-er**bet**ti šār-se**bet**ti : im**suḫ**ḫa šār-lā-ma**ḫār**\
 ušē**ṣâm**-ma **šā**rī : ša ib**nû** sebet**tī**šun\
@@ -253,19 +252,19 @@ iṣmis**sim**-ma **er**bet **naṣ**madī : i**duš**ša **ī**lul\
 pa**tû**ni **šap**tī : šin**nā**šunu na**šâ** **im**ta\
 a**nā**ḫa lā ī**dû** : sa**pā**na **lam**dū\
 **uš**ziz im**nuš**šu : tā**ḫā**za **raš**ba u tu**qun**ta\
-šu**mē**la a**nan**ta : **dā**ʾipat ka**la** mut**ten**dī\
+šu**mē**la a**nan**ta : **dā**ʾipat **ka**la mut**ten**dī\
 naḫ**lap**ta ap**luḫ**ta : pul**ḫā**ti ḫa**lip**-ma\
-me**lam**mī rašub**bā**ti : a**pir** rā**šuš**šu\
+me**lam**mī rašub**bā**ti : **a**pir rā**šuš**šu\
 uštē**šir**-ma **bē**lu : **ur**ḫašu ušar**dī**-ma\
 **aš**riš ti**ām**ti ša **ug**gugat : pā**nuš**šu **iš**kun\
 ina šap**tī**šu : **tâ** u**kal**la\
-**šam**mi **im**ta bul**lî** : ta**miḫ** rit**tuš**šu\
+**šam**mi **im**ta bul**lî** : **ta**miḫ rit**tuš**šu\
 ina ū**mī**šu idul**lū**šu : i**lū** idul**lū**šu\
 i**lū** ab**bū**šu idul**lū**šu : i**lū** idul**lū**šu\
 iṭ**ḫē**-ma **bē**lu : **qab**luš ti**ā**wati i**bar**ri\
 ša **qin**gu ḫāʾi**rī**ša : išeʾ**ʾâ** šib**qī**šu\
-inaṭ**ṭal**-ma : e**ši** mā**lak**šu\
-sa**piḫ** ṭēma**šū**-ma : se**ḫât** ep**šes**su\
+inaṭ**ṭal**-ma : **e**ši mā**lak**šu\
+**sa**piḫ ṭēma**šū**-ma : se**ḫât** ep**šes**su\
 u i**lū** rē**ṣū**šu : **ā**likū i**dī**šu\
 īmu**rū**-ma **qar**da aša**rē**da : ni**ṭil**šun **ī**ši\
 **id**di **tâ**ša ti**ām**tu ul u**tār** ki**šās**sa\
@@ -274,7 +273,7 @@ ina šap**tī**ša lul**lâ** : u**kal**la sar**rā**ti\
  … **ip**ḫurū : šunu aš**ruk**ka\
 iš**šī**-ma **bē**lu : a**bū**ba **kak**kašu ra**bâ**\
 ana ti**ām**ti ša **ik**milu : **kī**am iš**pur**ši\
-mī**nâ** tub**bâ**ti : e**liš** našâ**tī**-ma\
+mī**nâ** tub**bâ**ti : **e**liš našâ**tī**-ma\
 u **ka**pid libba**kī**-ma : de**kê** a**nan**ta\
 is**sû** **mā**rū : ab**bī**šunu i**daṣ**ṣū\
 u **at**tī ā**lit**tašunu : ta**zer**rī **rē**ma\
@@ -315,7 +314,7 @@ sa**pā**riš na**dû**-ma : ka**mā**riš **uš**bū\
 u ištēn-**eš**ret nab**nī**ti : **šūt** pul**ḫā**ti **ṣaʾ**nū\
 **mil**la gal**lê** : **ā**likū **kir**dip im**nī**ša\
 **it**tadi ṣer**rē**ti : i**dī**šunu u**kas**si\
-qa**du** tuqmā**tī**šunu : ša**pal**šu **ik**bus\
+**qa**du tuqmā**tī**šunu : ša**pal**šu **ik**bus\
 u **qin**gu : ša irtab**bû** ina bi**rī**šun\
 ikmī**šū**-ma itti ug**gê** : šu**ā**tu im**nī**šu\
 īkim**šū**-ma : **tup**pi šī**mā**ti lā simā**tī**šu\
@@ -339,7 +338,7 @@ miš**luš**ša išku**nam**-ma : ša**mā**mī uṣ**ṣal**lil\
 **iš**dud **maš**ka : **maṣ**ṣara u**šaṣ**bit\
 **mê**ša lā šū**ṣâ** : šu**nū**ti um**taʾ**ʾir\
 ša**mê** **ī**bir : **aš**rata iḫī**ṭam**-ma\
-uš**tam**ḫir **meḫ**ret ap**sî** : šu**bat** nu**dim**mud\
+uš**tam**ḫir **meḫ**ret ap**sî** : **šu**bat nu**dim**mud\
 im**šuḫ**-ma **bē**lu : ša ap**sî** binû**tuš**šu\
 eš**gal**la tam**šī**lašu : u**kīn** e**šar**ra\
 eš**gal**la e**šar**ra : ša ib**nû** ša**mā**mī\
@@ -354,7 +353,7 @@ lub**nī**-ma : lul**lâ** a**mē**la\
 lū **em**dū **dul**li i**lī**-ma : šunu lū **paš**ḫū\
 lušan**nī**-ma alka**kāt** : i**lī** lu**nak**kil\
 iš**tē**niš lū kubbu**tū**-ma : ana šina lū **zī**zū\
-īpul**šū**-ma e**a** : a**mā**ta iqab**bī**šu\
+īpul**šū**-ma **e**a : a**mā**ta iqab**bī**šu\
 **aš**šu tap**šuḫ**ti ša i**lī** : ušan**nâš**šu **ṭē**ma\
 linnad**nam**-ma : iš**tēn** a**ḫū**šun\
 šū liʾʾab**bit**-ma : ni**šū** lip**pat**qā\
@@ -372,20 +371,20 @@ u ti**ām**ta ušbalki**tū**-ma **ik**ṣuru tā**ḫā**za\
 linnad**nam**-ma : ša ib**nû** tu**qun**ta\
 ar**nuš**šu lušaš**šâ** : pa**šā**ḫiš **tuš**bā\
 īpulū**šū**-ma i**gī**gū : i**lū** ra**bû**tu\
-ana lugaldime**ran**kiʾa ma**lik** i**lī** : bē**lā**šun\
+ana lugaldime**ran**kiʾa **ma**lik i**lī** : bē**lā**šun\
 qin**gum**-ma : ša ib**nû** tu**qun**ta\
 ti**ām**ta ušbalki**tū**-ma : **ik**ṣuru tā**ḫā**za\
 u ti**ām**ta ušbalki**tū**-ma **ik**ṣuru tā**ḫā**za\
-ikmû**šū**-ma **maḫ**riš : e**a** ukal**lū**šu\
+ikmû**šū**-ma **maḫ**riš : **e**a ukal**lū**šu\
 **ar**na īmidū**šū**-ma : dā**mī**šu ip**tar**ʾū\
 ina dā**mī**šu : ib**nû** amē**lū**ta\
 **ī**mid **dul**li i**lī**-ma : i**lī** um**taš**šir\
-ištu amē**lū**ta : ib**nû** e**a** **er**šu\
+ištu amē**lū**ta : ib**nû** **e**a **er**šu\
 **dul**la ša i**lī** : īmi**dū**ni **šâ**šu\
 šipru šū : lā na**ṭû** ḫasā**sīš**\
 ina nik**lā**ti ša **mar**duk : ib**nâ** nu**dim**mud\
 **mar**duk **šar**ru : i**lī** u**zaʾ**ʾiz\
-ana anun**nak**kī gim**ras**sunu : e**liš** u **šap**liš\
+ana anun**nak**kī gim**ras**sunu : **e**liš u **šap**liš\
 u**ʾad**di ana **ā**ni : tê**rē**tuš na**ṣā**ra\
 **ḫam**šat **šuš**ši ina ša**mê** : u**kīn** maṣ**ṣar**ta\
 uštaš**nī**-ma alka**kāt** : **er**ṣeti u**ʾaṣ**ṣir\
@@ -411,7 +410,7 @@ anun**nak**kū : **it**rukū **al**la\
 ša**nī**tu **šat**tu : ina ka**šā**di\
 ša **e**sagil **meḫ**ret ap**sî** : ul**lû** rē**šī**šu\
 ib**nû**-ma : ziq**qur**rat : ap**sî** e**lī**ta\
-ana **ā**ni **en**lil e**a** u **šâ**šu : u**kin**nū **šub**ta\
+ana **ā**ni **en**lil **e**a u **šâ**šu : u**kin**nū **šub**ta\
 ina tar**bâ**ti : ma**ḫar**šunu uši**bam**-ma\
 **šur**šiš e**šar**ra : i**naṭ**ṭala qar**nī**šu\
 ištu **e**sagil : **ī**pušū ši**pir**šu\
@@ -419,7 +418,7 @@ anun**nak**kū ka**lī**šunu : parak**kī**šunu ib**taš**mū\
 **ḫam**šat **šuš**ši i**gī**gū ša ša**mā**mī u **nēr** ša ap**sî** : ka**lī**šunu **paḫ**rū\
 **bē**lu ina para**mā**ḫi : ša ib**nû** šu**bas**su\
 i**lī** ab**bī**šu : qe**rī**tašu uš**tē**šib\
-an**nâ** **bā**bili : šu**bat** nar**mî**kun\
+an**nâ** **bā**bili : **šu**bat nar**mî**kun\
 nu**gâ** aš**ruš**šu : ḫi**dû**tašu tiš**bā**-ma\
 uši**bū**-ma : i**lū** ra**bû**tu\
 zar**bā**ba **iš**kunū : ina qe**rī**ti **uš**bū\
@@ -436,7 +435,7 @@ ep**šēt** ī**tep**pušu : i**nad**dū ab**bū**šu\
 iš**šī**-ma **ā**nu : ina **pu**ḫur i**lī** i**qab**bi\
 **qaš**ta **it**tašiq : šī lū **mār**tī\
 ib**bī**-ma ša **qaš**ti : **kī**am šu**mī**ša\
-i**ṣu** a**rik** lū ištē**num**-ma : ša**nû** lū **kā**šid\
+**i**ṣu **a**rik lū ištē**num**-ma : ša**nû** lū **kā**šid\
 **šal**šu **šum**ša **kak**kab **qaš**ti : ina ša**mê** u**šā**pi\
 u**kīn**-ma gis**gal**laša : itti i**lī** at**ḫê**ša\
 ištu šī**mā**ti ša **qaš**ti : i**šī**mu **ā**nu\
@@ -451,9 +450,9 @@ ana bē**lūt** i**lī** ša ša**mê** u **er**ṣeti : šunu uktin**nū**šu\
 ušā**tir**-ma **an**šar a**sar**luḫi : **it**tabi **šum**šu\
 ana zik**rī**šu qa**bê** : **i** **nil**bin **ap**pa\
 **ep**šu **pî**šu : i**lū** lipiq**qū**šu\
-qibī**tuš**šu lū **šū**turat : e**liš** u **šap**liš\
+qibī**tuš**šu lū **šū**turat : **e**liš u **šap**liš\
 lū šuš**qū**-ma **mā**ru : mu**tīr** gimil**lī**ni\
-e**nūs**su lū **šū**turat : **šā**nina a**i** **ir**ši\
+e**nūs**su lū **šū**turat : **šā**nina **a**i **ir**ši\
 lī**puš**-ma rē**ʾût** : ṣal**māt** **qaq**qadi binâ**tuš**šu\
 aḫ**râ**taš **ū**mī lā ma**šê** : li**zak**kirā al**kas**su\
 aḫ**râ**taš **ū**mī ana lā ma**šê** liz**zak**kirā al**kas**su\
@@ -463,13 +462,13 @@ li**šē**ṣin qut**rin**nī : tī**ʾā**šina liš**reš**ša\
 tam**šīl** ina ša**mê** ī**tep**pušu : ina **er**ṣeti lī**tep**puš\
 liʾad**dī**-ma : ṣal**māt** **qaq**qadi palā**ḫiš**šu\
 liʾad**dī**-ma ṣal**māt** **qaq**qadi pa**lā**ḫu **šâ**šu\
-baʾū**lā**tu lū **ḫis**susā : ilaši**na** liz**zak**rā\
+baʾū**lā**tu lū **ḫis**susā : **i**lašina liz**zak**rā\
 **ep**šu **pî**šu : **iš**tariš li**piq**qā\
-ninda**bû** linna**šâ** : ilaši**na** iš**tar**šin\
-a**i** imma**šâ** : ilaši**na** li**kil**lā\
+ninda**bû** linna**šâ** : **i**lašina iš**tar**šin\
+**a**i imma**šâ** : **i**lašina li**kil**lā\
 mā**tī**šina lištep**pâ** : parak**kī**šina lī**tep**šā\
 lū zī**zā**-ma ṣal**māt** **qaq**qadi i**lī**\
-**nâ**ši ma**la** šu**ma** nib**bû** : šū lū **il**ni\
+**nâ**ši **ma**la **šu**ma nib**bû** : šū lū **il**ni\
 **i** nib**bī**-ma **ḫam**šā šu**mī**šu\
 **al**katuš lū šū**pât** : **ep**šetuš lū **maš**lat\
 al**kā**tuš lū šū**pâ** ep**šē**tuš lū **maš**lā\
@@ -490,13 +489,13 @@ mu**ṭīb** **lib**bi anun**nak**kī : mu**šap**šiḫu i**gī**gī\
 maru**tuk**ku lū tu**kul**ti **mā**ti : **ā**li u ni**šī**šu\
 šâ**šū**-ma littaʾʾi**dā**šu : ni**šū** aḫ**râ**taš\
 ana šâ**šū**-ma littaʾʾi**dā**šu : ni**šū** aḫ**râ**taš\
-**mer**šakušu e**ziz** u muš**tāl** : sa**buš** u tay**yār**\
-ra**paš** **lib**bašu : **lā**ʾiṭ ka**ras**su\
+**mer**šakušu **e**ziz u muš**tāl** : **sa**buš u tay**yār**\
+**ra**paš **lib**bašu : **lā**ʾiṭ ka**ras**su\
 lugaldime**ran**kiʾa **šum**šu : ša nib**bû** pu**ḫur**ni\
 lugaldime**ran**kiʾa ša **šum**šu : **i** nim**bû** pu**ḫur**ni\
 **zik**rī **pî**šu nušaš**qû** : eli i**lī** ab**bī**šu\
 lū **bēl** i**lī** : ša ša**mê** u **er**ṣeti ka**lî**šun\
-**šar**ru ana taklim**tī**šu i**lū** lū **šuʾ**durū e**liš** u **šap**liš\
+**šar**ru ana taklim**tī**šu i**lū** lū **šuʾ**durū **e**liš u **šap**liš\
 nari-lugaldime**ran**kiʾa **šum**šu ša **niz**kuru : **ā**šir i**lī** ka**lā**ma\
 ša ina ša**mê** u **er**ṣeti ittad**dû** : šu**bat**ni ina **puš**qi\
 ana i**gī**gī u anun**nak**kī : u**zaʾ**ʾizu man**zā**za\
@@ -505,12 +504,12 @@ a**sar**luḫi **šum**šu ša ib**bû**šu : a**bū**šu **ā**nu\
 šū lū **nū**ru ša i**lī** : geš**ṭû** **dan**nu\
 ša **kī**ma šumī**šū**-ma : la**mas**si i**lī** u **mā**ti\
 ina **šaš**mi **dan**ni : **ī**ṭeru šu**bat**ni ina **puš**qi\
-asarluḫi-**nam**tila ša**nîš** ib**bû** : i**lu** muš**neš**šu\
-ša **kī**ma binûtī**šū**-ma **ik**širu : ka**la** i**lī** ab**tū**ti\
+asarluḫi-**nam**tila ša**nîš** ib**bû** : **i**lu muš**neš**šu\
+ša **kī**ma binûtī**šū**-ma **ik**širu : **ka**la i**lī** ab**tū**ti\
 **bē**lu ša ina šip**tī**šu **el**leti : u**bal**liṭu i**lī** mī**tū**ti\
 mu**ʾab**bit eg**rū**ti : **zā**ʾirī **i** nib**bû**šu\
 asarluḫi-**nam**ru ša inna**bû** : **šal**šiš **šum**šu\
-i**lu** **el**lu : **mul**lilu alak**tī**ni\
+**i**lu **el**lu : **mul**lilu alak**tī**ni\
 šulu**šā** šu**mī**šu ib**bû** : **an**šar **laḫ**mu u la**ḫā**mu\
 ana i**lī** mā**rī**šunu : šunu iz**zak**rū\
 nī**nū**-ma šulu**šā** : **nit**tabi šu**mī**šu\
@@ -523,74 +522,74 @@ uši**bū**-ma ina ukki**nī**šunu : inab**bû** šī**mā**ti\
 ina **mē**sī **nag**bašunu : uzakki**rū**ni **šum**šu\
 a**sar**re **šā**rik mē**reš**ti : ša **is**rata u**kin**nu\
 bā**nû** **ê** u **qê** : mušē**ṣû** ur**qī**ti\
-asara**lim** ša ina **bīt** **mil**ki **kab**ti : **šū**turu mi**lik**šu\
+**a**saralim ša ina **bīt** **mil**ki **kab**ti : **šū**turu mi**lik**šu\
 i**lū** ūtaq**qû** : a**dīr**šu **aḫ**zū\
-asaralim**nun**na ka**rū**bu : **nūr** a**bi** āli**dī**šu\
+asaralim**nun**na ka**rū**bu : **nūr** **a**bi āli**dī**šu\
 muš**tē**šir tê**rēt** **ā**ni : **en**lil u **e**a u nin**šī**ku\
 **šū**-ma zā**nin**šunu : muʾad**dû** is**qī**šun\
 ša šu**kūs**su ḫe**gal**la : **uṣ**ṣapa ana **mā**ti\
-tu**tu** **bān** tēdiš**tī**šunu : **šū**-ma\
+**tu**tu **bān** tēdiš**tī**šunu : **šū**-ma\
 **lil**lil sāgīšu**nū**-ma : šunu lū **paš**ḫū\
 lib**nī**-ma **šip**ta : i**lū** li**nū**ḫū\
 **ag**giš lū te**bû** : li**nē**ʾū i**ras**sun\
 lū šuš**qû**-ma : ina **pu**ḫur i**lī** ēdiš**šī**šu\
 **mam**man ina i**lī** : šu**ā**šu lā umdaš**šal**šu\
-tu**tu** zi**ʾuk**kina na**piš**ti um**mā**ni : ša**nîš** iz**zak**rū\
+**tu**tu zi**ʾuk**kina na**piš**ti um**mā**ni : ša**nîš** iz**zak**rū\
 ša u**kin**nu ana i**lī** : ša**mê** el**lū**ti\
 al**kas**sun iṣba**tū**-ma : uʾad**dû** man**zās**sun\
-a**i** **im**maši ina a**pâ**ti : **ep**šetašu lik**til**la\
-tu**tu** zi**ku** **šal**šiš : im**bû** mu**kīl** tē**lil**ti\
+**a**i **im**maši ina a**pâ**ti : **ep**šetašu lik**til**la\
+**tu**tu **zi**ku **šal**šiš : im**bû** mu**kīl** tē**lil**ti\
 **il** **šā**ri **ṭā**bi : **bēl** taš**mê** u ma**gā**ri\
 mu**šab**ši **ṣim**ri u kubut**tê** : mu**kīn** ḫe**gal**li\
 ša mim**mâ**ni **ī**ṣa : ana maʾ**dî** u**tir**ru\
 ina **puš**qi **dan**ni : **nī**ṣinu **šār**šu **ṭā**ba\
 liq**bû** lit**taʾ**ʾidū : **lid**lulū dalī**lī**šu\
-tu**tu** aga**ku** ina re**bî** : li**šar**riḫā ab**rā**tu\
+**tu**tu **a**gaku ina re**bî** : li**šar**riḫā ab**rā**tu\
 **bēl** **šip**ti **el**leti : mu**bal**liṭ **mī**ti\
 ša ana i**lī** ka**mû**ti : ir**šû** ta**yā**ra\
 ab**šā**na **en**da u**šas**siku : eli i**lī** naki**rī**šu\
 ana pa**dî**šunu : ib**nû** amē**lū**ta\
 rēmē**nû** ša **bul**luṭu : ba**šû** it**tī**šu\
-likū**nā**-ma : a**i** imma**šâ** amâ**tū**šu\
+likū**nā**-ma : **a**i imma**šâ** amâ**tū**šu\
 ina **pî** ṣal**māt** **qaq**qadi : ša ib**nâ** qā**tā**šu\
-tu**tu** tu**ku** ina **ḫam**ši **tâ**šu **el**la : **pā**šina lit**tab**bal\
-ša ina šip**tī**šu **el**leti : **is**suḫu na**gab** lem**nū**ti\
-ša**zu** mū**dê** **lib**bi i**lī** : ša ibar**rû** **kar**ša\
+**tu**tu **tu**ku ina **ḫam**ši **tâ**šu **el**la : **pā**šina lit**tab**bal\
+ša ina šip**tī**šu **el**leti : **is**suḫu **na**gab lem**nū**ti\
+**ša**zu mū**dê** **lib**bi i**lī** : ša ibar**rû** **kar**ša\
 **ē**piš lem**nē**ti lā ušē**ṣû** it**tī**šu\
 mu**kīn** **puḫ**ri ša i**lī** : mu**ṭīb** lib**bī**šun\
 mu**kan**niš lā **mā**girī : ṣu**lūl**šun **rap**šu\
 mu**šē**šir **kit**ti : **nā**siḫ **it**gura da**bā**ba\
 ša **sar**tu u **kit**tu : umtas**sâ** aš**ruš**šu\
-ša**zu** zi**si** mu**šeb**bi tē**bî** : ša**nîš** lit**taʾ**ʾidū\
+**ša**zu **zi**si mu**šeb**bi tē**bî** : ša**nîš** lit**taʾ**ʾidū\
 **muk**kiš šu**ḫar**rati : ina **zu**mur i**lī** ab**bī**šu\
-ša**zu** **suḫ**rim **šal**šiš : **nā**siḫ ay**yā**bī gi**mir**šunu ina **kak**ki\
+**ša**zu **suḫ**rim **šal**šiš : **nā**siḫ ay**yā**bī gi**mir**šunu ina **kak**ki\
 mu**sap**piḫ kip**dī**šunu : mu**ter**ru **šā**riš\
-mu**bal**li **nap**ḫar **rag**gī : ma**la** iyâ**rū**šu\
+mu**bal**li **nap**ḫar **rag**gī : **ma**la iyâ**rū**šu\
 i**lū** liš**tal**lilū : šunu ina **puḫ**ri\
-ša**zu** **šuḫ**gurim ina re**bî** : **šā**kin taš**mê** ana i**lī** ab**bī**šu\
+**ša**zu **šuḫ**gurim ina re**bî** : **šā**kin taš**mê** ana i**lī** ab**bī**šu\
 **nā**siḫ ay**yā**bī : mu**ḫal**liq nip**rī**šun\
 mu**sap**piḫ epšē**tī**šunu : lā e**zēb** mim**mê**šun\
 **liz**zakir **liq**qabi : **šum**šu ina **mā**ti\
 lū **za**kir **liq**qabi : **šum**šu ina **mā**ti\
-ša**zu** **zaḫ**rim ina **ḫam**ši : liš**tad**dinū ar**kû**tu\
-mu**ḫal**liq na**gab** zā**mâ**nī : lā **mā**girī ka**lî**šun\
+**ša**zu **zaḫ**rim ina **ḫam**ši : liš**tad**dinū ar**kû**tu\
+mu**ḫal**liq **na**gab zā**mâ**nī : lā **mā**girī ka**lî**šun\
 ša **nap**ḫar i**lī** mun**nab**tī : u**šē**ribu eš**rē**tiš\
 li**kūn**-ma : an**nû** zi**kir**šu\
-ša**zu** **zaḫ**gurim ina **šeš**ši ap**pū**na : ka**lîš** liš**tam**rū\
+**ša**zu **zaḫ**gurim ina **šeš**ši ap**pū**na : ka**lîš** liš**tam**rū\
 ša **nap**ḫar ay**yā**bī u**ḫal**liqu : šū tā**ḫā**ziš\
 **en**bilulu **bē**lu : mudeš**šû**šunu **šū**-ma\
 **dan**nu na**bû**šunu : **šā**kin tak**lī**mi\
 ša **rî**ta maš**qī**ta uš**teš**šeru : u**kin**nu ana **mā**ti\
 be**rā**ti upat**tû** : u**zaʾ**ʾizu **mê** **nuḫ**ši\
-**en**bilulu epa**dun** **bēl** na**mî** u a**tê** : ša**nîš** liz**zak**rū\
-gu**gal** ša**mê** u **er**ṣeti : mu**kin**nu ab**sin**ni\
+**en**bilulu **e**padun **bēl** na**mî** u a**tê** : ša**nîš** liz**zak**rū\
+**gu**gal ša**mê** u **er**ṣeti : mu**kin**nu ab**sin**ni\
 ša mē**reš**ta **el**leta : u**kin**nu ina **ṣē**ri\
 **ī**ka u **pal**ga uš**teš**šeru : **uṣ**ṣiru ap**kī**sa\
-**en**bilulu gu**gal** gu**gal** **miṭ**rat i**lī** li**nā**dū **šal**šiš\
+**en**bilulu **gu**gal **gu**gal **miṭ**rat i**lī** li**nā**dū **šal**šiš\
 **bēl** ḫe**gal**li **ṭuḫ**di : **iš**pikī ra**bû**ti\
 **šā**kin meš**rê** : mu**naḫ**ḫiš **dad**mē\
-**nā**din šu**ʾi** : mušab**šû** **aš**nan\
-**en**bilulu ḫe**gal** mu**kam**mir ḫe**gal**li ana ni**šī** : re**bîš** liq**bû**\
+**nā**din **šu**ʾi : mušab**šû** **aš**nan\
+**en**bilulu **ḫe**gal mu**kam**mir ḫe**gal**li ana ni**šī** : re**bîš** liq**bû**\
 mu**šaz**nin **nuḫ**ši eli **er**ṣeti ra**paš**ti : mudeš**šû** ur**qī**ti\
 **sir**sir **šā**pik ša**dî** : e**lē**nuš ti**ām**ti\
 **šā**lil ša**lam**ta : ti**ām**ta ina kak**kī**šu\
@@ -598,19 +597,19 @@ muttar**rû** **mā**ti : rē**ʾû**šina **kī**nu\
 ša šar**kū**šu **mē**rešu : šu**kū**su **šer**ʾu\
 ša ti**ām**ta ra**paš**ta : ī**teb**beru uz**zuš**šu\
 ša ina ti**ām**ti ra**paš**ti : ī**teb**beru uz**zuš**šu\
-**kī** ti**tur**ri ī**tet**tequ : a**šar** šaš**mī**ša\
-**sir**sir ma**laḫ** ina ša**nî** im**bû** : šī lū **kī**am\
+**kī** ti**tur**ri ī**tet**tequ : **a**šar šaš**mī**ša\
+**sir**sir **ma**laḫ ina ša**nî** im**bû** : šī lū **kī**am\
 ti**ām**tu rukūb**šū**-ma : šū ma**lāḫ**ša\
 **gil** muš**tap**pik ka**rê** : **tī**lī bit**rû**ti\
 bā**nû** **aš**nan u **laḫ**ri : **nā**dinu **zēr** **mā**ti\
-gili**ma** mu**kīn** **ṭur**ri i**lī** : bā**nû** ki**nā**ti\
+**gi**lima mu**kīn** **ṭur**ri i**lī** : bā**nû** ki**nā**ti\
 **rap**pu lā**ʾis**sunu : mu**šaṣ**bitu dam**qā**ti\
-agili**ma** ša**qû** : **nā**siḫ a**gê** **ā**šir **šal**gi\
-bā**nû** **er**ṣeti e**liš** **mê** : mu**kīn** e**lâ**ti\
-zu**lum** mu**ʾad**di **qer**beti ana i**lī** : **pā**lik bi**nû**ti\
+**a**gilima ša**qû** : **nā**siḫ a**gê** **ā**šir **šal**gi\
+bā**nû** **er**ṣeti **e**liš **mê** : mu**kīn** e**lâ**ti\
+**zu**lum mu**ʾad**di **qer**beti ana i**lī** : **pā**lik bi**nû**ti\
 **nā**din **is**qī u ninda**bê** : **pā**qidu eš**rē**ti\
 **mum**mu **bān** ša**mê** u **er**ṣeti : mu**šē**šir **par**si\
-i**lu** **mul**lil ša**mê** u **er**ṣeti : ša**nîš** zu**lum**mu\
+**i**lu **mul**lil ša**mê** u **er**ṣeti : ša**nîš** zu**lum**mu\
 ša ana dun**nī**šu ina i**lī** : ša**nû** lā **maš**lu\
 **giš**numunab bā**nû** **nap**ḫar ni**šī** : **ē**pišu kib**rā**ti\
 **ā**bit i**lī** ša ti**ām**ti : **ē**piš ni**šī** ina mim**mê**šun\
@@ -618,13 +617,13 @@ luga**lab**dubur **šar**ru **sā**piḫ **ep**šet ti**ām**ti : **nā**siḫu 
 ša ina **rē**ši u **ar**kati : du**ruš**šu **kun**nu\
 pagalgu**ʾen**na aša**rēd** **nap**ḫar **bē**lī : ša ša**qâ** emū**qā**šu\
 pagalgu**ʾen**na aša**rēd** **nap**ḫar **bēl** i**lī** ša ša**qâ** emū**qā**šu\
-ša ina i**lī** aḫ**ḫī**šu šur**bû** : e**tel** nap**ḫar**šun\
+ša ina i**lī** aḫ**ḫī**šu šur**bû** : **e**tel nap**ḫar**šun\
 lugal**dur**maḫ **šar**ru **mar**kas i**lī** : **bēl** dur**mā**ḫi\
 ša ina **šu**bat šar**rū**ti šur**bû** : ana i**lī** **maʾ**diš **ṣī**ru\
-ara**nun**na **mā**lik e**a** : **bān** i**lī** ab**bī**šu\
-ša ana a**lak**ti rubû**tī**šu lā u**maš**šalu : i**lu** ay**yum**ma\
-dumudu**ku** ša ina **du**ku ū**tad**dašu : šu**bas**su **el**let\
-dumudu**ku** ša ina ba**lī**šu purus**sâ** : lā i**par**rasu lu**gal**duku\
+ara**nun**na **mā**lik **e**a : **bān** i**lī** ab**bī**šu\
+ša ana a**lak**ti rubû**tī**šu lā u**maš**šalu : **i**lu ay**yum**ma\
+**du**muduku ša ina **du**ku ū**tad**dašu : šu**bas**su **el**let\
+**du**muduku ša ina ba**lī**šu purus**sâ** : lā i**par**rasu lu**gal**duku\
 lu**gal**šuʾana **šar**ru ša ina i**lī** : ša**qâ** emū**qā**šu\
 **bē**lu e**mūq** **ā**ni : ša **šū**turu ni**bût** **an**šar\
 **bēl** emū**qān** ṣī**rā**ti : **šū**turu ni**bût** **an**šar\
@@ -637,10 +636,10 @@ mut**tab**bil tê**rēt** **nap**ḫari : mu**kīn** bē**lū**ti\
 dingire**sis**kur ša**qîš** : ina **bīt** **ik**ribi li**šib**-ma\
 dingire**sis**kur ša ša**qîš** : ina **bīt** **ik**ribi liši**bū**-ma\
 i**lū** maḫ**ruš**šu : li**šē**ribū kad**râ**šun\
-a**di** e**reb**šunu imaḫḫa**rū**ni\
+**a**di e**reb**šunu imaḫḫa**rū**ni\
 **mam**man ina ba**lī**šu : lā iban**nâ** nik**lā**ti\
 **er**ba ṣal**māt** **qaq**qadi binâ**tuš**šu\
-e**la** **šâ**šu **ṭē**mi ū**mī**šina : lā i**yad**da i**lu** **mam**man\
+**e**la **šâ**šu **ṭē**mi ū**mī**šina : lā i**yad**da **i**lu **mam**man\
 **gir**ru mu**kīn** ā**ṣât** **kak**ki\
 ša ina tā**ḫāz** ti**ām**ti : iban**nâ** nik**lā**ti\
 pal**kâ** **uz**ni : it**pē**ša ḫa**sī**si\
@@ -650,10 +649,10 @@ pal**kâ** **uz**ni : it**pē**ša ḫa**sī**si\
 **ṭā**bu **rig**mašu : eli **er**ṣeti lir**taṣ**ṣin\
 **mum**mu er**pē**ti lištakṣi**bam**-ma\
 **šap**liš ana ni**šī** : ti**ʾû**ta **lid**din\
-aša**ru** ša **kī**ma šumī**šū**-ma : **ī**šuru i**lī** šī**mā**ti\
+**a**šaru ša **kī**ma šumī**šū**-ma : **ī**šuru i**lī** šī**mā**ti\
 **kul**lat **kal** ni**šī** : šū lū **pā**qid\
 **nē**beru **nē**beret ša**mê** u **er**ṣeti lū ta**miḫ**-ma\
-e**liš** u **šap**liš lā **ib**berū : liqeʾ**ʾû**šu **šâ**šu\
+**e**liš u **šap**liš lā **ib**berū : liqeʾ**ʾû**šu **šâ**šu\
 **nē**beru kak**kab**šu : ša ina ša**mê** ušā**pû**\
 lū **ṣā**bit kunsag**gê**šunu : **šâ**šu lū pal**sū**šu\
 **mā** ša ina **qer**biš ti**ām**ti : ī**teb**biru lā **nâ**ḫiš\
@@ -664,27 +663,27 @@ lū **ṣā**bit kunsag**gê**šunu : **šâ**šu lū pal**sū**šu\
 aḫ**râ**taš ni**šī** : la**bā**riš **ū**mī\
 liš**šī**-ma lā uk**tāl** : li**rēq** ana **ṣâ**ti\
 **aš**šu **aš**ra ib**nâ** : **ip**tiqa **dan**nina\
-**bēl** mā**tā**ti **šum**šu : **it**tabi a**bu** **en**lil\
+**bēl** mā**tā**ti **šum**šu : **it**tabi **a**bu **en**lil\
 **bēl** mā**tā**ti ša **a**bu **en**lil im**bû**šu\
 ina **zik**ri i**gī**gū : ib**bû** na**gab**šun\
-iš**mē**-ma e**a** : ka**bat**tašu it**tan**gi\
+iš**mē**-ma **e**a : ka**bat**tašu it**tan**gi\
 **mā** ša ab**bī**šu : u**šar**riḫū zi**kir**šu\
-šū **kī**ma yâ**tī**-ma : e**a** lū **šum**šu\
-ri**kis** par**ṣī**ya ka**lī**šunu : li**bēl**-ma\
+šū **kī**ma yâ**tī**-ma : **e**a lū **šum**šu\
+**ri**kis par**ṣī**ya ka**lī**šunu : li**bēl**-ma\
 **gim**ri têrē**tī**ya : šū lit**tab**bal\
 ina **zik**ri **ḫam**šā : i**lū** ra**bû**tu\
 **ḫam**šā šu**mī**šu im**bû** : u**šā**tirū al**kas**su\
 liṣṣab**tū**-ma : maḫ**rû** li**kal**lim\
 **en**qu u mū**dû** : mit**ḫā**riš lim**tal**kū\
-lišan**nī**-ma a**bu** : **mā**ra li**šā**ḫiz\
+lišan**nī**-ma **a**bu : **mā**ra li**šā**ḫiz\
 ša rē**ʾî** u **nā**qidi : lipat**tâ** uz**nī**šun\
 lā ig**gī**-ma : ana **en**lil i**lī** **mar**duk\
 **mās**su liddeš**šâ** : šū lū **šal**ma\
 **kī**nat a**mās**su : lā e**nât** qi**bīs**su\
-**ṣīt** **pî**šu lā ušte**pêl** : i**lu** ay**yum**ma\
+**ṣīt** **pî**šu lā ušte**pêl** : **i**lu ay**yum**ma\
 ikkelem**mū**-ma : ul u**tār** ki**šās**su\
-ina sabā**sī**šu **uz**zašu : ul imaḫ**ḫar**šu i**lu** **mam**man\
-**rū**qu **lib**bašu : ra**paš** ka**ras**su\
+ina sabā**sī**šu **uz**zašu : ul imaḫ**ḫar**šu **i**lu **mam**man\
+**rū**qu **lib**bašu : **ra**paš ka**ras**su\
 ša **an**nu u **gil**latu : ma**ḫar**šu bā**ʾû**\
 tak**lim**ti maḫ**rû** : **id**bubu pā**nuš**šu\
 iš**ṭur**-ma **iš**takan : ana še**mî** ar**kû**ti\
@@ -694,13 +693,13 @@ inan**nam**-ma : za**mā**ru ša **mar**duk\
 ša ti**ām**ta ik**mû**-ma : il**qû** šar**rū**ta\
  … **ā**nu **en**lil u **e**a : … bē**let**-ilī … \
  … ina **bā**bili u **e**sagil … \
-**šar** gi**mir** **dad**mē bā**nû** kib**rā**ti … \
-ḫendur**san**ga a**pil** **el**lil rēš**tû** … \
+**šar** **gi**mir **dad**mē bā**nû** kib**rā**ti … \
+ḫendur**san**ga **a**pil **el**lil rēš**tû** … \
 **nāš** **ḫaṭ**ṭi **ṣīr**ti **nā**qid ṣal**māt** **qaq**qadi rē**ʾû** tenē**šē**ti\
 **ī**šum **ṭā**biḫu **naʾ**du ša ana na**šê** kak**kī**šu ez**zū**ti qā**tā**šu **as**mā\
 u ana **šub**ruq ul**mī**šu šē**rū**ti **er**ra qar**rād** i**lī** i**nū**šu ina **šub**ti\
 īris**sū**-ma **lib**bašu : e**pēš** tā**ḫā**zi\
-ī**tam**mi ana kak**kī**šu : **lit**patā i**mat** **mū**ti\
+ī**tam**mi ana kak**kī**šu : **lit**patā **i**mat **mū**ti\
 ana se**bet**ti qar**rād** lā ša**nān** : **nan**diqā kak**kī**kun\
 iqab**bī**ku ana **kâ**ša : lu**ṣī**-ma ana **ṣē**ri\
 **at**tā dipā**rum**-ma : i**naṭ**ṭalū **nūr**ka\
@@ -712,7 +711,7 @@ iqab**bī**ku ana **kâ**ša : lu**ṣī**-ma ana **ṣē**ri\
 i**qab**bi ana lib**bī**šu : **lut**be luṣ**lal**-ma\
 ī**tam**ma ana kak**kī**šu : **um**medā tub**qā**ti\
 ana se**bet**ti qar**rād** lā ša**nān** : ana šub**tī**kunu tū**rā**-ma\
-a**di** **at**tā tadek**kû**šu : ṣa**lil** ur**šuš**šu\
+**a**di **at**tā tadek**kû**šu : **ṣa**lil ur**šuš**šu\
 itti **mā**mi **ḫī**ratuš : **ip**puša ul**ṣam**-ma\
 **en**gidudu **bē**lu mut**tal**lik **mū**ši muttar**rû** ru**bê**\
 ša **eṭ**la u **ar**data ina **šul**mi ittanar**rû** u**nam**maru **kī**ma **ū**mi\
@@ -720,18 +719,18 @@ itti **mā**mi **ḫī**ratuš : **ip**puša ul**ṣam**-ma\
 i**lit**tašunu a**ḫât**-ma : ma**lû** pul**ḫā**ti\
 ā**mir**šunu uštaḫ**ḫat**-ma : na**pīs**sunu mū**tum**-ma\
 ni**šū** šaḫ**tū**-ma : ul i**ʾir**rū ana **šâ**šu\
-**ī**šum dal**tum**-ma : e**dil** pā**nuš**šun\
+**ī**šum dal**tum**-ma : **e**dil pā**nuš**šun\
 **ā**nu **šar** i**lī** : **er**ṣeta ir**ḫē**-ma\
 se**bet**ti i**lī** uldaš**šum**-ma : se**bet**ta **it**tabi zi**kir**šun\
 iz**zaz**zū ina maḫrī**šū**-ma : šī**mas**sunu i**šīm**-ma\
 is**sī**-ma iš**tēn** : i**šak**kana **ṭē**ma\
 **ē**ma tandi**rū**-ma tat**tal**ku : **mā**ḫira **ē** **tar**ši\
-i**qab**bi ana ša**nî** **kī**ma **gī**ri ku**bum**-ma : ḫu**muṭ** **kī**ma **nab**li\
+i**qab**bi ana ša**nî** **kī**ma **gī**ri ku**bum**-ma : **ḫu**muṭ **kī**ma **nab**li\
 ī**tam**mi ana **šal**ši **zīm** **lab**bi lū šaknā**tā**-ma ā**mir**ka liš**ḫar**miṭ\
 i**qab**bi ana re**bî** ana na**šê** kak**kī**ka ez**zū**ti ša**dû** lī**tab**bit\
 ana **ḫam**ši **iq**tabi **kī**ma **šā**ri **zīq**-ma : **kip**pata **ḫī**ṭa\
-**šeš**ša um**taʾ**ʾer e**liš** u **šap**liš bā**ʾam**-ma : lā ta**gam**mil **mam**ma\
-si**bâ** i**mat** **baš**mi iṣēn**šū**-ma **šum**qita na**piš**ta\
+**šeš**ša um**taʾ**ʾer **e**liš u **šap**liš bā**ʾam**-ma : lā ta**gam**mil **mam**ma\
+si**bâ** **i**mat **baš**mi iṣēn**šū**-ma **šum**qita na**piš**ta\
 **ul**tu **šī**mat se**bet**ti nap**ḫar**šunu : i**šī**mu **ā**nu\
 iddinšunū**tī**-ma ana **er**ra qar**rād** i**lī** : **lil**likū i**dā**ka\
 **kī** ša ni**šī** **dad**mē ḫu**būr**šina : e**lī**ka im**tar**ṣu\
@@ -739,22 +738,22 @@ ub**lam**-ma **lib**baka : ana ša**kān** ka**mā**ri\
 ṣal**māt** **qaq**qadi ana šu**mut**ti : **šum**qutu **būl** **šak**kan\
 lū kak**kū**ka ez**zū**tu šu**nū**-ma : **lil**likū i**dā**ka\
 šunu ez**zū**-ma : te**bû** kak**kū**šun\
-ītam**mû** ana **er**ra : ti**be** i**ziz**-ma\
-**min**su **kī** **šī**bi **muq**qi : tu**šib** ina **ā**li\
-**kī** **šer**ri la**ʾî** : tu**šib** ina **bī**ti\
-**kī** lā **ā**lik **ṣē**ri : **nik**kala a**kal** **sin**niš\
+ītam**mû** ana **er**ra : **ti**be i**ziz**-ma\
+**min**su **kī** **šī**bi **muq**qi : **tu**šib ina **ā**li\
+**kī** **šer**ri la**ʾî** : **tu**šib ina **bī**ti\
+**kī** lā **ā**lik **ṣē**ri : **nik**kala **a**kal **sin**niš\
 **kī** ša tā**ḫā**za lā nī**dû** : **nip**laḫa ni**rū**da\
 a**lāk** **ṣē**ri ša eṭ**lū**ti **kī** ša isin**num**-ma\
 **ā**šib **ā**li lū ru**bû** : ul i**šeb**bi **ak**la\
-**šum**suk ina **pī** nišī**šū**-ma : qa**lil** qaq**qas**su\
+**šum**suk ina **pī** nišī**šū**-ma : **qa**lil qaq**qas**su\
 ana **ā**lik **ṣē**ri a**kî** : i**tar**raṣ **qās**su\
 ša **ā**šib **ā**li : lū **pug**gulat ku**buk**kuš\
 ana **ā**lik **ṣē**ri a**kî** : i**dan**nin **mī**na\
-a**kal** **ā**li lul**lû** : ul **ub**bala ka**mān** **tum**ri\
-ši**kar** **naš**pi : **duš**šupi : ul **ub**bala **mê** **nā**di\
+**a**kal **ā**li lul**lû** : ul **ub**bala ka**mān** **tum**ri\
+**ši**kar **naš**pi : **duš**šupi : ul **ub**bala **mê** **nā**di\
 **ē**kal tam**lî** ul **ub**bala ma**ṣal**lu ša rē**ʾî**\
-qu**rā**du **er**ra **ṣī**-ma ana **ṣē**ri tu**ruk** kak**kī**ka\
-ri**gim**ka dun**nin**-ma : liš**tar**ʾibū e**liš** u **šap**liš\
+qu**rā**du **er**ra **ṣī**-ma ana **ṣē**ri **tu**ruk kak**kī**ka\
+ri**gim**ka dun**nin**-ma : liš**tar**ʾibū **e**liš u **šap**liš\
 i**gī**gū liš**mû**-ma : lišar**bû** **šum**ka\
 a**nun**nakū liš**mû**-ma : **liš**ḫuṭū zi**kir**ka\
 i**lū** liš**mû**-ma : **lik**nušū ana nī**rī**ka\
@@ -765,19 +764,19 @@ gal**lû** liš**mû**-ma : ina ramā**nī**šunu li**mū**tū\
 ḫur**sā**nū zaq**rū**tu liš**mû**-ma lītabbi**tū**-ma **liš**pilā rē**šā**šun\
 tâ**mā**tu gal**lā**tu liš**mâ**-ma liddal**ḫā**-ma li**ḫal**liqā me**šer**ta\
 ša **qī**ši **dan**ni : lik**tap**pirū gup**nū**šu\
-a**pu** ša **nē**reba lā ī**šû** : liḫ**taṣ**ṣiṣū qa**nû**šu\
+**a**pu ša **nē**reba lā ī**šû** : liḫ**taṣ**ṣiṣū qa**nû**šu\
 ni**šū** lipla**ḫā**-ma : **lit**quna ḫu**būr**šin\
 **bū**lu lī**rur**-ma : li**tūr** ana **ṭiṭ**ṭi\
 i**lū** ab**bū**ka līmu**rū**-ma : li**nā**dū qur**dī**ka\
-qu**rā**du **er**ra **min**su **ṣē**ra tumaš**šir**-ma : tu**šib** ina **ā**li\
+qu**rā**du **er**ra **min**su **ṣē**ra tumaš**šir**-ma : **tu**šib ina **ā**li\
 **būl** **šak**kan u nammaš**šû** : le**qû** šē**ṭūt**ni\
 qu**rā**du **er**ra niqabbī**kum**-ma at**mû**ni **lim**ruṣ e**lī**ka\
-a**di** **mā**tu nap**ḫar**ša : ir**bû** e**lī**ni\
+**a**di **mā**tu nap**ḫar**ša : ir**bû** e**lī**ni\
 min**dē**-ma **at**tā : še**mâ**ta a**māt**ni\
 min**dē**-ma a**māt**ni : ul še**mâ**ta **at**tā\
 ana a**nun**nakī **rā**ʾim šaḫ**rar**ti : da**miq**ta **ep**ša\
 a**nun**nakū ina ḫu**būr** ni**šī** : ul ireḫ**ḫû** **šit**ta\
-na**piš**ti **mā**ti gi**pā**ra : ra**ḫiṣ** **bū**lu\
+na**piš**ti **mā**ti gi**pā**ra : **ra**ḫiṣ **bū**lu\
 **ik**karu ina **muḫ**ḫi … : i**bak**ki **ṣar**piš\
 **nē**šu u **bar**baru u**šam**qatū **būl** **šak**kan\
 rē**ʾû** **aš**šu ṣē**nī**šu **ur**ra u **mū**ša ul i**ṣal**lal i**bal**la **kâ**ša\
@@ -787,14 +786,14 @@ qa**šat**ni **ṭāb**tu ibbal**kit**-ma : **id**nina eli emū**qī**ni\
 ša uṣ**ṣī**ni **zaq**ti : ke**pât** li**šāš**šu\
 pa**tar**ni ina lā ṭa**bā**ḫi **it**tadi **šuḫ**ta\
 išmēšunū**tī**-ma qu**rā**du **er**ra\
-a**māt** se**bet**ti iq**bû** **kī** u**lu** **šam**ni e**lī**šu i**ṭīb**\
-a**māt** se**bet**ti iq**bû**šu e**lī**šu **kī** u**lu** ( **šam**ni ) : i**ṭīb**\
+a**māt** se**bet**ti iq**bû** **kī** **u**lu **šam**ni e**lī**šu i**ṭīb**\
+a**māt** se**bet**ti iq**bû**šu e**lī**šu **kī** **u**lu ( **šam**ni ) : i**ṭīb**\
 ī**puš**-ma **pâ**šu : i**zak**kar ana **ī**šum\
 **min**su šemâ**tā**-ma : **qâ**liš **tuš**šab\
 **ṭū**da pi**tē**-ma : **luṣ**bat ḫar**rā**na\
 se**bet**tu qar**rād** lā ša**nān** : **lup**pišū tā**ḫā**za\
 kak**kī**ya ez**zū**ti : **šū**lika i**dā**ya\
-u **at**tā **ā**lik maḫ**rī**ya : a**lik** pā**nī**ya\
+u **at**tā **ā**lik maḫ**rī**ya : **a**lik pā**nī**ya\
 **ī**šum an**nī**ta ina še**mê**šu\
 iš**mē**-ma **ī**šum an**nâ** qa**bâ** ša **er**ra\
 **rē**ma irta**šī**-ma : **iq**tabi a**ḫū**lap\
@@ -803,7 +802,7 @@ qu**rā**du **er**ra **min**su ana i**lī** : le**mut**ta **tak**pud\
 ana sa**pān** mā**tā**ti **ḫul**luq ni**šī**šin le**mut**ta tak**pud**-ma lā ta**tūr** ana ar**kī**ka\
 **er**ra **pâ**šu : ī**puš**-ma i**qab**bi\
 ana **ī**šum **ā**lik maḫ**rī**šu : a**mā**ta i**zak**kar\
-**ī**šum qū**lam**-ma : ši**me** qa**bâ**ya\
+**ī**šum qū**lam**-ma : **ši**me qa**bâ**ya\
 **aš**šu ni**šī** **dad**mē : ša taq**bû** ga**māl**šin\
 **ā**lik **maḫ**ri i**lī** **en**qu **ī**šum ša mi**lik**šu **dam**qu\
 ina ša**mê** rī**mā**ku : ina **er**ṣeti lab**bā**ku\
@@ -824,7 +823,7 @@ ru**bâ** ma**rū**tuk ušag**gag**-ma ina šub**tī**šu adek**kē**-ma ni**š�
 qu**rā**du **er**ra ana šu**ʾan**na **āl** **šar** i**lī** **iš**takan pā**nī**šu\
 ana **ē**sagil **ē**kal ša**mê** u **er**ṣeti ī**rum**-ma **it**taziz pā**nuš**šu\
 ī**puš**-ma **pâ**šu : ana **šar** i**lī** ī**tam**mi\
-**min**su šu**kut**tu si**mat** bēlū**tī**ka ša **kī**ma **kak**kabī ša**mā**mī lu**lâ** ma**lât** le**qât** u**rū**ša\
+**min**su šu**kut**tu **si**mat bēlū**tī**ka ša **kī**ma **kak**kabī ša**mā**mī lu**lâ** ma**lât** le**qât** u**rū**ša\
 a**gê** bēlū**tī**ka ša **kī**ma ēteme**nan**ki u**šan**biṭu ēḫa**lan**ki pā**nū**šu **kat**mū\
 ī**puš**-ma **pâ**šu : **šar** i**lī** ī**tam**mi\
 ana **er**ra qar**rād** i**lī** : a**mā**ta i**zak**kar\
@@ -832,35 +831,35 @@ qu**rā**du **er**ra **aš**šu **šip**ri **šâ**šu ša taq**bû** e**pē**š
 **ul**tu **ul**lu āgu**gū**-ma ina šub**tī**ya at**bû**-ma **aš**kuna a**bū**ba\
 ina šub**tī**ya at**bē**-ma ši**pīt** ša**mê** u **er**ṣeti up**taṭ**ṭir\
 ša**mê** ša uš**tar**ʾibū ša **kak**kabī ša**mā**mī man**zās**sunu iš**nī**-ma ul u**tīr** aš**ruš**šun\
-er**kal**lu ša i**nū**šu ša **šer**ʾi bi**las**su im**ṭī**-ma a**di** **ul**la ana e**mē**di **aš**ṭa\
+er**kal**lu ša i**nū**šu ša **šer**ʾi bi**las**su im**ṭī**-ma **a**di **ul**la ana e**mē**di **aš**ṭa\
 ši**pīt** ša**mê** u **er**ṣeti ša up**taṭ**ṭiru **nag**bu imta**ṭī**-ma **mī**lū it**taḫ**sū a**tūr** ā**mur**-ma ana še**bê** im**tar**ṣa\
 ša šik**nāt** na**piš**ti nab**nīs**sina iṣ**ḫir**-ma : ul u**tīr** aš**ruš**šun\
-a**di** **kī**ma **ik**kari zē**rī**šin : **aṣ**batu ina qā**tī**ya\
-**bī**ta ē**puš**-ma : u**šib** ina **lib**bi\
+**a**di **kī**ma **ik**kari zē**rī**šin : **aṣ**batu ina qā**tī**ya\
+**bī**ta ē**puš**-ma : **u**šib ina **lib**bi\
 šu**kut**tī ša ina a**bū**bi uddaʾʾi**pū**-ma : **ī**kilu ši**kin**ša\
 ana **šun**buṭ zī**mī**ya u **ub**bub ṣubā**tī**ya : **gī**ra um**taʾ**ʾer\
 **ul**tu šu**kut**tī unamme**rū**-ma : uqat**tû** **šip**ra\
 a**gê** bēlū**tī**ya annad**qū**-ma : ana aš**rī**ya a**tū**ru\
-zī**mū**ʾa tub**bû**-ma : ga**lit** **niṭ**lī\
+zī**mū**ʾa tub**bû**-ma : **ga**lit **niṭ**lī\
 ni**šū** ša ina a**bū**bi isī**tā**-ma **ī**murā e**pēš** **šip**ri\
 kak**kī**ya ušat**bā**-ma : u**ḫal**laq **rē**ḫa\
 kak**kī**ka tušat**bī**-ma : tu**ḫal**liq **rē**ḫa\
 um**mâ**nī šu**nū**ti ana ap**sî** ušē**rid**-ma : e**lâ**šunu ul **aq**bi\
 ša **mē**si el**mē**ši a**šar**šun unak**kir**-ma : ul u**kal**lim **mam**ma\
 **en**na **aš**šu **šip**ri **šâ**šu ša taq**bû** qu**rā**du **er**ra\
-a**li** **mē**su **šīr** i**lī** si**mat** **šar** **gim**ri\
-i**ṣu** **el**lu **eṭ**lu **ṣī**ru : ša **šū**luku ana bē**lū**ti\
-ša ina **tâm**ti ra**paš**ti ina **mê** me**ʾat** **bē**rī i**šis**su **ik**šudu šu**pul** a**ral**li\
+**a**li **mē**su **šīr** i**lī** **si**mat **šar** **gim**ri\
+**i**ṣu **el**lu **eṭ**lu **ṣī**ru : ša **šū**luku ana bē**lū**ti\
+ša ina **tâm**ti ra**paš**ti ina **mê** **me**ʾat **bē**rī i**šis**su **ik**šudu **šu**pul a**ral**li\
 u qim**mas**su ina e**lâ**ti **em**det ša**mê** ša **ā**nu\
-a**li** **eb**bu zagindu**rû** : ša u**šam**sakū uq**nâ**\
-a**li** ni**nil**du : na**gar**gal ānū**tī**ya\
-**nāš** **pā**ši **šaš**ši **eb**bi : mū**dû** i**ṣi** **šâ**šu\
+**a**li **eb**bu zagindu**rû** : ša u**šam**sakū uq**nâ**\
+**a**li ni**nil**du : na**gar**gal ānū**tī**ya\
+**nāš** **pā**ši **šaš**ši **eb**bi : mū**dû** **i**ṣi **šâ**šu\
 ša **kī**ma **ū**mi ušanba**ṭū**-ma : ina šap**lū**ʾa u**kan**nu\
-a**li** kusi**ban**da **bān** i**li** u a**mē**li : ša qā**tā**šu **nas**qā\
-a**li** nina**gal** : **nāš** e**sî** u ša**pil**ti … \
+**a**li kusi**ban**da **bān** **i**li u a**mē**li : ša qā**tā**šu **nas**qā\
+**a**li **ni**nagal : **nāš** e**sî** u ša**pil**ti … \
 ša **dan**na e**râ** **kī**ma **maš**ki i**lē**mu : **pā**tiqu u**nū**ti\
-a**li** **ab**nū nas**qū**tu bi**nût** **tâm**ti ra**paš**ti si**mat** a**gê**\
-a**li** se**bet** ap**kal**lū ap**sî** pu**rā**dū eb**bū**tu ša **kī**ma **ē**a bē**lī**šunu **uz**na **ṣīr**ta **šuk**lulū **mub**bibū zum**rī**ya\
+**a**li **ab**nū nas**qū**tu bi**nût** **tâm**ti ra**paš**ti **si**mat a**gê**\
+**a**li **se**bet ap**kal**lū ap**sî** pu**rā**dū eb**bū**tu ša **kī**ma **ē**a bē**lī**šunu **uz**na **ṣīr**ta **šuk**lulū **mub**bibū zum**rī**ya\
 išmē**šū**-ma qu**rā**du **er**ra\
 ī**puš**-ma **pâ**šu i**zak**kar ana ru**bê** ma**rū**tuk\
  … … **ul**tu ap**sî** … … ana e**lâ**ti\
@@ -876,31 +875,31 @@ me**ḫû** iteb**bâ**-ma **kak**kabī ša**mā**mī … u**kat**tam\
 gal**lû** illû**nim**-ma i**ṣab**batū … \
 ša **qab**lī paṭ**rā**ti mā**ḫir**šunu … \
 a**nun**nakū illû**nim**-ma : šik**nāt** na**piš**ti i**mes**sū\
-a**di** kak**kī**ya lā an**nad**qu : utâršu**nū**ti **man**nu\
+**a**di kak**kī**ya lā an**nad**qu : utâršu**nū**ti **man**nu\
 **er**ra an**nī**ta ina še**mê**šu\
 ī**puš**-ma **pâ**šu i**zak**kar ana ru**bê** ma**rū**tuk\
-ru**bû** ma**rū**tuk a**di** **at**tā ana **bī**ti **šâ**šu terru**bū**-ma **gī**ru ṣu**bāt**ka ubba**bū**-ma ta**tū**ra aš**ruk**ka\
-a**di** **ul**la arad**dī**-ma : ši**pīt** ša**mê** **er**ṣeti u**dan**nan\
+ru**bû** ma**rū**tuk **a**di **at**tā ana **bī**ti **šâ**šu terru**bū**-ma **gī**ru ṣu**bāt**ka ubba**bū**-ma ta**tū**ra aš**ruk**ka\
+**a**di **ul**la arad**dī**-ma : ši**pīt** ša**mê** **er**ṣeti u**dan**nan\
 ana ša**mê** el**lī**-ma ana i**gī**gī a**nad**din **ûr**ta\
 **ur**rad ana ap**sî** : a**nun**nakī u**paq**qad\
 gal**lê** šam**rū**ti : ana kurnu**gî** aṭar**rad**-ma\
 kak**kī**ya ez**zū**ti : e**lī**šunu uš**zaz**za\
 ša **šā**ri **lem**ni **kī**ma iṣ**ṣū**ri : akas**sâ** i**dī**šu\
-ana **bī**ti **šâ**šu a**šar** **ter**rubu ru**bû** ma**rū**tuk\
+ana **bī**ti **šâ**šu **a**šar **ter**rubu ru**bû** ma**rū**tuk\
 **im**na u šu**mē**la ša bā**bī**ka **ā**nu u **el**lil u**šar**baṣa **kī**ma **al**pi\
 išmē**šū**-ma ru**bû** ma**rū**tuk\
 a**māt** **er**ra iq**bû**šu : e**lī**šu i**ṭīb**\
 **šip**tu **dup**pir **lem**nu **šē**du **lem**nu u**tuk**ku **lem**nu a**lû** **lem**nu e**ṭem**mu **lem**nu\
-gal**lû** **lem**nu i**lu** **lem**nu **rā**biṣu **lem**nu\
+gal**lû** **lem**nu **i**lu **lem**nu **rā**biṣu **lem**nu\
 la**maš**tu la**bā**ṣu aḫ**ḫā**zu\
 li**lû** li**lī**tu **ar**dat li**lî**\
-lugalu**ra** ri**ḫût** **šul**paea\
-mi**qit** ša**mê** ṣe**reḫ** **kak**kabi mi**qit** **ben**ni\
+**lu**galura ri**ḫût** **šul**paea\
+**mi**qit ša**mê** **ṣe**reḫ **kak**kabi **mi**qit **ben**ni\
 lū **ṣa**lam **nam**tari lū **ṣa**lam gal**lê** lū **mim**ma **lem**nu ša **šu**ma na**bû**\
-ina **ma**ḫar **tê** ša a**sal**luḫi **maš**maš i**lī** **mār** e**a** ap**kal**li\
-**dup**pir pu**ṭur** **lem**nu ša pā**nī**ya **uk**kiš ay**yā**bī ša ar**kī**ya\
-anāku a**sal**luḫi **maš**maš i**lī** i**lu** **el**lu\
-anāku a**sal**luḫi i**lu** **el**lu **ā**šip ba**lā**ṭi\
+ina **ma**ḫar **tê** ša a**sal**luḫi **maš**maš i**lī** **mār** **e**a ap**kal**li\
+**dup**pir **pu**ṭur **lem**nu ša pā**nī**ya **uk**kiš ay**yā**bī ša ar**kī**ya\
+anāku a**sal**luḫi **maš**maš i**lī** **i**lu **el**lu\
+anāku a**sal**luḫi **i**lu **el**lu **ā**šip ba**lā**ṭi\
 anāku a**sal**luḫi **ap**kal ap**sî** ša **tû**šu ba**lā**ṭu\
 anāku a**sal**luḫi **bēl** **nag**bi **maš**maš i**lī** mu**bal**liṭ **mī**ti\
 anāku a**sal**luḫi **šam**mi ba**lā**ṭi **mul**lil ša**mê** u **er**ṣeti\
@@ -919,16 +918,16 @@ anāku a**sal**luḫi **nam**ru šal**bā**bu **ap**kal i**lī** mut**tal**lu\
 anāku a**sal**luḫi ša ša**mê** rū**qū**ti mē**lâ**šunu i**ḫī**ṭu\
 anāku a**sal**luḫi ša **ḫu**bur pal**kâ**ti šu**pul**ša **ī**de\
 anāku a**sal**luḫi ša ina **tâm**ti e**lī**ti inab**bû**šu **sir**sir\
-anāku a**sal**luḫi ša ina **tâm**ti šap**lī**ti ušar**bû**šu lagu**da**\
-anāku a**sal**luḫi a**tû** ri**kis** ka**lā**ma bu**kur** ma**mi**\
+anāku a**sal**luḫi ša ina **tâm**ti šap**lī**ti ušar**bû**šu **la**guda\
+anāku a**sal**luḫi a**tû** **ri**kis ka**lā**ma **bu**kur **ma**mi\
 anāku a**sal**luḫi qar**rā**du **sā**kip mu**kīl** **rēš** le**mut**ti\
-anāku a**sal**luḫi e**tel** i**lī** ša ša**mê** rū**qū**ti\
+anāku a**sal**luḫi **e**tel i**lī** ša ša**mê** rū**qū**ti\
 anāku a**sal**luḫi **nā**din **šul**mi u ba**lā**ṭi ana ni**šī** rap**šā**ti\
 anāku a**sal**luḫi **ē**ṭir ka**mî** **ṣā**bit **qā**tī **nas**ki\
 anāku a**sal**luḫi **muk**kiš ay**yā**bi mu**šam**qit **lem**ni\
-anāku a**sal**luḫi kā**mû** u**tuk**ki gal**lê** i**li** **lem**ni\
+anāku a**sal**luḫi kā**mû** u**tuk**ki gal**lê** **i**li **lem**ni\
 anāku a**sal**luḫi **bēl** **bā**bili rēmēnû anāku\
-anāku a**sal**luḫi **mal**ku **ḫā**mim gi**mir** **ûr**ti\
+anāku a**sal**luḫi **mal**ku **ḫā**mim **gi**mir **ûr**ti\
 anāku a**sal**luḫi mū**dê** ka**lā**ma i**lit**ti niš**šī**ku\
 anāku a**sal**luḫi **dan**nu **mal**ku ša **šū**turu ḫa**sī**sa\
 anāku a**sal**luḫi ša **saḫ**pū namrī**rū**šu eli ka**lī**šina kib**rā**ti\
@@ -938,17 +937,17 @@ anāku a**sal**luḫi ša **a**šar **šil**lati lā iqabbû anāku\
 anāku a**sal**luḫi ša ina **qab**li u tā**ḫā**zi da**pī**nu **mar**duk\
 anāku a**sal**luḫi ša ina ṭē**mī**šu ibbanû anāku\
 anāku a**sal**luḫi bā**rû** kib**rā**ti rašubbu anāku\
-anāku a**sal**luḫi i**lu** **el**lu **ā**šib melammī anāku\
+anāku a**sal**luḫi **i**lu **el**lu **ā**šib melammī anāku\
 anāku a**sal**luḫi ša ina **bī**ti **mit**guri kāribu anāku\
 anāku a**sal**luḫi u**šum**gal ša**mê** u **er**ṣeti **nag**bi u tâ**mā**ti\
-anāku a**sal**luḫi **ā**šib esagi**la** **qā**ʾiš la**mas**si\
-anāku a**sal**luḫi **rā**ʾim **kit**ti e**liš** u **šap**liš\
+anāku a**sal**luḫi **ā**šib **e**sagila **qā**ʾiš la**mas**si\
+anāku a**sal**luḫi **rā**ʾim **kit**ti **e**liš u **šap**liš\
 anāku a**sal**luḫi pē**tû** **ek**leti **mut**tiru ša**nā**ti\
-anāku a**sal**luḫi mu**kīn** gi**mir** i**gī**gī ša ša**mê** i**lī** ra**bû**ti\
-anāku a**sal**luḫi **ā**šib esagi**la** **mul**lil atma**nī**šun\
-anāku a**sal**luḫi **ā**šib esagi**la** u **bā**bili ra**šub**bu **ez**zu\
+anāku a**sal**luḫi mu**kīn** **gi**mir i**gī**gī ša ša**mê** i**lī** ra**bû**ti\
+anāku a**sal**luḫi **ā**šib **e**sagila **mul**lil atma**nī**šun\
+anāku a**sal**luḫi **ā**šib **e**sagila u **bā**bili ra**šub**bu **ez**zu\
 anāku a**sal**luḫi u**šum**gal anun**nak**kī **lab**bi i**gī**gī\
-anāku a**sal**luḫi aša**rēd** … … … **pā**ṣidu ša**du** … \
+anāku a**sal**luḫi aša**rēd** … … … **pā**ṣidu **ša**du … \
 anāku a**sal**luḫi qar**rād** i**lī** mu**maʾ**ʾer **an**duruna\
 anāku a**sal**luḫi ša nam**rī**rī **lit**bušu ma**lû** pul**ḫā**ti\
 anāku a**sal**luḫi **ā**pir a**gê** ša melam**mū**šu ra**šub**bata **zaʾ**nū\
@@ -973,28 +972,28 @@ anāku a**sal**luḫi ša **kī**ma **šam**ši ibar**rû** mā**tā**ti\
 anāku a**sal**luḫi mu**šas**sik **kar**ṣi **ṣā**bit **qā**tī **nas**ki\
 anāku a**sal**luḫi ša ina **nā**ri **ub**babu **kī**na u **rag**ga\
 anāku a**sal**luḫi **dab**ru šaga**pū**ru **bē**lu ša **mā**ti\
-anāku a**sal**luḫi **kab**tu šit**rā**ḫu si**mat** bē**lū**ti\
+anāku a**sal**luḫi **kab**tu šit**rā**ḫu **si**mat bē**lū**ti\
 anāku a**sal**luḫi ša ina puluḫ**tī**šu **mim**ma **lem**nu i**tur**ru **up**pušu\
 anāku a**sal**luḫi **ḫā**ʾiṭ **lal**gar **bā**šim giš**ḫur**rī\
 anāku a**sal**luḫi **šā**rik **rî**ti u maš**qī**ti mu**šaz**nin **nuḫ**ši\
-anāku a**sal**luḫi ša ina **ṣīt** **pî**šu ut**tak**karu ṣi**bit** **nam**tari\
+anāku a**sal**luḫi ša ina **ṣīt** **pî**šu ut**tak**karu **ṣi**bit **nam**tari\
 anāku a**sal**luḫi ša ina **pāṭ** **gim**ri šur**bât** i**lūs**su\
-anāku a**sal**luḫi ša **kī**ma a**bi** u **um**mi ittanar**rû** ni**šī**šu\
+anāku a**sal**luḫi ša **kī**ma **a**bi u **um**mi ittanar**rû** ni**šī**šu\
 anāku a**sal**luḫi ša tā**mīt** lib**bī**šu lā ī**dû** i**lū** aḫ**ḫū**šu\
 anāku a**sal**luḫi **nā**siḫ **mur**ṣi mu**ʾab**bit gal**lê** ra**bû**ti\
 anāku a**sal**luḫi **ū**mu **ez**zu mut**tak**kipu lā māḫiru anāku\
 anāku a**sal**luḫi muš**pēl** šī**mā**ti lem**nē**ti mu**paṭ**ṭir **ar**ni\
 anāku a**sal**luḫi ur**šā**nu git**mā**lu telē**ʾû** **šum**mi\
 anāku a**sal**luḫi ša ina **tê**šu **mī**tu i**bal**luṭu iteb**bû** **mar**ṣu\
-anāku a**sal**luḫi **sā**kip **nam**tari kā**mû** a**sak**ki šurup**pê** di**ʾi**\
-anāku a**sal**luḫi i**lu** rēmē**nû** munes**sû** e**gâ**ti ḫi**ṭâ**ti gil**lā**ti lem**nē**ti\
+anāku a**sal**luḫi **sā**kip **nam**tari kā**mû** a**sak**ki šurup**pê** **di**ʾi\
+anāku a**sal**luḫi **i**lu rēmē**nû** munes**sû** e**gâ**ti ḫi**ṭâ**ti gil**lā**ti lem**nē**ti\
 anāku a**sal**luḫi ša ina **ḫis**sat šu**mī**šu a**nun**nakū ša**ḫā**ta **aḫ**zū\
 anāku a**sal**luḫi lē**ʾû** i**gī**gī mu**kīl** **ṣer**ret a**nun**nakī\
 anāku a**sal**luḫi **ṣā**bit **qā**tī u**lā**li **ub**buri mu**paṭ**ṭir **ar**ni\
 anāku a**sal**luḫi **pā**šir **kiš**pī ru**ḫê** ru**sê** **ṭā**rid a**sak**ki\
 anāku a**sal**luḫi mu**ṭīb** **sim**mī mar**ṣū**ti a**sû** tenē**šē**ti\
 anāku a**sal**luḫi ša **ši**pat ba**lā**ṭi lā iṭeḫ**ḫû** ina ba**lī**šu\
-anāku a**sal**luḫi **ēz** u **pa**šir ša **nīš** a**bi** u **um**mi\
+anāku a**sal**luḫi **ēz** u **pa**šir ša **nīš** **a**bi u **um**mi\
 anāku a**sal**luḫi ša ina tenē**šē**ti rēmē**nû** **mar**duk\
 anāku a**sal**luḫi u**šum**gal ša**mê** u **er**ṣeti **mar**duk\
 īmuršunū**tī**-ma a**sal**luḫi u**šum**gal ša**mê** u **er**ṣeti **mar**duk\
@@ -1002,7 +1001,7 @@ ana na**bû** sukkal**lī**šu a**mā**ta i**zak**kar\
 **man**nu an**nû** ša anni**kâ** i**ʾir**ru … \
 ana **šip**ti **ez**zeti ra**bī**ti ša **e**a … \
 ana šu**tuk**kī dan**nū**ti ša nin**giš**zida\
-ana uṣ**rā**ti ra**bâ**ti ša **e**a **bēl** eri**du**\
+ana uṣ**rā**ti ra**bâ**ti ša **e**a **bēl** **e**ridu\
 **gir**ru qā**mû** … … \
 **nus**ku da**pī**nu … likmissu**nū**ti\
 di**pā**ru … … \
@@ -1055,14 +1054,14 @@ lū ša ana **pān** **mar**ṣi **pī**kunu taptenet**tâ**\
 lū ša ana **pān** **mar**ṣi tatta**naš**mamā\
 lū ša ana **pān** **mar**ṣi **kī**ma **al**pi tat**tak**kipā\
 lū ša ana **pān** **mar**ṣi **kī**ma **rī**mi tug**daš**šarā\
-lū ša ana **pān** **mar**ṣi **kī**ma **šaḫ** a**pi** tut**taḫ**ḫarā\
+lū ša ana **pān** **mar**ṣi **kī**ma **šaḫ** **a**pi tut**taḫ**ḫarā\
 lū ša ana **pān** **mar**ṣi **kī**ma **kal**bi tut**tab**baḫā\
 lū ša ana **pān** **mar**ṣi **kī**ma kalab-**ur**ṣi tatta**nam**marā\
 lū ša ana **pān** **mar**ṣi **kī**ma **nē**ši tu**šar**mamā\
 lū ša ana **pān** **mar**ṣi **kī**ma **ṣer**ri tatta**naš**lalā\
 lū ša ana **pān** **mar**ṣi **kī**ma **baš**mi tatta**naš**lalā\
 lū ša ana **pān** **mar**ṣi **kī**ma ni**rā**ḫi tatta**naš**lalā\
-lū ša ana **pān** **mar**ṣi **kī**ma **ay**yar i**li** tatta**naš**lalā\
+lū ša ana **pān** **mar**ṣi **kī**ma **ay**yar **i**li tatta**naš**lalā\
 lū ša ana **pān** **mar**ṣi **kī**ma tû**lā**ti tatta**naš**lalā\
 lū ša ana **pān** **mar**ṣi **kī**ma ṣurā**rî** tatta**naš**lalā\
 lū ša ana **pān** **mar**ṣi **kī**ma mu**šā**ṭi taṣṣa**nal**limā\
@@ -1113,29 +1112,29 @@ lū ša **mā**ra u **mār**ta lā tī**šâ**\
 lū ša **ap**la **nāq** **mê** lā tī**šâ**\
 lū ša ina tap**pê** ṣal**lā**tunu\
 lissuḫku**nū**ši a**sal**luḫi **ap**lu rēš**tû** ša **e**ridu\
-lissuḫku**nū**ši a**sal**luḫi a**pil** **bē**li ra**bî** e**a**\
-lissuḫku**nū**ši a**sal**luḫi **ap**lu na**rām** e**a**\
+lissuḫku**nū**ši a**sal**luḫi **a**pil **bē**li ra**bî** **e**a\
+lissuḫku**nū**ši a**sal**luḫi **ap**lu na**rām** **e**a\
 lissuḫku**nū**ši a**sal**luḫi **ap**kal i**lī** ra**bû**ti\
-lissuḫku**nū**ši a**sal**luḫi **ap**kal i**li** u a**mē**li\
+lissuḫku**nū**ši a**sal**luḫi **ap**kal **i**li u a**mē**li\
 utammīku**nū**ši a**sal**luḫi **bēl** ša**mê** u **er**ṣeti\
 utammīku**nū**ši a**sal**luḫi **nīš** ni**nur**ta **ap**li aša**rē**di ša **en**lil\
-utammīku**nū**ši a**sal**luḫi **nīš** ubanuʾi**la** **kak**ki **dan**ni ša ni**nur**ta\
+utammīku**nū**ši a**sal**luḫi **nīš** **u**banuʾila **kak**ki **dan**ni ša ni**nur**ta\
 utammīku**nū**ši a**sal**luḫi **nīš** ḫen**dur**saga muttaš**rab**biṭi ša re**bâ**ti\
-utammīku**nū**ši a**sal**luḫi **nīš** ša**rur** u **šar**gaz mu**šam**qit ay**yā**bī u lem**nū**ti\
+utammīku**nū**ši a**sal**luḫi **nīš** **ša**rur u **šar**gaz mu**šam**qit ay**yā**bī u lem**nū**ti\
 liddinku**nū**ši mes**lam**taea ana **bāb** **kur**nugi\
 lipqidku**nū**ši ana se**bet**ti a**tî** ša e**reš**kigal\
 liddinku**nū**ši ana **nam**tar **šuk**kal **er**ṣeti ra**paš**ti ša **bāb** ka**mâ**ti u**kal**lu\
-lišēribku**nū**ši a**bul** **er**ṣeti ra**paš**ti\
+lišēribku**nū**ši **a**bul **er**ṣeti ra**paš**ti\
 ana **qā**tī gal**lê** ra**bû**ti limannīku**nū**ši\
-bi**du** idu**gal**lu ša **er**ṣeti **bāb**kunu **liṣ**bat\
+**bi**du idu**gal**lu ša **er**ṣeti **bāb**kunu **liṣ**bat\
 liddinku**nū**ši ana nin**giš**zida guza**lê** **er**ṣeti ra**paš**ti\
 a**nun**nakū i**lū** ra**bû**tu likmûku**nū**ši\
 utammīku**nū**ši guza**lâ** ra**bâ** ša **al**latu\
 liklāku**nū**ši na**ʾī**lu ša **er**ṣeti ra**paš**ti\
 lā talla**kā**ni lā tassanaḫḫu**rā**ni lā tatur**rā**ni ana **zu**mur an**nan**na **mār** an**nan**na\
-utammīku**nū**ši ša**mê** u **er**ṣeta a**nu** **an**tu **en**lil **nin**lil\
+utammīku**nū**ši ša**mê** u **er**ṣeta **a**nu **an**tu **en**lil **nin**lil\
 **dū**ri **dā**ri **laḫ**mu u la**ḫā**mu **en**gara **nin**gara a**lā**la u **bē**lili\
 nig**nak**ka qut**rin**na **ṣil**la u **ṣē**ta šimē**tān** u lī**lâ**ti **šub**ta **kib**sa\
-**tā**luka u man**zā**za uṣu**rāt** e**a** u a**sal**luḫi tum**mâ**tunu\
+**tā**luka u man**zā**za uṣu**rāt** **e**a u a**sal**luḫi tum**mâ**tunu\
 attunu nas**ḫā**tunu ṭar**dā**tunu ukku**šā**tunu duppu**rā**tunu\
 **nīš** ša**mê** u **er**ṣeti tum**mâ**tunu ḫultup**pû**
